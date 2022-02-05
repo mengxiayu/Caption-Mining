@@ -1,0 +1,7756 @@
+derivative respect	172
+rank matrix	131
+matrix vector multiplication	126
+triangular matrix	110
+matrix vector	79
+sigma transpose	68
+inequality constraint	58
+rank deficient	57
+matrix transpose	46
+eigenvalue matrix	44
+evaluation iteration	43
+jupiter notebook	39
+norm matrix	39
+norm vector	39
+matrix sigma	38
+entry matrix	34
+row vector	33
+equality constraint	33
+taylor series	32
+inverse matrix	32
+machine epsilon	32
+matrix eigenvalue	32
+matrix norm	31
+vector norm	31
+integer part	29
+taylor expansion	27
+row matrix	27
+inverse iteration	26
+eigenvector matrix	26
+perimeter constraint	24
+identity matrix	24
+eigenvalue lambda	24
+eigen pair	24
+eigenvector eigenvalue	24
+interval iteration	23
+derivative respect component	23
+transition matrix	23
+derivative gradient	22
+eigenvalue magnitude	22
+route interval	21
+bunch zero	21
+eigenvalue multiplicity	21
+adjacency matrix	21
+sake simplicity	20
+interval root	20
+algebra quiz	20
+approximation derivative	20
+matrix eigenvector	20
+vector matrix	19
+monte carlo	19
+lambda alpha	19
+respect vector	18
+matrix vector multiply	18
+matrix rank	18
+percent variance	18
+iteration eigenvalue	18
+sigma matrix	18
+inverse sigma	18
+part matrix	18
+interval route	17
+multiply vector	17
+f prime	17
+permutation matrix	17
+entry row	17
+respect coefficient	17
+alpha lambda	17
+unit vector	17
+multiply transpose	17
+iteration interval	16
+rank approximation	16
+equation matrix	16
+eigenvalue iteration	16
+infinity norm	16
+finite approximation	16
+determinant matrix	16
+unit ball	16
+search alpha	15
+taylor approximation	15
+taylor degree	15
+digit accuracy	15
+lambda transpose	15
+tao iteration	15
+polynomial degree	15
+vector scalar	15
+row entry	15
+entry vector	15
+lambda eigenvalue	15
+interval tolerance	14
+iteration convergence	14
+transpose matrix	14
+transpose sigma	14
+extent ice	14
+sigma lambda	14
+lambda magnitude	14
+matrix factorization	14
+convergence iteration	13
+minimizer maximizer	13
+zigzag motion	13
+gradient respect	13
+vector matrix vector	13
+equation transpose	13
+stock market	13
+inverse transpose	13
+derivative respect alpha	12
+respect alpha	12
+taylor approximation degree	12
+monte carlo simulation	12
+eigenvalue transpose	12
+lambda eigenvalue transpose	12
+eigenvector transpose	12
+root eigenvalue	12
+lambda iteration	12
+north island	12
+pair plot	12
+digit precision	12
+riley coefficient	12
+machine absolon	12
+covariance matrix	12
+remainder theorem	11
+machine learning	11
+derivative minimum	11
+operation matrix	11
+convergence r	11
+parameter alpha	11
+dimension matrix	10
+root equation	10
+root interval	10
+newton solution	10
+derivative prime	10
+minimizer eigenvalue	10
+matrix entry	10
+solution equation	10
+sigma art transpose	10
+vector coefficient	10
+norm solution	10
+matrix permutation matrix	10
+factorization matrix	10
+image compression	10
+lambda bar	10
+vector multiplication	10
+entry gradient	10
+operator matrix	10
+summation vector	10
+iteration converge	10
+sigma transpose sigma	10
+matrix multiplication	9
+vector array	9
+direction gradient	9
+evaluate scalar	9
+transpose vector	9
+matrix lambda	9
+root lambda	9
+blur matrix	9
+exponent zero	9
+exponent precision	9
+assessment quiz	9
+route yellow	9
+m cube	9
+decomposition matrix	9
+region solution	9
+iteration part	9
+portion matrix	9
+age e	9
+eigenvector iteration	9
+graph matrix	9
+component eigenfactor	9
+diagonalization matrix	9
+confusion matrix	9
+drag force car	8
+root finding	8
+contest guy outfit	8
+optimization theory	8
+dee ann scalar	8
+vector erase	8
+eigenvalue meaning eigen pair	8
+matrix minimizer	8
+matrix maximizer	8
+howie costa	8
+halftime prime	8
+bowl shape	8
+minimum bottom bowl	8
+contra plot	8
+direction decent minus gradient	8
+decent plant sode	8
+direction vector	8
+convergence alpha	8
+chain derivative	8
+direction minus	8
+scalar vector	8
+quadratic taylor	8
+ice derivative	8
+iteration decay	8
+gradient derivative	8
+gradient matrix	8
+conclusion lambda	8
+lambda eye	8
+pseudo inverse matrix	8
+substitution triangular matrix	8
+matrix zero	8
+convergence solution	8
+matrix summation	8
+north island outlier	8
+food consumption	8
+entry sigma	8
+google colab	8
+matrix row	8
+eigen eigenvalue	8
+approximation degree	8
+minus lambda	8
+solution eigenvector	8
+matrix identity matrix	8
+norm entry	8
+approximation lambda	8
+finite computation	8
+gradient zero	7
+proposal scientist	7
+gradient coefficient	7
+length ma alpha	7
+bass alpha	7
+delta gradient	7
+projectile counter	7
+top valley	7
+trail front	7
+dimension search trail	7
+parameter component	7
+taylor expansion degree	7
+tailor degree	7
+optimization overview	7
+optimization part	7
+intro optimization	7
+python routine	7
+schedule thursday	7
+surprise thursday	7
+equation quiz	7
+eigenvalue markov	7
+quiz optimization	7
+mass structure	7
+terminology star minimizer	7
+mf minimum constraint	7
+mass laptop	7
+rg inequality	7
+minus ex	7
+equality constraint age	7
+constraint perimeter constraint	7
+constraint possibility	7
+boundary constraint instance	7
+eye curve perimeter	7
+blood plot	7
+solution indiana	7
+arianne parametric	7
+boundary constraint	7
+constraint ann curve	7
+direction gradient direction gradient	7
+gradient perimeter gradient parameter respect direction	7
+gradient perimeter respect parameter	7
+angle gradient perimeter gradient	7
+angle solution gradient parameter gradient	7
+optimizer angle gradient	7
+vector angle	7
+box solution	7
+solution optimization solution	7
+solution domain solution	7
+minimizer solution minimum	7
+satisfy prime	7
+gradient array	7
+challenge scalar	7
+scalar component	7
+gradient derivative respect component evaluate vector rn	7
+expression ex	7
+hessian optimization	7
+hashing derivative respect component matrix	7
+derivative maximum	7
+saddle anti deed	7
+solution nonlinear	7
+times tau	7
+respect derivative respect	7
+python notebook	7
+row transpose	7
+sigma r transpose	7
+sigma inverse	7
+matrix vector multiplication row	7
+blur operator	7
+vector row vector	7
+ellie factorization	7
+constraint perimeter	7
+region interest	7
+gradient vector	7
+matrix approximation	7
+demo matrix	7
+norm infinity	7
+rank singular	7
+variance plot	7
+solution newton	7
+rank equation	7
+quadratic approximation	7
+taylor series truncation	7
+percent accuracy	7
+bee matrix	7
+determinant minus lambda	7
+eigen vector	7
+vector dimension	7
+magnitude matrix	7
+vector amplification	7
+norm iteration	7
+expression iteration	7
+height tree	7
+sig fig	7
+poker game	7
+component analysis	7
+degree polynomial	7
+interval region	6
+gradient evaluator alpha	6
+search align	6
+part optimality	6
+oop minus alpha retta search	6
+part derivative respect alpha	6
+vector race	6
+python sketch iteration	6
+guy f	6
+alpha lance iteration	6
+alpha convergence	6
+optimization summary	6
+search zigzag convergence derivative direction	6
+minus gradient	6
+grade f	6
+newton direction	6
+approximating hat	6
+iteration progress	6
+vector entry	6
+campus wire	6
+quiz eigenvalue	6
+lydia norm alright	6
+meaning guy	6
+minimizer loop	6
+optimizer conclusion maximizer	6
+mixture saddle	6
+saddle cube instance	6
+hindi algorithm	6
+optimizer inflection export	6
+maza bracket	6
+optimizer model	6
+optimizer f	6
+interval minimizer	6
+interval optimization	6
+interval chapter	6
+search recursion	6
+baby anne	6
+tau ex	6
+plus tau	6
+month salary scale	6
+interval iteration tau	6
+recursion ratio interval	6
+tau iteration relation	6
+iteration guy	6
+recursion iteration interval	6
+drawing scheme summary	6
+evaluation iteration interval	6
+search anet interval	6
+approximation f tilde tilda derivative	6
+minimize tilde	6
+solution derivative tilde	6
+equation root newton	6
+f prime newton optimization	6
+gas update	6
+convergence instance minimum	6
+demo newton	6
+tilde optimizer	6
+part exponent	6
+matrix dimension	6
+matrix times	6
+substitution expression	6
+row pointer	6
+finite precision	6
+convergence eigenvalue	6
+markov chain	6
+teaching faculty	6
+bonus credit	6
+student knowledge	6
+sequence optimization	6
+matrix crane	6
+hat approximation	6
+norm inverse	6
+approximation sigma	6
+component pc	6
+projection fit	6
+variance rotation	6
+coefficient alpha	6
+slope tangent	6
+newton approximation	6
+eigenvalue limit	6
+description convergence	6
+limit iteration	6
+convergence lambda	6
+magnitude tolerance	6
+newton derivative	6
+derivative convergence	6
+root approximation	6
+e convergence	6
+convergence newton	6
+quadratic fit	6
+matrix sigma transpose	6
+rank fishing	6
+transpose sigma transpose	6
+equation solution	6
+lambda times	6
+ice extent	6
+equality inequality constraint	6
+bottom bowl	6
+expansion taylor	6
+precision machine	6
+component vector	6
+derivative expression	6
+game history	6
+lambda minus	6
+un eigen	6
+vector component	6
+cosine theta	6
+vector norm vector	6
+norm vector norm	6
+solution coefficient	6
+web scraping	6
+matrix scalar	6
+matrix eigen	6
+multiply expression	6
+array eigenvalue	6
+eigenvalue ratio	6
+theory convergence	6
+gap eigenvalue	6
+pitfall iteration	6
+eigenvalue eigenvector	6
+eigenvalue inverse	6
+machine precision	6
+solution vector	6
+experiment probability	6
+card opponent	6
+probability winning	6
+percent odd	6
+model matrix	6
+plot fit	6
+iteration newton	5
+derivative hashing	5
+co calc	5
+trade off	5
+umpire ray	5
+matrix shape	5
+vector zero	5
+matrix rank matrix	5
+eye sigma	5
+summation eye	5
+entry scalar	5
+cheat sheet	5
+beginning roller coaster	5
+style classroom	5
+homework email	5
+student preference	5
+quiz instance	5
+memory quiz	5
+resource textbook	5
+reference text addition	5
+million dollar	5
+derivative respect derivative	5
+transpose part	5
+nonzero entry	5
+nonzero row	5
+triangle inequality	5
+matrix axis	5
+image matrix	5
+alpha beta	5
+alpha beta gamma	5
+evaluation derivative	5
+derivative approximation derivative	5
+reality scenario	5
+vector matrix vector multiplication	5
+spring force	5
+velocity car	5
+expression solution	5
+equation displacement spring force	5
+root tolerance	5
+tolerance criterion	5
+convergence limit	5
+home iteration	5
+tolerance expression iteration	5
+taylor expension	5
+convergence derivative	5
+geometry route	5
+approximation nonlinear	5
+nonlinear linear	5
+summary newton	5
+houston derivative	5
+derivative newton update	5
+demo part	5
+nd vector	5
+approximation vector	5
+equation jay	5
+derivative respect coefficient	5
+evaluation news	5
+track respect	5
+noise perturbation	5
+gradient phi	5
+approximation curve	5
+matrix alpha	5
+rank matrix solution	5
+eigenvalue matrix transpose	5
+approximation hat	5
+matrix vector multiplication matrix	5
+rank matrix minimum	5
+lambda eigenvalue matrix	5
+python library	5
+box optimizer	5
+equality constraint scene	5
+bottom top	5
+solution minimizer	5
+derivative respect vector	5
+eigenvalue hashing	5
+interval ab	5
+behavior age	5
+machine epsilon precision	5
+frame player	5
+fraction precision	5
+learning alpha	5
+convergence plot	5
+conversion iteration	5
+similarity transformation	5
+summation probability	5
+matrix diagonalization	5
+magnitude vector	5
+diamond circle	5
+tail approximation degree	5
+science python	5
+algebra summary	5
+eigenvalue dimension	5
+lambda determinant matrix	5
+bee matrix mine	5
+representation eigenvector	5
+expression tube	5
+vector equality	5
+un assumption	5
+multiply meaning	5
+solution gas	5
+entry lambda	5
+iteration pre multiplication	5
+queue matrix	5
+requirement orthogonality	5
+eigenvector tuple	5
+night python	5
+transformation operator	5
+vector vec	5
+vector scaler	5
+overflow snippet	5
+behavior part	5
+convergence expression	5
+bottom summary	5
+lambda ratio	5
+eigenvalue approximation iteration	5
+lambda convergence	5
+convergence decay	5
+starting alpha	5
+percent attention	5
+eigenvalue summary	5
+alpha gradient	5
+complexity iteration	5
+circle pi	5
+py linalg	5
+delta norm	5
+ex star	5
+pseudo matrix	5
+patient cancer	5
+machine algorithm	5
+division multiplication	4
+summation multiplication	4
+complexity matrix	4
+drag force	4
+root convergence	4
+midpoint interval	4
+route interval root	4
+derivative hat	4
+derivative respect vector gradient	4
+derivative respect derivative poop	4
+chain derivative part	4
+raven hessian vector gradient	4
+cube computation hash	4
+trap summary	4
+plot newton	4
+hashing update	4
+gradient derivative respect derivative respect	4
+component derivative respect derivative respect	4
+solution theory	4
+simplicity writing newton	4
+miscalculation inverse	4
+inverse newton	4
+reference benchmark optimization	4
+comparison library	4
+minimizer gradient hessian	4
+gradient hash	4
+peek ana valley	4
+newton alright	4
+gas optimizer	4
+bowl minimizer	4
+wikipedia attempt	4
+contra plot region	4
+iteration artist	4
+convergence ivar	4
+convergence r ratio	4
+convergence algorithm part	4
+sci option bracket	4
+scene bucket	4
+search south	4
+search south alpha	4
+history f tolerance	4
+decay f	4
+iteration air iteration	4
+shape bowl	4
+shape ball	4
+iteration tolerance minus	4
+solution mine	4
+minimizer valley	4
+decent direction	4
+box student	4
+sub index	4
+taylor remainder theorem	4
+algebra review	4
+student quiz	4
+loss significance	4
+machine representation	4
+minus precision	4
+vector eigenvector	4
+round iteration	4
+array entry	4
+multiplication matrix	4
+transpose equation	4
+advantage matrix	4
+arm car	4
+sparse row	4
+iteration update	4
+entry eigenvector	4
+iteration inverse matrix	4
+mariana silva	4
+bachelor master	4
+university illinois	4
+background science	4
+teaching science	4
+engineering department	4
+student survey	4
+student classroom	4
+student bright	4
+percent student	4
+homework coding	4
+activity peer	4
+student plus	4
+ts email	4
+piazza student	4
+schedule office	4
+office student	4
+friend quiz	4
+part chat	4
+october eighth	4
+reference collection	4
+reference homework	4
+quiz policy	4
+anaconda bunch	4
+queue office	4
+python script	4
+action homework	4
+mastery variant	4
+breakdown student	4
+percent sophomore	4
+percent junior	4
+library scene	4
+machine learning scene	4
+user scene	4
+weather forecasting	4
+engineering background	4
+model modeling part assumption	4
+chromebook story	4
+master office	4
+machine dial	4
+connection coffee	4
+internet connection	4
+background optimization	4
+linux machine	4
+graduate student	4
+perspective million	4
+guy complexity	4
+finite representation pi	4
+professor interview	4
+student groove	4
+eye color	4
+teaching experience	4
+limitation loop	4
+optimize library	4
+approximation gradient	4
+america experiment	4
+index notation	4
+solution minimum	4
+entry derivative respect	4
+derivative entry gradient respect	4
+rank approximation matrix	4
+approximation norm	4
+row pointer row	4
+ex vector	4
+matrix solution	4
+alot output	4
+ratio output	4
+eye clicker	4
+activity thursday	4
+machine fun	4
+tuesday review	4
+derivation node	4
+norm pico	4
+eigenvalue matrix norm	4
+inverse pseudoinverse	4
+rank pseudoinverse inverse	4
+rank coefficient sigma	4
+rank deficiency inverse matrix	4
+infinity rank	4
+sigma min sigma max	4
+rank deficient infinity	4
+rank approximation rank	4
+anne norm matrix	4
+norm matrix singular	4
+calculation sigma	4
+image pill	4
+image color image	4
+channel matrix	4
+axis channel	4
+grayscale image	4
+image compression image compression	4
+entry sigma matrix	4
+beginning quantity	4
+magnitude eigenvalue	4
+percent decrease	4
+percent eigen singular	4
+motivation rank approximation	4
+terminology food uhm consumption england north ireland scotland	4
+quantity country region	4
+consumption food	4
+england ireland scotland	4
+top food	4
+alpha milk	4
+beer gamma meat	4
+consumption milk beer	4
+north ireland	4
+region prediction	4
+meaning alpha food	4
+beta food	4
+bar food	4
+beta bar food	4
+north island pc	4
+plot coefficient	4
+coefficient multiplie alpha coefficient multiplie	4
+coefficient impact	4
+consumption alcohol ireland	4
+potato north island	4
+potato consumption fruit	4
+behavior island	4
+scotland england	4
+wale island north island	4
+consumption hawaii	4
+continent outlier	4
+motivation plot	4
+overview python	4
+activity machine learning activity	4
+frame region	4
+region row matrix	4
+region cheese consumption	4
+matrix deviation	4
+pc component	4
+alpha coefficient	4
+plot pc plage	4
+cancer patient	4
+tumor cell roughness	4
+prediction tumor	4
+instance radius roughness deviation	4
+center origin	4
+coordinate rotation	4
+center projection	4
+distance variance	4
+alright variance pc	4
+axis basis	4
+direction pc variance	4
+pc direction	4
+matrix part matrix	4
+variance covariance matrix	4
+matrix transpose variance	4
+color virginica	4
+flower setosa model	4
+speech category	4
+cluster mixture	4
+sepal length	4
+mixture cluster	4
+sigma vector	4
+component plot	4
+aspect simulation	4
+rotation mechanism astronaut position	4
+deformation spring essence	4
+wind fluid flow car	4
+velocity correspond drag force	4
+root expression	4
+eye iteration	4
+trap science	4
+midpoint criterion	4
+delta iteration	4
+complex accuracy	4
+midpoint evaluation iteration	4
+root trap reality	4
+activity starting	4
+expression delta	4
+interval magnitude tolerance	4
+motivation newton	4
+curve newton	4
+degree approximation taylor approximation tangent	4
+approximation newton	4
+f root f	4
+limit ratio	4
+position derivative slope	4
+convergence solution limitation newton	4
+table newton	4
+curve tangent	4
+prime evaluate	4
+taylor approximation taylor expansion	4
+matrix vector multiplication manipulation matrix student	4
+derivative respect coefficient matrix	4
+derivative respect f	4
+anne entry	4
+factorization ancu computation	4
+driving factorization consuming algorithm	4
+jacobian iteration newton	4
+convergence solution newton	4
+apology tuesday	4
+mercy weather	4
+rearrangement san francisco airport	4
+cancellation november	4
+coefficient quadratic	4
+equation unknown	4
+polynomial fit	4
+transpose equation coefficient	4
+ncube factorization	4
+cholesky activity	4
+entry calculation	4
+row multiply	4
+multiplication ncube	4
+pole extent ice	4
+label extent ice	4
+date matrix	4
+reality progress	4
+pattern decrease	4
+scalar cheating	4
+vector cheating	4
+coefficient ex vector	4
+matrix ear	4
+norm equation	4
+row sigma portion	4
+portion multiply portion	4
+transpose rank	4
+zero matrix rank deficient rank	4
+rank alpha	4
+rose transpose	4
+eye characteristic	4
+lee matrix	4
+transpose sigma art transpose	4
+identity sigma	4
+inverse sigma transpose	4
+entry inverse story solution	4
+rank sigma eye	4
+r transpose	4
+transpose guy	4
+row anne sigma	4
+satisfy equation	4
+zi component sigma	4
+computation matrix vector matrix	4
+matrix vector multiplication driving	4
+part solution summary pseudoinverse	4
+inverse pseudoinverse direction	4
+instance inverse matrix	4
+pseudoinverse sigma	4
+norm inverse matrix	4
+intro python	4
+part notebook	4
+route finding	4
+vector transpose	4
+pseudo inverse	4
+singular vector	4
+transpose axe	4
+cube operation	4
+story building	4
+lambda sigma	4
+part device	4
+optimization argument	4
+quality constraint	4
+equality constraint inequality constraint	4
+motivation optimization rectangle	4
+plot solution	4
+motivation optimization	4
+f vector	4
+row derivative	4
+derivative respect derivative respect	4
+summary hashing star	4
+saddle summary	4
+array gradient	4
+bowl region	4
+saddle calculus	4
+equation interval optimization	4
+knowledge cash	4
+interval algorithm	4
+top distance	4
+interval tau	4
+proportion expression	4
+f tilde	4
+expression root	4
+degree approximation	4
+plot anne	4
+ten minus	4
+andy dalton	4
+opponent rank	4
+slope plot	4
+gradient iteration	4
+argument alpha	4
+eigenvector lambda	4
+vector norm iteration	4
+multiply lambda	4
+eigenvalue riley coefficient	4
+vector iteration	4
+component direction	4
+graph adjacency matrix	4
+equality vector	4
+diagonalization solution	4
+eigenvalue solution	4
+position eigenvector	4
+iteration technique	4
+eigenvalue eigenvector position eigenvalue	4
+loop eigenvector	4
+vector row	4
+ex matrix	4
+matrix identity	4
+multiply norm vector	4
+vector summation	4
+norm circle	4
+series approximation	4
+convergence ratio	4
+visualization python	4
+eigenvector satisfie	4
+scalar eigenvector	4
+matrix minus lambda vector	4
+dimension motivation	4
+lambda satisfy equation	4
+newby matrix	4
+rank mini	4
+eigenproblem matrix eigenvector	4
+solution component eigenvector	4
+vector component eigenvector	4
+lambda ann mom	4
+lambda fraction ratio	4
+fun meat	4
+matrix requirement	4
+eigenfactor matrix	4
+eigenvalue third	4
+vector theory	4
+quiz lambda	4
+component eigenvector lambda	4
+iteration lambda convergence	4
+component simplicity	4
+approximation eigenvalue convergence	4
+criterion stopping criterion	4
+lambda ratio component	4
+track lambda	4
+tolerance beginning	4
+accuracy precision	4
+component alpha	4
+alpha theory infinite precision alpha	4
+zigzag pattern	4
+eigenvector representation	4
+five eigenfactor	4
+eigenfactor iteration	4
+lambda converge iteration	4
+eigenvalue pitfall	4
+bullet witch	4
+part home briefly	4
+tax lambda	4
+eigenvalue inverse matrix	4
+multiply inverse	4
+matrix vector multiplication matrix vector matrix	4
+vector f	4
+approximation eigenvalue	4
+cosine law	4
+car dealer	4
+experiment game	4
+pi approximation	4
+bottom row	4
+entry statement	4
+starting matrix	4
+cube complexity factorization	4
+conditioning matrix	4
+submatrix matrix	4
+iteration lambda	4
+air iteration	4
+print statement	4
+reduce stigma	4
+decomposition sigma transpose	4
+sigma transpose sigma transpose	4
+length vector	4
+cholesky factorization	4
+entry matrix sigma	4
+transpose row	4
+rose matrix	4
+transpose matrix sigma	4
+lambda eigenvector	4
+norm quantity	4
+cube matrix	4
+route root	4
+zigzag pattern convergence	4
+orange curve	4
+taylor polynomial degree	4
+approximation taylor	4
+summation probability event	4
+intercept slope	4
+fruit banana	4
+solution minus	4
+approximation matrix	4
+fruit potato	4
+direction pc	4
+position city	4
+align search	4
+equation factorization	3
+substitution algorithm	3
+writing opposite	3
+requirement interval root	3
+interval route interval route	3
+color route	3
+interval midpoint	3
+interval dimension interval	3
+iteration tea iteration	3
+criterion user interval root	3
+starting interval	3
+iteration convert	3
+interval distance	3
+minus tolerance	3
+iteration summary	3
+root interval evaluation iteration	3
+beginning algorithm	3
+invitation iteration interval	3
+finite representation	3
+derivative polynomial	3
+equation expression	3
+homework deadline	3
+digit solution	3
+representation machine	3
+iteration norm	3
+entry index	3
+matrix operation	3
+array vector	3
+entry r	3
+rank nonzero	3
+eigen decomposition	3
+solution axe	3
+sigma transpose times sigma	3
+sigma ve transpose	3
+row vector entry	3
+dew button transformation	3
+vector transform vector	3
+thinking inverse	3
+rotation operation	3
+blur operation	3
+pen row rosie row matrix	3
+image array	3
+inverse thinking	3
+magnitude perturbation	3
+perturbation thinking	3
+image noise	3
+image perturbation noise	3
+noise perturbation accuracy	3
+cluster algorithm	3
+ez triangular matrix	3
+bottom row top	3
+algorithm pseudo	3
+rivar algorithm	3
+triangular matrix bunch zero	3
+ice component	3
+summation ofwat summation	3
+coefficient row	3
+complexity triangular equation	3
+infinity notation division multiplication	3
+row division	3
+multiplication summation lennox rowell	3
+loading operation	3
+location sloppiness	3
+triangle triangular matrix	3
+matrix times vector	3
+vectra equation	3
+equation triangular matrix	3
+top matrix	3
+clue typo accident	3
+termine el	3
+aggro entry	3
+scale row vector	3
+vector matrix partition scalar	3
+bunch vector row vector matrix	3
+opposite matrix	3
+recursion loop	3
+simplicity guy	3
+ice entry	3
+understanding factorization	3
+minus submatrix	3
+division subtraction	3
+factorization complexity cube subtraction	3
+alley factorization	3
+machine absolon precision	3
+precision zero	3
+overflow infinity	3
+zero exponent	3
+operation entry	3
+array row	3
+respect norm	3
+background logistic guideline	3
+percent quiz	3
+opportunity perl	3
+office discussion concept	3
+percent bug quiz	3
+office homework	3
+period quiz	3
+peer content quiz period	3
+arrangement exam	3
+schedule recording	3
+starting student	3
+binder trip notebook	3
+objective collection pointer	3
+quiz grade	3
+exam date content	3
+white board	3
+team experience	3
+assistance undergraduate student clothe	3
+classroom michelle	3
+student brand staff team	3
+student python	3
+participation grade credit	3
+hint guy	3
+interval length	3
+minimizer approximation	3
+trip notebook	3
+bar intercept	3
+scale axis	3
+equation hashing	3
+amount iteration	3
+optimization expression	3
+maximization minimization	3
+parameter constraint	3
+age matrix	3
+array image	3
+filtering technique	3
+matrix image blur bivector	3
+ellen triangular	3
+ncube operation	3
+multiplication operator	3
+factorization triangular	3
+self ellie	3
+matrix blur matrix	3
+understanding zero	3
+lab matrix model	3
+trust member	3
+zero nonzero	3
+pm competition	3
+competition part	3
+triangle inequality norm	3
+norm matrix norm	3
+singularity matrix	3
+python calculation	3
+magnitude deviation	3
+variance squared	3
+college sigma var vector	3
+variance var variance	3
+summation variance	3
+percent variance bar	3
+component cito	3
+model prediction	3
+virginica flower	3
+color region	3
+alpha pital length	3
+alpha beta gamma flower	3
+beta gamma zeta	3
+deviation innovation	3
+limit infinity	3
+newton convergence	3
+slope curve	3
+solution convergence	3
+convergence algorithm	3
+equation derivative	3
+arm angle rotation	3
+instance newton law	3
+root piney solution	3
+interval chop	3
+interval iteration interval delta	3
+delta tk	3
+arrow iteration delta	3
+lambda eigenvalue lambda	3
+evaluation perspiration	3
+newton f prime	3
+valuating vector	3
+f matrix vector	3
+student transpose	3
+triangular substitution	3
+saint convergence	3
+norm maximum	3
+ball game	3
+sigma minimum	3
+inverse eigenvalue	3
+iteration matrix	3
+lambda bar lambda	3
+eigenvalue sigma	3
+coefficient slope	3
+linearity respect coefficient	3
+derivative fee	3
+respect derivative	3
+sigma root lambda	3
+north pole	3
+energy loss	3
+contour perimeter	3
+matrix hash gradient	3
+evaluation implement implementation	3
+prime tilde respect	3
+gap machine epsilon magnitude	3
+machine absolute	3
+computation essence	3
+multiplication row	3
+matrix computation dimension	3
+m row	3
+matrix portion matrix	3
+computation row	3
+bunch coefficient	3
+part transpose dimension	3
+part expression regard truncation	3
+review taylor	3
+coefficient polynomial	3
+derivative coefficient derivative	3
+recognize pattern	3
+pattern derivative	3
+sub derivative	3
+whatev prime	3
+taylor expansion age	3
+approximation taylor approximation	3
+sub index taylor approximation	3
+infinity derivative	3
+model contribution	3
+f derivative	3
+axe theorem	3
+scope position remainder	3
+interval magnitude	3
+m inequality	3
+taylor series taylor approximation	3
+degree tangent derivative	3
+approximation distance	3
+approximation team	3
+triangle derivative	3
+e interval	3
+table approximation degree	3
+bottom derivative top	3
+derivative bottom	3
+derivative bottom derivative	3
+python jupyter notebook	3
+load pie	3
+pie sempai	3
+integration derivative	3
+blah evaluate	3
+expression plot	3
+approximation orange expansion	3
+table approximation	3
+arava taylor expansion ann degree taylor	3
+slope spot	3
+slope dyd	3
+cube part	3
+taylor approximation taylor plot	3
+pie root	3
+expansion source	3
+tian remainder	3
+tail approximation	3
+player game	3
+percent homework	3
+quiz student	3
+weather prediction	3
+multiplication cube	3
+representation exponent	3
+precision minus	3
+part zero	3
+entry gradient derivative respect	3
+row gradient	3
+gradient direction	3
+part gradient	3
+norm difficulty	3
+iteration hist	3
+direction minimizing	3
+zigzag motion convergence	3
+alot gradient	3
+cube computation	3
+solution ax	3
+eigenvector un	3
+lambda youtube	3
+magnitude lambda	3
+transition matrix probability	3
+alpha eigenvector	3
+norm library	3
+eigenvalue matrix degree	3
+eigenvector solution	3
+eigen matrix	3
+eigenvalue eigen pair	3
+expression equality scalar	3
+starting assumption	3
+gas vector	3
+afternoon announcement	3
+piazza activity	3
+tuesday thursday	3
+tonight homework tonight	3
+part tuesday	3
+thursday homework	3
+amb part amount pool	3
+review concept	3
+notation vector capital matrix	3
+matrix array	3
+summary operation	3
+vector ann vector	3
+operation anne	3
+thinking calculus	3
+summation au	3
+context terminology	3
+operator matrix part	3
+yellow row vector	3
+summation entry row multiply entry vector	3
+matrix vector multiplication index notation	3
+vector scalar operation	3
+vector entry wife actor	3
+multiplying watt ave	3
+anna shear operator	3
+length angle	3
+diagonal length	3
+transform image	3
+direction angle	3
+transformation matrix	3
+identity multiply	3
+reflect reflection identity	3
+transformation axis mirror grain	3
+transformation operating	3
+linear operator	3
+vector shrink	3
+expand transformation	3
+dimension shrink	3
+shrinking direction	3
+rotation matrix cosine theta	3
+rotation matrix	3
+degree counterclockwise	3
+operation alright	3
+demo terminology matrix dimension	3
+matrix zero cala	3
+identity matrix vector	3
+location instance	3
+component permutation matrix	3
+matrix entry triangular matrix	3
+part matrix zero	3
+student loss	3
+representation rank	3
+checking determinant	3
+magnitude array ann	3
+norm satisfy	3
+norm scalar	3
+understanding triangle inequality	3
+vector anna vector	3
+summation norm	3
+expression norm vector component vector	3
+pea infinity	3
+array magnitude hyest	3
+norm dictator	3
+demo package linalg	3
+num py linalg	3
+three vector	3
+ball collection vector	3
+vector pardon	3
+norm unit ball	3
+norm shape unit ball	3
+demo direction diamond	3
+circle infinity circle norm	3
+collection vector	3
+vector quantity vector	3
+approximation air approximation	3
+approximation ex	3
+muse frobenius norm	3
+vector unit ball	3
+circle radius	3
+derivative factorial	3
+slope triangle	3
+tailor approximation	3
+derivative approximation	3
+reference ton	3
+pico sue north	3
+keiller vector	3
+vector lambda anna vector	3
+pico suit	3
+eigenvalue magnitude multiplicity	3
+linda cube lambda	3
+linda ann	3
+py lee	3
+solution lambda	3
+iteration eigenvector	3
+converge eigenvector	3
+magnitude iteration	3
+solution lambda shoe	3
+operation rayleigh quotient	3
+iteration kate	3
+iteration app convergence beginning convergence	3
+norm ex	3
+solution python eigenfactor	3
+iteration eigenvalue magnitude	3
+sequence matrix vector multiplication	3
+vector solution	3
+vector update	3
+owl limitation	3
+box equality	3
+tolerance equality constraint	3
+curve tension derivative	3
+gradient direction gradient constraint	3
+minimization algorithm	3
+scalar ann	3
+derivative respect bunch	3
+derivative respect df	3
+bottom cup	3
+star minimizer	3
+saddle hashing	3
+settlin minimizer	3
+anne star	3
+region tao	3
+iteration proportion	3
+plot proportion	3
+plot recursion	3
+bottom tau	3
+iteration recursion interval iteration	3
+search interval iteration	3
+eval algorithm	3
+derivative algorithm	3
+f tilde quadratic approximation	3
+law cosine	3
+ann matrix	3
+plot slope	3
+possibility probability	3
+coin toss	3
+radius circle	3
+approximation pie	3
+linalg library	3
+f scalar	3
+professor klockner	3
+matrix image	3
+matrix vector row vector	3
+lambda norm	3
+principle component	3
+norm delta	3
+search interval	3
+matrix sigma matrix	3
+decomposition transpose	3
+bunch operation	3
+measure distance	3
+matrix expression	3
+part sigma	3
+color matrix	3
+entry slice	3
+matrix bee	3
+eigenvalue solution eigenfactor solution	3
+ilk lydia norm	3
+eigenvalue matrix eigensystem	3
+multiplication summation	3
+matrix rank deficient	3
+adjacency matrix graph	3
+solution eigenvalue	3
+operation vector	3
+air age	3
+vector length	3
+machine epsilon machine epsilon	3
+camera pogo illinois	3
+illinois gmail default	3
+announcement illinois slash pop popcorn	3
+announcement quiz thursday	3
+morning trial	3
+tailor degree summation	3
+minus whoop mike	3
+f location	3
+derivative expansion	3
+f root	3
+expansion derivative reality taylor polynomial degree	3
+ratio e	3
+taylor derivative	3
+solution sake simplicity	3
+calculate hat	3
+tailor tail approximation part	3
+plot expansion	3
+duty prime	3
+part beginning	3
+taste beginning student lease	3
+alesis stochastic	3
+monte carlo simulation poker game	3
+calculation probability	3
+num rand	3
+array pan	3
+algorithm sequence	3
+seed clock algorithm seed	3
+algorithm seed	3
+pattern period	3
+repetition period	3
+python generator	3
+characteristic generator	3
+top probability	3
+coin header tail	3
+event string	3
+experience coin	3
+simulation alright	3
+jupiter notebook plot probability	3
+bar occurrence histogram	3
+flipping coin	3
+ton weight	3
+experiment consist	3
+task anne	3
+zeros anne tail	3
+experiment loop	3
+distribution interval	3
+experiment miracle experiment	3
+card poker	3
+player game meat opponent	3
+starting opponent dealer	3
+opponent starting	3
+probability win	3
+dealer game ann	3
+america experiment game	3
+game car card	3
+table odd poker game	3
+gambling part game	3
+spread confidence interval	3
+percent game	3
+top pair ace	3
+iran simulation	3
+ace fun amp	3
+intersection volume	3
+surface circle surface	3
+radius box	3
+circle meaning	3
+hundred thousand	3
+squared circle squared circle proportionality	3
+surface circle	3
+surface center	3
+approximation watt	3
+radius circle distance	3
+iteration matrix vector multiplication	3
+plot interval	3
+extent eye	3
+regression model	3
+height building	3
+norm ax	3
+matrix coefficient	3
+interval delta	3
+tau bracket interval	3
+magnitude gap	3
+triangular matrix triangular matrix	3
+degree angle	3
+variance pc	3
+component summation	3
+food category	3
+entry jacobian	3
+interval age	3
+web server	3
+experiment sample	3
+component variance	3
+substitution triangular	2
+subtraction addition	2
+substitution factorization	2
+spring stiffness newton meter graph force	2
+displacement force	2
+force displacement force	2
+displacement spring	2
+stiffness newton	2
+equation drag force	2
+parameter mu	2
+context car	2
+card direction velocity	2
+car density air coefficient	2
+drag force newton	2
+planning newton	2
+solution vehicle	2
+equation root finding	2
+route bar	2
+interval teacher	2
+estimate roof	2
+minus school summary	2
+iteration evaluation iteration progress	2
+coefficient derivative	2
+part content	2
+infinity ice derivative	2
+derivative f	2
+classroom environment	2
+quiz homework	2
+programming assignment	2
+bunch opportunity	2
+guy quiz	2
+quiz schedule	2
+quiz attempt	2
+attempt quiz	2
+jupyter notebook	2
+digit accuracy solution	2
+machine minus	2
+digit computation	2
+loss precision	2
+iteration expression update iteration	2
+expression approximation	2
+approximation iteration convergence	2
+convergence decay fashion iteration	2
+norm eigenvector	2
+e iteration	2
+object entry	2
+object python	2
+object science	2
+loop python	2
+argument default	2
+entry array	2
+representation precision	2
+minus machine	2
+scale toy	2
+decomposition matrix animatrix viti	2
+queue output	2
+singular vector auto matrix rank	2
+contribution matrix	2
+contribution matrix rank	2
+rank statement rank	2
+zero matrix rank	2
+rank matrix image	2
+rank image	2
+behavior complexity	2
+eye sub index	2
+multiply minus	2
+zero integer part zero	2
+magnitude digit	2
+equation root	2
+angle status	2
+tip position	2
+arm linkage	2
+angle part	2
+arm position	2
+axis position	2
+arm distance	2
+positioning theta	2
+angle arm	2
+sigma r	2
+dimension analysis	2
+rank solution equation	2
+decomposition solution rank	2
+solution summation	2
+reference solution index notation	2
+matrix representation solution	2
+pseudoinverse inverse	2
+matrix rank deficient expression solution	2
+equation factorization owen cube	2
+gaussian elimination	2
+security blur matrix blur matrix	2
+loop eye	2
+advantage symmetry	2
+advantage zero	2
+quarry construction	2
+simulation factorization	2
+factorization complexity cube	2
+machine app	2
+region underflow	2
+storage structure	2
+array integer	2
+float integer	2
+riley coefficient eigenvalue	2
+lambda scalar	2
+estimate eigenvalue	2
+inverse cube	2
+engineering mechanic	2
+sir teaching	2
+attempt homework opportunity	2
+credit breakdown	2
+piazza meaning	2
+board plenty shower starting staff	2
+attempt home opportunity	2
+handout uhm	2
+annotate pdf	2
+phone hyphen jupiter notebook	2
+quiz surprise	2
+student wanna quiz	2
+policy resource bunch tax	2
+thursday paithan review	2
+piazza plenty opportunity	2
+learning style classroom	2
+everett monitor seat	2
+back party	2
+paper calculator	2
+part library	2
+part interval	2
+amount boundary	2
+story interval	2
+e r	2
+beginning notebook	2
+orange minimization orange	2
+curve orange curve	2
+approximation minimum	2
+duration sake	2
+coin toss experiment	2
+radius cylinder	2
+position coordinate	2
+r cube	2
+asset price	2
+experiment distribution	2
+price asset	2
+parameter epsilon	2
+bar expression	2
+intercept bar slope summary	2
+location minim ization	2
+minimizer optimize	2
+intuition optimization	2
+newton pattern	2
+animation newton	2
+photo guy	2
+costume photo	2
+contest alright newton	2
+newton bowl iteration quadratic solution iteration	2
+valley anna peak	2
+hessian gradient	2
+iterate valve	2
+hash gradient	2
+resource auto reference	2
+activity optimization	2
+option alpha	2
+marching turtle alpha	2
+gradient improvement	2
+orthogonality factory	2
+city placement city	2
+pair location map	2
+orlean chicago miami	2
+toronto neighbor	2
+decent search	2
+scalar transform scalar	2
+star writing	2
+domain constraint	2
+star minimization solution minimization	2
+derivative door	2
+region interest region	2
+minimum solution	2
+minimum maximum	2
+solution expression	2
+vector rn vector	2
+instance respect	2
+derivative respect xi component gradient	2
+component gradient	2
+component respect entry vector derivative respect component derivative respect	2
+component ex entry	2
+row hessian	2
+matrix ni	2
+matrix index notation gradient ice component	2
+derivative vector	2
+quantity tier	2
+quantity norm	2
+eye eigenvalue matrix	2
+hy eigenvector	2
+summary optimization	2
+hashing matrix	2
+parameter derivative respect parameter	2
+entry gradient respect	2
+parameter derivative respect	2
+unknown squared	2
+matrix eigenvalue entry	2
+hessian matrix	2
+rank approximation rank approximation	2
+transpose summation	2
+meaning pixel	2
+top leaderboard	2
+competition friday	2
+designer specification	2
+instance csr	2
+row third row	2
+python indexing	2
+integer storage	2
+top byte	2
+row amount	2
+integer int	2
+storage homework	2
+storage integer	2
+array inch	2
+array rose	2
+index entry	2
+row pointer nonzeros	2
+science amount storage	2
+zero row	2
+row nonzero row	2
+pointer star	2
+matrix row wife	2
+hey row pointer row pointer	2
+indication index	2
+zeroeth position	2
+entry summary row index entry row pointer	2
+entry row entry row pointer	2
+quantity row	2
+back multiply	2
+hat theory	2
+ex hat approximation	2
+vector multiplying vector approximation solution	2
+conditioning derivation	2
+derivation regret	2
+r output response	2
+perturbation ex output	2
+perturbation noise	2
+direction noise	2
+position temperature	2
+shower opposite	2
+bee delta temperature	2
+magnitude output	2
+ratio correspondence	2
+manipulation expression	2
+quality inequality constraint	2
+expression ratio output	2
+ratio part	2
+eye norm	2
+norm matrix norm identity norm identity matrix identity matrix	2
+matrix norm multiplication matrix	2
+top factorization	2
+pie matrix	2
+hat solution	2
+equation hat	2
+multiply matrix	2
+rank singular rank deficient	2
+evalue composition summation	2
+summation sigma transpose matrix rank	2
+king matrix summation	2
+auto summation	2
+pc plot	2
+plot ireland outlier	2
+fruit england scott lynn wale consumption comparison consumption	2
+radius rotation theta basis	2
+business cc	2
+squared typo	2
+flower tosa	2
+category pair plot pair plot	2
+investigation deviation mine	2
+variance south	2
+versicolor virginica overlap	2
+beta beetle gamma seat	2
+interval star	2
+bunch multiplication	2
+evaluation newton	2
+newton evaluation	2
+tuesday quiz	2
+tangent anne	2
+foot weight	2
+third ncube scale	2
+m entry guy entry	2
+om operation entry	2
+solution ice demo	2
+ear extent ice cap polar north	2
+quadratic capture prediction	2
+beat quadratic extent ice	2
+sigma transpose envy	2
+sigma envy	2
+first row anne	2
+north component	2
+eigen sigma	2
+entrance pose	2
+identity sigma ve transpose	2
+transpose sigma r transpose	2
+rank deficient constraint minimum norm	2
+sigma art times	2
+transpose un transpose	2
+tax story	2
+component guy e	2
+multiplication cube skill	2
+bee m	2
+coefficient lease	2
+requirement norm vector	2
+entry matrix entry	2
+norm inverse norm	2
+assumption matrix	2
+norm pseudoinverse	2
+norm pseudo inverse matrix	2
+beep frequency	2
+linear scale	2
+approximation respect	2
+curve minimizer	2
+approximation location	2
+curve hat	2
+valley decomposition	2
+sigma yuan transpose	2
+vector rank matrix	2
+eye ice	2
+bunch zero rank	2
+inverse zero	2
+matrix norm matrix	2
+requirement norm	2
+sigma maximum	2
+norm matrix norm inverse matrix	2
+matrix model	2
+rank approximation image compression	2
+transpose inverse matrix vector multiplication	2
+eigenvalue weather	2
+inverse iteration inverse matrix	2
+triangular matrix snippet	2
+cube factorization sequence computation	2
+sequence operation	2
+lambda matrix	2
+eigenpair lambda	2
+lambda bar lambda bar	2
+sigma iteration	2
+sequence matrix	2
+matrix cube	2
+substitution computation	2
+vector coordinate	2
+transpose inverse	2
+rank deficient solution	2
+uhm inverse	2
+plot perimeter	2
+parameter perimeter	2
+counter country	2
+scalar indy	2
+star minimum	2
+matrix hashing gradient	2
+minimize aurora maximizer	2
+minimizer maximizer minimizer	2
+interval optimizer	2
+convergence r tau	2
+minimizer solution minimization	2
+tilde respect axe	2
+minimizer quadratic approximation	2
+equation optimization	2
+derivative summary	2
+nonsense allergy	2
+spot integer	2
+bison precision	2
+expression object integer	2
+story integer	2
+integer computation integer	2
+death pen ann	2
+connection apple	2
+notation rounding	2
+axis approximation	2
+confusion table	2
+tiebreak machine default implementation	2
+gap machine absolon times	2
+gap machine epsilon	2
+machine air	2
+precision storage	2
+son absolon	2
+tenth minus	2
+expression thumb	2
+binary digit	2
+representation rounding minus	2
+gap thumb	2
+gap thumb approximation	2
+pretend ex	2
+hat guy	2
+machine epsilon watt gap	2
+paithan jupiter precision digit	2
+watt magnitude epsilon	2
+option machine	2
+garbage precision	2
+cluster snippet	2
+wave implementation	2
+associative commutative	2
+rounding orbitz	2
+expression garbage	2
+algorithm garbage	2
+four default	2
+precision digit	2
+phone text	2
+calculation pie	2
+movement exponent	2
+nature precision	2
+nature expression	2
+watt basis	2
+rearrange expression	2
+exponent story	2
+bunch snippet	2
+moment direction	2
+third cube scale	2
+m entry	2
+guy entry	2
+outpost solution ice demo	2
+extent ice cap polar north	2
+quadratic inmate capture prediction	2
+quadratic extent ice	2
+row anne	2
+market matrix	2
+nonzero singular	2
+sigma ve	2
+identity sigma transpose	2
+ax sigma r transpose	2
+constraint minimum norm	2
+sigma times	2
+vectra norm	2
+component guy	2
+multiplication cube scale	2
+car coefficient	2
+prime cube	2
+taylor ton	2
+notation remainder	2
+guy demo	2
+homework cube abound	2
+expression minus	2
+evaluation approximation derivative	2
+derivative limit	2
+finite approximation taylor	2
+df hat	2
+approximation derivative air	2
+expression derivative approximation derivative approximation	2
+age derivative e minus	2
+approximation approx finite approximation	2
+calculate finite approximation derivative	2
+age air	2
+clue guy	2
+guy age	2
+machine absolon gap	2
+gap machine	2
+plot truncation	2
+source age	2
+finite homework	2
+beginning walmart	2
+student exam	2
+activity tendency	2
+quiz solvay nonlinear root	2
+fantasy football prediction	2
+prediction peter activity	2
+part panda	2
+team peter	2
+text activity	2
+frame structure	2
+frame structure panda	2
+linear part	2
+object ann	2
+description panda	2
+american football	2
+predictor position quarterback	2
+position quarterback defense titan	2
+game player	2
+player min game	2
+player andy dalton player	2
+crack model game	2
+predictor andy dalton	2
+game prediction	2
+season hint	2
+slice colon	2
+operator andy dalton	2
+quarterback score	2
+fantasy football	2
+model player reality	2
+percent grade	2
+flavor homework	2
+student homework	2
+student vue	2
+percent deadline	2
+percent date	2
+homework quiz	2
+part quiz	2
+image processing	2
+r vector	2
+tradeoff root	2
+internet mathematica	2
+butter conversion	2
+tip student	2
+part distribution	2
+minus plaza	2
+exponent indication infinity	2
+part fraction zero infinity	2
+basis tan	2
+tomato mouth	2
+memorization formula	2
+coefficient exponent boundary exponent	2
+exponent part	2
+precision ann	2
+ann infinity option	2
+minus epsilon precision	2
+intuition machine epsilon	2
+importance machine absolon	2
+zero app	2
+m precision	2
+exponent siege	2
+zero infinity	2
+banana precision	2
+minus exponent precision	2
+underflow region	2
+precision jupiter	2
+snippet behavior	2
+top scale precision	2
+precision party	2
+loss precision summary	2
+machine absolon machine	2
+student trouble	2
+risk mistake	2
+part content prerequisite alright	2
+dis chop	2
+computation operation	2
+shopping zero	2
+calculation machine	2
+mina correspond	2
+drifter precision	2
+anon representation	2
+part implementation	2
+tie motivation	2
+machine absolon machine asshole	2
+ruler scale	2
+machine absolon magnitude	2
+thursday trouble	2
+scale precision	2
+vector thousand	2
+gradient derivative gradient respect	2
+delivery respect	2
+director respect	2
+minimum bottom	2
+minimizer bowl region direction	2
+curvature optimization	2
+minimum minimizer region	2
+descent minus direction gradient direction	2
+learning parameter	2
+alpha parameter	2
+gradient alpha optimum	2
+annex vector	2
+solution optimization	2
+package opt	2
+bowl flap	2
+gas iteration tolerance	2
+alpha default search	2
+motion search optimality	2
+zigzag pattern degree angle	2
+cash vector	2
+matrix minus gradient	2
+variation part	2
+gradient equation	2
+converge iteration	2
+age truncation	2
+quantity magnitude	2
+machine magnitude	2
+minus accuracy	2
+window quiz	2
+algebra clicker guy	2
+vector zero null matrix	2
+eigenvalue vector	2
+scalar eigenvector lambda eigenvalue eigenvector	2
+multiply scalar eigenvector alpha eigenvector	2
+algebra eigensystem	2
+matrix identity eigenvector	2
+pole ev com deanna silver	2
+bunch concept	2
+multiplicity city eigenvalue instance	2
+review eigenvalue	2
+dependency eigenvector	2
+multiply scale	2
+plug lambda	2
+eigenvector eigenfactor	2
+equation eigenvector	2
+corresponding lambda eigenvector	2
+lambda epsilon	2
+root absence	2
+epsilon lambda	2
+epsilon mistake	2
+python eigen eigenvalue	2
+root cancellation	2
+algebra matrix	2
+lambda eigen pearland	2
+youtube lambda un	2
+eigenvector ad matrix eigenvalue	2
+similarity transformation matrix	2
+matrix eigenvalue multiplicity	2
+eigenfactor solution matrix	2
+rank deficient rank matrix	2
+magnitude lambda magnitude	2
+direction eigenvector assumption	2
+beginning lambda eigen pair matrix lambda	2
+eigensystem alpha lambda	2
+alpha lambda ann	2
+lambda stan lambda	2
+alpha lambda ann linda ann	2
+ann linda	2
+alpha ann linda	2
+update eigenvector	2
+ex kane	2
+un lambda	2
+linda lambda linda	2
+ex expression	2
+lambda timing	2
+eigenvector eigenvalue magnitude multiply scalar	2
+moment requirement	2
+decomposition demo matrix decomposition	2
+multiply iteration	2
+minus vector	2
+ex eigenvector	2
+multiply axe	2
+eigenvalue norm association norm	2
+norm eigenvalue	2
+expression catch	2
+minus r	2
+multiplicity eigenvalue	2
+iteration overflow	2
+event lambda	2
+youtube iteration lambda	2
+tube python	2
+component eigenvector	2
+theory alpha	2
+alpha component theory	2
+operation alpha	2
+pitfall overflow	2
+eigenvector theory	2
+notation portion	2
+convergence eigenvalue iteration	2
+graph pie	2
+graph adjacency	2
+py array	2
+transition weather	2
+ax eigenvector	2
+solution axe pair	2
+equation ax	2
+ax solution	2
+solution eigen pair	2
+equation eigen pair	2
+eigen vector matrix eigenvalue entry	2
+corresponding eigen	2
+eigenvalue symmetry matrix	2
+transpose eye	2
+inverse transpose decomposition	2
+starting eigenvalue	2
+correspond entry	2
+assumption eigen pair eigenvalue magnitude	2
+cube plus	2
+iteration vector iteration	2
+update xk	2
+vector magnitude	2
+unit vector norm	2
+unit ball unit ball collection satisfy norma	2
+transformation operating unit ball	2
+max norm	2
+writing vector unit	2
+vector matrix magnitude	2
+norm normalize	2
+norm comma	2
+norm tip	2
+max quantity	2
+norm peco norm	2
+norm row eye	2
+max infinity norm	2
+concept matrix	2
+dimension optimization	2
+part respect	2
+plus minus	2
+dimension vector coefficient	2
+remainder theorem interval	2
+coefficient proportionality	2
+derivative approximation derivative approximation	2
+slope minus	2
+slope secant	2
+iteration ratio	2
+converge r	2
+ratio iteration	2
+iteration r convergence	2
+iteration convergence ratio	2
+interval r	2
+algorithm converge	2
+panda export	2
+lambda colour eigenvalue matrix	2
+eigenpair eigenfactor eigenvalue satisfie lambda eigenvector lambda	2
+norm pico sue norm	2
+threat solution approximation eigen pair matrix	2
+un eigenvector	2
+vector lambda vector lambda	2
+eigenpair kosu lambda	2
+tube lambda	2
+cane grocer infinity	2
+pitch iteration	2
+eigenvalue eigenfactor	2
+miracle stability	2
+percent probability	2
+percent entry	2
+percent web	2
+probability event	2
+probability matrix	2
+web server behavior	2
+eigenvalue eigen	2
+equation vector equation	2
+finite calculation finite precision	2
+eigenvector eigenvalue summary	2
+eigenvalue coefficient	2
+update alpha	2
+alpha update	2
+descent optimization	2
+newton alpha	2
+gradient derivative respect	2
+derivative matrix	2
+matrix inverse	2
+solution newton solution	2
+ann newton	2
+jupiter demo	2
+eigenfactor multiply scalar	2
+eigen fallacy	2
+iteration meaning	2
+factorization ncube matrix	2
+iteration convergence times	2
+inverse put	2
+quiz inverse	2
+inverse iteration sequence	2
+ton ncube calculation	2
+iteration factorization	2
+inverse paul iteration	2
+eigenvalue sigma iteration	2
+sigma inverse iteration	2
+inverter inverse iteration	2
+bizet sigma	2
+bee matrix inverse iteration	2
+eigenvector vector un	2
+inverse model scientist	2
+eigenvalue inverse iteration	2
+sequence iteration eigenvalue sigma	2
+convergence sigma lambda	2
+exponent school	2
+linda alpha	2
+matrix aim matrix	2
+equation coefficient	2
+matrix vector coefficient	2
+transform vector rn	2
+increment age vector	2
+vector perturbation matrix vector	2
+parallel matrix	2
+derivative respect derivative respect derivative respect derivative	2
+derivative respect parameter entry matrix	2
+approximation matrix vector	2
+attention equation	2
+matrix perturbation	2
+equation perturbation	2
+concept scalar	2
+evaluation scalar	2
+solution computation	2
+initial gas	2
+f matrix vector unknown	2
+blurb entry	2
+tangent approximation newton	2
+newton takedown	2
+gas derivative	2
+student transpose jay	2
+xk f	2
+inverse iteration eigenvalue	2
+multiplication matrix vector	2
+notebook summary algorithm	2
+iteration jacobian	2
+solution trade	2
+modification advantage	2
+inverse tangent triangle	2
+expression minus cosine	2
+angle degree angle	2
+degree beta	2
+angle color	2
+beta minus	2
+unknown beta	2
+constraint inequality	2
+experiment matrix	2
+seat seed	2
+circle ratio	2
+mexi mechanic science	2
+discussion student	2
+attempt home	2
+quiz grade student	2
+r major	2
+invitation student	2
+part core master library	2
+matrix triangle matrix	2
+backward forward	2
+division subtraction multiplication literature flap	2
+yuan division	2
+update division nominator	2
+vision multiplication operation	2
+operation subtraction	2
+complex substitution	2
+complexity triangular matrix	2
+matrix triangular	2
+matrix al	2
+requirement triangular matrix requirement triangular matrix decomposition	2
+triangular matrix part triangular matrix	2
+azar matrix vector	2
+matrix triangular zero vector	2
+triangular axe vector	2
+scalar swine	2
+triangular component	2
+scalar row	2
+dimension row	2
+scalar nom	2
+vector row vector animatrix	2
+row vector giving matrix	2
+matrix animatrix	2
+vector orange vector row vector magenta	2
+orange row	2
+part green	2
+matrix shoe	2
+minus matrix	2
+storage simplicity matrix	2
+top bunch zero	2
+update matrix	2
+multiply component row vector	2
+component row vector	2
+sd auto subtraction	2
+matrix update	2
+role subproblem	2
+auto club	2
+student loop implementation slicing	2
+slice loop license	2
+style programming	2
+division ambi	2
+gaussian elimination gaussian elimination	2
+algebra gaussian elimination	2
+vector row vector times row vector multiplication	2
+multiplication vector	2
+operation subtraction update sub matrix	2
+factorization ncube complexity	2
+complexity inverse cube	2
+ncube complexity	2
+back board complexity	2
+salv comma	2
+cube salt comma cube	2
+e package	2
+fluid pipe	2
+turbulence airplane	2
+matrix geometry edit	2
+pothole car pothole	2
+instance matrix	2
+alley factorization matrix	2
+entry swap	2
+ellie factorization home	2
+solution miracle solution	2
+solution simplicity	2
+factorization triangular solving triangular matrix	2
+default supper	2
+pivoting swap	2
+matrix permutation matrix permutation matrix	2
+permutation matrix output instance factorization	2
+multiply permutation matrix	2
+kasapi transpose python	2
+operation filter	2
+matrix factorization matrix blower matrix	2
+peach transpose	2
+constraint optimization	2
+expression hat	2
+concept vector	2
+star war	2
+image vector	2
+algorithm rank	2
+factorization algorithm	2
+multiplication triangular	2
+conclusion entry	2
+row vector zero	2
+row entry matrix	2
+vector factory vector zero	2
+color submatrix	2
+sub matrix dimension	2
+vector row vector matrix	2
+shot row vector row vector	2
+entry vector scalar	2
+auto matrix	2
+algorithm factorization	2
+matrix update recursion	2
+matrix beginning	2
+recursion matrix	2
+row vector scalar	2
+implementation factorization recursion	2
+matrix component matrix	2
+component matrix	2
+elimination algorithm	2
+understanding algorithm	2
+hair watt	2
+eigenpair eigenvector eigenvalue satisfie	2
+lambda eigenvector lambda	2
+python egg	2
+algebra ax lambda	2
+solution approximation eigen pair matrix	2
+representation eigen	2
+matrix vector factory vector	2
+vector lambda vector lambda vector lambda anna vector	2
+scalar matrix	2
+wanna eigen eigenpair lambda	2
+cube lambda	2
+lambda linda	2
+grocer infinity	2
+que factorization	2
+eigenvalue gas	2
+eigenvector multiply scalar	2
+poetry eigenvalue magnitude	2
+iteration meaning pre multiplying	2
+message conversion	2
+afternoon alright	2
+concept opening	2
+valuating sell	2
+expression lambda alpha	2
+rank matrix rank	2
+root summation	2
+plot pc	2
+goalkeeper brazil	2
+sample quiz	2
+air output	2
+solution hat	2
+infinity norm matrix	2
+residual hat	2
+norm hat	2
+solution norm	2
+maximizer epoch	2
+constraint perimeter lesson	2
+plot perimeter parameter forty	2
+constraint maximize	2
+contrast country	2
+rn scalar	2
+xn gradient	2
+entry gradient derivative entry respect	2
+minimizer derivative direction hessian matrix hashing	2
+aurora maximizer	2
+saddle minimizer maximizer minimizer	2
+region satisfie requirement	2
+distance tao	2
+minus tau	2
+tau proportion	2
+tao r	2
+tau times tau	2
+plus tao interval	2
+convergence tau	2
+solution minimization	2
+derivative part respect f prime	2
+derivative part respect	2
+expression newton optimization	2
+town weather	2
+decomposition matrix factorization matrix	2
+mayor matrix sigma	2
+matrix entry matrix	2
+top matrix zero	2
+diane matrix	2
+matrix multiplication sigma	2
+storage sigma	2
+vector length vector ann	2
+reduce transpose	2
+times sigma	2
+identity matrix identity matrix	2
+eigenvalue algorithm	2
+eigenvector eigenvalue lambda times inverse	2
+sigma eigenvalue sigma	2
+ice singular eigenvalue	2
+transpose sigma transpose times sigma squared	2
+eigenvalue root	2
+vera nonsingular	2
+matrix orthogonal inverse	2
+subset rationale	2
+vector nonzero vector	2
+vector nonzero vector eczema	2
+length quantity	2
+distance quantity	2
+part proof norm	2
+quantity transpose	2
+transpose quantity root	2
+singularity composition	2
+matrix r matrix sigma	2
+transpose self	2
+matrix multiply	2
+numpy nail	2
+decomposition eigenvector	2
+part algorithm	2
+sigma budget	2
+fit optimization	2
+petroleum consumption	2
+obama mccain	2
+m datapoint	2
+matrix vector equation	2
+pm matrix alpha beta	2
+solution congruent	2
+vector plane	2
+vector approximation	2
+approximation solution	2
+span hint	2
+fit formulation	2
+fun fee	2
+respect fee	2
+derivative gradient hessian	2
+equation congruent	2
+axe congruent solution minimum minus	2
+coordinate ot	2
+alpha sequel alpha	2
+parameter gamma	2
+ax transpose	2
+parameter alpha beta	2
+matrix viewer	2
+matrix expression matrix singular valley decomposition	2
+row sigma matrix sigma	2
+part interest sigma	2
+portion matrix sigma dimension	2
+typo m matrix sigma	2
+portion sigma matrix	2
+m sigma	2
+matrix ambien	2
+dimension reduce	2
+computation sigma	2
+transpose lambda	2
+lambda watt	2
+multiplie sigma transpose anne	2
+entry sigma eigenvalue transpose	2
+transpose ax lambda eigenvector	2
+lambda eye sigma	2
+matrix sigma matrix sigma	2
+transpose identity	2
+transpose python script	2
+eigenvector vi	2
+fee sigma	2
+decomposition suit sigma transpose	2
+matrix statement matrix	2
+matrix algorithm	2
+student mistake	2
+alright matrix interest matrix transpose	2
+matrix interest	2
+lambda eigen pair lambda transpose	2
+lambda transpose lambda times	2
+transpose meaning eigenvalue	2
+root book root eigenvalue trouble algorithm	2
+ncube slope plot	2
+ally factorization plot	2
+cholesky third ncube slope	2
+root market root	2
+fa interval	2
+interval ha knew interval	2
+interval root interval iteration	2
+interval boot region	2
+root interval ab	2
+approximation f expansion	2
+approx nation	2
+algorithm following	2
+approximation tangent xk	2
+interest slope triangle	2
+linear approximation	2
+equation satisfy equation	2
+eigenvalue markov chain	2
+demo ice	2
+rank sigma	2
+theory demo	2
+fit equation	2
+interval minus	2
+tolerance minus	2
+span matrix game vector	2
+plane span vector	2
+matrix ex vector coefficient fit	2
+entry matrix eigenvalue	2
+quantity interest	2
+mechanic calculator expression	2
+jupiter notebook mathematica matlab	2
+box option	2
+bound approximation	2
+approximation truncation	2
+concept graph	2
+node label	2
+matrix node	2
+connection self	2
+self edge	2
+graph transition	2
+edge self probability	2
+tomorrow ring	2
+adjacency matrix probability	2
+transition matrix entry transition matrix probability	2
+summation notebook graph adjacency	2
+transition matrix graph	2
+self node	2
+matrix weight	2
+weather tomorrow window	2
+row transition matrix vector event probability event	2
+matrix vector multiplication matrix transition matrix	2
+rain probability	2
+weather forecast prediction array	2
+weather iteration	2
+trend rain	2
+requirement probability	2
+vector respect norm	2
+matrix vector multiplication convergence	2
+matrix vector iteration	2
+solution transition matrix	2
+optimization algorithm	2
+vector gradient	2
+iteration minimizer update	2
+dissent direction portion alpha	2
+gradient alpha	2
+alpha fission	2
+solution alpha	2
+direction functional	2
+alpha f minimum	2
+direction search optimization	2
+ex xk	2
+gradient derivative parameter derivative respect alpha	2
+alpha search	2
+derivative quantity respect	2
+iteration gradient	2
+iteration gradient iteration	2
+gradient iteration graph	2
+search optimality	2
+gradient hat	2
+hessian times	2
+downside derivative	2
+derivative curvature	2
+matrix operator	2
+substitution expertise	2
+substitution anne	2
+substitution offense	2
+essay component	2
+substitution complexity	2
+eye bottom entry	2
+role row entry	2
+complexity factorization oan cube	2
+blower matrix vector	2
+part guy	2
+zero front	2
+curve solution	2
+interior interval	2
+vector bunch vector	2
+lin alg	2
+remainder approximation prediction	2
+approximation age cube	2
+expression death	2
+derivative quiz tent river	2
+prime times	2
+vector umpire	2
+coordinate cord	2
+vector dimension m	2
+shear operator	2
+movement direction	2
+storage precision	2
+toy integer	2
+transpose eigen pair	2
+predict price asset	2
+poker card dealer car opponent card dealer card	2
+car comparison	2
+histogram win	2
+circle monte carlo circle	2
+circle monte carlo	2
+circle pixel	2
+raider circle	2
+circle truth	2
+circle plot part	2
+direction night	2
+visa vector	2
+matrix multiply scalar	2
+invert determinant	2
+chew parallel	2
+color green vector triangle inequality	2
+alade norm	2
+unit bowl	2
+infinity shape unit pool vector	2
+interval criterion	2
+minimizar star	2
+interval guy	2
+possibility sake simplicity interval	2
+scenario star	2
+iteration interval iteration	2
+iteration length interval	2
+length interval tolerance interval	2
+interval convergence	2
+convergence tradeoff	2
+update newton	2
+newton age	2
+magenta root	2
+cube quadratic	2
+convergence trade	2
+approximation convergence root	2
+notebook plot	2
+anne dip noise	2
+pattern behavior	2
+magenta curve	2
+summary summarize	2
+montecarlo guy	2
+activity stock market	2
+ta transpose	2
+eye print ax solution	2
+existence zero	2
+matrix bunch	2
+story coordinate	2
+stat package	2
+eye sight	2
+axis anet slope	2
+acrylic height	2
+argument coefficient	2
+equation catch equation	2
+norm solution norm	2
+computation solution	2
+diagonal pseudoinverse	2
+expression pseudo inverse	2
+node zero	2
+percent transition	2
+probability transition matrix	2
+adjacency matrix transition matrix	2
+percent sun	2
+percent rain	2
+percent texting	2
+angle rotation	2
+mu coefficient	2
+root f	2
+approximation derivative approximation derivative	2
+vector valuating vector	2
+gradient health	2
+approximation prime	2
+derivative part	2
+algorithm newton	2
+newton algorithm	2
+activity guy	2
+indexing python	2
+fruit apple	2
+transposer array	2
+matrix anna	2
+ratio interval	2
+bracket minimizer	2
+float representation	2
+lambda vector	2
+algorithm factorization matrix	2
+matrix parameter	2
+entry response solution	2
+algorithm solution	2
+triangular matrix solution	2
+permutation matrix factorization	2
+permutation matrix permutation matrix	2
+goodbye rank	2
+matrix inverse ennis	2
+inverse singular	2
+butt sigma inverse	2
+zero signal	2
+proof matrix singular	2
+summation matrix	2
+description matrix summation	2
+approximation matrix approximation	2
+pillow package	2
+layer color	2
+grey matrix	2
+direction anne	2
+matrix bunch contribution	2
+sigma contribution	2
+brazil dial up	2
+mom illinois image compression	2
+cluster part curriculum	2
+location england north ireland scotland	2
+gamma food	2
+pc england wale	2
+pc weight	2
+alcohol drink	2
+alot pc	2
+food potato	2
+fruit alcohol drink	2
+coincidence potato	2
+region part	2
+geography coincidence	2
+coincidence outlier	2
+food pattern	2
+tumor cell radius texture	2
+characteristic tumor cell	2
+hundred patient	2
+correlation matrix	2
+matrix correlation matrix temp	2
+gamma thirty	2
+bedside star	2
+texture bunch	2
+center gravity wanna	2
+distance amount	2
+contribution fit	2
+orange distance	2
+green anne	2
+possibility fit theta	2
+rotation axis	2
+theta rotation	2
+degree angle iconic	2
+summation orange	2
+orientation contribution orange distance	2
+motivation thought	2
+variance ex	2
+mall variance	2
+orange spread	2
+variance parent transpose	2
+covariance transpose	2
+panda analysis	2
+matrix covariance	2
+direction spread	2
+entry transform	2
+watt eigenvector transpose diagonalization	2
+diagonalization covariance matrix	2
+entry transpose rotation	2
+eigenvector transpose matrix	2
+eigenvector transpose covariance matrix eigen transpose	2
+entry sigma root lambda	2
+ice eigenvalue transpose covariance matrix	2
+direction eigenvector transpose variance	2
+variance sigma	2
+lambda eigenvalue eigenvector pc plot	2
+sigma transpose envy pc	2
+unit vector direction spread	2
+pc construction	2
+understanding part	2
+spread direction	2
+rotation matrix direction	2
+smoothing radius pc	2
+distribution direction variance spread	2
+setosa versicolor	2
+flower bucket category	2
+smoothness plot	2
+flower category colour	2
+color virginica cluster	2
+entry signal matrix	2
+matrix spread variance singular	2
+axis pc	2
+anne singular length ball	2
+variance axis	2
+av ambien matrix	2
+lamb matrix	2
+matrix cake	2
+cake matrix	2
+iris recipe	2
+unit roughness	2
+roughness surface cell	2
+unit deviation	2
+modeling pc	2
+bar summation variance	2
+percent contribution	2
+percent plot kink	2
+category setosa	2
+matrix region	2
+versicolour overlap	2
+component weight	2
+component entry vector pc	2
+entry pitot length entry width	2
+bar plot component	2
+alpha length	2
+gamma sepal length	2
+theta noun flower measurement	2
+matrix patient	2
+criterion tune	2
+region overlap region	2
+diagnosis region	2
+regression optimization	2
+starting algorithm weight	2
+component row weight	2
+row weight	2
+disease star multiply matrix	2
+soccer fan	2
+player skill	2
+soccer skill	2
+attacking player	2
+prediction cup china brazil	2
+skill player	2
+pc analysis	2
+game cup	2
+fun pokemon	2
+recipe alright interpolation	2
+norm matrix norm vector	2
+convolution demo	2
+factorization triangular matrix	2
+iterate iteration	2
+alpha iteration	2
+respect coordinate	2
+coordinate city	2
+drink weight	2
+interval newton	2
+newton iteration	2
+kilometre direction	2
+kilometer direction	2
+mono meal basis	2
+degree polynomial degree	2
+evasion node	2
+decomposition summation	2
+sigma transpose matrix rank	2
+matrix rice	2
+approximation sigma transpose	2
+magnitude neglecting	2
+singular contribution	2
+pc pot	2
+fruit england scotland wale consumption comparison consumption	2
+glance pc	2
+rotation theta basis	2
+depart plot	2
+variance event	2
+typo uhm	2
+flower acetosa	2
+category pair plot despair plot	2
+vector position	2
+approximation finite	2
+vector perturbation	2
+matrix finite	2
+alpha matrix	2
+minus float	2
+interval towel	2
+iteration alpha	2
+bar lambda	2
+linda bar	2
+cube computation cube	2
+estimate sigma	2
+eigenvalue convergence	2
+part precision	2
+matrix triangular matrix	2
+triangle matrix	2
+plot histogram	2
+spread deviation	2
+variance distribution	2
+transpose expression	2
+newton variation newton	2
+equation coefficient fit solution	2
+consumption petroleum	2
+origin coordinate	2
+mini coefficient	2
+vector coefficient matrix	2
+respect amb	2
+entry matrix justice entry matrix	2
+vector m entry	2
+covariance matrix diagonalization	2
+weight pc	2
+shoot shoe horse	2
+iteration region direction	2
+optimization illustration	2
+party reference party reference optimization	2
+performance tradeoff	2
+search parameter	2
+solution starting	2
+location city	2
+algorithm distance city	2
+zigzag pattern alpha	2
+eigenvector vector	2
+train model	2
+percent prediction	2
+amount pokemon	2
+inverse norm	2
+minus computation entry summation	1
+summation slash subtraction	1
+entry subtraction	1
+amount operation	1
+synthetic matrix	1
+substitution factorization operation	1
+factorization division	1
+auto multiplication	1
+auto vector row vector entry	1
+computation multiplication	1
+scalar subtraction	1
+subtraction matrix	1
+subtraction entry matrix	1
+update subtraction	1
+plus complexity	1
+cube summary	1
+claim essence	1
+factorization bunch operation	1
+substitution summary	1
+operation cholesky	1
+cholesky factorization starting	1
+cube plot	1
+scaling slope	1
+interval ha knew	1
+tolerance interval root	1
+route tour root	1
+coefficient wine	1
+demos taylor	1
+approximation expansion	1
+expansion series	1
+index coefficient correspond derivative multiply	1
+infinity eye	1
+bank summation	1
+infinity ice derivative factorial	1
+f summation	1
+infinity ice	1
+taylor accra	1
+f prime interest	1
+degree ann	1
+degree taylor air	1
+mine taylor approximation	1
+air meaning	1
+ax air	1
+guy theater	1
+alpha beta theta	1
+factorial remainder theorem	1
+factorial expression remainder	1
+interval interest	1
+theorem theta	1
+magnitude interval	1
+scope remainder theorem	1
+conclusion theta	1
+theta length	1
+taylor approximation degree remainder	1
+degree taylor approximation	1
+derivative position	1
+gap accent	1
+taylor plot	1
+derivative tangent	1
+triangle axe	1
+label plot	1
+taylor graph	1
+f taylor expansion degree	1
+prediction uhm taylor interval	1
+expression e	1
+degree taylor degree	1
+tailor degree correspond	1
+magnitude scientist	1
+reality magnitude	1
+computation python	1
+expression scene	1
+derivative sine	1
+diff ten	1
+python array	1
+plot simpi	1
+taylor expansion derivative	1
+quiz taylor expansion degree	1
+watt paper	1
+tea guy	1
+expansion plot part	1
+plot coincide	1
+slope plot slope plant	1
+plot taylor expansion degree	1
+exam root	1
+taylor ann snippet	1
+tale degree	1
+multiplie queue	1
+factorial death	1
+alternating pattern	1
+cosine sine	1
+taylor air	1
+demo home	1
+derivative extension	1
+ex zero	1
+asymptotic behavior	1
+instructor iclicker	1
+titus brown	1
+concept roll notation	1
+m multiply	1
+behavior air	1
+air degree	1
+degree expansion degree	1
+concept confusion taylor	1
+taylor expansion approximate prediction	1
+ton homework	1
+demo clue	1
+monte carlo walk	1
+stock market game	1
+logistic cluster	1
+campus wire feedback	1
+campus wire communication	1
+channel medium	1
+prayer assessment	1
+assignment programming assignment	1
+pseudocode paper	1
+guy notebook	1
+weekend platform	1
+part team	1
+zoom office	1
+teaching assistance	1
+att assistance	1
+team assistance	1
+claim beginning	1
+attendance policy	1
+logistic attendance	1
+syllabus assessment	1
+hundred grade	1
+student bonus	1
+threshold cat	1
+cap grade quiz	1
+amount quiz	1
+homework pm homework	1
+deadline homework	1
+algebra content	1
+essence homework	1
+solution homework	1
+tivity tab	1
+correctness homework correctness homework	1
+bar top trailer out	1
+demo pregnancy	1
+student resource	1
+homework activity quiz	1
+grading assessment	1
+algebra demo	1
+guy zoom	1
+instructor permission	1
+freebie attendance	1
+syllabus activity	1
+activity assessment	1
+timeline pm hoop	1
+credit reminder	1
+resource re textbook	1
+transcribe activity	1
+activity student	1
+classroom scribe	1
+icon activity	1
+demo activity	1
+honor assessment	1
+student connect	1
+walk student	1
+peer essence	1
+caption dress	1
+activity pm	1
+guy assessment quiz	1
+calendar schedule	1
+arrangement conflict	1
+conflict requirement	1
+activity jupyter notebook	1
+style classroom student	1
+quiz guy quiz activity	1
+opportunity guy	1
+sync flexibel student	1
+student activity	1
+tomorrow noon permission	1
+user email	1
+pm option	1
+activity opportunity student	1
+part email	1
+absence ease	1
+hundred assessment	1
+morning pm night	1
+mass co	1
+learning opportunity	1
+attempt activity	1
+pressure opportunity	1
+notebook peer	1
+office schedule	1
+tomorrow staff meeting	1
+zoom meeting	1
+campus wire pair	1
+flexibility guy	1
+graph theory	1
+exam snow	1
+activity reminder	1
+slot default site	1
+survey tomorrow noon	1
+exam learning	1
+participation collaboration	1
+survey peer survey	1
+feedback student	1
+activity suggestion	1
+campus wire stagger	1
+homework pm	1
+email campus wire	1
+duty activity	1
+burden vision	1
+campus wire office	1
+quiz office	1
+bunch office	1
+textbook content	1
+assessment parallel	1
+text box bunch text	1
+text summary	1
+survey student	1
+assignment knowledge quiz	1
+mastery content skill	1
+pool quiz	1
+quiz decay	1
+instance quiz	1
+button instance	1
+algebra credit	1
+desk diary	1
+quiz linear algebra review	1
+algebra quiz homework	1
+review activity	1
+yesterday survey background	1
+learner fruit development bunch	1
+student development	1
+notebook cell	1
+activity team member workspace	1
+cell enter cell	1
+cell notebook	1
+notebook team member	1
+notebook activity	1
+algebra review grade	1
+grade assessment	1
+instance disregard	1
+kink workspace	1
+parenthesis operation	1
+algorithm addition	1
+grade school operation	1
+part machine	1
+machine float minus	1
+loss precision phenomenon	1
+loss precision operation	1
+computation precision	1
+float machine	1
+machine exponent	1
+magnitude precision	1
+digit computation minus	1
+digit machine	1
+denominator root	1
+squared root	1
+computation subtraction machine	1
+machine float	1
+computation minus	1
+computation machine	1
+machine minus float	1
+rounding computation rounding	1
+computation rounding	1
+e norm e iteration	1
+ordering lambda	1
+notebook tutorial	1
+haha python	1
+tutorial attention	1
+python calculator	1
+integer float	1
+multiplication integer content quantity	1
+comment quote	1
+integer mixture float	1
+string integer	1
+assignment vehicle	1
+pointing location	1
+object memory	1
+modifying bead	1
+bowl string	1
+button demo	1
+object location memory	1
+object location object	1
+hello goodbye	1
+goodbye bee	1
+horse ann	1
+alright john science john string	1
+tim john meaning	1
+john string object science tim	1
+object statement object	1
+john tim	1
+string tim	1
+honor strength	1
+julie honor	1
+string object	1
+gnu object food	1
+pole fruit	1
+penn plum	1
+object fruit	1
+modifying item plump	1
+print food	1
+item part	1
+plum tuple	1
+food pointing object	1
+python index	1
+slicing slice	1
+concept loop	1
+statement python	1
+dictionary python	1
+dictionary mariana entry	1
+argument print greeting	1
+default friend default	1
+default quantity	1
+student asset	1
+amb object	1
+iclicker poll	1
+john science john strength tim john	1
+argument tim	1
+tim john object john	1
+object tom	1
+major minor john major	1
+major john argument	1
+physics object lokoli	1
+argument object	1
+saint john assignment john	1
+python num part	1
+calculation entry array	1
+array alisa	1
+float node float	1
+boundary domain	1
+beginning domain	1
+shape dimension array andy array	1
+grade operation	1
+student iclicker	1
+priority operation	1
+president operation	1
+array length	1
+comma shade	1
+background array vector	1
+array dimension	1
+operation scene	1
+matrix mount	1
+array direction	1
+crossing finger	1
+multiply scene	1
+comma operation	1
+multiply matrix array	1
+indexing empire race	1
+python story indexing	1
+row rose	1
+index road index	1
+umpire raise	1
+slice business pointing location	1
+location slice	1
+object slice matrix	1
+component index	1
+pointing object	1
+precision representation	1
+peace precision	1
+exponent representation	1
+precision scale	1
+part significant	1
+bank exponent	1
+gap r	1
+gap strange gap	1
+exponent gap	1
+gap bunch integer	1
+concept machine absent	1
+disease toy	1
+sequence integer	1
+limitation precision	1
+part integer	1
+rank matrix print matrix rank	1
+matrix randint	1
+image pixel direction	1
+decomposition matrix dimension	1
+eigenvalue ton	1
+comparison eigenvalue	1
+tail eigenvalue	1
+image grayscale	1
+vector rank	1
+singular image	1
+image ann	1
+plot weather image	1
+resolution image	1
+loop daisy	1
+thinking norm	1
+sigma segment	1
+wall feedback	1
+dimension m	1
+matrix dimension transpose	1
+eigen decomposition motivation	1
+decomposition eigen decomposition	1
+egg transpose matrix	1
+eigenpair eye vector	1
+vi eigenvector	1
+nature matrix	1
+transpose eigenvector	1
+matrix root eigenvalue	1
+eigenvector guideline	1
+estimate trick	1
+entry diagonal matrix	1
+aid transpose	1
+matrix eigendecomposition	1
+singular transpose	1
+behavior matrix	1
+window cholesky	1
+scale alpha	1
+factorization scale matrix	1
+matrix emby	1
+print matrix rank	1
+matrix sig	1
+part representation	1
+representation integer part	1
+basis scenario	1
+part gap	1
+part precision representation	1
+bid integer part	1
+coordinate positioning	1
+task angle beta angle	1
+equation solution equation solution lee	1
+rank matrix meaning matrix	1
+meaning banana	1
+portion matrix sigma matrix	1
+transpose multiplie	1
+transpose sigma r	1
+matrix transpose vector	1
+toggle matrix	1
+diagonal matrix transpose	1
+multiply sigma	1
+rank ambien rank	1
+rank solution exit	1
+sigma r transpose solution	1
+expression tom kenny	1
+equation starting sigma foot	1
+vectra foot transpose matrix vector multiplication	1
+reminder matrix	1
+sigma matrix sigma	1
+rank matrix r	1
+sigma art	1
+sigmar multiplie	1
+entry r transpose	1
+wanna vector	1
+entry times sigma	1
+watt transpose sigma	1
+transpose beat sigma	1
+transpose sigma eye	1
+part vectra	1
+norm factory	1
+vectra saint	1
+vector vi vector	1
+solution sigma	1
+inverse matrix r sigma	1
+pseudoinverse signal matrix	1
+sigma art pseudoinverse	1
+sigma pseudoinverse	1
+multiply matrix vector multiplication part computation sigma art	1
+vector bite	1
+vector operation vector	1
+substitution equity	1
+multiplication salvation	1
+distribution complexity	1
+founder ice bottom entry	1
+complexity vectorization	1
+owen cube	1
+substitution anna backward substitution	1
+solution ncube	1
+tenth cube	1
+equation bottom	1
+equation matrix vector equation	1
+matrix equation reorder solution	1
+pivoting algorithm	1
+entry factorization	1
+iteration entry	1
+american ability	1
+triangular matrix complexity	1
+cube permutation matrix identity matrix	1
+permutation entry permutation	1
+identity matrix permutation	1
+matrix equation	1
+inverse permutation matrix transpose matrix	1
+matrix inverse transpose	1
+permutation matrix inverse	1
+implementation pivot e	1
+pivot e	1
+implementation pivoting	1
+basis integer part	1
+alright fear	1
+python notebook jupiter notebook	1
+tv mathematica	1
+fractional nonzero	1
+month integer	1
+zero integer	1
+coefficient representation	1
+rangement precision	1
+basis representation	1
+basis variation	1
+m exponent representation	1
+split bunch zero	1
+part signific	1
+part signal bee	1
+location waht	1
+mathematica script	1
+guideline normalization	1
+part characteristic	1
+minus expression	1
+instance exponent	1
+part toy	1
+gap distance	1
+coefficient series	1
+part machine absent	1
+minus pad	1
+top machine epsilon	1
+machine excellence	1
+understanding representation memory	1
+minimum max	1
+part significance	1
+abunch zero	1
+exponent string	1
+fraction infinity	1
+calculate root	1
+anna infinity	1
+ann app precision	1
+characteristic precision machine epsilon machine epsilon	1
+machine epsilon exponent	1
+representation zero reserve	1
+infinity reality	1
+analysis precision	1
+machine absolon machine absolon	1
+infinity magnitude underflow	1
+ass saint	1
+f zero	1
+basis precision	1
+precision quiz exponent precision	1
+calculation computation	1
+operation trouble	1
+sub precision	1
+precision fit	1
+region overflow region overflow	1
+precision default python	1
+float precision	1
+efficiency matrix	1
+simulation vehicle impact	1
+flow computation trust	1
+bandit representation	1
+representation matrix array	1
+representation matrix	1
+representation coordinate	1
+storage matrix coordinate	1
+array row array	1
+row array row entry	1
+row index entry	1
+entry row entry	1
+storage row	1
+float array float	1
+matrix integer index	1
+array float	1
+ceo sake	1
+row item entry	1
+sparse row matrix	1
+row pointer roll pointer	1
+entry row pointer entry roll pointer	1
+entry array float	1
+array integer row pointer row pointer row matrix	1
+default python comma	1
+comedian norm	1
+contribution direction	1
+expression update	1
+lambda times alpha	1
+entry iteration update	1
+entry iteration approximation lambda	1
+portion markov chain	1
+markov chain thursday	1
+pitfall overflow counter	1
+mate lambda	1
+approximation eigenvalue subtract	1
+eigenvalue convergence update iteration	1
+iteration eigenvalue update	1
+lambda array	1
+theory convergence iteration mrs	1
+kayla ratio entry	1
+comment home	1
+iteration inverse iteration	1
+model thinking inverse matrix	1
+computation ncube	1
+eigenvalue acoustic	1
+region eigenvalue	1
+eigenvalue diagonalization matrix	1
+sigma identity matrix sigma	1
+ratio entry eigenfactor	1
+eigenvector python	1
+loop calculation convergence	1
+flow convergence	1
+summary table	1
+eigenvalue markov chain eigenvalue	1
+google rank	1
+chat environment	1
+beginning alright	1
+interval minimizer interval	1
+solution minimizer boundary	1
+update search	1
+interval stay	1
+loop interval	1
+iteration cow	1
+solution interval minimizer interval	1
+search ratio convergence	1
+approximation minimization sequence optimization	1
+derivative wine guy	1
+percent student conversation tomorrow	1
+quiz tomorrow	1
+google lab	1
+google app	1
+friend google beginning	1
+coin toss dice roll	1
+cylinder radius	1
+volume intersection	1
+repetition loop	1
+origin solid center	1
+cylinder axe	1
+box sample	1
+friend geometry	1
+select cylinder axis plane cross cylinder	1
+plane direction plane	1
+coordinate plane position	1
+plane pointing outward	1
+slender direction cylinder axis	1
+cross cylinder	1
+direction cylinder axis	1
+plane coordinate	1
+inequality constraint pointer	1
+inequality xan	1
+google guy	1
+text cell	1
+probability sample	1
+series sample	1
+r radius cylinder ann	1
+cylinder endpoint cell	1
+loop sample	1
+interest box center origin	1
+r meaning	1
+volume interest	1
+domain volume	1
+variety minimum uniform	1
+uniform interval	1
+box anne	1
+position r	1
+cylinder ratio probability	1
+endpoint probability	1
+volume probability	1
+montecarlo integration	1
+volume box	1
+region volume box	1
+solution volume	1
+volume append	1
+monte carlo root	1
+monte carlo snow	1
+thinking walk	1
+track rand walk	1
+rand walk	1
+part item rand walk	1
+landmark walk	1
+nature randomness	1
+user walk meaning price	1
+die magnitude	1
+dice magnitude	1
+delta flip eye roll stock price guy	1
+stock price tomorrow	1
+price tomorrow	1
+probability price	1
+delta toss row flip ice	1
+walk price	1
+starting stock	1
+stock estimation	1
+unit variation	1
+dollar price asset	1
+price m price	1
+experiment simulation	1
+experiment price	1
+parameter distribution	1
+interest parameter	1
+volatility stock market parameter	1
+shell stock market model	1
+shole model	1
+thinking walk model orientation	1
+kid game	1
+lady door murphy	1
+floor plan	1
+layout murphy	1
+bathroom position	1
+corner bathroom	1
+physics coordinate	1
+tation angle alpha anna magnitude	1
+door murphy	1
+alpha rand	1
+cosine alpha	1
+alpha pie	1
+movement walk position	1
+array position ray	1
+mine text	1
+beginning marion tension lady	1
+fate butter superpower	1
+constraint position	1
+school bathroom	1
+wall story	1
+percent tail	1
+orientation bathroom	1
+degree wall uhm	1
+direction quality distribution	1
+percent uhm	1
+m loop meaning	1
+success bathroom	1
+percent lesson	1
+stock market trading	1
+r interest sigma volatility stock market	1
+distribution sample	1
+dollar price asset interest volatility delta trading	1
+shole model stock market	1
+prison norm	1
+plot logo ex bar	1
+expression axis	1
+descent search	1
+search bass alpha	1
+convergence conversion	1
+south position	1
+tuesday activity thursday	1
+dimension vector rn	1
+perimeter constraint maximization	1
+label constraint	1
+perimeter plot	1
+plane panda plane	1
+perimeter constraint plane	1
+triangular region perimeter	1
+solution color	1
+solution region curve	1
+constraint region	1
+country direction	1
+star solution	1
+region solution satisfy	1
+hessian matrix vector	1
+star solution vector	1
+age vector	1
+scalar eigenvalue	1
+star minimizer part	1
+saddle minimizer solution minimizer	1
+minimizing rank approximation rank matrix	1
+rank approx rank approximation	1
+part norm matrix	1
+norm matrix ann	1
+rank approximation image compression image	1
+direction pixel direction image	1
+blur matrix vector	1
+blur blower	1
+shape nonzero entry length array float	1
+part erase ceo storage	1
+rope pointer	1
+rope pointer reference	1
+length ray	1
+band zero	1
+python precision	1
+alley matrix	1
+mama factorization	1
+matrix determinant	1
+matrix determinant matrix being	1
+button axe	1
+hat vector	1
+hat derivation	1
+hat following	1
+quantity machine	1
+pivot guarantee	1
+alley salv	1
+eli pivoting	1
+shower pivoting	1
+ann matrix mall	1
+solution garbage	1
+factorization pivoting meaning	1
+python mbr	1
+accuracy ass hat accuracy digit	1
+computation matrix	1
+box hat	1
+digit accuracy solution garbage	1
+norm soap norm	1
+summer wife	1
+horse assistance	1
+season experience	1
+opportunity classroom	1
+given frankie	1
+force prank	1
+force stiffness	1
+newton spring	1
+newton meter	1
+spring motivation	1
+air car	1
+force drag force	1
+gas usage gas mileage	1
+drag coefficient velocity drag force	1
+coefficient density air	1
+cross car	1
+air front velocity speed car relation	1
+root drag force coefficient drag	1
+velocity coefficient velocity	1
+starting interval root	1
+interval root midpoint starting interval	1
+iteration route	1
+region root	1
+difficulty newton	1
+derivative yep	1
+interval zero	1
+top graph	1
+bottom graph zero	1
+requirement route	1
+m r	1
+yellow midpoint iteration	1
+interval update	1
+iteration device	1
+solution star root	1
+approximation star	1
+xk iteration interval	1
+limit ghost infinity ratio	1
+infinity convergence	1
+convergence watt	1
+r convergence addition star comment terminology r	1
+convergence summary	1
+starting instance	1
+solution tolerance	1
+implementation algorithm	1
+summary iclicker	1
+statement evaluation	1
+statement evaluation iteration	1
+f loop	1
+f midpoint	1
+snippet summary	1
+starting evaluation	1
+update exit	1
+xk newton	1
+derivative aspect newton	1
+taylor approximation thinking newton	1
+anne newton	1
+approximation tangent	1
+tangent f prime iteration	1
+cast newton	1
+evaluation summary	1
+solution limitation	1
+derivative demo newton	1
+newton tangent	1
+axis update	1
+tangent crossing	1
+solution news	1
+monte carlo sample route	1
+dependence gas	1
+algorithm root	1
+newton update	1
+r byte	1
+starting gas newton	1
+decay digit	1
+digit accuracy iteration	1
+convergence evaluation eval pro iteration	1
+lee quadratic	1
+prime equation	1
+slope curve triangle elf	1
+approximation derivative plug	1
+compromise convergence newton	1
+conversion newton	1
+newton gas convergence	1
+root newton	1
+evaluation iteration elimination	1
+iteration table	1
+eval derivative	1
+axis green	1
+derivative tangent seek	1
+conversion sequence characteristic newton	1
+sequence newton	1
+r ratio	1
+doubling accuracy	1
+newton secret	1
+slash part thursday	1
+equation alright	1
+thursday wednesday	1
+matrix norm matrix norm	1
+norm vector matrix multiply vector	1
+norm transpose	1
+multiplying vector requirement norm	1
+rank inverse matrix	1
+norm inverse singular minimum	1
+norm pseudo inverse norm inverse	1
+nightmare alright guy	1
+option demo binder	1
+jupiter notebook icon install	1
+announcement quiz	1
+thursday python content	1
+python tutorial	1
+peter tomorrow evening	1
+tutorial tomorrow evening nicholas	1
+resource squid quiz	1
+quiz star assessment	1
+doll baby	1
+percent assessment	1
+reference activity homework	1
+demos python demo	1
+homework plenty	1
+quiz jupiter notebook	1
+home guy	1
+instruction length	1
+probability noise axe perturbation	1
+helper noise	1
+el probability prob	1
+guy noise umpire dean	1
+leica empire race	1
+ed noise	1
+entry ally scalar prob noise	1
+array umpire dimension	1
+back object entry	1
+lord ring	1
+movie friend	1
+voice signal	1
+signal processing	1
+favor hunger game quiz	1
+pride alarm	1
+manipulation erase	1
+lens face	1
+duration music	1
+sample thousand	1
+ramp noise	1
+ramp envelope ramp	1
+bunch sample	1
+minus ramp	1
+envelope ramp	1
+manipulation array	1
+stack music beep duration	1
+node quarter	1
+instance sequence frequency	1
+music duration	1
+entry duration	1
+beginning wikipedia frequency piano	1
+num array	1
+duration frequency	1
+array music	1
+pryor array	1
+ball game song	1
+experience python	1
+snowman map movie	1
+percent eye	1
+guy friend	1
+notation approximation	1
+magnitude complexity	1
+reference text	1
+axe dimension	1
+interest complexity	1
+infinity alexander	1
+interval accuracy	1
+behavior outside scale	1
+alright notation	1
+bar coefficient	1
+cubed statement	1
+cube orange	1
+scale plot	1
+statement alright	1
+e lesson	1
+eight statement	1
+ghost infinity opposite ascent	1
+alpha age	1
+battery complaint	1
+approximation notation	1
+e alpha	1
+cancel e	1
+anne calculation	1
+love plot	1
+github repo	1
+nicholas peter	1
+approximation affect	1
+hat derivative approximation	1
+prime zero	1
+convergence root finding	1
+sigma matrix multiply matrix	1
+rank matrix frank	1
+matrix sigma transpose kay minimum	1
+minimum eminem sigma transpose	1
+sigma eye	1
+sigma r singular	1
+rank eagle	1
+rank completion	1
+uhm bunch bullet	1
+rank matrix review	1
+rank deficient sigma transpose	1
+signal sigma	1
+sigma pseudoinverse sigma	1
+pseudoinverse matrix	1
+r pseudoinverse	1
+inverse matrix sigma	1
+matrix multiply vector	1
+norm bulk norm peak	1
+identity transpose	1
+matrix bullet	1
+multiplying vector	1
+singular sigma	1
+norm inverse norm bill cleaning norm sigma maximum	1
+rank inverse sigma matrix	1
+norm inverse singular sigma minimum	1
+sigma nonzero	1
+norm pseudoinverse norm inverse	1
+sigma minimum singular	1
+infinity translating sigma maximum eigenvalue	1
+matrix mine approximation norm	1
+rank approximation rank matrix	1
+uhm rank approx rank approximation	1
+sigma yuan transport	1
+part uhm norm matrix	1
+matrix approximation kate	1
+image compression image	1
+pixel direction	1
+sigma transpose expression sigma transpose	1
+scale ncube factorization lasky matrix	1
+sequence matrix vector multiplication update iteration initial	1
+response eigenfactor eigenvalue lambda eigenvalue magnitude	1
+riley coefficient expression lambda	1
+pear matrix	1
+inverse lambda	1
+lambda essence	1
+lambda eigenvalue inverse	1
+snippet option eigenvalue matrix	1
+matrix permutation triangular matrix	1
+vector wine	1
+sequence song	1
+eigenvalue magnitude lambda	1
+matrix eigen paris lambda ex matrix lambda	1
+axe lambda	1
+eigen pair lambda	1
+eigen pearland axe matrix	1
+sigma lambda eigen pair lambda matrix	1
+eigen pair lambda bar matrix	1
+solution accent lambda	1
+sigma summary	1
+sigma eigenvalue	1
+matrix sigma lambda eigenvalue matrix	1
+eigenvalue matrix sigma	1
+lambda bar saint sigma lambda	1
+sigma convergent lambda	1
+eigenvalue sigma lambda sigma inverse matrix	1
+sigma mini eigenvalue	1
+norm axe	1
+ncube operation sequence operation	1
+lambda eigenvalue sigma	1
+lambda eigenvalue magnitude sequence matrix	1
+sequence operation eigenvalue lambda convergence	1
+fraction lambda eigenvalue lambda	1
+eigenvalue convergence lambda	1
+sigma eigenvalue sigma mine	1
+convergence sigma seat lambda	1
+sigma lambda sigma	1
+convergence ratio fraction	1
+roof cell phone	1
+resident audio	1
+vga home resident apple tv wireless	1
+book room	1
+instance plot bunch	1
+distance fit	1
+approximation basis	1
+gas petroleum consumption	1
+noise pattern	1
+school height verse story height building	1
+fit bar	1
+demo craziness	1
+height verse story	1
+r amb slope	1
+slope bee intercept	1
+correlation fit	1
+goodness r	1
+garbage trouble guy	1
+quadratic requirement	1
+equation instance	1
+equation matrix vector multiplication matrix vector multiplication	1
+convention coefficient	1
+coefficient starting	1
+coordinate coefficient	1
+multiply beer	1
+determinate equation	1
+solution option	1
+matrix ann coefficient	1
+plane pen matrix	1
+plane grain	1
+distance vector	1
+span r	1
+r orthogonal	1
+projection span	1
+span meaning transpose r	1
+vectra vector coefficient	1
+meaning distance fit	1
+calculus derivation summary	1
+transpose solution equation solution	1
+calculus derivation	1
+fit vector minimization vector	1
+fee gradient phi	1
+derivative norm pea norm derivative	1
+pickle pecos infinity	1
+pizza norm vector	1
+vector root	1
+derivation notation	1
+axe pico sue norm	1
+calculus derivative	1
+norm minus	1
+respect vector part	1
+vector calculus	1
+calculus expression	1
+equation calculus	1
+ex solution	1
+ally transposing transpose	1
+solution equation solution	1
+ambien coefficient	1
+decomposition matrix sigma matrix	1
+matrix transpose eigenvalue lambda	1
+relation eigenvalue	1
+lambda eye eigenvalue transpose sigma	1
+equation pair	1
+vander mod matrix	1
+matrix datapoint	1
+fit curve	1
+pitfall matrix	1
+fitting equation	1
+top equation	1
+transpose voucher	1
+plaza pardon direction	1
+equation mistake	1
+plot love	1
+coefficient correlation	1
+clicker beginning	1
+height graph	1
+variation quiz	1
+matrix ax	1
+equation starting	1
+vector coefficient coordinate matrix	1
+quiz permutation matrix	1
+permutation swap	1
+iran extent	1
+coefficient slope bee intercept	1
+r coefficient correlation	1
+regression prediction	1
+behavior ice	1
+extent quadratic	1
+coefficient quadratic pool	1
+coefficient butter	1
+matrix vector ex vector axis	1
+cubic matrix	1
+optimization terminology	1
+inequality constraint inequality constraint	1
+equality inequality	1
+outside limitation	1
+passing argument	1
+box equality constraint	1
+perimeter lesson	1
+parameter constraint parameter constraint optimizer	1
+perimeter green	1
+boundary perimeter	1
+primary perimeter optimization	1
+terminology region solution	1
+curve derivative curve tension derivative	1
+pointing direction	1
+gradient direction gradient	1
+guarantee minimizer	1
+derivative respect bunch respect bunch	1
+entry gradient derivative entry respect df respect	1
+minimizer derivative minimizer derivative direction hessian matrix	1
+transpose hy scalar	1
+star minimizer star minimizer	1
+prime cubed	1
+equation interval	1
+region app satisfy requirement	1
+iteration proportion iteration proportion	1
+bottom proportion	1
+proportion tau	1
+iteration recursion iteration recursion interval iteration	1
+route tau	1
+search interval iteration search	1
+minus location	1
+interval knew	1
+meaning initial	1
+search interval multiply interval multiply	1
+quadratic f tilde	1
+derivative respect axe	1
+part respect part respect derivative part respect	1
+expression optimization	1
+optimization wanna	1
+nonlinear curve	1
+approximation minimizer	1
+knowledge derivative search demo	1
+approximation quadratic approximation	1
+curve green	1
+solution quadratic	1
+solution minimum maximum	1
+xk prime	1
+equation optimization prime	1
+root finding derivative	1
+uhm student	1
+quiz opportunity	1
+son timeline	1
+source communication	1
+notebook uhm	1
+equation vector coefficient	1
+theory boat	1
+entry table	1
+annotation table	1
+route interval tolerance	1
+seat counter	1
+accuracy tangent	1
+tangent secant newton	1
+evaluation sequent	1
+matrix part	1
+part interest	1
+portion dimension	1
+matrix transpose dimension	1
+typo matrix transpose matrix	1
+representation f	1
+ith derivative	1
+cause prime	1
+allotment homework	1
+taylor approximation degree remainder approximation prediction	1
+approximation cube	1
+expression diff	1
+derivative quiz	1
+taylor digits repetition home	1
+pool homework	1
+derivative portion	1
+numerator finite evaluator	1
+plot taylor	1
+drifter demo	1
+soda vector	1
+game endgame	1
+shape entry	1
+classifier player	1
+top andy dalton	1
+tom brady	1
+games tom brady	1
+top stack	1
+classifier quarterback	1
+player com quarterback	1
+andy dalton bee	1
+entry linear solution residual approximation	1
+prediction wendy	1
+reality player	1
+predict false	1
+death fantasy football cancer	1
+doctor cancer	1
+essentia lee	1
+loot loop	1
+andy dalton matrix	1
+ranking team	1
+team quarterback	1
+player history agency	1
+player home	1
+game history home	1
+opponent rank accuracy model	1
+receiver quarterback	1
+parameter game	1
+performance training validation	1
+threshold accuracy	1
+afternoon mariana silva instructor background guy	1
+tenure track professor department	1
+effort scene	1
+improvement development part	1
+part syllabus	1
+expectation component	1
+relat interface	1
+quiz testing facility	1
+assistant logistic	1
+student email	1
+contribute environment	1
+piazza part calendar	1
+office slot	1
+basement civil	1
+ta ora ci date quiz period quiz	1
+date home	1
+emergency schedule	1
+top schedule	1
+date homework	1
+calendar syllabus office	1
+student office	1
+monday schedule	1
+thursday monday	1
+checkbox graph	1
+thursday python introduction homework	1
+transpose matrix checkbox bunch	1
+schedule homework	1
+amb homework	1
+homework amb	1
+release homework part	1
+multicolor simulation	1
+part bottom	1
+percent bonus incentive	1
+percent ten	1
+percent emergency	1
+homework learning opportunity	1
+opportunity estimation	1
+mastery concept	1
+percent bug	1
+deadline schedule	1
+friend solution	1
+homework assessment homework learning opportunity	1
+quiz home office	1
+resource quiz	1
+credit student	1
+fill blank	1
+quiz review algebra	1
+opportunity facility	1
+learning environment	1
+wednesday saturday spring	1
+wednesday saturday	1
+homework score grade	1
+interview trip	1
+schedule quiz	1
+algebra vatican	1
+developer pearland	1
+professor mapquest tim	1
+web browser python	1
+mathematica ton software	1
+student python quiz	1
+student script matrix	1
+department requirement	1
+student anxiety	1
+quiz february	1
+home nap	1
+april ninth	1
+instance quiz sour	1
+instance quiz student	1
+quiz period wednesday	1
+quiz alot randomization	1
+interest report	1
+policy department	1
+grade reduction	1
+period absent excuse	1
+verse quest	1
+wednesday saturday quiz	1
+tuesday saturday	1
+statement skate	1
+message blog	1
+spread taff	1
+syllabus schedule reference demo	1
+staff resource python tutorial	1
+resource reference series	1
+quiz bottom	1
+objective quiz	1
+google spreadsheet	1
+pitch representation	1
+guy student	1
+selector demos jupiter notebook	1
+demo location demos	1
+interact demos	1
+web environment	1
+model assumption	1
+month part	1
+percent senior	1
+bunch senior	1
+student machine	1
+machine scene optimization	1
+statistic connection	1
+explosion conversion	1
+approximation conversion	1
+titanium optimization tradeoff optimization	1
+image recognition	1
+simulation curve dream research	1
+loading structure behavior structure	1
+behavior trend	1
+america experience	1
+modeling part	1
+algorithm accuracy	1
+formulation integration	1
+app modeling	1
+xx solution	1
+intro demo	1
+finite memory	1
+modeling accuracy part	1
+component complexity	1
+multiplication operation	1
+summation division multiplication	1
+times cube matrix	1
+factorization plot factorization	1
+cholesky slope	1
+slope cube	1
+summary transpose	1
+vector singular vector	1
+inverse matrix r	1
+equation transpose pseudoinverse signal matrix	1
+matrix vector multiplication part computation	1
+underflow meaning	1
+limitation underflow region	1
+times minus	1
+descent following location direction	1
+scenario alpha	1
+append execute	1
+stamp history alpha	1
+opt flying	1
+iteration region	1
+history effort	1
+update bout	1
+equation solution equation solution	1
+transposing equation	1
+alaskey factorization	1
+matrix singular vector matrix	1
+assumption axe	1
+transpose multiplie transpose multiplie	1
+expression transpose	1
+rank solution asset	1
+ur matrix	1
+equation starting foot	1
+m reminder matrix	1
+rank r	1
+singular zero	1
+row vector entry transpose	1
+part vector	1
+finite motivation	1
+expression derivative	1
+finite part finite	1
+approximation derivative approximation	1
+approximation finite series	1
+expression f	1
+finite df	1
+portion expression	1
+prime finite approximation	1
+truncation finite approximation	1
+finite expression truncation	1
+finite approximation f	1
+addition f	1
+accuracy evaluation	1
+finite truncation oh	1
+derivative e	1
+derivative derivation approximation finite evaluation derivative	1
+finite approximation age	1
+array hs	1
+perturbation age	1
+derivative sake	1
+derivation derivative	1
+evaluation addition	1
+pace decrease	1
+plateau minus	1
+e air finite approximation	1
+finite approximation derivative	1
+funk derivative	1
+age wear loss accuracy	1
+slope oh slope	1
+bound finite approximation	1
+rounding decrease	1
+loss accuracy	1
+balance truncation age	1
+app machine epsilon	1
+summation rounding	1
+expression magnitude	1
+root precision	1
+classroom student	1
+tear siesta	1
+notebook guy	1
+library graph import visualization	1
+algebra convention	1
+interpret graph node	1
+index row	1
+row map	1
+edge self	1
+row convention	1
+knowledge weather	1
+weather tomorrow transition weather	1
+knowledge prediction weather tomorrow weather	1
+memory date	1
+transition matrix transition	1
+stage matrix	1
+date tomorrow	1
+row ab	1
+tomorrow butter	1
+graph chain	1
+matrix weather	1
+vector weather	1
+weather tomorrow	1
+tomorrow chain	1
+plot axis vector axis	1
+iteration vector	1
+solution matrix transition weather	1
+curve probability rainy	1
+matrix transition	1
+vector probability initial	1
+infinity norm dictator	1
+plus alpha	1
+summation jay	1
+shear matrix	1
+inverse determinant	1
+generalise vector dimension	1
+color green vector pause triangle inequality	1
+alley norm	1
+infinity shape unit ball vector	1
+race vector	1
+absolute norm	1
+induce norman	1
+vector triangle	1
+minus norm matrix	1
+norm matrix thumb province	1
+vector hundred actor	1
+uhm norm	1
+induce norm	1
+matrix vector homework	1
+distribution tonight	1
+pose optimization	1
+gradient respect axe	1
+derivative respect gradient chain derivative	1
+part derivative part	1
+matrix transpose matrix	1
+computation times transpose	1
+residual minimum	1
+finite series	1
+coefficient simplicity	1
+approximation series approximation	1
+interval series approximation	1
+plus prime	1
+expansion prime	1
+truncation interval	1
+expression series	1
+factorial part	1
+part finite series	1
+factorial derivative	1
+tailor approximation degree	1
+remainder theorem expression	1
+multiply remainder	1
+dis coefficient	1
+derivative interval	1
+representation series approximation	1
+tangent prime	1
+distance axe	1
+distance serial	1
+diggory approximation	1
+prediction interval	1
+truncation tailor approximation minus	1
+prediction e	1
+equation f approximation tailor approximation grief tail approximation degree	1
+prime plot derivative	1
+exit gate df	1
+slope prime slope secant update xk df	1
+magnitude constancy	1
+ratio air	1
+algebra lambda equation	1
+transpose operation rayleigh quotient	1
+iteration convergence beginning convergence	1
+chase component eigenfactor	1
+iteration converse	1
+solution python eigenvector	1
+approximation lambda eye	1
+tradition activity	1
+markov chain eigenvalue	1
+demo markov chain binder option	1
+zip folder	1
+son graph	1
+transition matrix graph probability	1
+web three	1
+text friend	1
+event probability event	1
+probability scenario	1
+graph transition matrix alright	1
+accident mistake	1
+board motivation rank	1
+motivation rank	1
+theory background rank surfer	1
+google facebook	1
+matrix probability	1
+part model	1
+paper model web surfer	1
+option back button	1
+vector update vector	1
+converge axe	1
+eigenvector converge	1
+growth norm	1
+coefficient update	1
+site minus clip gay	1
+risk overflow	1
+eigenvalue matrix r	1
+alternating eigenfactor	1
+converse eigenvector	1
+eigenvalue expression	1
+solution oscillation	1
+introduction optimization	1
+inequality constraint sake	1
+minimum hash	1
+proportion interval iteration	1
+convergence methodist linear meaning	1
+infinity ratio	1
+iteration limit	1
+shape bowl minimizar solution	1
+grade gradient direction	1
+direction gradient direction	1
+dissent zero	1
+minimizer direction	1
+alpha part percent	1
+ex door	1
+gradient cord counter	1
+direction sequence	1
+search minimization	1
+amount solution alpha	1
+minimization alpha	1
+minimization xk	1
+prime watt alpha	1
+minus alpha	1
+train wool	1
+gradient respect evaluator xk	1
+layer home gradient respect	1
+direction core	1
+zigzag motion characteristic	1
+grade aff	1
+iteration optimization	1
+optimization iteration optimization	1
+search newton	1
+gradient demo	1
+beginning bowl	1
+minimizer anne	1
+watt iteration search	1
+library optimization	1
+domain zigzag pattern search	1
+alpha oct	1
+minimization ization	1
+meaning newton	1
+expression tailor	1
+perturbation taylor expansion	1
+ass vector	1
+vector multiplication age vector	1
+scalar taylor expansion	1
+quadratic approximation f tilde	1
+tilde parameter tilde	1
+derivative tilde	1
+newton derivative gradient	1
+tilde respect	1
+gradient love	1
+quadratic iterate	1
+derivative river	1
+cube newton dimension optimization	1
+inverse gradient	1
+search alpha lumia optimization	1
+curvature limitation	1
+solution derivative	1
+derivative search	1
+button wine	1
+newton quadratic	1
+conversion solution	1
+shape memory newton update	1
+inverse app	1
+hashing inverse gradient matrix	1
+search iteration	1
+search newton hashing curvature	1
+search hashing	1
+hashing newton sleep	1
+iteration owen cube newton	1
+bunch evaluation demo	1
+newton quadratic newton	1
+quadratic country quadratic	1
+implementation newton	1
+gradient newton	1
+quadratic fun	1
+newton minimum	1
+reference bunch	1
+search derivative	1
+search bottom	1
+bottom alpha	1
+search lancer	1
+update gradient	1
+location reference frame distance	1
+optimization location	1
+york neighborhood miami	1
+alpha gradient alpha	1
+learning location minimizer	1
+search alpha zigzag pattern solution zigzag converge	1
+decent gradient	1
+thursday survey	1
+machine cancer	1
+dimension cancer	1
+machine learning prediction	1
+algebra lambda	1
+cube matrix vector iteration	1
+catch complexity	1
+visa inverse	1
+bee inverse	1
+alu factorization	1
+pie iteration	1
+sigma identity matrix	1
+eigenvector eigenvalue iteration	1
+part duration	1
+inverse pie iteration	1
+sequence cayenne iteration	1
+lambda minus convergence inverse iteration eigenvalue	1
+matrix multiply matrix	1
+vector back trouble	1
+matrix r transpose minimum	1
+minimum transpose	1
+r singular	1
+understanding beginning student	1
+review content guy	1
+message activity	1
+notation mess	1
+e index	1
+variation delta	1
+student equip student	1
+variation statistic	1
+measurement inverse	1
+software harm	1
+approximation measurement	1
+digit approximation tilda hat	1
+fig approximation	1
+fig sig fig	1
+night clicker	1
+formula textbook	1
+prayer quiz	1
+digit art hall	1
+location photo	1
+part precision integer part compromise	1
+web app conversion	1
+representation advantage	1
+coat precision	1
+watt exponent	1
+computation fl	1
+baby toy	1
+air uniformity	1
+top gap	1
+zoomed part	1
+toy machine epsilon	1
+minus machine absolute gap	1
+part alright	1
+anne optimization	1
+pleasant minus	1
+integer motivation	1
+spacing precision	1
+dancer eigenvalue matrix argument lambda	1
+statement singularity matrix	1
+eigenvector formula	1
+eigenvector route	1
+eigenvalue symmetry	1
+eigenpair lambda anuj	1
+eigen pair eigen	1
+lambda solution	1
+lambda doc	1
+alpha linda un vector scalar	1
+assumption linda eigenvalue magnitude lambda graze	1
+alpha yuan	1
+alpha linda	1
+iteration alpha linda	1
+un iteration	1
+lambda wonder	1
+lambda linda lambda	1
+lambda alpha vector	1
+cake update	1
+vector coefficient ex vector	1
+teacher weight	1
+model linear	1
+vector operator vector	1
+vector coefficient vector coordinate	1
+df respect	1
+evaluate xk	1
+home exam	1
+quiz home honor student	1
+integrity policy	1
+integrity policy professor	1
+email instructor	1
+quiz frame	1
+dress accommodation	1
+instructor party	1
+auto grader	1
+mic chat	1
+summary announcement	1
+home quiz	1
+home quiz limit	1
+bout grade	1
+experience burden	1
+student faculty	1
+adjustment quiz	1
+adjustment exam	1
+plan quiz	1
+plan email	1
+guy option	1
+credit scene assistant	1
+chat addition email fail	1
+student credit	1
+yesterday chat	1
+advisor student alot	1
+college grade	1
+home yesterday deadline	1
+office debugging	1
+pool zoom	1
+eigenvalue iteration eigenvector	1
+eigenvalue magnitude inverse iteration eigenvalue magnitude	1
+similarity eigenvalue magnitude	1
+granularity operation	1
+operation iteration algorithm convergence	1
+ratio eigenvalue	1
+kn operation	1
+eigenvalue proximity	1
+asymptotic factorization	1
+convergence inverse	1
+bash interpreter	1
+eigenvector norm	1
+component eigen vector direction	1
+finite precision calculation	1
+theory part	1
+coefficient transpose	1
+convergence eigenvector	1
+iteration eigenvector iteration	1
+iteration expression iteration	1
+exit tuition	1
+gay vector	1
+scalar component vector	1
+scalar zeroeth component zero component	1
+ice component ice component	1
+component eigenvector component	1
+summary ratio	1
+iteration eigenvalue iteration	1
+chain eigenvalue	1
+chain transition matrix	1
+convergence theory	1
+starting history eigenvalue	1
+xk iteration	1
+simplicity iteration	1
+estimate iteration	1
+eigenvalue tolerance minus	1
+entry iteration approximation eigenvalue	1
+inverse iteration inverse iteration	1
+eigenvalue model	1
+oracion inverse	1
+inverse sequence	1
+style bunch calculation	1
+loop sequence forward	1
+energie loss	1
+maximization maximize maximizer	1
+constraint wanna perimeter lesson	1
+parameter constraint optimizer	1
+parameter forty perimeter	1
+country perimeter	1
+canada solution	1
+partial gradient	1
+minimizer derivative direction andy hessian matrix	1
+hy scalar	1
+region satisfy requirement	1
+tau iteration	1
+solution tau	1
+tao interval	1
+age iteration	1
+evaluation eval	1
+search interval multiply	1
+derivative part respect f prime derivative part respect	1
+expression newton optimization wanna	1
+arm linkage astronaut position	1
+arm coordinate positioning	1
+angle beta angle	1
+arm beta	1
+optimization multiplication rectangle	1
+perimeter surface	1
+perimeter compromise	1
+minimize documentation minimize documentation constraint	1
+inequality constraint equality constraint inequality constraint	1
+parameter constraint evaluation conversion iteration	1
+optimizer optimization gradient	1
+reference resource	1
+prerequisite review	1
+taylor series tuesday	1
+deadline inconsistency	1
+schedule date homework	1
+date home market credit	1
+credit date	1
+percent tuesday	1
+expression complexity	1
+multiplication complexity	1
+plot variety	1
+plot bro	1
+linear plot default python	1
+ground face	1
+top dice	1
+coin ex	1
+toss desire toss	1
+assist stochastic	1
+knowledge game	1
+worry game texas	1
+following opponent	1
+player opponent	1
+player dealer ann	1
+toss event game	1
+tie game	1
+player win	1
+game player win increment	1
+game probability	1
+possibility game	1
+game opponent dealer game	1
+ass opponent dealer	1
+deck card	1
+track card	1
+card game	1
+game times game	1
+opponent dealer ass	1
+probability player win	1
+counter loop counter	1
+counter game	1
+entry counter array player	1
+entry array counter player	1
+counter probability player	1
+spade ace heart starting game	1
+spade ace heart	1
+experiment watt game coin	1
+coin game	1
+monica money	1
+monte carlo simulation monte carlo monte carlo sample	1
+sample poker	1
+pair ace	1
+generator machine	1
+hashtag student	1
+clock machine seed	1
+rand seating default	1
+seed generator seed	1
+machine starting	1
+seed demo	1
+beginning trend	1
+toy generator	1
+dice coin	1
+approximation pie pi	1
+radius circle length	1
+box coordinate	1
+expression pi r	1
+approximation sample	1
+pi approximation stew	1
+spread sample reduce variance	1
+sample mess garbage	1
+pie plot approximation	1
+dip plot	1
+convergence monte carlo root	1
+convergence resource simulation	1
+calculate pi	1
+deficient transpose	1
+singular entry	1
+rank pseudo inverse	1
+pseudo inverse matrix transpose	1
+ax expression	1
+scale factorization matrix	1
+shape relat	1
+quiz ctaf quiz bi	1
+attempt homework	1
+thursday f	1
+activity san credit breakdown	1
+board shower plenty starting staff business	1
+homework sardou	1
+period ctaf quiz	1
+policy resource bunch text	1
+thursday bison review	1
+tuesday python activity	1
+piazza dad plenty opportunity	1
+learning style classroom everett monitor seat	1
+dimension vector	1
+impact source	1
+sine series	1
+vehicle approximation	1
+notation quotient	1
+minus approximation	1
+approximation tree	1
+measurement tree	1
+hat minus	1
+measurement starting	1
+hat foot	1
+height tree expression	1
+height foot	1
+foot top	1
+triangle cosine law	1
+audit angle	1
+expression app	1
+track flexibility	1
+grade guideline	1
+bucket pig	1
+calendar quiz	1
+book tab	1
+clip grade	1
+user interface parallel	1
+assignment grade	1
+home percentage	1
+bar percentage	1
+grade book	1
+percent book percentage	1
+download percent	1
+interface grade book percent	1
+scheduling quiz slot	1
+quiz slot	1
+cfe arrangement schedule	1
+professor luke olson	1
+computing department	1
+ax matrix	1
+envelope calculation	1
+bottom moment matrix	1
+age universe	1
+alright objective	1
+python demo	1
+actor vector	1
+algebra vector	1
+demo merge fund	1
+syntax beginning	1
+parabola envelope	1
+wiggle frequency	1
+meaning vector	1
+demo vector	1
+length frequency	1
+operation vector addition	1
+vector addition scaler multiplication	1
+vector alpha vector	1
+map plot	1
+credit demo	1
+demo fun image	1
+andrew dev	1
+component vector professor klockner	1
+knowledge vector	1
+image structure	1
+finer granularity fun	1
+face image face vector	1
+clicker setup	1
+wikipedia concept linearity	1
+matrix vector matrix vector	1
+colon row	1
+text document temperature	1
+concept transformation	1
+grid bunch	1
+component coordinate component coordinate	1
+reflection component	1
+oop typo shrink	1
+rotate pi	1
+vector multiply	1
+multiplication times	1
+algebra operation	1
+transformation reflection	1
+rotation pi	1
+gaussian blur	1
+gaussian e	1
+gaussian spike	1
+gaussian matrix	1
+width image	1
+row image	1
+pixel row pixel row	1
+pixel row	1
+spike pixel	1
+pixel spike pixel	1
+top gaussian butt	1
+image matrix gaussian blur matrix	1
+image zero	1
+pixel identity gaussian	1
+cat image	1
+matrix encode	1
+gaussian blur matrix	1
+output touch	1
+rank matrix rank matrix dimension vector dimension vector	1
+minimum eminem	1
+matrix times identity	1
+ton zero	1
+matrix harvard	1
+print oop	1
+nonzero saving storage oftentime	1
+harvard matrix	1
+microsecond variation	1
+matrix scaling	1
+enron matrix	1
+enron scandal	1
+matrix uhm	1
+amount saving	1
+analytic engine	1
+graph analysis	1
+edge graph	1
+storage technique	1
+wilkinson stage	1
+technique advantage nonzeros	1
+benefit storage	1
+finite matrix	1
+simulation vehicle	1
+beginning diffusion	1
+highlight structure	1
+matrix coordinate	1
+row index	1
+index byte	1
+coordinate integer	1
+integer array	1
+sparse roe	1
+rowe wise	1
+spot array	1
+lab variant	1
+python sci fi	1
+hood csr	1
+contribution matrix vector multiply	1
+vector array length	1
+integer array length	1
+impact matrix	1
+representation iteration expression	1
+representation iteration eigenvector	1
+times alpha	1
+norm growing iteration	1
+eigenvalue matrix summary alpha	1
+twin magnitude	1
+riley coefficient update	1
+site minus clip	1
+eigenvalue lambda alpha	1
+solution convert	1
+item van	1
+alpha part lambda	1
+magnitude alpha	1
+alpha magnitude lambda	1
+norm lambda	1
+norm iteration lambda	1
+lambda iteration lambda	1
+iteration approximation eigenvalue	1
+minus update	1
+matrix eigenvalue lambda	1
+vector iteration gift	1
+eigenvector eigenvalue magnitude	1
+minimum singular	1
+rn scalar magnitude vector norm	1
+scale vector	1
+norm vector multiply	1
+entry vector erase	1
+contribution entry vector	1
+entry actor	1
+entry vector dictator norm	1
+library py linalg	1
+py linalg norm	1
+norm argument	1
+library norm	1
+entry unit ball	1
+representation vector norm	1
+norm summation entry vector	1
+vector entry vector norm	1
+representation norm vector diamond	1
+unit ball unit diamond vector norm	1
+vector center circle radius length	1
+vector comma	1
+entry vector infinity norm	1
+snippet unit ball vector	1
+coordinate cosine angle	1
+vector vex array	1
+norm gon	1
+package vex vector array vector	1
+norm vector angle	1
+print norm	1
+norm array	1
+norm race	1
+coordinate norm vax	1
+unit ball norm	1
+student norm	1
+norm approximation	1
+norm vector magnitude	1
+location center position	1
+vector computation vector	1
+solution measure vector	1
+root ratio	1
+position nationality	1
+correlation matrix attribute	1
+lin alg hood	1
+integer locator	1
+balance aggression nationality integer row	1
+frame annex	1
+acceleration vision	1
+pandas frame	1
+bracket matrix	1
+exam umpire ray	1
+demo fraction variance	1
+amount variance direction fraction singular ratio	1
+frame hood	1
+fraction variance	1
+component vi sigma matrix	1
+component sigma	1
+frame attribute	1
+acceleration aggression	1
+comma coefficient projection	1
+bar graph importance correlation attribute	1
+component diving goalkeeper dive diving goalkeeper	1
+goalkeeper kicking	1
+correlation keeper	1
+acceleration aggression agility coefficient	1
+player score	1
+dataframe pc	1
+leader activity	1
+position player	1
+axis anne	1
+player goalkeeper orange	1
+pc axis	1
+player midfielder defender	1
+separation goalkeeper	1
+goalkeeper handling	1
+bar graph	1
+component projection	1
+attribute acceleration accuracy ball	1
+accuracy acceleration axis ball	1
+reflex goalkeeper	1
+reflex diving	1
+chunk defender purple	1
+aggression direction	1
+player arrow axis	1
+origin aggression	1
+axis vector component	1
+scale argument	1
+plot balance	1
+webpage summing variance	1
+amount defender clump defender	1
+ball accuracy	1
+ball defender	1
+component goalkeeper	1
+goalkeeper df position	1
+part attribute player position	1
+component analysis goalkeeper entry	1
+algebra linear algebra	1
+percent variant	1
+goalkeeper coordinate	1
+bottom plot	1
+goalkeeper defender	1
+attribute weight attribute	1
+coefficient pc tackle	1
+standing tackle	1
+component pc component	1
+plot projection attribute	1
+part exercise part	1
+nationality player copying	1
+pasting goalkeeper	1
+matrix capital	1
+length axis	1
+component interception projection	1
+axis interception component accuracy	1
+direction accuracy	1
+direction interception	1
+ball direction	1
+ball arrow	1
+ball balance	1
+interception defender	1
+magenta component interception direction interception	1
+ball component interception	1
+position defense	1
+japan part df nationality	1
+brazil player	1
+nationality copying	1
+dataset r	1
+player rag	1
+goalkeeper attribute	1
+goalkeeper mediocre	1
+goalkeeper skill	1
+japan brazil powerhouse soccer	1
+thirty japan	1
+soccer ninety	1
+cup japan	1
+forward part	1
+japan brazil	1
+position forward	1
+attribute component	1
+ability brazilian	1
+midfielder defender	1
+announcement student	1
+student ice	1
+tonight invitation response	1
+tomorrow night wednesday night	1
+percent response guy friend	1
+activity machine	1
+percent response feedback	1
+student pie chart	1
+pie chart	1
+quiz quest	1
+linear algebra	1
+lesson nasa student coding	1
+quiz fault	1
+quiz environment	1
+output temperature	1
+matrix vector multiplication solution	1
+vector solution matrix vector	1
+factorization backward	1
+perturbation delta	1
+image delta	1
+hat e	1
+hat perturbation	1
+output vector	1
+delta axe norm delta ratio	1
+delta norm delta norm delta norm	1
+solution satisfy	1
+inequality multiplication	1
+matrix norm delta equation	1
+consequence output shower delta nob millimeter	1
+notation uhm expression	1
+default instance python	1
+matrix max norm matrix	1
+writing norm	1
+summary matrix ideal	1
+accuracy conditioner	1
+cell pivoting	1
+lack do	1
+algebra metric	1
+solution matrix statement	1
+matrix solution statement	1
+misunderstanding singularity	1
+matrix singular	1
+delta axis perturbation	1
+hat beginning	1
+norm dimension	1
+matrix plot solution	1
+factorization backward forward	1
+machine times epsilon	1
+pivoting ann	1
+pivoting instance	1
+prof complex	1
+inequality equality	1
+norm e perturbation hat	1
+norm e hat norm	1
+hat norm	1
+e norm hat	1
+norm matrix norm output	1
+alright norm	1
+machine epsilon norm	1
+beginning factorization	1
+pivoting guarantee norm	1
+statement matrix	1
+hat identity	1
+numerator norm	1
+norm mic	1
+residual equation	1
+garbage ton	1
+thumb delta norm hat	1
+times epsilon	1
+delta norm hat	1
+sea machine epsilon	1
+digit ass	1
+delta hat	1
+thumb approximation	1
+allie factorization partial pivoting	1
+accuracy output	1
+bound delta	1
+python precision digit solution	1
+matrix sixteen	1
+output digit accuracy	1
+hat machine epsilon	1
+thumb norm solution	1
+multiplication sigma	1
+transpose row matrix ve transpose	1
+identity matrix identity sigma	1
+times sigma transpose sigma transpose	1
+eigenvalue transpose lambda	1
+eigenvalue lamb	1
+lambda r solution org transpose	1
+spd matrix	1
+minus summary	1
+iteration gnu	1
+evaluation iteration progress	1
+approximation digit approximation	1
+approximation digit	1
+digit agreement	1
+notation minus	1
+minus observation	1
+times approximation	1
+minus norm	1
+minus magnitude respect	1
+digit agreement solution	1
+forsake thumb inequality	1
+accent hat agreement minus	1
+digit agreement approximation	1
+agreement axe	1
+thumb minus	1
+matrix thinking matrix	1
+vector eye	1
+matrix vector norm vector	1
+norm eye	1
+tutor notebook	1
+selection vector	1
+circle unit ball	1
+diamond norm	1
+ax norm vector	1
+shape norm	1
+annotation matrix	1
+vector ex	1
+shape xs	1
+coordinate vector	1
+vector diamond	1
+vector operator	1
+diamond geometry vector	1
+reality approximation vector	1
+vector computation	1
+summation entry	1
+maximum entry	1
+norm matrix norm matrix	1
+row summation	1
+possibility norm option norm	1
+option norm vector possibility norm matrix	1
+matrix inverse matrix	1
+norm matrix inverse	1
+chapter concept	1
+magnitude seat	1
+plot ex root	1
+estimate root	1
+f update	1
+slope tangent derivative f slope game expression	1
+xk df	1
+slope prime slope secant update	1
+schedule wednesday saturday announcement quiz yesterday	1
+announcement score quiz score	1
+faculty quiz student plan	1
+score quiz	1
+part computation transpose	1
+entry amb	1
+array beer vector	1
+computing cholesky factorization	1
+curiosity ncube computation cholesky	1
+color ear	1
+region bunch zero	1
+shape sigma shape sigma shape	1
+decomposition savar lee	1
+reduce matrix ambien	1
+simplify sigma	1
+entry transpose	1
+sigma foot	1
+solution cash inverse	1
+equation star	1
+multiply matrix summation	1
+row transpose times sigma	1
+row sigma	1
+summation sigma	1
+matrix sigma transpose row matrix	1
+ann rank	1
+sigma youtube	1
+rank matrix sigma matrix	1
+matrix expansion	1
+creation matrix	1
+ve transpose	1
+rank aids	1
+bunch summary	1
+star story equation	1
+star sigma	1
+sigma ann	1
+inverse bottom	1
+expression sigma r transpose	1
+rank deficiency solution	1
+satisfying minimum norm	1
+sigma matrix times	1
+satisfy transpose sigma	1
+law catch	1
+beginning solution minimize	1
+visa matrix avi times vector	1
+vector sigma ice	1
+minimum norm solution motivation	1
+python implement solution	1
+quadratic vector extent ice	1
+fit coefficient	1
+coefficient equation	1
+rank guarantee solution equation solution	1
+coefficient solution	1
+rank pseudoinverse	1
+father rank	1
+solution matrix rank	1
+solution equation solution meaning solution	1
+height mountain instrument	1
+respect reference ground	1
+measurement respect bottom measurement	1
+reference measurement	1
+mountain measurement	1
+mountain reference	1
+row back raise alright	1
+lease matrix vector	1
+guy matrix reduce	1
+height mountain	1
+computation transpose beginning	1
+bunch matrix vector multiplication	1
+percent cat	1
+part understanding cause part	1
+transpose youtube	1
+transpose matrix vector multiplication	1
+bunch row	1
+array m matrix	1
+vector matrix multiplication	1
+solution root	1
+solution sake	1
+convergence interval	1
+midpoint whoop	1
+midpoint fa route interval	1
+interval comment	1
+student opinion	1
+m friend	1
+convergence iteration interval	1
+interval iteration interval iteration	1
+convergence essence	1
+implementation tolerance	1
+limit beginning	1
+convergence solution convergence	1
+notation complexity	1
+utility pastor converge	1
+solution arrow	1
+starting route	1
+quadratic constraint	1
+tolerance expression	1
+update iteration	1
+iteration approximation root iteration	1
+ratio air iteration air iteration	1
+route star interval	1
+convergence evaluation knowledge derivative	1
+tolerance sake	1
+convergence seek r	1
+opt root scalar route	1
+root scalar	1
+bracket interval	1
+interval conversion	1
+bracket default	1
+library documentation	1
+vector approximate	1
+r projection pack projection	1
+corridor office	1
+loop thinking computation	1
+amount sample	1
+rank markov	1
+equation advice	1
+markov train	1
+loop bunch matrix vector multiplication	1
+sheet instruction	1
+feedback mistake	1
+philosophy advice	1
+advice colleague student	1
+knowledge part	1
+story quiz	1
+percent comment	1
+lambda eigen pair movie	1
+transpose au	1
+lambda feed	1
+asymmetric matrix	1
+ab lambda	1
+lambda muvi	1
+alright lambda	1
+mew lambda	1
+mu lambda equation	1
+dee ann	1
+ambi sigma ambien	1
+sigma chi sync	1
+times youth sigma	1
+decomposition multiply	1
+ann identity	1
+mile sigma	1
+eigenvector indie	1
+eigenvector watt transpose matrix	1
+eigen transpose	1
+eigenvalue transpose sigma transpose	1
+sigma eigenvalue transposing	1
+egg transpose lambda	1
+root lambda summary	1
+root eigenvalue transpose	1
+part transpose	1
+eigen pair transpose	1
+array eigenvalue transpose eigen	1
+array eigenvector	1
+sigma transpose matrix eigenvector transpose	1
+sigma lambda eigenvalue transpose lambda	1
+trend spell eigenvalue	1
+eigen pair bee matrix	1
+transpose axle transpose	1
+norm oak lydia norm root	1
+pizza norm	1
+writing transpose	1
+eigensystem transpose	1
+bottom norm	1
+ice trouble linda	1
+chubby age	1
+part bunch zero	1
+transpose rose	1
+gum sigma	1
+ambi invite	1
+signal transpose	1
+moment bunch	1
+un part matrix part	1
+anna diane	1
+demo python	1
+plot simulation	1
+multiplication al matrix	1
+plot guy	1
+plot part	1
+notation cube	1
+third ncube matt	1
+plot notation	1
+complexity omg	1
+demo demos	1
+ide routine	1
+egg val	1
+top demo	1
+eigendecomposition eigenvalue	1
+matrix envy	1
+matrix orthogonal	1
+sigma ambien	1
+pressure plot	1
+box guy	1
+mathematica matlab jupiter notebook	1
+mine ann	1
+percent part	1
+calculation scene solution	1
+fig box	1
+art hall	1
+measurement bound	1
+bound upper	1
+computation wonder	1
+machine source truncation	1
+cosine circle	1
+approximation cosine theta plot	1
+axis cosine theta angle	1
+angle truncation theta	1
+theta series	1
+approximation f tilde	1
+expansion approximation	1
+complexity transistor board	1
+expression meaning	1
+interpolation pretend	1
+e cubed	1
+wine italian	1
+option r	1
+option e alpha	1
+shoe e alpha	1
+denominator nominator	1
+alpha slope plot	1
+slope triangle plot	1
+loaf slope	1
+slope alpha slope	1
+slope instance complexity	1
+plot meaning	1
+instance sine	1
+story bug intel	1
+chip intel	1
+professor mathematic virginia	1
+message intel	1
+timeline november	1
+medium blink eye	1
+medium stock	1
+iteration grade	1
+sig zag pattern convergence	1
+transpose passion derivative	1
+app hat	1
+solution cube	1
+plot hole	1
+binder movie activity	1
+machine uhm	1
+equation heck	1
+interval interior interval	1
+polynomial degree polynomial degree	1
+pattern degree polynomial	1
+bunch polynomial	1
+solution f	1
+matrix f	1
+routine vector	1
+vector beat	1
+zero vector	1
+solution plot	1
+equation tea	1
+derivative strategy	1
+court shape	1
+front vector	1
+sequence solution	1
+helper beat	1
+overtime vector	1
+zero shape	1
+row matrix shape	1
+vector integration	1
+factorization matrix ncube complexity	1
+factorization loop matrix	1
+loop triangular	1
+scipy linalg	1
+ana unit	1
+algebra triangular	1
+sipi lin alg	1
+cell documentation	1
+scipy triangular attention	1
+computation triangular	1
+equation loop	1
+scipy triangular hit	1
+pee transpose	1
+mike son	1
+triangle unit	1
+factorization loop	1
+plot spy	1
+pattern matrix permutation matrix	1
+nonzero entry nonzero entry	1
+solution array	1
+solution movie	1
+movie matrix	1
+dennis triangular argument triangle triangular	1
+manner factorization	1
+diffusion equation	1
+factorization pee	1
+gradient app	1
+taylor dear repetition home	1
+lesbian finite	1
+age hi	1
+finite dear	1
+numerator finite	1
+computation scalar	1
+collection scalar array	1
+alot concept	1
+speed proof	1
+derivation vector	1
+alpha multiplication scalar vector	1
+umpire race	1
+shape comma	1
+bracket shape row vector	1
+shape mini	1
+vector rn vector shape	1
+coordinate array	1
+vector axis	1
+entry coordinate	1
+outcome coordinate	1
+alright coordinate	1
+array coordinate	1
+f ax	1
+matrix generator matrix dimension	1
+matrix vector multiplication py	1
+algebra summation index vector	1
+snippet vector	1
+roast eye vector	1
+technique matrix vector multiplication	1
+algebra collection	1
+operator identity matrix operator	1
+operator identity matrix	1
+entry direction displacement	1
+bottom shear operator	1
+array transformation matrix	1
+operator sheer	1
+direction amount	1
+behavior direction	1
+operator reflect operator identity matrix reflect identity matrix	1
+identity matrix reflection	1
+axis reflection	1
+reflection axis shrink	1
+scaling dimension	1
+entry shrink operator	1
+direction shrink amount	1
+direction multiply	1
+scale transformation	1
+rotation clockwise direction	1
+afternoon guy	1
+paper survey	1
+student classroom student classroom	1
+ctaf quiz weekly ctaf quiz bi	1
+attempt homework opportunity homework	1
+pressure perl	1
+algebra concept	1
+pace home	1
+ta ts	1
+san credit	1
+piazza mini	1
+piazza student crossing	1
+online board	1
+board plenty office starting staff	1
+staff business	1
+office discussion office discussion concept	1
+quiz bug quiz	1
+party home opportunity	1
+part chest	1
+peer content quiz peer content quiz period fear quiz	1
+quiz prayer quiz	1
+activity handout	1
+attention collaborate	1
+phone notebook	1
+binder book	1
+collection pointer collection pointer	1
+quiz election	1
+reference homework mps reference homework	1
+content homework content	1
+core bunch tax	1
+queue tha	1
+team experience team experience	1
+undergraduate student clothe	1
+student clothe	1
+student brand staff team student brand staff team	1
+mps minimum	1
+script python script	1
+piazza plenty opportunity dad plenty opportunity	1
+learning style classroom everett style classroom monitor	1
+participation grade credit grade credit	1
+theme story	1
+software poll	1
+lack sleep tonight	1
+zero f story	1
+infinity sea	1
+zero f	1
+infinity representation	1
+minus gap	1
+machine epsilon story	1
+machine absalon precision	1
+precision decay	1
+precision summary	1
+memory zero flag	1
+representation mistake	1
+gap integer	1
+calc notebook	1
+coke health	1
+license coke	1
+collaborator google doc python coding	1
+summation contribution	1
+loop coefficient	1
+loop exponent loop	1
+wanna loop	1
+summation onesie	1
+dye nominator	1
+exponent anne	1
+quiz report button	1
+dissenter ascending	1
+pool python	1
+colon alright	1
+gap observation	1
+operation uhm integer	1
+gap highlight	1
+machine absolon machine epsilon	1
+interval gap	1
+granularity machine epsilon	1
+machine epsilon machine asthma	1
+matrix interest transpose	1
+matrix interest vector	1
+eigen boundary	1
+ax norm	1
+conclusion eye	1
+distance radius	1
+aid student	1
+homework student	1
+text message friend student	1
+attention date unit	1
+friend graph student event	1
+transition matrix transition matrix	1
+probability graph	1
+graph helper	1
+moment student attention beginning	1
+student text message friend	1
+student probability student	1
+vector probability event	1
+probability student	1
+initial vector	1
+probability text message	1
+web entry	1
+text message	1
+gas summation	1
+solution iteration converge	1
+gas probability iteration	1
+plot solution room student attention student	1
+web student	1
+student text message	1
+matrix transition matrix eigenvalue eigenvector	1
+iteration student attention eigenvalue solver	1
+solution delay	1
+eigenvector respect norm	1
+respect moon	1
+respect vector norm	1
+minimizer requirement	1
+interval abe	1
+star interval ex	1
+interval wine	1
+interval solution interval	1
+solution interval	1
+tau interval ex	1
+tao length interval	1
+interval tao	1
+uhm starting	1
+bee iteration	1
+tao route	1
+tau trouble	1
+anne distance tao	1
+tau minus style	1
+tao cable	1
+color interval equivalent iteration distance	1
+tau nutrition tau iteration	1
+tau town	1
+tau towel	1
+pseudo algorithm	1
+minus interval	1
+algorithm convergence meaning interval	1
+summary interval iteration	1
+uhm interval	1
+e r expression convergence	1
+r tau path r	1
+iteration bracket tau	1
+hat prime	1
+newton route finding	1
+prime app prime	1
+convergence newton route	1
+approximation f hat	1
+newton sequence optimization	1
+hat newton	1
+activity crossword stock	1
+stochastic simulation	1
+pie maine	1
+poker card dealer car opponent card	1
+dealer card	1
+card comparison	1
+entry son	1
+histogram wind	1
+loss watt	1
+car loan	1
+volume dimension	1
+distance radio radius outside circle multicolor	1
+python circle pixel	1
+circle plot	1
+thursday burger mall baby clothe	1
+statistic matrix	1
+quadratic exponential	1
+home pain	1
+equation tracking ice extent	1
+curve fit	1
+coefficient axis	1
+coefficient quadratic prediction	1
+solution model	1
+coefficient quadratic fit	1
+respect planet coefficient matrix	1
+conclusion expression homework	1
+equation slope	1
+argument bar	1
+endpoint coefficient	1
+logarithm rank	1
+exponential catch equation ex	1
+inverse rank matrix	1
+exponential vert bar	1
+equation following	1
+exponential matrix	1
+rank matrix correlation	1
+rank building	1
+matrix coefficient correlation	1
+transpose axe coordinate	1
+coefficient support	1
+norm fit	1
+solution intercept	1
+computation matrix solution	1
+capital dimension	1
+coefficient pseudoinverse singular	1
+expression story	1
+rank residual	1
+sake norm	1
+argument default fit	1
+curiosity squared	1
+age axis	1
+correlation solution coefficient height	1
+norm solution height	1
+equation height	1
+fantasy football panda	1
+home panda	1
+diagram tracking ice extent solution	1
+extent ice breast cancer	1
+entry modeling	1
+extent ice patient	1
+height patient	1
+body mass index patient	1
+homework axis	1
+sell patient cancer ice extent	1
+measurement speciman roughness	1
+tissue cell tissue	1
+coefficient cell	1
+description biopsy speciman	1
+parameter score	1
+multiplie thickness prediction	1
+score patient cancer	1
+cancer model	1
+core behavior	1
+score matrix	1
+threshold core	1
+conclusion patient characteristic	1
+squared rank	1
+existence zero assessment	1
+conversation matrix	1
+pc content	1
+coefficient wall home	1
+default ilk	1
+transpose pseudoinverse	1
+markov chain ranking	1
+matrix table	1
+arrow self	1
+student adjacency matrix	1
+entry factory	1
+entry vector probability activity	1
+multiply aid node	1
+review part	1
+transition adjacency matrix	1
+transition matrix assert	1
+city champagne	1
+percent observation	1
+event probability	1
+percent self pharaoh	1
+probability transition	1
+percent chain	1
+percent transition matrix	1
+adjacency matrix edge	1
+transition matrix markov matrix memory	1
+transition matrix memoryless	1
+saturday thursday	1
+anna probability	1
+tomorrow tuesday	1
+tomorrow probability	1
+tomorrow wednesday thursday	1
+iteration ex	1
+text star	1
+star lambda transition markov chain	1
+iteration transition matrix	1
+vector eigenvalue	1
+observation graph	1
+student iclicker survey	1
+observation transition	1
+solution probability	1
+web working	1
+texting matrix	1
+matrix iteration	1
+web homework text	1
+percent text	1
+distribution probability	1
+prediction weather tomorrow	1
+probability vector	1
+vector probability overtime	1
+student report	1
+beginning tail	1
+plot beginning convergence	1
+perception assumption	1
+win agreement	1
+york times	1
+news gazette layer	1
+publish illinois pilot	1
+paper google paper google rank	1
+ranking paper	1
+user behavior	1
+user server	1
+back button	1
+button probability surfer	1
+probability user	1
+adjacency matrix matt	1
+demo matrix edge	1
+zero anne	1
+iteration eigenvalue lambda	1
+matrix arrive	1
+bio matrix	1
+transition matrix rank ton zero	1
+part paper	1
+statement model suffer	1
+matrix bunch zero	1
+matrix zero matrix	1
+jason matrix	1
+google facebook amazon wikipedia twitter	1
+solution assumption	1
+matrix assumption matrix adjacency matrix	1
+zero matrix m probability	1
+solution eigenfactor	1
+norm summation iteration eigenvector	1
+convergence history	1
+rank youtube facebook wikipedia amazon	1
+twitter pagerank	1
+marcov matrix	1
+percent weight	1
+addition percent	1
+starting tube	1
+normalization son	1
+tube google	1
+youtube google	1
+google matrix	1
+basketball game season basketball	1
+rank google matrix	1
+matrix vector sis ted	1
+scaler art	1
+scalar beta summation	1
+beta vector competition vector beta	1
+basketball team	1
+friday spring	1
+percent plenty	1
+arm robotic	1
+rotation mechanism rotation mechanism astronaut position	1
+astronaut position	1
+linearity f	1
+solution satisfie	1
+graphically instance law	1
+spring instance newton law	1
+deformation law	1
+deformation essence	1
+spring essence	1
+wind fluid flow wind fluid flow car	1
+velocity correspond drag velocity correspond drag force	1
+root solution root finding solution	1
+interval eye iteration interval eye iteration	1
+chop interval	1
+chop interval chop interval	1
+trap science trap science	1
+root yellow	1
+m interval tk	1
+interval tolerance interval tolerance	1
+iteration delta iteration	1
+alright delta	1
+approximation root approximation root	1
+eigenvalue lambda eigenvalue lambda eigenvalue magnitude	1
+r coefficient	1
+midpoint iteration	1
+midpoint evaluation	1
+interval starting	1
+trap reality trap reality	1
+f minus	1
+activity starting activity starting	1
+equation minus	1
+interval magnitude interval magnitude tolerance	1
+iteration index	1
+degree approximation taylor approximation tangent approximation	1
+triangle f	1
+derivative evaluator	1
+derivative prime derivative prime	1
+prime e	1
+limit ratio limit ratio	1
+position derivative	1
+guarantee quadratic	1
+convergence solution limitation	1
+table do table newton	1
+table secant	1
+tune update	1
+update f	1
+iteration f	1
+evaluation iteration evaluation iteration	1
+exam demo	1
+matrix times matrix	1
+taylor approximation expansion	1
+manipulation matrix	1
+vector multiplication manipulation student matrix student	1
+vector matrix vector matrix	1
+matrix vector giving	1
+south vector	1
+student transpose tray	1
+derivative entry	1
+ancu computation	1
+substitution triangular substitution	1
+driving factorization driving factorization consuming algorithm consuming algorithm	1
+iteration jacobian iteration	1
+convergence solution newton solution	1
+decomposition composition	1
+matrix euro	1
+matrix singular decomposition	1
+color matrix expression	1
+attention schedule home	1
+wednesday homework	1
+thursday april	1
+addition student	1
+isis department	1
+instructor department review	1
+jupiter demo cancer	1
+machine learning classification	1
+fill software	1
+finding root solution scalar parameter	1
+secant source interval	1
+iteration ratio convergence secant	1
+newton girl starting	1
+f prime algorithm newton secret	1
+eval iteration summary	1
+algorithm andy	1
+monday indy	1
+parameter rn	1
+rn entry	1
+parameter row vector	1
+prime ex vector f vector	1
+dimension gradient	1
+parameter matrix	1
+gradient vector rn	1
+vector parameter	1
+gradient respect matrix vector	1
+valve evaluation	1
+matrix evaluation	1
+factorization owen cube owen	1
+cube update	1
+driving newton salt	1
+matrix equivalent	1
+matrix sparse	1
+location jacobian	1
+f factorization	1
+solution convergence speed jacobian	1
+jacobian update	1
+epson jacobian vector	1
+row respect derivative row respect	1
+reality factorization	1
+scale mistake	1
+transpose jacobian transpose corrector	1
+approximation jacobian	1
+sobeys mine approximation	1
+gas ex zero	1
+newton approximation newton	1
+approximation update theory	1
+motivation boyd	1
+computational gain	1
+ncube reality	1
+algorithm broyden	1
+vice action	1
+family optimization	1
+convergence quadratic	1
+iteration air	1
+convergence article garbage	1
+jacobian bride algorithm	1
+axe newton	1
+convergence tolerance	1
+quadratic newton	1
+update approximation	1
+animation voice	1
+parent child ford kinda mattix	1
+arm parent	1
+bone parent	1
+arm bone	1
+parent shoulder	1
+parent child	1
+chain hierarchy	1
+auto arm	1
+grab coffee brain	1
+water bottle	1
+optimization instance	1
+astronaut inverse	1
+part arm part	1
+degree freedom	1
+angle theta	1
+beta alright	1
+wrist angle beta arm amb theta theater	1
+newton theta	1
+angle law	1
+law cosine direction	1
+love cosine	1
+host alpha	1
+guy equation	1
+theta alpha	1
+summation angle	1
+minus theta	1
+degree angle beta	1
+alpha theta	1
+demo plot	1
+respect theta	1
+angle wrist pie	1
+newton starting	1
+package optimize	1
+optimize optimization	1
+argument funk	1
+funk attempt	1
+update vector	1
+aid beta cons	1
+position arm	1
+position height	1
+angle pi	1
+newton heart	1
+derivative scene	1
+constraint restriction	1
+wrist alpha	1
+beta limitation	1
+limitation output	1
+jacobian evaluation	1
+forsake completeness	1
+iterate convergence	1
+quiz quest distribution	1
+amount student	1
+percent minus	1
+plenty opportunity	1
+requirement assignment	1
+distribution r	1
+alright guy	1
+partial opening	1
+activity fund	1
+alright plan	1
+drawing part	1
+content cell	1
+jupiter notebook f	1
+calculation algebra	1
+sci library	1
+mathematica matlab	1
+animal integer	1
+calculator battery forgot	1
+string quote	1
+spot ipad	1
+object anne memory	1
+ida location object	1
+identity object	1
+entry listen	1
+string fruit history	1
+strain fruit apple object apple strain fruit	1
+fruit string apple	1
+lunch pointing string apple	1
+dinner lunch	1
+object lunch	1
+fish dinner	1
+object apple	1
+fruit eccle pair	1
+pair fruit object apple object pair	1
+meal fruit	1
+fish apple	1
+instance luncheon lunch	1
+dinner object	1
+veggie strength	1
+apple banana orange carrot	1
+football food tuple	1
+fruit pence plum	1
+plum plump	1
+solution food	1
+pole integer	1
+solution tim	1
+science comma	1
+statement john science tim nichols john object science	1
+tim science	1
+object tim science	1
+object john	1
+julie object	1
+physics julian	1
+python evaluate	1
+clothe loop	1
+bracket loop	1
+python loop	1
+tuesday argument	1
+fruit banana apple fruit	1
+apple fruit banana	1
+f fruit	1
+john science	1
+john science tim	1
+john object science tam minor	1
+object major	1
+physics economic	1
+science john	1
+john object physics	1
+major john	1
+tim physics	1
+pic john	1
+tim object john major	1
+major object	1
+economic physics	1
+john points	1
+john object	1
+tampa science	1
+john connection	1
+shape array	1
+entry shape	1
+array mixture integer	1
+integer array float	1
+shape array row	1
+array vector row vector	1
+multiplying matrix	1
+notebook broadcasting	1
+dimension shape race	1
+ann ecu	1
+array shape	1
+lenny transpose inverse matrix	1
+multiplication dimension	1
+matt moore	1
+nature argument	1
+suggestion guy	1
+ann index	1
+slice umpire ray	1
+assignment object	1
+matrix pointing part	1
+matrix pointing	1
+voting seat	1
+object pointing	1
+array matrix	1
+demo ton review	1
+activity laptop	1
+com mariana silver	1
+exponent f	1
+meaning infinity	1
+guy fun	1
+machine epsilon gap	1
+minus digit	1
+review characteristic	1
+truncation book	1
+pete gap	1
+fraction part	1
+confusion truncation	1
+machine absolon machine absolon machine	1
+summary minus	1
+gap sex machine	1
+finding gap	1
+gap magnitude	1
+machine epsilon magnitude	1
+float axe rounding	1
+floor float minus	1
+float minus	1
+rounding library	1
+laptop demo	1
+machine representation voting machine	1
+rounding scale	1
+making approximation quantity	1
+machine numerator	1
+epsilon m epsilon m	1
+salon precision	1
+approximation gap	1
+machine epsilon machine epsilon precision	1
+watt machine	1
+gap computation	1
+underflow precision	1
+precision digit precision	1
+thumb operation	1
+exponent operation	1
+summation exponent	1
+computation cancellation	1
+operation machine	1
+magnitude cancellation	1
+loss precision loss significance	1
+machine accuracy	1
+anne machine	1
+machine excuse root	1
+digit machine epsilon	1
+toy watt	1
+underflow machine epsilon	1
+thursday professor glucose	1
+eigenvector eigenvalue linear algebra matrix	1
+lambda eigen	1
+eigen pear	1
+solution lambda axe eigen pair	1
+eigenvector alpha eigenvector	1
+norm library num	1
+lambda times lambda	1
+lambda legal	1
+eigen solution eigen pair lambda	1
+equation eigen pair lambda	1
+lambda un vector	1
+eigenvector matrix eigenvalue entry	1
+ex plot	1
+slope tangent derivative slope game expression	1
+matrix age	1
+transpose hy	1
+age vector scalar eigenvalue	1
+minimizer part	1
+swap entry	1
+swap algorithm	1
+cube equation	1
+expression matrix	1
+part content professor local	1
+vector force norm	1
+magnitude vector norm	1
+norm summation	1
+norm vector norm vector wine summation	1
+norm triangle inequality	1
+peace root	1
+pudding bold	1
+calculus air	1
+bottom matrix capital	1
+bottom notation norm vector	1
+dictator norm	1
+root summation entry	1
+unit ball unit ball	1
+ball unit ball vector norm	1
+norm vector root	1
+squared equation circle	1
+circle vector norm	1
+shape unit ball	1
+norm diamond shape	1
+infinity norm max norm infinity maximum	1
+testing nfinity norm	1
+part unit ball	1
+shape vector	1
+vector maximum	1
+unit ball part unit ball	1
+norm boundary	1
+infinity demo	1
+binder notebook	1
+unit ball demo	1
+unit ball vector norm	1
+plot soap norm diamond	1
+corner infinity limit	1
+playing norm	1
+python professor local	1
+library package lynn	1
+norm infinity norm	1
+peace route	1
+multiply machine epsilon gap thumb	1
+peace norm route	1
+vector distance	1
+norm distance	1
+norm operation vector	1
+vector door	1
+minus norm hat	1
+location siebel center	1
+vector instance	1
+frobenius norm	1
+possibility vector unit norm	1
+norm bunch norm vector	1
+norm vector operation	1
+simplification scaling matrix	1
+instance unit ball circle	1
+norm matrix max	1
+norm max	1
+unit vector unit vector norm	1
+demo norm matrix	1
+matrix norm unit vector	1
+unit vector multiply	1
+amplification matrix	1
+vector anne	1
+scenario magnitude norm	1
+unit vector direction	1
+center ellipsoid	1
+norm matrix component	1
+lydia norm matrix hyest singular	1
+infinity norm infinity norm row norm	1
+norm row	1
+python quiz anne norm	1
+titan waste matrix	1
+normie mod	1
+vector max axe	1
+professor olson	1
+inverse matrix undo operator	1
+minus inverse	1
+undo image	1
+image matrix image matrix	1
+matrix plotting	1
+matrix vector matrix	1
+row wiesel operation	1
+filter pixel	1
+cone shape	1
+cone shape weight	1
+contribution hat	1
+image processing career	1
+security promise image cx	1
+flat plot	1
+instance row	1
+top pixel	1
+professor matrix	1
+color entry matrix	1
+blower matrix	1
+image operation	1
+filter radius	1
+blur matrix blur	1
+soul anne	1
+security noise	1
+bottom roll	1
+substitution eye	1
+row bunch zero	1
+bunch salvation	1
+multiply watt	1
+formula loop	1
+text ray	1
+multiplication division subtraction	1
+plenty activity	1
+retry quiz	1
+piazza tomorrow opportunity retry	1
+addition quiz	1
+credit addition	1
+regression equation	1
+bioline search gradient	1
+search learning algorithm	1
+optimization iteration	1
+grade axis	1
+quiz score axis	1
+exam score	1
+correlation anne	1
+slope intercept	1
+mbi optimization	1
+e implement gradient	1
+eye card	1
+card hurry card	1
+python skill east	1
+entry learning	1
+optimization fit	1
+iteration argument	1
+alpha gradient east	1
+history optimization progress	1
+decent entry starting	1
+optimization learning	1
+bottom learning	1
+history fit	1
+search optimization	1
+learning argument	1
+search modification	1
+alpha optimization	1
+plot convergence	1
+iteration bunch	1
+distance city	1
+location city loss	1
+part distance	1
+city array	1
+guest distance	1
+gradient loss respect coordinate	1
+gradient part	1
+snippet modification	1
+city location vector	1
+city distance	1
+alpha gradient loss respect	1
+tolerance learning	1
+history progression ex vector	1
+history loss	1
+city location array iteration	1
+plot city	1
+san francisco	1
+miami south	1
+optimizer distance city	1
+respect solution mirror solution	1
+transformation solution	1
+history city	1
+history optimization	1
+orthogonality pattern convergence	1
+minimize gradient	1
+amount consumption location food	1
+measurement tumor cell	1
+flower categorisation	1
+put flower category	1
+tumor cell patient	1
+tumor cell	1
+times alcohol	1
+fruit weight	1
+alcohol potato	1
+table weight	1
+consumption fruit	1
+whale pc	1
+food model abe	1
+land island	1
+food part country coincidence	1
+errant denominator r	1
+evaluation iteration derivative convergence	1
+route changing fb newton	1
+exercise activity	1
+guarantee convergence	1
+invert jacobian	1
+newton prime	1
+activity demos demo webpage nonlinear	1
+derivative newton	1
+linspace mesh	1
+derivative reference	1
+mesh linspace	1
+root route	1
+axis iteration newton	1
+guest infinity	1
+message root newton direction infinity	1
+attention algorithm	1
+interval newton safety	1
+demo part webpage	1
+tolerance newton	1
+endpoint tolerance	1
+behavior iteration tuples	1
+string entry	1
+loop newton	1
+hint morning	1
+helper numpy	1
+minimum f	1
+helper uhm	1
+loop statement	1
+python loop statement	1
+whoop newton	1
+equation aplus	1
+cita arg min	1
+append atupele	1
+newton kick	1
+newton dimension	1
+axis origin center earth	1
+satellite position	1
+position satellite	1
+board track	1
+reference respect	1
+satellite empire	1
+unit sphere	1
+radius earth	1
+equation receiver	1
+satellite f	1
+receiver satellite	1
+lag expression	1
+coordinate receiver	1
+leg receiver	1
+capital component receiver	1
+dimension derivative	1
+direction jacobian	1
+formula capital	1
+satellite array confusion	1
+bottom notebook capital vector	1
+lanja tude delay satellite	1
+derivative entry matrix	1
+season equation	1
+capital equation	1
+matrix satellite	1
+coordinate satellite	1
+root derivative parenthesis derivative	1
+respect derivative numerator	1
+eye satellite loop	1
+respect speed	1
+north pole receiver	1
+north pole newton	1
+scipy routine	1
+integral route	1
+april thirtieth	1
+review student	1
+guy loss	1
+satisfy wayne interpolation	1
+eleven ass	1
+slope prime interpolation	1
+assignment demo	1
+plate distribution	1
+degree interpolation	1
+solution motivation	1
+plot interpolation	1
+conductivity temperature	1
+curve fit interpolation	1
+sine trouble	1
+fee basis	1
+interpolation anne matrix	1
+matrix vector multiplication matrix vector	1
+basis fee	1
+coordinate known marketing yellow coordinate	1
+sake simplicity vector	1
+coefficient basis	1
+pj basis	1
+datapoint basis	1
+fee matrix	1
+equation matrix fee	1
+row basis	1
+basis coefficient	1
+basis maximum	1
+derivative requirement flexibility	1
+matrix iclicker	1
+polynomial monomial	1
+interpolant summation jay	1
+polynomial summation	1
+degree basis	1
+matrix basis coefficient	1
+matrix generalize	1
+unknown coefficient	1
+interval role	1
+matrix plot	1
+solution monomial matrix	1
+matrix watt	1
+vandermonde monomial	1
+fb interpolant	1
+coefficient tent	1
+digest part	1
+degree polynomial degree watt	1
+polynomial wat	1
+inter plant	1
+interval degree	1
+subset sub interval	1
+interval age endpoint	1
+center interval age interval age degree polynomial	1
+instance interpolant center	1
+interval coefficient	1
+coefficient simulation	1
+interpolant annonay plot	1
+linear scale plot	1
+sedan linear exponential	1
+plot slope curve watt	1
+hat fan	1
+expression age	1
+behavior degree	1
+statement truth	1
+optimization degree polynomial	1
+magnitude deviation scale	1
+population age	1
+actor gradient	1
+part finite approximation vector	1
+perturbation age entry	1
+gradient comparison gradient respect vector	1
+entry gradient entry gradient	1
+weather valley	1
+finite approximation perturbation	1
+entry gradient finite	1
+perturbation entry	1
+gradient finite perturbation	1
+approximation snack	1
+gradient respect finite approximation	1
+gradient respect vector	1
+vector partial respect entry	1
+evaluation cell evaluation	1
+loop perturbation	1
+motivation reality	1
+magnitude starting	1
+array grand approximation gradient finite	1
+derivative respect axe derivative respect xj	1
+vector respect	1
+partial respect	1
+fm respect	1
+component vector f fi	1
+derivative respect entry vector	1
+vector evaluation respect	1
+cell evaluation	1
+gradient respect derivative row	1
+configuration vector	1
+approximation solution ga activity	1
+diffusion equation cooling rod	1
+temperature heat transfer	1
+derivative knowledge	1
+animation rod	1
+importance web	1
+outcome smell paper	1
+paper rank algorithm	1
+sentence rank	1
+model user behavior	1
+rose adjacency matrix chain	1
+surfer transition matrix	1
+probability node	1
+probability surfer	1
+matrix adjacency matrix transition matrix	1
+entry probability	1
+probability norm	1
+matrix notebook	1
+euro entry	1
+eigenvalue magnitude eigenvalue	1
+respect norm probability	1
+matrix eigenvector solution	1
+matrix vector multiplication array matrix	1
+history eigenvector	1
+tolerance simplicity	1
+eigen vector matrix	1
+beginning transition	1
+probability lending	1
+rank probability web server	1
+basketball team implementation rank	1
+rank modeling solution	1
+web surfer	1
+web server surfer	1
+entry implementation	1
+probability self	1
+snippet matrix	1
+probability modification	1
+edge cluster	1
+foreigner cycle	1
+iteration eigenvalue matrix	1
+eigenvalue magnitude eigenvalue magnitude	1
+rank paper	1
+mechanism rank alpha	1
+pattern zero	1
+edge house	1
+scope gauge	1
+research model	1
+vector probability	1
+activity tonight	1
+part learning	1
+rank algorithm	1
+part iteration ranking beginning notebook	1
+schedule activity rank beginning	1
+multiply matrix vector multiplication	1
+chain network	1
+seeing student	1
+matrix vector multiplication vector	1
+matrix vector multiplication vector computation	1
+summation xi scalar	1
+vector operation scale	1
+rank understanding	1
+sake learning	1
+night solution	1
+transpose norm	1
+norm times	1
+matrix notation	1
+yield transpose	1
+vector capital transpose	1
+vector transpose part	1
+component norm	1
+ex bar	1
+slope axis bar	1
+part exponent m bearing	1
+ghost approximating	1
+machine lumber machine	1
+scale gap machine gap machine	1
+float machine axe	1
+plus machine float	1
+gap float machine	1
+machine gap machine	1
+characterize magnitude	1
+machine representation float	1
+hat fax machine	1
+gap machine evaluation float	1
+minus magnitude	1
+thumb bound	1
+solution star	1
+star ex	1
+star interval	1
+requirement search	1
+star shape	1
+dollar interval	1
+description ex star	1
+interval solution interval solution interval	1
+motivation mother	1
+interval annex	1
+length interval	1
+interval bicycle search	1
+minus trouble	1
+iteration distance	1
+minus style	1
+iteration color interval equivalent iteration distance	1
+algorithm convergence interval	1
+summary interval iteration search interval	1
+iteration search	1
+r expression convergence	1
+bracket meaning	1
+equation trust	1
+office poise	1
+quiz f	1
+syntax paper guideline	1
+instance quiz montecarlo	1
+linear equation	1
+instance montecarlo	1
+loop probability	1
+cluster homework	1
+spring credit	1
+percent brain plenty	1
+eigen iteration gas	1
+norm update	1
+update norm	1
+transpose gist	1
+approximation iteration alpha lambda	1
+eigen factory	1
+lambda notation iteration	1
+eigenvalue convergence iteration	1
+lambda times norm youtube norm	1
+norm vector iteration	1
+norm e	1
+iteration conversion	1
+lambda convergence lambda	1
+lambda iteration era	1
+iteration eigenvector eigenvalue	1
+iteration e	1
+lambda arrow	1
+round arrow lambda	1
+round lambda	1
+lambda arrow iteration	1
+arrow iteration era iteration	1
+expression lambda	1
+inverse matrix lambda	1
+eigenvalue lambda eigenvalue	1
+eigenvalue beat lambda bar lambda	1
+sequence eigenvalue lambda borax	1
+matrix bee inverse	1
+matrix vector multiplication operation	1
+iteration operation update bunch matrix vector multiplication	1
+matrix vector multiplication matrix cause matrix vector matrix	1
+owen cube matrix vector	1
+inverse modification	1
+eigenvalue inverse iteration xk	1
+pisa permutation	1
+triangular matrix python	1
+algebra package	1
+equation times	1
+option inverse iteration	1
+back guy	1
+sequence triangular substitution	1
+inverse factorization cube	1
+cast eigenvalue	1
+matrix vector operation bunch cube	1
+part oracion iteration	1
+matrix eigenpair	1
+sigma anne eigen matrix	1
+lambda swear	1
+sigma ass	1
+inverse matrix eigenvalue	1
+eigenvalue motivation instance acoustic	1
+instrument eigenvalue frequency instrument	1
+eigenvector frequency eigenvalue	1
+sigma lambda bar	1
+sigma bar lambda bar	1
+sigma eigenvalue matrix inverse	1
+linda eigenvalue sigma bar eigenvalue matrix lambda eigenvalue matrix	1
+eigenvalue lambda bar	1
+lambda bar conversion iteration	1
+lambda sigma motivation	1
+eigenvalue ship bottom table	1
+demo iteration inverse iteration	1
+series matrix vector multiplication	1
+inverse series solution	1
+matrix sigma eigenvalue	1
+sequence salt inverse iteration	1
+norm era iteration	1
+lambda magnitude lambda	1
+extension derivation	1
+sigma ann linda	1
+conversion ratio	1
+paris oracion	1
+starting eigenvalue iteration eigenvalue iteration	1
+routine eigenvalue eigenvector matrix	1
+python routine iteration	1
+verse iteration	1
+eigenvector matrix iteration	1
+eigenvector scalar	1
+tonight eigenvalue	1
+matrix raid matrix	1
+riley coefficient estimate eigenvalue	1
+verse iteration inverse iteration empire solution	1
+thousand row	1
+sigma casa tan	1
+lambda watt eigenvalue	1
+gas iteration	1
+update riley coefficient	1
+convergence riley iteration	1
+plot table riley	1
+sigma matrix factorization tradeoff	1
+solution iteration	1
+lambda bar conversion lambda	1
+lambda bar lambda sigma	1
+riley iteration	1
+convergence demo	1
+ratio convergence ratio	1
+criterion matrix vector multiplication iteration	1
+tolerance safeguard	1
+loop criterion	1
+convergence criterion	1
+iteration riley coefficient	1
+riley quotient iteration	1
+plot decay	1
+cell following	1
+convergence ratio iteration	1
+riley coefficient matrix riley coefficient	1
+riley quotient	1
+gas convergence	1
+sigma entry sigma	1
+variance anne variance variant	1
+colin virginica overlap	1
+beta beetle	1
+memory exponent	1
+exponent integer	1
+exponent e	1
+highlight precision	1
+characteristic precision representation	1
+part precision machine	1
+epsilon gap	1
+exponent multiply minus	1
+machine epsilon precision machine absolon minus gap	1
+equation review	1
+vector inverse	1
+pixel array row	1
+operation matrix vector multiplication	1
+matrix operation ex vector	1
+blur matrix blur matrix	1
+essence pixel image pixel radius	1
+pixel location	1
+execution shape matrix	1
+vector image	1
+image corner	1
+operator multiply	1
+shape image	1
+blur inverse matrix vector multiplication	1
+argument matrix	1
+shoe minus	1
+noise minus pixel	1
+algebra equation	1
+equation triangle	1
+matrix entry nonzero entry bottom matrix	1
+bottom row vector unknown	1
+ex row	1
+entry triangular matrix	1
+bottom row bn	1
+substitution snippet	1
+triangular triangle	1
+triangular matrix default	1
+entry bottom matrix	1
+triangular entry	1
+factorization pivoting	1
+matrix permutation matrix triangular matrix entry	1
+matrix transpose matrix inverse matrix	1
+assault matrix	1
+triangular matrix writing	1
+part triangular matrix writing	1
+permutation matrix triangular matrix	1
+triangular substitution triangular substitution	1
+computation beat blur matrix	1
+bandit triangular matrix	1
+triangular part	1
+zero pattern image zero	1
+triangular zero	1
+part story matrix	1
+solution millisecond solution zero	1
+solver matrix	1
+part mp topology optimization	1
+bridge essence	1
+operator matrix displacement	1
+f loading	1
+configuration bridge	1
+advantage story entry matrix	1
+computation zero sake comparison part	1
+comparison matrix	1
+loading factory	1
+sake loading dimension	1
+computation cholesky factorization summary	1
+solution factorization	1
+ly part	1
+stochastic model	1
+resource tab	1
+item table content	1
+notebook mode	1
+model stock market	1
+prediction investment	1
+model prediction odd	1
+sequence py array	1
+cell sequence	1
+seed parameter implementation algorithm	1
+parameter sequel	1
+generator pattern period	1
+outcome butter bread	1
+coin toss probability	1
+tale probability	1
+model roll die	1
+top die task	1
+coin task	1
+coin toss py	1
+umpire entry toss	1
+experiment sequence	1
+umpire array	1
+sample toss	1
+distribution deviation	1
+sake simplicity integral integration	1
+computing region	1
+surface interest	1
+sample part expression	1
+circle radius circle	1
+box interval	1
+radius coordinate	1
+radius sqrt	1
+plot appoint	1
+minus direction	1
+approximation circle	1
+circle r	1
+estimate circle plot approximation circle	1
+pattern decay	1
+sample approximation	1
+simulation curve	1
+curve orange curve purple sqrt	1
+behavior sqrt	1
+variance distribution sample	1
+air approximation	1
+una multiplication sigma	1
+transpose row matrix	1
+shape sigma	1
+identity matrix identity sigma pine	1
+times sigma transpose sigma	1
+eigenvalue transpose lambda egg	1
+transpose matrix segment transpose	1
+sigma inverse av	1
+vector scheme	1
+matrix composition	1
+lambda r solution transpose	1
+bracket tau	1
+optimiser interval	1
+approximation orange	1
+inflection maximizer	1
+quadratic minimizer	1
+tolerance solution	1
+solution doubling digit accuracy	1
+bunch attention	1
+newton scene	1
+literature documentation hashing	1
+scene approximation	1
+approximation evaluation	1
+activity alright	1
+quadratic taylor approximation	1
+distance radio radius	1
+approximation curve minimizer	1
+evaluation iteration knowledge derivative	1
+search demo	1
+approximation f minus	1
+taylor approximation quadratic approximation	1
+orange quadratic approximation	1
+newton orange curve green	1
+converge newton solution quadratic	1
+multiplication matrix dimension	1
+experiment plot	1
+dy wine	1
+plot slog	1
+denominator slope	1
+entry multiplication	1
+summation operation	1
+entry valuating	1
+multiply geovax	1
+tax gross	1
+context complexity matrix	1
+finite sine	1
+district representation	1
+ladder entry row matrix	1
+matrix model matrix	1
+curve fit curve	1
+quadratic coefficient	1
+expression homework	1
+slope intercept bar	1
+endpoint coefficient bar matrix	1
+paste matrix	1
+tease multiply	1
+coefficient bar	1
+exponential ex	1
+inverse exponential bar exponential coefficient bar	1
+correlation height building	1
+model matrix model matrix	1
+coefficient intercept	1
+residual norm	1
+rank matrix rank matrix	1
+sake curiosity	1
+regression age axis	1
+fit correlation	1
+correlation height	1
+regression height	1
+indication correlation	1
+home panda tutorial	1
+tracking ice extent	1
+ice extent model matrix	1
+planet matrix tea	1
+coefficient norm	1
+solution coefficient ellee norm	1
+solution norm solution equation	1
+sequence vector multiplication update iteration	1
+correspond eigenfactor eigenvalue	1
+coefficient expression	1
+ex eigenpair matrix	1
+exit matrix vector multiplication	1
+snippet option eigenvalue	1
+permutation triangular matrix	1
+forward ncube operation	1
+verse ncube	1
+eigenpair matrix	1
+pair squared	1
+eigen pair bar matrix	1
+verse iteration matrix	1
+xk inverse iteration	1
+member coefficient transpose	1
+convergence operation sequence	1
+eigenvalue magnitude sequence matrix	1
+vector multiplication ann	1
+sequence operation eigenvalue convergence	1
+fraction eigenvalue	1
+coordinate direction coordinate	1
+tea teacher	1
+matrix anne	1
+meaning equation unknown m equation	1
+wendy optimization	1
+gradient chain	1
+beep matrix	1
+vector matrix anna	1
+m matrix	1
+ambien transpose matrix	1
+computation times	1
+transpose kim	1
+clarity transpose	1
+solution exe uhm	1
+transpose eigenvalue	1
+root anne	1
+rank transpose	1
+transpose inverse transpose	1
+axa minimizer	1
+derivative gradient hash derivative expression	1
+transpose hash	1
+axi solution	1
+minimize equation	1
+bass approximate	1
+projection axe projection	1
+r residual	1
+coordinate ann	1
+bee coordinate	1
+curve fitting	1
+vectra coefficient	1
+sn vector coefficient ex vector	1
+vector prop	1
+solution lee equation	1
+vector operator eigenvector ann	1
+matrix vectra	1
+vector coefficient bivector coordinate	1
+transpose matrix transpose	1
+ambien matrix	1
+transpose times	1
+factorization cube	1
+equation omn	1
+force entry	1
+entry length array float	1
+part array ceo storage	1
+row pointer reference	1
+dent zero	1
+theory breast cancer breast cancer	1
+radius texture perimeter con	1
+fractal symmetry	1
+matrix patient row matrix patient	1
+deviation scenario	1
+symmetry perimeter	1
+radius tumor	1
+baby classification	1
+meaning bunch	1
+tradeoff meaning	1
+row patient	1
+row subset matrix	1
+radius matrix	1
+variance distance	1
+axis summation distance	1
+color summation distance	1
+axis coordinate axis	1
+variance summation distance	1
+spread direction axis	1
+axis reference	1
+patient shape	1
+covariance matrix covariance matrix	1
+entry covariance variance	1
+off diagonal	1
+entry covariance matrix	1
+variance covariant matrix	1
+variability variance	1
+matrix covariance matrix	1
+eigen transformation recap	1
+decomposition matrix covariance matrix eigenvalue	1
+diagonalization matrix eigen	1
+direction eigenvector	1
+singular composition	1
+matrix transposing	1
+eigenvalue variance	1
+variance eigenvalue	1
+direction row	1
+variance ratio	1
+patient shape patient	1
+plot deviation	1
+radius deviation	1
+variance component	1
+row transpose star	1
+vystar basis	1
+eigenvector star	1
+star shape patient	1
+star component	1
+pain pc	1
+text pc	1
+prediction certainty	1
+weight matrix	1
+texture weight	1
+pc row	1
+entry pc weight pc	1
+bar plot	1
+principle component variance	1
+dimension bunch contribution	1
+weight model	1
+lab biopsy patient	1
+taylor expansion coefficient	1
+derivative whoop derivative respect	1
+expression coefficient	1
+expression ice derivative	1
+gen pression	1
+series taylor	1
+index tail approximation degree summation	1
+factorial review calculus	1
+taylor demo pie	1
+num python senpai	1
+meaning tyson	1
+library aksan python	1
+derivative express	1
+equation circle	1
+approximation taylor approximation degree	1
+port derivative taylor ann taylor	1
+sub index approximation	1
+meaning tailor degree	1
+taylor approximation expression taylor expansion	1
+evaluation taylor	1
+prof factorial	1
+approximation remainder	1
+expression starting	1
+infinity air	1
+age eye	1
+factorial evaluator	1
+alright air anne	1
+notation bound analysis	1
+approximation air age	1
+series remainder	1
+interval remainder	1
+tailor degree approximation	1
+functioning orange approximation	1
+plot scale	1
+taylor approximation plot	1
+tailor diggory	1
+part slope	1
+homework tonight abound	1
+behavior expansion	1
+factorial taylor	1
+m statement	1
+expansion bunch	1
+plot pie	1
+meaning taylor	1
+plot vicinity expansion	1
+synthetic expansion	1
+statement homework	1
+green minus	1
+user taylor approximation degree	1
+truncation taylor	1
+e watt taylor polynomial degree	1
+air truncation	1
+taylor prof	1
+approximation derivative expansion	1
+tailor degree approximation derivative	1
+anne mine	1
+derivative plot	1
+derivative slope	1
+home integration derivative integration	1
+monte carlo approximate pi	1
+taylor expansion circle home	1
+motor car	1
+taylor finite	1
+writing taylor	1
+approximation notation approximation	1
+finite approximation prime	1
+remainder transition	1
+finite approximation ex finite	1
+approximation finite approximation	1
+truncation age	1
+machine finite precision	1
+finite aff	1
+perturbation direction	1
+epsilon round	1
+absence machine	1
+part survey ice	1
+part student importance	1
+algorithm machine calculation	1
+button ao	1
+distribution scenario gap	1
+scenario gap	1
+region representation	1
+precision float	1
+town meeting	1
+recording beginning notebook	1
+minimization notebook	1
+curve optimization	1
+curve optimization orange curve	1
+instance performance	1
+volume bridge	1
+failure criterion	1
+tradeoff quadratic	1
+flat minimize	1
+solution minimize	1
+ax minimum	1
+nd scalar	1
+derivative minimization	1
+dimension hashing matrix convergence	1
+interval derivative	1
+update notebook	1
+axe starting	1
+optimization multiplication	1
+convergence perimeter	1
+perimeter evaluation iteration	1
+implementation compromise	1
+finite approximation minimize	1
+minimize part	1
+documentation minimize documentation constraint	1
+expression constraint	1
+optimize f	1
+lesson convergence evaluation lesson	1
+inequality constraint iteration interval equality constraint inequality	1
+inequality convergence	1
+optimization parameter constraint	1
+vector evaluation conversion	1
+solution evaluation derivative	1
+derivative optimiser	1
+entry gradient derivative respect optimization	1
+entry derivative minimize	1
+respect scene	1
+gradient derivative gradient chat respect	1
+axe entry gradient	1
+solution respect	1
+minimum interval	1
+interval bottom	1
+solution bottom	1
+minimizer bowl region interval	1
+interval curvature minimizer optimization interval	1
+benchmark region	1
+routine minimum minimizer region	1
+descent following location interval	1
+dissent minus direction	1
+gradient direction towel	1
+recursion direction	1
+interval gradient	1
+recording interval	1
+solution minimizer boundary dissent	1
+direction interval	1
+interval learning	1
+gradient alpha optimum interval	1
+e minus	1
+alpha learning alpha	1
+search stay	1
+alpha interval	1
+alpha evaluation	1
+advantage iteration	1
+search opt	1
+scipy optimize	1
+interval search	1
+argument convergence alpha	1
+flat concentration iteration	1
+converge interval gas iteration tolerance	1
+solution interval minimizer	1
+alpha default interval	1
+search ratio passing	1
+e flying r history	1
+opt r	1
+guy r	1
+plot f	1
+quiz initial optimality	1
+towel plot	1
+satisfy expression r	1
+iteration stone	1
+approximation minimization	1
+approximation linear	1
+derivative wine	1
+derivative finite approximation	1
+location map	1
+convergence evaluation iteration interval solution	1
+evaluation interaction	1
+driver respect	1
+hashing plot	1
+descent following	1
+alpha echo parameter	1
+tunnel tolerance	1
+learning alpha pre	1
+ice optimize	1
+accent update	1
+flying history alpha	1
+vector solution hashing	1
+ncube computation	1
+update bout conversion iteration	1
+direction hash conclusion	1
+approximation anet	1
+plenty quiz	1
+notebook fun	1
+party reference	1
+algorithm optimizer	1
+alpha search update alpha gradient	1
+iteration scene understanding	1
+decomposition optimization	1
+equation chain eigen	1
+arm robotic angle rotation	1
+graphically instance newton law	1
+spring force model	1
+root finding solution	1
+interval chop interval	1
+demos interval iteration interval delta	1
+air iteration delta	1
+lambda eigenvalue lambda eigenvalue magnitude	1
+root party	1
+minus newton	1
+south vector south	1
+flight chicago	1
+office basement siebel	1
+eigenvalue optimization	1
+box complexity	1
+box model alpha	1
+box matrix	1
+matrix site	1
+ann complexity	1
+alpha twenty	1
+bunch zero integer	1
+bunch integer	1
+zero fraction	1
+precision pee precision	1
+ton calculator	1
+precision machine precision	1
+pool meat	1
+representation machine representation	1
+friend thread	1
+browser convert	1
+beach app	1
+python mathematica matlab liner mathematica	1
+prayer homework credit	1
+friend guy	1
+r el	1
+machine epsilon machine	1
+machine gap	1
+elvis exponent faction	1
+machine epsilon machine awesome gap	1
+friendship machine epsilon	1
+precision peace	1
+minus toy	1
+minus precision representation	1
+exchange software	1
+sora precision	1
+exponent watt	1
+summary region	1
+region amount	1
+precision machine epsilon	1
+chip notebook	1
+alarm clock	1
+visualization panda export	1
+ax colour eigenvalue matrix eigenvalue matrix	1
+eigenpair eigenvector	1
+eigenvalue satisfie	1
+eigenvector lambda eigenvector lambda	1
+satisfy scalar eigenvector scalar eigenvector	1
+pico sue norm	1
+apple norm	1
+algebra ax	1
+matrix minus matrix minus lambda vector	1
+determinant matrix determinant matrix	1
+solution approximation pair matrix eigen	1
+determinant minus	1
+eigen eigenvector	1
+lambda satisfy equation satisfy equation	1
+newby matrix satisfy	1
+multiply eigenvector	1
+un satisfy	1
+matrix equality	1
+scaler vector	1
+eigen matrix times eigenvector	1
+beginning eigenvector	1
+eigenvector summary	1
+eigenvalue trading eigenvalue	1
+matrix eigen vector	1
+matrix eigenvector matrix	1
+kosu lambda	1
+solution component solution component eigenvector	1
+vector component eigenvector component eigenvector	1
+vector multiply vector	1
+lambda lambert	1
+eigenvalue eigen lambda	1
+lambda fraction	1
+matrix eigenvalue matrix eigenvalue	1
+ann orthogonal matrix	1
+matrix requirement matrix requirement	1
+eigenfactor eigenvector matrix	1
+eigenvalue corresponding	1
+solution shoe	1
+finding solution	1
+beginning convergence	1
+component eigenfactor convergence	1
+component simplicity component simplicity	1
+stopping criterion	1
+lambda ratio component ratio component	1
+accuracy modifying accuracy precision	1
+algorithm minus	1
+eigenvalue approximation	1
+approximation attempt	1
+convergence iteration pitfall	1
+iteration infinite	1
+finite precision finite precision	1
+precision ieee machine	1
+alpha theory	1
+infinite precision	1
+precision alpha	1
+ncube matrix vector iteration	1
+catch complexity tube	1
+sequence salt	1
+sigma times identity matrix	1
+eigenvector eigenvalue iteration complexity	1
+times root	1
+part iteration	1
+sequence north kn iteration	1
+lambda minus convergence	1
+factorization ncube	1
+ex curve	1
+zigzag convergence	1
+convergence root	1
+evaluation midpoint evaluation iteration	1
+solution interval solution	1
+addition interval	1
+interval arrow	1
+iteration convergence iteration	1
+iteration r	1
+beginning demo derivative knowledge	1
+derivative age	1
+phone solution ex	1
+stopping tolerance	1
+magic water	1
+convergence accuracy iteration	1
+quadratic solution	1
+convergence accuracy digit accuracy iteration	1
+approximation derivative update f approximation evaluation	1
+guy implementation	1
+doubling accuracy dish	1
+intro machine learning	1
+fly google colab	1
+notebook pokemon	1
+machine pokemon	1
+student game	1
+defense attack	1
+attack specialty	1
+monster stat	1
+speed generation	1
+joke instagram	1
+flower setosa versicolor	1
+classification model	1
+package library	1
+legendarie cylinder	1
+umpire array zero	1
+scientist training	1
+cheating label	1
+pokemon expert	1
+yep generation	1
+conclusion label	1
+seed ann capital	1
+model classification	1
+solver optimization package newton conjugate gradient	1
+newton optimization hood optimization	1
+fit classification parameter	1
+task model	1
+percent metric accuracy	1
+percent cancer	1
+cancer prediction	1
+patient cancer accuracy model	1
+accuracy metric	1
+amount cancer prediction	1
+gravel matrix	1
+row reality	1
+row confusion matrix amount pokemon	1
+percent confusion matrix prediction legend	1
+pokemon tp amount pokemon	1
+prediction quantity prediction	1
+prediction legendarie	1
+cancer recall	1
+percent accuracy recall	1
+pokemon player	1
+pokemon bragging	1
+percent precision	1
+model gradient	1
+solver classifier	1
+train model prediction	1
+percent algorithm	1
+variance party variance root	1
+percent variance exam	1
+variance percent variance	1
+typo south	1
+wolf variance	1
+root variance summation variance	1
+variance ann variance variant variance	1
+box pc	1
+coordinate star	1
+star solution matrix	1
+story frame	1
+frame star	1
+integer location row	1
+specie iris hue	1
+region pc	1
+percent variance pc	1
+weight importance instance	1
+pokemon timing	1
+pokemon machine learning	1
+team spring	1
+algebra python	1
+python quiz	1
+percent training gradient	1
+classifier model	1
+percent recall	1
+game comparison	1
+percent model	1
+machine continuation	1
+classification algorithm	1
+coordinate direction	1
+coordinate vector dimension	1
+matrix m	1
+equation row matrix	1
+determinant equation unknown m equation	1
+essence coordinate	1
+temperature water shower	1
+faucet position	1
+water temperature alittle	1
+position faucet output swing water temperature	1
+impact perturbation	1
+output solution	1
+algorithm cell	1
+solution vector snippet	1
+characteristic matrix	1
+equation manipulation	1
+following norm	1
+inequality quantity	1
+denominator numerator	1
+quantity output	1
+angle faucet	1
+output water temperature	1
+norm computation cond	1
+norm inverse matrix norm matrix	1
+measure sensitivity	1
+equation variation	1
+amplification inverse norm	1
+identity norm identity matrix norm identity matrix	1
+identity vector	1
+norm identity matrix	1
+matrix setting	1
+matrix norm inverse	1
+entry magnitude	1
+measure matrix	1
+contrast determinant matrix	1
+indicator matrix	1
+solution perturbation	1
+vector perturbation solution	1
+hat computation	1
+vector hat output	1
+norm magnitude	1
+factorization conclusion	1
+solution identity matrix	1
+verse norm	1
+modification norm quantity	1
+nominator quantity norm	1
+output matrix multiply	1
+norm multiply	1
+air matrix	1
+flag solution	1
+factorization implementation	1
+solution xx	1
+substitution solution	1
+solution xx solution	1
+norm factorization	1
+minus solution	1
+computation reduce portion matrix	1
+multiplie transpose	1
+identity matrix identity transpose	1
+entry eigenvalue	1
+transpose ax eigenvector	1
+transpose part transpose	1
+transpose script	1
+times transpose	1
+region map	1
+cholesky factorization ncube	1

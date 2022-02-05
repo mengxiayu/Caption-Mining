@@ -1,0 +1,3148 @@
+percent probability	36
+part speech	33
+baye net	30
+markov model	30
+noun phrase	29
+layer network	22
+probability table	19
+player game	18
+manhattan distance	18
+policy iteration	17
+baye network	16
+probability sequence	14
+payoff matrix	14
+baye assumption	13
+probability training	13
+probability sun	13
+bellman equation	11
+context coffee	11
+crossword puzzle	10
+transition probability	10
+action utility	10
+prisoner dilemma	10
+probability burglary	10
+inverse document frequency	10
+query vector	10
+cancer probability	10
+grade scope	9
+utility sequence	9
+node activation	9
+tip tat	9
+context grammar	8
+interpolation probability	8
+sentence english	8
+speech recognition	8
+transition model	8
+game theory	8
+probability document	8
+model parameter	8
+robot arm	8
+harry potter	8
+shadow series	8
+search depth	7
+probability distribution	7
+probability observation	7
+amount money	7
+bob alice	7
+burglary earthquake	7
+movie review	7
+verb phrase	6
+part speech tagging	6
+singular verb	6
+machine learning	6
+weight vector	6
+training token	6
+isaac newton	6
+reference label	6
+transition probability matrix	6
+reinforcement learning	6
+quarter probability	6
+probability payoff	6
+game board	6
+utility action	6
+equation unknown	6
+utility policy	6
+policy improvement	6
+star search	6
+stag hunt	6
+advance player	6
+probability event	6
+probability burglary mary	6
+football game	6
+document vector	6
+document query	6
+document frequency	6
+hypercomplex cell	6
+estimate distance	6
+training database	5
+probability mass	5
+iteration policy iteration	5
+robot maze	5
+path length	5
+outcome game	5
+player action	5
+likelihood estimate	5
+node path	5
+bid auction	5
+map coloring	4
+part tree	4
+saving trick	4
+puzzle advance	4
+path dud	4
+chapter textbook	4
+penn treebank	4
+bear animal	4
+search engine	4
+entity prince	4
+action entity	4
+argument predicate	4
+entity predicate	4
+noun phrases verb phrase	4
+sentence proposition	4
+part speech sentence	4
+tree bank	4
+animal dog	4
+perceptron algorithm	4
+sub istar	4
+viterbi algorithm	4
+burglar house	4
+bayesian network	4
+united states	4
+slumdog millionaire	4
+tenth probability	4
+gamma max	4
+action probability	4
+policy bellman equation	4
+advance opponent	4
+strategy player	4
+alice bob	4
+coordination game	4
+vector semantic	4
+vector semantic model	4
+unit meaning	4
+sequence character	4
+similarity pair	4
+context probability	4
+direction vector	4
+woman homemaker	4
+gender bias	4
+training algorithm	4
+parameter performance	4
+baye algorithm	4
+burglary house	4
+query evidence	4
+probability alarm	4
+arrow earthquake	4
+earthquake probability alarm	4
+burglary alarm	4
+baye model	4
+conference paper	4
+model learning	4
+food pellet	4
+logarithm frequency	4
+cooccurrence matrix	4
+document classification	4
+document harry potter	4
+root squared	4
+shadow vector	4
+baye normalization	4
+regression algorithm	4
+training parameter	4
+sequence activation overtime	4
+map weight	4
+network output	4
+node layer	4
+classification task	4
+training corpus	4
+cross entropy	4
+model probability	4
+plagiarism checker	4
+distance node	4
+review paper	4
+event probability	4
+probability evidence	4
+document spam	4
+occurrence document	4
+likelihood estimator	4
+bid price	4
+path robot	4
+path stockroom	4
+child bubble	4
+path stockroom path	4
+angle attack	4
+arm forearm	4
+corner path	4
+path node	4
+dijkstra algorithm	4
+search algorithm	3
+intelligence movement star search algorithm	3
+part subject	3
+graph search	3
+noun phrase sequence	3
+subject object	3
+wall street journal	3
+part speech english	3
+sample exam	3
+dog cat	3
+cell membrane	3
+vector direction	3
+vector sub	3
+derivative respect	3
+machine translation	3
+probability ellie	3
+observation probability	3
+probability r	3
+probability parameter	3
+intelligence reinforcement learning strategy algorithm	3
+advance object	3
+reinforcement learning algorithm	3
+formalism reinforcement learning formalism markov	3
+sequence observation sequence	3
+sequence action robot	3
+action robot	3
+transition model transition model probability	3
+probability density probability mass probability	3
+reward literature reward	3
+notation reward	3
+action reward	3
+probability robot	3
+action policy	3
+board solution	3
+object classification solution	3
+table action	3
+slumdog millionaire chaiwala tech company bombay	3
+series difficulty	3
+action slum dog millionaire	3
+payoff amount	3
+dollar payout	3
+payoff evian	3
+exchange possibility	3
+exercise reader	3
+position diamond	3
+furnace robot	3
+cent dollar	3
+markov apolosi	3
+pit map arrow saying direction position calculation	3
+robot fault	3
+miscalculation misstep probability	3
+policy reward	3
+moment robot	3
+cycle transition probability	3
+furnace robot furnace	3
+board robot	3
+cent robot	3
+game markov	3
+transition model probability	3
+maximize reward utility	3
+sequence utility	3
+sequence reward	3
+dollar reward sequence	3
+sequence action comma	3
+action probability sequence	3
+probability utility	3
+utility action pi	3
+utility sequence reward	3
+robot possibility	3
+infinity probability	3
+utility movement	3
+infinity reward	3
+probability minus infinity sequence	3
+discount gamma reward	3
+tomorrow gamma reward gamma tomorrow	3
+dollar tomorrow	3
+gamma dollar gamma	3
+model human	3
+human being dollar	3
+tomorrow dollar	3
+gamma dollar	3
+tomorrow uhm	3
+economy scenario	3
+discount utility sequence	3
+reward finite	3
+max reward	3
+gamma max r vest	3
+gamma tee max	3
+benefit discount	3
+policy sequence policy	3
+max action max action	3
+prime utility	3
+maximize utility	3
+war reward	3
+gamma maximum	3
+successor bellman equation	3
+utility reward	3
+gamma discount utility	3
+robot reward	3
+game utility	3
+reward maximum	3
+action bellman equation	3
+quantity transition probability reward	3
+gamma unknown utility equation unknown	3
+equation unknown multiplication	3
+matrix equation	3
+linearity equation	3
+eye federation	3
+policy pie sub	3
+iteration update spice paisa	3
+estimate prime	3
+iteration bellman equation	3
+finite amount	3
+iteration algorithm	3
+length path algorithm	3
+rs utility iteration	3
+robot transition model	3
+percent transition model action	3
+percent probability robot	3
+percent probability wall	3
+alright transition probability	3
+reward corner comma	3
+percent probability diamond	3
+probability diamond	3
+utility action estimate	3
+board action	3
+max operation utility	3
+cent utility	3
+iteration path length path	3
+comma path	3
+comma path diamond	3
+utility iteration	3
+iteration policy iteration policy iteration	3
+action policy iteration	3
+relative policy	3
+network policy evaluation	3
+length path maze	3
+finite policy iteration	3
+max action pyatt utility policy	3
+policy benefit	3
+path diamond	3
+benefit comma	3
+furnace utility	3
+pit dollar	3
+bang wall	3
+cent accident	3
+policy evaluation bellman equation policy equation	3
+zinan unknown	3
+matrix multiplying up identity matrix	3
+gamma matrix policy	3
+multiply event solution utility policy bellman equation	3
+bellman equation matrix inversion policy evaluation	3
+policy iteration policy	3
+policy utility	3
+dollar soap	3
+policy evaluation	3
+policy summary markov	3
+transition model probability matrix action	3
+reward vector reward solution policy	3
+solution iteration	3
+utility iteration policy iteration	3
+minimax strategy	3
+dollar player	3
+agent game	3
+player strategy	3
+game chicken	3
+strategy nash equilibrium	3
+meaning bank	3
+gender specificity	3
+baye formula	3
+action sub	3
+agent environment	3
+vector similarity	3
+node infinity	3
+edge weight	3
+label vector	3
+activation layer	3
+layer activation	3
+sequence observation	3
+entry table	3
+entry probability	3
+heuristic distance	3
+weather forecast	3
+iteration game	3
+town monopolist	3
+search crossword puzzle	2
+solution algorithm backtracking search depth	2
+algorithm path	2
+solution restriction	2
+path solution	2
+assignment solution	2
+puzzle box	2
+satisfie constraint	2
+neighboring color	2
+efficiency gain	2
+solution constraint	2
+territory comma	2
+color map	2
+depth search path	2
+beta depth	2
+length path	2
+capital path solution	2
+solution path length	2
+search breadth	2
+assignment news	2
+chunk tree	2
+memory usage	2
+algorithm solution	2
+satisfiability formula	2
+gotcha solution	2
+border map	2
+assignment sequence	2
+algorithm characteristic	2
+possibility graph	2
+option possibility logic	2
+motivation probability success	2
+path direction	2
+depth tree assignment	2
+bottom path	2
+trunk branch	2
+branching branch	2
+child parent	2
+assignment dud	2
+constraint heuristic	2
+constraint neighbor	2
+arc checking	2
+backtracking depth	2
+constraint satisfaction	2
+semantic concept syntax	2
+syntax context grammar	2
+wrinkle context grammar	2
+nonterminal sequence	2
+part speech part speech tag penn treebank	2
+part speech tag corpus	2
+school verb	2
+markov model revision text home assignment	2
+web yesterday response	2
+experiment probability	2
+probability bigram	2
+lambda probability unigram	2
+multiplying lambda probability	2
+credit event	2
+exponent bunch	2
+processing text	2
+rose text	2
+extraction text	2
+newspaper web	2
+context sentence	2
+prince comma	2
+reasoning database	2
+reasoning prince	2
+asteroid prince	2
+extraction task text human	2
+wikipedia mammal animal cat	2
+water fish water	2
+web triple resource description framework triple	2
+internet eric miller	2
+url entity identifier	2
+eric miller	2
+title object doctor	2
+business core	2
+expertise company google	2
+president united states	2
+database tuple	2
+george bush	2
+tech string	2
+toe semantic	2
+keyword entity predicate	2
+proposition entity	2
+event history	2
+predicate attribute	2
+respect entity	2
+proposition statement	2
+argument statement	2
+quantification proposition	2
+antoine prince	2
+rose proposition entity proposition	2
+semantic capitalization	2
+predicate love	2
+applie argument subject argument object love	2
+proposition prince	2
+parenthesis carnation	2
+parenthesis cat	2
+argument predicate argument	2
+argument proposition	2
+plaintext prince	2
+string top	2
+sentence syntax	2
+predicate sentence	2
+subject object syntax semantic interface	2
+modifier predicate	2
+semantic syntax	2
+syntax semantic interface	2
+credit predicate	2
+predicate analysis meaning semantic noun phrase	2
+proposition predicate argument	2
+sentence formalism	2
+context grammar nonterminal	2
+context character	2
+node grammar sequence character	2
+grammar sequence speech	2
+grammar sequence image	2
+node noun phrase	2
+grammar sequence	2
+expression notation	2
+sentence context grammar	2
+sentence english context grammar	2
+verb love	2
+grammar english sentence subject	2
+object sequence variation	2
+phrase probability	2
+probability generation	2
+baye net terminal	2
+child model	2
+parent child parent noun phrase child	2
+probability child	2
+sentence english noun phrase	2
+cat subset cat	2
+adjective noun	2
+toy grammar	2
+noun phrase verb phrase noun phrase	2
+determiner noun probability	2
+prince probability	2
+english ordering	2
+determiner string	2
+differ english	2
+terminal sequence	2
+theory grammar	2
+advance subject	2
+phrase english noun phrase	2
+production noun phrase	2
+subject english	2
+determiner adjective	2
+first noun phrase beginning	2
+noun phrase entity	2
+parsing part speech tagging	2
+machine algorithm	2
+label sentence	2
+night coffee	2
+database tree bank	2
+country bank	2
+penn treebank wall street journal sentence	2
+newspaper university pennsylvania	2
+parse tree	2
+noun tag	2
+noun john	2
+phrase sentence verb phrase	2
+verb phrase noun phrase	2
+sentence period	2
+mary annotation	2
+database annotation token database	2
+noun love	2
+noun english	2
+item marker	2
+maker penn treebank	2
+noun modal	2
+front verb	2
+sequence verb	2
+content reference	2
+cfg parser	2
+machine algorithm string	2
+output sequence part speech tag	2
+sequence phrase	2
+teaser friday	2
+cat dog	2
+squid axon	2
+dimension vector	2
+learning ada	2
+perceptron vector	2
+star output	2
+university toronto	2
+ground truth label	2
+markov model part speech	2
+evolution overtime	2
+storage requirement	2
+richard feynman	2
+robot tracking	2
+inference task	2
+glint steel corner room	2
+e numeration	2
+umbrella yesterday	2
+algorithm viterbi algorithm	2
+solution markov apolosi	2
+slum dog millionaire	2
+peter gabriel	2
+calculation apolosi	2
+policy game	2
+solution apolosi mapping	2
+eye federation policy iteration	2
+markov monday markov	2
+coordinate vector	2
+alpha beta search	2
+minimax algorithm	2
+player min	2
+min winning	2
+dollar min	2
+min player	2
+outcome player	2
+pair node	2
+chicken game	2
+game nash equilibrium	2
+doggie treat	2
+option dog	2
+game action	2
+nash equilibrium	2
+opposite player	2
+player car	2
+probability tenth	2
+probability player	2
+probability alice probability	2
+action player	2
+berkeley part	2
+intelligence thunderstorm	2
+front window	2
+friday interest	2
+vector meaning	2
+meaning algorithm	2
+thousand ten	2
+vector semantic literature	2
+defect model defect model	2
+vector representation	2
+similarity relatedness	2
+bias gender bias	2
+sequence phoneme	2
+sequence meaning	2
+command programming	2
+wiktionary entry	2
+lemma human alama entry dictionary	2
+dog dictionary	2
+character sequence	2
+ease processing	2
+vector entry dog entry dog	2
+bank england bank london bank thame	2
+devanagari sequence character	2
+sequence character string	2
+human dictionary	2
+cluster spelling pronunciation	2
+derivation ending	2
+derivation lemma	2
+meaning sequence character bank	2
+pronunciation spelling concept	2
+concept synonymy	2
+meaning banishing	2
+cream makeup	2
+dictionary synonym	2
+usage pattern	2
+literature vanish context	2
+disappear context	2
+similarity synonym	2
+synonym belief impression muscle	2
+task deck algorithm database	2
+scale task	2
+meaning creator simplex database	2
+pair clothe	2
+clothe closet clothe closet	2
+context coast shore coast atlantic ocean shore atlantic ocean	2
+similarity dimension	2
+document clothe closet	2
+document description	2
+house touchdown piano	2
+jurassic ian martin chapter	2
+synonym document	2
+water synonym	2
+synonym document water	2
+company algorithm	2
+text internet	2
+coffee sequence coffee	2
+coffee research paper	2
+coffee consumption	2
+research paper	2
+tea quantity	2
+ice tea	2
+drink art	2
+drink sub	2
+tea consumption ireland	2
+coffee drink	2
+similarity coffee	2
+vector co occurrence	2
+vec vector	2
+vector parameter vector	2
+network visa coffee	2
+wikipedia cosine similarity	2
+angle cosine angle	2
+distance length vector	2
+meaning coffee probability context	2
+baye model context probability	2
+coffee probability coffee probability	2
+position context	2
+tip coffee	2
+approximation probability	2
+context vector	2
+direction vector king	2
+direction vector queen	2
+woman visualization	2
+hundred algorithm	2
+relatedness attribute	2
+vector embedding paris france tokyo japan	2
+bullet bus vector	2
+algorithm programmer woman vector	2
+regression model	2
+internet uhm	2
+bias literature	2
+magazine article	2
+occupation vector	2
+thinking decade	2
+gender bias continuum dictionary	2
+dictionary wiktionary	2
+gender dictionary	2
+gender neutrality	2
+disk washing	2
+grandmother daughter wife girlfriend lady sister queen	2
+son brother nephew lad gender	2
+direction defect	2
+gender builder brilliant genius cocky journeyman buddy	2
+dress modeling	2
+reference gender bias	2
+bias analogy	2
+appropriateness analogy	2
+probability context	2
+markov model subject	2
+likelihood learning	2
+training wednesday	2
+likelihood training model likelihood	2
+likelihood bayesian framework likelihood probability observation	2
+document capital document database probability document ground truth label training document	2
+optimization technique	2
+parameter probability	2
+document review	2
+likelihood estimator likelihood	2
+likelihood training	2
+document probability	2
+baye parameter	2
+existence probability	2
+probability experiment probability	2
+wednesday formula	2
+laplace smoothing	2
+proportional probability	2
+probability review	2
+review probability review	2
+classifier review	2
+estimation algorithm	2
+philosopher probability	2
+mathematic god	2
+probability tomorrow	2
+tomorrow morning	2
+likelihood estimate length history	2
+probability statistic event	2
+history humankind	2
+training development	2
+evaluation corpus	2
+sub corpus evaluation	2
+category occurrence	2
+category parameter	2
+capital vocabulary	2
+capital denominator	2
+times capital denominator	2
+probability opry ori probability	2
+likelihood vocabulary	2
+prior frequency training database	2
+third training database	2
+third probability	2
+third accuracy	2
+probability belief	2
+review inference	2
+wednesday friday model	2
+label observation evidence label	2
+scenario bayesian inference	2
+probability query evidence	2
+solution bunch circle	2
+task formalism	2
+punchline baye network	2
+model representation likelihood	2
+judea pearl	2
+reasoning pearl	2
+notion probability	2
+bayesian inference	2
+baye network semantic	2
+context baye network graph semantic baye network abase network node	2
+arc interaction	2
+dentist hook catch dentist hook	2
+claim toothache	2
+bunch coin flip row	2
+tail dependance	2
+bayes document model	2
+representation probability structure wednesday probability structure	2
+knowledge label	2
+alright network	2
+news report drake house	2
+drake rap singer house	2
+swimming pool	2
+north swimming pool	2
+neighbor john	2
+john neighbor mary alarm	2
+john truth	2
+los angeles	2
+los angeles earth	2
+neighbor producer earthquake	2
+north hill	2
+johns phone	2
+percent burglary	2
+anna burglary	2
+earthquake burglary	2
+advance query	2
+probability graph	2
+utility baye net	2
+probability mary burglary	2
+probability mary alarm	2
+saving graph	2
+probability label	2
+probability computation model specification dependency	2
+burglary observation classification mary	2
+baye inference	2
+probability burglary mary probability	2
+burglary mary	2
+inference model parameter	2
+calculation model burglary earthquake alarm	2
+weekend probability	2
+earthquake alarm	2
+stage event probability burglary earthquake mary	2
+model parameter model parameter	2
+alarm weather	2
+probability burglary earthquake alarm	2
+mary ann	2
+burglary percent	2
+mary percent alarm burglary	2
+neighbor burglary	2
+mary john probability	2
+percent police	2
+event burglary	2
+police burglary	2
+burglary police	2
+police mary	2
+john earthquake	2
+neighbor probability	2
+earthquake police	2
+everyday computation	2
+earthquake police earthquake cause alarm	2
+burglar almanac	2
+alarm john	2
+earthquake almanac earthquake	2
+event burglar	2
+earthquake burglar	2
+independence probability	2
+coin flip	2
+hole tooth	2
+pcs lab	2
+conference paper machine learning conference	2
+batch queue	2
+machine conference	2
+weather server	2
+neil street	2
+saint louis	2
+champaign game	2
+amount traffic	2
+explanation traffic	2
+ball game	2
+presence rain	2
+presence football	2
+event observation independence	2
+event probability multiplie observation	2
+observation independence	2
+edge baye net	2
+monday baye net	2
+atari game	2
+robot action	2
+probability transition probability	2
+strategy epsilon	2
+probability action	2
+piazza tomorrow	2
+maze solving	2
+sequence objective	2
+intelligence vector semantic vector	2
+retrieval seventy precursor	2
+matrix document	2
+relatedness ann relatedness	2
+length context	2
+context document	2
+cosine similarity	2
+vector document matrix similarity	2
+concept frequency times inverse document frequency	2
+retrieval concept	2
+relatedness matrix rose	2
+internet database	2
+firth fifty	2
+quote company	2
+coffee conjunction	2
+meaning part speech noun	2
+object drinking	2
+subject brewing	2
+le veon goldberg	2
+top precision classifier detect pair	2
+recall percentage	2
+precision classifier	2
+aloe recall classifier	2
+car elo database decay	2
+classifier precision	2
+percent precision	2
+meaning sentence depth	2
+proposal goldberg	2
+bag context	2
+similarity score	2
+cosine distance vector threshold	2
+paper hogwart castle	2
+school harry potter series fantasy novel context	2
+collinwood castle	2
+fantasy tv series	2
+fantasy novel series sunnydale school	2
+slayer fantasy tv series night	2
+school vampire	2
+hug garderob	2
+garderob clothing	2
+fantasy literature privy castle	2
+night castle sunnydale	2
+hogwart noun blood adjective	2
+malfoy snape	2
+sentence hug	2
+harry potty harry potter series	2
+book series hogwart	2
+hogwart harry potter hug	2
+context window document	2
+document internet document matrix	2
+hug dumbledore	2
+collinwood matching	2
+horror soap opera	2
+shadow dumbledore	2
+character jake gay rowling harry potter series hug	2
+school magic	2
+jay kay rowling harry potter series	2
+document part document	2
+dumbledore document	2
+hogwart document	2
+document sentence	2
+document matrix frequency comma jay	2
+essence vector comma	2
+vector potter comma	2
+vector gothic	2
+document matrix similarity	2
+uhm representation retrieval seventy	2
+document search document search	2
+document vector matrix	2
+document matrix vector hogwart	2
+document vector dumbledore document vector collingwood	2
+representation document	2
+document query vector	2
+zero school	2
+harry potter appearance	2
+cosine similarity vector	2
+document vector hogwart dumbledore	2
+similarity web wikipedia hogwart	2
+wikipedia retrieval engine wikipedia hogwart	2
+goldberg paper	2
+harry potter attend	2
+task document	2
+television network	2
+shadow tv colin alright	2
+harry potter series	2
+document spectre hogwart	2
+harry potter sub	2
+harry potter sub corpus	2
+vector dimension docking document corpus	2
+gothic american gothic soap opera gothic	2
+cosine distance query vector	2
+cosine distance harry potter series	2
+cosine distance	2
+occurrence gothic harry	2
+frequency ratio frequency	2
+minus infinity	2
+frequency chapter	2
+textbook chapter	2
+alright frequency	2
+notation query vector zero	2
+document vector harry potter	2
+norm vector length denominator	2
+document solution	2
+query probability query document	2
+query times	2
+harry potter document	2
+vector discount vector harry potter	2
+exponent query	2
+query quantity	2
+laplace smoothing laplace smoothing	2
+probability laplace smoothing laplace	2
+paper karen spark jones	2
+document database	2
+discount inverse document frequency document	2
+row fictional	2
+importance document	2
+query wikipedia	2
+tv series	2
+shadow wikipedia document	2
+ratio justification	2
+document importance	2
+karen spark jones	2
+frequency basis	2
+document substitute	2
+document harry	2
+collinwood document	2
+cooccurrence ice	2
+jays document	2
+structure gothic	2
+co occurrence document vector	2
+school harry	2
+potter document	2
+co occurrence frequency document	2
+vector length vector length vector	2
+cosine angle	2
+query document classification	2
+advance color matrix	2
+measure degree	2
+martin reading	2
+sample exam sample exam	2
+wednesday thirteenth	2
+regression algorithm perceptron	2
+neural network	2
+network extent	2
+animal body	2
+layer neural network	2
+learning algorithm	2
+body layer	2
+layer network layer	2
+layer neural network limit	2
+theorem calculus	2
+motivation network	2
+inspiration scientist	2
+nobel prize	2
+object scene	2
+network domain dynamic output	2
+output action	2
+gatekeeper node	2
+net processing	2
+animal neuron	2
+network neuron	2
+cell membrane cell membrane	2
+capacitor ion pump	2
+potassium ion	2
+behavior neuron	2
+inside cell inside cell	2
+resting voltage	2
+sequence spike	2
+period amount	2
+dumping potassium ion	2
+signal action	2
+neuron spike voltage spike	2
+cord spike	2
+motor neuron motor neuron spike	2
+network body	2
+theory pitch perception	2
+pitch perception algorithm	2
+audio signal neuron	2
+neuron bunch synapsis	2
+degree neuron signal	2
+chorus correspondence	2
+millisecond pitch period	2
+layer perceptron	2
+zero output	2
+workhorse machine learning	2
+theorem calculus limit delta	2
+bunch unit	2
+unit output	2
+summation curve	2
+net limit	2
+sub tameness animal	2
+weight animal pound	2
+flower iris	2
+petal flower	2
+specie flower	2
+output classifier	2
+wednesday linearity output	2
+node inverse	2
+net layer	2
+hierarchy cell	2
+neuron cell	2
+cell diagram cell	2
+subfigure neuron fire	2
+chart neuron	2
+cell orientation direction	2
+output cell	2
+bunch cell	2
+response pattern	2
+cell pattern	2
+attention cat	2
+variety task	2
+convolution formula	2
+matrix multiply output	2
+matrix multiplication	2
+node weight	2
+parameter disk	2
+advantage vision	2
+robot location neuron	2
+location variance object	2
+weight matrix	2
+sigmoid linearity	2
+output weight	2
+image label	2
+vector label vector	2
+machine vector label	2
+net vector	2
+vector output	2
+parameter network	2
+elf layer	2
+object recognition	2
+network weight	2
+training package	2
+transition probability entry	2
+length hmm	2
+algorithm equation	2
+quality checker	2
+grade scope score	2
+medium search	2
+maze timeout	2
+morning copying	2
+integrity policy tip	2
+copying assignment	2
+part manhattan distance	2
+scope unit functionality python library	2
+load module	2
+search bread	2
+search bread search astar algorithm search algorithm	2
+astar algorithm	2
+search explorer	2
+dragon game	2
+frontier stack	2
+advantage part tree	2
+part tree disadvantage guarantee	2
+maze option	2
+tree solution breadth	2
+distance breadth	2
+uniform search	2
+priority queue	2
+century newspaper paper	2
+adventure game	2
+approximation star search	2
+heuristic amaze manhattan distance	2
+distance measure grid	2
+manhattan distance manhattan distance norm	2
+search node	2
+frontier circle	2
+planning phase	2
+beginning insight star search insight	2
+node distance	2
+map node	2
+sequence node sequence node	2
+aven event	2
+manhattan distance event	2
+measure distance	2
+measurement node	2
+star search yesterday	2
+position node	2
+magic search	2
+evaluation path	2
+frontier evaluation path	2
+estimate twist	2
+frontier priority queue	2
+frontier node	2
+frontier priority queue animation	2
+aven manhattan distance node	2
+deadline wednesday	2
+baye algorithm bayesian classifier	2
+digression exam	2
+bayesian classifier	2
+simplifying assumption	2
+movie review movie review	2
+task classifier	2
+plaintext fun	2
+liability proof	2
+newspaper review	2
+movie algorithm	2
+paper student	2
+journal article	2
+research review paper	2
+paper review	2
+paper algorithm	2
+development algorithm	2
+deadline date	2
+date deadline friday spring march	2
+extension march	2
+submission portal	2
+text equation	2
+baye cartoon	2
+baye theorem paradox	2
+alarm probability	2
+statistician frequentism predecessor bayesian statistic probability frequency	2
+alarm probability machine	2
+description cartoon	2
+importance misdiagnosis cartoon	2
+baye assumption simplification bayesian	2
+bigram classifier	2
+laplace smoothing laplace	2
+output device	2
+device radiation	2
+device explode	2
+tomorrow nevada	2
+ceremony desert	2
+rain probability	2
+center continent	2
+rain tomorrow	2
+rain f forecast rain	2
+guest forecast rain	2
+forecast counter	2
+century part misdiagnosis	2
+doctor response	2
+probability diagnosis probability diagnosis	2
+professor undergraduate	2
+disease diagnosis probability diagnosis	2
+confidence accuracy	2
+percent woman	2
+breast screening cancer	2
+percent probability woman exam	2
+cancer diagnosis probability	2
+diagnosis classifier	2
+formula doctor	2
+misdiagnosis evidence	2
+textbook e	2
+spam zebra	2
+pattern pixel	2
+e pattern pixel label	2
+cavity tooth	2
+classifier probability cavity probability	2
+literature probability	2
+patient toothache	2
+patient cavity	2
+patient disease	2
+maximum posteriori	2
+cavity toothache cavity	2
+probability maximum posteriori	2
+cavity observation	2
+label probability	2
+agent action	2
+agent action environment action label	2
+action dentist	2
+label action	2
+notation action	2
+observation e	2
+probability e	2
+probability toothache cavity	2
+probability bayesian theory	2
+probability cavity	2
+street probability cavity	2
+posteriori latin probability	2
+probability mistake	2
+cavity toothache	2
+toothache cavity	2
+literature cavity probability toothache	2
+modeling likelihood	2
+table posterior	2
+baye denominator evidence distribution evidence	2
+probability denominator	2
+probability evidence denominator	2
+observation cancer	2
+evidence cancer	2
+evidence direction	2
+probability cancer	2
+percent wording	2
+likelihood observation	2
+wording attempt	2
+probability observation label	2
+likelihood probability observation label posterior probability label observation e	2
+baye assumption probability	2
+cancer consideration	2
+probability cancer probability direction	2
+cancer alright	2
+methodology table	2
+presence chemical blood	2
+probability evidence label	2
+probability label equality	2
+baye assumption bayesian	2
+label dependant	2
+reality assumption	2
+text classification text classification	2
+probability message spam document	2
+table probability	2
+trash folder	2
+probability message spam	2
+confidence transaction virtue nature	2
+spam filter	2
+tech support laptop	2
+laptop desktop	2
+google desktop	2
+baye model probability email message spam probability	2
+baye assumption dependence	2
+document spam email	2
+spam email spam email	2
+spam probability spam	2
+review evidence	2
+spam date	2
+union george bush	2
+frequency likelihood probability	2
+probability likelihood	2
+president cuba	2
+trace history war union	2
+sentence review	2
+alright sentence	2
+filter classifier	2
+pair disambiguation grade	2
+co location	2
+indication movie	2
+bigram zero	2
+document formula	2
+bunch training	2
+respect parameter	2
+training quantity	2
+parameter derivative	2
+uhm baye multiply	2
+document training	2
+index document	2
+document training probability label document probability document	2
+theorem calculus limit	2
+ascending bid auction	2
+business monopolist	2
+behavior competitor	2
+competitor monopolist	2
+pricing competitor	2
+tat strategy	2
+hundred thousand internet advertising	2
+content part	2
+homework assignment	2
+grace period	2
+deadline machine	2
+midterm uhm sample	2
+midterm uhm	2
+bar leaderboard fun credit	2
+complexity runtime	2
+planning search	2
+waiter robot	2
+extent someplace	2
+school animation frontier	2
+bubble node	2
+wall robot wall	2
+wall robot	2
+scale restaurant scale robot	2
+corner wall	2
+oop robot wall	2
+node search tree robot node	2
+map obstacle map	2
+wall center	2
+robot center robot	2
+strategy robot	2
+center mass wall	2
+wall map configuration	2
+configuration machine	2
+wikipedia configuration	2
+configuration physics conception parameter configuration	2
+vector parameter configuration robotic	2
+mechanic satellite	2
+emergency planning	2
+transfer earth population	2
+planet position	2
+momentum vector	2
+momentum vector orbit	2
+velocity tweak orbit satellite	2
+center ellipse satellite	2
+configuration satellite	2
+center ellipse	2
+movement satellite robotic	2
+coordinate robot arm robot arm	2
+sale ad	2
+degree freedom	2
+coordinate robot oop	2
+position robot	2
+grip elbow shoulder	2
+joint arm shoulder joint	2
+elbow joint shoulder	2
+coordinate elbow shoulder	2
+angle shoulder	2
+elbow shoulder yellow	2
+fluid diagram	2
+plan coordinate	2
+derivative position	2
+overtime magnitude acceleration	2
+elbow shoulder wrist	2
+arm muscle	2
+muscle angle brain	2
+shoulder elbow wrist	2
+lever arm	2
+angle theta	2
+starting theta axis	2
+tricep part	2
+forearm part	2
+being theta	2
+exposition elbow	2
+angle forearm theta	2
+cosine theta	2
+starting theta	2
+lever front	2
+shoulder angle theta	2
+target whoop	2
+correspond game star	2
+advance position	2
+coordinate arm	2
+elbow object	2
+arm object	2
+artifact app	2
+app theta	2
+sphere path	2
+configuration coordinate configuration parameter robot	2
+configuration robot actuator	2
+star path	2
+shoulder arm	2
+elbow position arm	2
+dan klein	2
+node heuristic	2
+node origin path	2
+complexity exponent	2
+search uniform search algorithm memory footprint	1
+search backtracking algorithm robotic	1
+chapter textbook age	1
+chest playing	1
+heuristic algorithm	1
+performance alot	1
+performance constraint satisfaction	1
+pair wa	1
+back part	1
+m finite solution saving trick	1
+backtracking search depth	1
+complexity factorial	1
+complexity saving wa	1
+search ordering wa	1
+amount neighborhood	1
+possibility assignment possibility	1
+complexity beta branching	1
+beginning wa	1
+checking path dud	1
+checking pairwise pair	1
+arc consistency pair	1
+search uniform search dijkstra algorithm memory footprint	1
+search backtracking algorithm wednesday robotic	1
+textbook age	1
+chess playing	1
+generalize crossword puzzle	1
+satisfaction sudoku	1
+dfs heuristic	1
+benefit heuristic algorithm	1
+australia northern	1
+south wales victoria south australia	1
+comma green assignment	1
+path maze m path maze	1
+csp path	1
+solution saving trick	1
+backtracking search	1
+trick advert	1
+complexity saving	1
+search ordering	1
+uhm region	1
+obtuse queensland	1
+queensland branch	1
+territory queensland	1
+amount neighbor	1
+west australia	1
+australia assignment possibility	1
+vice versa	1
+complexity branching heuristic	1
+australia direction	1
+australia branch	1
+color victoria	1
+alright complexity	1
+queensland neighbor	1
+checking path	1
+australia array	1
+pairwise checking	1
+pairwise checking pairwise pair	1
+consistency pair	1
+cat fur bear	1
+predicate mailbox object	1
+antoine semantic	1
+database prince	1
+reference character	1
+syntax structure	1
+grammar em	1
+prince meaning	1
+sentence meaning	1
+nonterminal noun phrase	1
+noun phrase verb phrase uhm grammar	1
+determinant determinate	1
+part object	1
+modal verb	1
+sentence algorithm	1
+echo software grade scope	1
+machine piazza	1
+site compass	1
+grade book	1
+wednesday review exam friday	1
+midterm monday exam	1
+exam march	1
+compass exam book calculator limit	1
+quarter sample exam	1
+compass exam	1
+constraint exam	1
+constraint exam compass	1
+credit student paper friday march	1
+content algorithm paper	1
+computing paradigm	1
+background research	1
+paper bibliography	1
+paper background	1
+office monday tuesday	1
+zoom url monday tuesday	1
+staff meeting	1
+afternoon march	1
+piazza exam	1
+classifier part	1
+intelligence tradition perceptron	1
+hardware rosenblatt	1
+classifier classification algorithm training algorithm classification	1
+robot animal	1
+object detection recognition algorithm object recognition	1
+weight animal	1
+pound dog cat wikipedia	1
+wikipedia web	1
+pound animal	1
+cat aspect	1
+dog canario	1
+canario maltese	1
+pound dog breed	1
+weight pound	1
+intelligence perceptron	1
+john mccarthy	1
+coauthor proposal funding workshop proposal	1
+research perceptron	1
+circuit model	1
+squid axon hodgkin	1
+huxley forty	1
+squid axon neuron animal kingdom	1
+squid neuron millimeter	1
+diameter neuron millimeter	1
+neuron animal kingdom neuron cell	1
+meter neuron	1
+cord brain stem	1
+length meter	1
+axon voltage clamp	1
+measure voltage	1
+ion pump membrane	1
+membrane neuron cell voltage	1
+millivolt flow membrane flow membrane	1
+hole membrane fluid	1
+cell body	1
+delta pulse	1
+cell pore cell membrane ion cell membrane	1
+muscle activity	1
+depolarization hodgkin	1
+threshold neuron	1
+model neuron	1
+model hodgkin	1
+classifier linear classification	1
+model neuron hodgkin	1
+huxley neuron	1
+weight model neuron	1
+neuron body neuron	1
+neuron synapse	1
+body neuron	1
+dog cat domesticity cat	1
+weight cat	1
+summation sensitivity threshold	1
+notation vector capital dimension	1
+notation vector capital	1
+rosenblatt innovation rosenblatt innovation training algorithm	1
+weight neuron	1
+elizabeth speed	1
+rosenblatt innovation perceptron	1
+perceptron converge	1
+initialization finite	1
+training epoch	1
+reshuffle training	1
+classification boundary classification boundary	1
+shifting boundary training	1
+dimension ground truth label	1
+classification star estimate ground truth label star label classifier cigna	1
+direction dog	1
+star signal transpose comma	1
+comma classifier domesticity animal	1
+vector comma	1
+intersection hyperplane transpose	1
+intersection plane	1
+classification label	1
+presa canario vector	1
+vector domesticity score domesticity score	1
+dimension offset	1
+classifier boundary separatrix	1
+part presser canario	1
+domesticity score	1
+cat maine coon	1
+classifier star classifier maine coon dog	1
+coon cat	1
+dog classification boundary	1
+classification separatrix	1
+tilt classification boundary	1
+tilt weight vector weight vector	1
+classification boundary proof convergence perceptron	1
+proof part	1
+vector ground truth label token signal transpose	1
+cat training	1
+hyperplane dimension separator	1
+label signal transpose	1
+perceptron solution	1
+ada perceptron	1
+mistake signal	1
+token mistake	1
+ada learning	1
+component direction	1
+importance addition	1
+token direction	1
+lengthening direction	1
+classifier threshold	1
+parameter affine	1
+top hill	1
+unit preview	1
+april first uhm	1
+classifier category	1
+dog star cat star	1
+bunny rabbit	1
+fitness dog fitness animal	1
+arg max operation	1
+vector weight	1
+classifier region eye region engineer voronoi	1
+characteristic region	1
+boundary division plane convex region	1
+boundary region	1
+region centroid	1
+voronoi tessellation	1
+classifier logic rosenblatt	1
+perceptron fifty	1
+classifier competition	1
+mccarthy school	1
+rosenblatt school neuron	1
+sixty layer perceptron neuron	1
+perceptron sequence	1
+united states government	1
+part statement	1
+intelligence research	1
+ninety canadian	1
+university united states united states	1
+university canada location	1
+research neural network revolution	1
+thousand technology	1
+boundary signal	1
+softap boundary	1
+algorithm rosenblatt	1
+label star	1
+training token vector training vector capital	1
+capital training vector	1
+cat perceptron classifier output training token	1
+sub istar training database	1
+derivative respect sub	1
+strategy calculus	1
+calculus isaac newton	1
+derivative respect direction	1
+gradient respect weight vector loss	1
+rosenblatt technique rosenblatt	1
+classifier boundary	1
+e minus	1
+cosine numerator	1
+tangent derivative	1
+derivative sub istar respect	1
+bookkeeping derivative	1
+los loss quarter	1
+sub istar quantity derivative respect vector	1
+derivative sub istar respect vector derivative	1
+derivative transpose respect vector	1
+respect derivative	1
+gradient loss	1
+istar training token	1
+derivative tangent	1
+token training token boundary	1
+alright conclusion perceptron	1
+classifier output	1
+classifier mistake perceptron	1
+perceptron update nuance	1
+suit greasy wash water	1
+rag alright testing	1
+chunk textbook	1
+professor fleck	1
+penn treebank part speech tag	1
+entry bank part speech tag part speech tagging task	1
+markov model markov chain	1
+component hmm tagger finite	1
+voice god chapter	1
+norvig textbook	1
+content textbook martin depth	1
+processing part speech	1
+baye network formalism	1
+intelligence probability	1
+monday baye network	1
+markov model structure	1
+university illinois faculty position	1
+speech recognizer	1
+speech recognizer observation	1
+spectrogram sequence	1
+transform signal	1
+frequency axis	1
+energy frequency burst	1
+frequency component	1
+resonance frequency tongue	1
+position tongue	1
+phoneme english	1
+spectrum task	1
+overtime motivation	1
+environment classification	1
+baye review	1
+burglar house neighborhood probability burger house	1
+observation signal strength	1
+wifi router	1
+activity detection	1
+request speech recognition	1
+baye net bayesian network	1
+bayesian baye net baye net	1
+observation spectrum	1
+instance probability	1
+textbook capital	1
+capital e evidence observation	1
+ease baye net	1
+markov assumption	1
+separation arrow bean	1
+markov assumption probability	1
+assumption evidence observation	1
+probability e subte	1
+knowledge e subte	1
+algorithm monday assumption	1
+storage requirement evolution overtime	1
+monday algorithm	1
+book jenny casey series elizabeth bear jenny casey series	1
+science fiction	1
+chaos canada	1
+bunch chat bot	1
+chat bot	1
+richard feynman personality	1
+boss richard station	1
+internet poor richard rain	1
+rain inside ellie office	1
+norvig richard ellie umbrella	1
+chapter wrestling	1
+sample parameter model rain	1
+transition table	1
+yesterday probability rain	1
+probability rain	1
+percent parameter	1
+percent umbrella	1
+probability table complement	1
+probability verb probability	1
+probability noun parameter sub	1
+probability noun model	1
+back zebra finite machine diagram	1
+parameter hmm baye	1
+hmm finite diagram	1
+hmm finite machine	1
+slice circle finite machine arrow	1
+finite machine	1
+subset model	1
+centimeter rain	1
+diagram subset model	1
+part speech verb	1
+noun category	1
+modal model	1
+modal misunderstood modal aardvark back	1
+probability observation probability	1
+finite diagram observation	1
+periphery table	1
+workout raining	1
+probability rain sequence umbrella observation	1
+corona virus	1
+spam filtering	1
+technology united states government	1
+evidence government hmm	1
+workshop government tank academic	1
+academic bomb	1
+hmm training algorithm converge proof	1
+secret technology	1
+bank workshop	1
+speech recognizer carnegie mellon	1
+speech recognition communication	1
+markov model speech recognizer	1
+carnegie mellon	1
+radiologist analysis ray	1
+algorithm indiana neural speech recognition	1
+heart speech recognition	1
+activity detection breaking	1
+sequence symbol	1
+plaintext symbol breaking symbol	1
+character indiana	1
+correspondence table probability table	1
+statistic probability	1
+probability table stat	1
+department defense technology ship	1
+model death	1
+symbol character symbol latin symbol	1
+e english	1
+capital e symbol	1
+symbol speech	1
+centisecond row vowel probability	1
+percent vowel	1
+frame theta	1
+silence speech multiply probability phoneme	1
+silence probability acoustic	1
+norvig chapter	1
+english structure	1
+series consonant restriction	1
+advantage sequence structure	1
+phoneme observation task	1
+corner room smoothing task smoothing	1
+parameter hmm	1
+observation probability distribution sub	1
+table evaluation	1
+speech recognition hmm	1
+hmm parameter	1
+model transition probability table	1
+observation inference task	1
+observation meaning transition	1
+constraint robot	1
+task inference	1
+learning task training	1
+probability parameter transition probability	1
+emission probability	1
+textbook inference e numeration	1
+filtering richard feynman	1
+norvig textbook algorithm inference e numeration baye	1
+numeration select	1
+markov blanket textbook	1
+parameter transition probability	1
+entry table python yesterday	1
+ellie umbrella	1
+normalization trick	1
+umbrella probability	1
+dick feynman	1
+teaser monday	1
+structure pair	1
+multiply ad	1
+wrinkle filtering	1
+peter anne klein berkeley part	1
+anne klein	1
+maze transform	1
+arm obstacle	1
+source comment	1
+friend period story	1
+python game	1
+arm coordinate	1
+length cosine angle	1
+length angle	1
+touch object	1
+piazza solution wolfram	1
+solution determinant matrix	1
+determinant matrix	1
+radius circle hum	1
+morning pointer solution	1
+python object	1
+center object	1
+projection obstacle	1
+projection vector	1
+length vector	1
+fraction vector projection	1
+vector pair vector coordinate comma	1
+uhm geometry	1
+credit part	1
+maze object	1
+debug output credit	1
+percent credit	1
+web morning	1
+maximum percent grade mistake	1
+piazza student	1
+transcribe student	1
+transcribed transcribe interface	1
+textbook transcription search algorithm	1
+search caption	1
+transcript caption box	1
+corner box	1
+chunk audio	1
+conflict exam request	1
+conflict exam	1
+seat student	1
+textbook sample exam	1
+monday sample exam	1
+exam sample	1
+text plan sample exam plan	1
+confirmation bias	1
+gift jiffy	1
+turk hoax	1
+europe magician	1
+turk robot chess calmer	1
+box arm robot puppet	1
+game fun chess robot game chess hallmark intelligence	1
+chess car	1
+finite chess enumerate	1
+finite limit board algorithm chess	1
+minimax algorithm extension search extension search	1
+player game breadth	1
+search opponent	1
+benefit assumption opponent	1
+chess intelligence	1
+claude shannon	1
+paper shannon claude shannon chess playing alright turing paper chess	1
+paper chess playing claude shannon	1
+john mick john mccarthy	1
+algorithm star	1
+player game minimax algorithm breadth	1
+player game alpha beta search astar algorithm	1
+chess checker	1
+randomness backgammon	1
+monopoly game	1
+extension minimax	1
+alpha beta search environment	1
+ernest theory	1
+opponent solution	1
+sequence action strategy	1
+player max	1
+max min	1
+player utility	1
+opponent min	1
+player tree	1
+player instruction	1
+top position symbol	1
+grid opponent zoom	1
+region grid	1
+opponent corner	1
+corner ponent	1
+opponent game board	1
+corner opponent corner	1
+corner game	1
+strategy game tree stage game	1
+tree minimax tree	1
+amount max win	1
+game tree	1
+response min	1
+game max min	1
+minimax game	1
+loss formulation opponent	1
+assumption search	1
+minimax search algorithm	1
+opponent player	1
+pointing triangle max	1
+pointing triangle min	1
+algorithm dijkstra algorithm	1
+max node	1
+dollar max	1
+max min win	1
+max player node	1
+overall successor	1
+min player node minimum	1
+beginning minimax	1
+dollar minimum	1
+max top	1
+toad winning player	1
+kasparov chess	1
+minimax alpha	1
+lee sedol	1
+pattern recognition algorithm	1
+player node	1
+node pair node	1
+audience top	1
+dollar star	1
+benefit green	1
+moment audience colorblind	1
+benefit player benefit player	1
+player outcome tuple	1
+corner player outcome	1
+dollar benefit player	1
+monday alpha beta pruning	1
+wednesday probability	1
+mathematic economics	1
+intelligence modeling science modeling game theory	1
+game theorist	1
+spring model	1
+actor east	1
+company economy	1
+technology actor company game	1
+strategy mechanism	1
+monday agent	1
+monday mechanism game	1
+outcome company	1
+credit assignment	1
+arbitration company	1
+algorithm lawyer	1
+arbitration company facebook	1
+article facebook	1
+advertiser variation	1
+game theory article facebook	1
+advertising price	1
+monday game agent	1
+human being	1
+society prisoner	1
+game player action	1
+outcome nash equilibrium	1
+burrito parito	1
+player prisoner dilemma	1
+member discussion robot	1
+homepage robot wednesday electron robot motion	1
+sequential environment	1
+sequence action	1
+infinity agent	1
+monday environment	1
+briefly dog	1
+game tree dog	1
+kitty treat	1
+outcome game algorithm	1
+kitty treat outcome player	1
+payoff matrix action player	1
+row action player	1
+off player squared	1
+dog payoff	1
+cat payoff	1
+rock scissor paper game player	1
+shape scissor	1
+player game shape delay	1
+paper win rock scissor	1
+player paper	1
+strategy game payoff matrix	1
+player action advance	1
+payoff matrix behavior	1
+payoff matrix player	1
+payout matrix prisoner	1
+stag hunt game chicken prisoner dilemma	1
+drescher flood rand defense contractor	1
+evidence model disarmament	1
+opposite game chicken bertrand russell model	1
+destruction sixty prisoner dilemma	1
+jean jacques rousseau	1
+relation prisoner dilemma	1
+mobster novel japan coca cola period	1
+japan tokyo period police prisoner	1
+crime scenario	1
+police station	1
+tax evasion	1
+plea bargain	1
+sentence payoff matrix	1
+prison alice	1
+movie poster	1
+movie convict	1
+option player outcome	1
+fairness player	1
+bullet outcome player	1
+player payoff matrix	1
+allison bobby char	1
+advance appointment	1
+parito optimality	1
+option player	1
+prison sentence exchange bob	1
+bob mafia kingpin	1
+alice criminal organization	1
+alice mafia kingpin	1
+exchange alice	1
+concept fairness	1
+scenario police	1
+outcome parito	1
+description parito	1
+herbie alice	1
+bob statement alice	1
+meaning optimum	1
+optimality prisoner dilemma prisoner	1
+criminal alice soldier	1
+feedback bob	1
+payoff player	1
+guilt payoff matrix bob	1
+bob assumption	1
+bob action	1
+alice sentence	1
+sentence nash equilibrium	1
+nash equilibrium outcome player advance player	1
+behavior parito optimality player	1
+outcome prisoner dilemma	1
+game strategy	1
+strategy prisoner dilemma	1
+advance alice	1
+game characteristic game theorist player	1
+equilibrium game	1
+formulation player	1
+optimality outcome	1
+equilibrium player	1
+price war	1
+business town	1
+price company	1
+business arm race	1
+country steroid	1
+athletic diner dilemma	1
+diner dilemma employer prisoner dilemma	1
+action politic	1
+subject monday	1
+international olympics committee	1
+game sport	1
+player variation	1
+strategy cooperation tit tat strategy	1
+philosopher jean jacques rousseau book	1
+schematic game	1
+forest edge	1
+kilogram meat	1
+exaggeration deer	1
+edge hunter	1
+hair rabbit	1
+hare baby ground	1
+rabbit ground defector	1
+meat guy forest	1
+defect player parito	1
+forest player	1
+self interest	1
+nash equilibrium game	1
+defect parito	1
+nash equilibrium parito	1
+solution game	1
+opposite prisoner	1
+hunt coordination	1
+nash equilibrium outcome player action player	1
+game chicken movie	1
+rebel cause	1
+player car movie rebel cause	1
+game player	1
+car winner	1
+game bragging textbook	1
+intelligence textbook	1
+money prisoner dilemma game chicken	1
+player cooperate interest	1
+player defect game chicken interest	1
+business description	1
+arm race	1
+behavior nature	1
+basis film	1
+asians film	1
+metaphor solution game	1
+probability tenth player strategy player car	1
+die bob	1
+nash equilibrium nash equilibrium	1
+probability tenth player	1
+probability car	1
+dollar tenth	1
+player benefit chicken	1
+logic player	1
+player bob selection	1
+winning action	1
+bob strategy	1
+probability alice	1
+bob row	1
+alice probability	1
+winning outcome	1
+bob defect	1
+equation reward	1
+row reward	1
+mix strategy equilibrium	1
+satisfy equation probability	1
+winning bob	1
+stag hunt prisoner dilemma strategy nash equilibrium strategy player	1
+strategy nash equilibrium strategy	1
+equilibrium stag hunt	1
+strategy game chicken	1
+game finite action nash equilibrium strategy	1
+manner outcome equilibrium player strategy	1
+equilibrium broadcast	1
+strategy nash equilibrium player strategy	1
+player response strategy	1
+strategy player game player	1
+game prisoner dilemma	1
+solution stag hunt nash equilibrium	1
+player coordination game	1
+outcome nash equilibrium outcome	1
+software agent	1
+software agent payoff matrix	1
+training vocabulary coffee	1
+vocabulary proportion frequency	1
+training coffee	1
+vector coffee	1
+derivative los respect coefficient	1
+e cv sigmoid	1
+descent coefficient vector	1
+vector ada learning gradient probability respect training vector derivative probability	1
+context probability context	1
+vector center	1
+nip paper	1
+correlation coefficient	1
+washington synonym havel	1
+redmond microsoft	1
+synonym microsoft context synonym microsoft havel	1
+synonym velvet revolution	1
+context window dick model	1
+pageant earring nurse text	1
+item chapter giraffes kian	1
+lemma meaning	1
+noun part lemma	1
+series character	1
+bank river thame	1
+relatedness similarity	1
+ten vector representation	1
+ability vector representation synonym	1
+representation centre vector	1
+neighbor graph structure	1
+relatedness lee nickel	1
+tokyo japan	1
+paris france	1
+amsterdam netherland	1
+washington united states	1
+pair vector	1
+relatedness vector	1
+internet blog	1
+news article	1
+author paper	1
+dictionary human gender dependance	1
+author dictionary gender	1
+resume search	1
+retrieval seventy	1
+bag document	1
+baye retrieval mechanism	1
+training review	1
+laplace argument	1
+development corpus water hyperparameter	1
+probability glass	1
+john ann marie	1
+distribution independency evidence query	1
+solution circle	1
+graph bunch circle graph semantic	1
+arcs node	1
+arcs anna node	1
+dependance toothache	1
+john anne marie	1
+burglary john anne marie	1
+parameter probability mary alarm	1
+john cole	1
+r independence	1
+intelligence reinforcement robot markov	1
+formalism markov	1
+policy action	1
+reward transition model reward overtime	1
+outcome action	1
+guest claude shannon claude shannon robot mouse theseus	1
+algorithm thesis implement	1
+attribute theseus algorithm	1
+doctor changing	1
+mathematician bell telephone laboratory jesus mouse ability trial	1
+maze objective corner	1
+amaze strategy path	1
+part maze	1
+brain machine	1
+seafood brain	1
+thesus mirror bank relay telephone relay	1
+dial telephone	1
+maze connection thousand dial	1
+fraction trunk	1
+connection bell telephone laboratory	1
+telephone relay machine	1
+bell lab knowledge gun directory	1
+missile machine fraction service demonstration	1
+telephone relay	1
+copper whisker	1
+wall direction	1
+memory bar magnet	1
+wheel thesis	1
+motor mechanism	1
+maze floor mouse	1
+direction pair motor	1
+possession mouse machine	1
+flick signal electromagnet	1
+relay circuit	1
+trial direction clockwise manner north	1
+branch mathematic topology	1
+exploration mate	1
+outline reinforcement learning	1
+category reinforcement learning model	1
+model reinforcement learning	1
+observation model policy loop paper	1
+being economist	1
+science researcher	1
+model reinforcement learning model reinforcement learning	1
+markov action	1
+transition matrix	1
+estimate probability	1
+policy transition model	1
+reinforcement article	1
+paula luke	1
+algorithm game chicken game chicken	1
+game highway	1
+mistake reinforcement learning	1
+model reinforcement learning model reinforcement learning transition probability	1
+network parameter	1
+quality table quality table quality action	1
+quality table	1
+atari game atari game	1
+sandbox reinforcement learning	1
+training episode algorithm ball	1
+strategy tunneling	1
+ball wall	1
+strategy reinforcement learning model learning	1
+exploitation loop model learning	1
+action probability table probability prime	1
+baye parameter estimation parameter probability	1
+knowledge markov iteration	1
+transition probability matrix pencil	1
+paper role playing game	1
+maze map	1
+corn maze	1
+map maze	1
+thesis minotaur maze	1
+action training database	1
+network training database	1
+output database tuple training database	1
+reward successor	1
+model markov	1
+reward uhm	1
+probability estimation	1
+laplace smoothing probability	1
+representation prime	1
+representation part	1
+net estimate probability	1
+bellman equation bellman equation	1
+restaurant item	1
+action sub reward	1
+reward robot	1
+sub reward	1
+action solution	1
+intelligence exploitation	1
+model reward	1
+demise part exploitation	1
+review article thomas hills peter todd researcher	1
+psychology department	1
+science department exploration	1
+exploitation tradeoff behavior animal	1
+exploration behavior	1
+society explore member society	1
+exploitation epsilon	1
+advance trial game	1
+capital trial	1
+percent capital exploration	1
+model transition probability	1
+utility epsilon	1
+epsilon action	1
+epsilon policy	1
+advantage epsilon	1
+confidence model	1
+probability estimate	1
+epsilon trial reward disadvantage	1
+epsilon trial model	1
+percent probability model	1
+strategy convergence proof	1
+exploration attempt	1
+dozen algorithm	1
+slot machine casino	1
+strategy algorithm thompson sampling	1
+belief thompson sampling	1
+belief transition probability	1
+belief advantage	1
+probability pricing strategy pricing strategy	1
+estimate reward	1
+core staff	1
+attention piazza	1
+maze depth	1
+depth search obstacle	1
+search clone	1
+circle clone adventurer circle frontier	1
+frontier priority score	1
+clone food	1
+clone parent food clone food	1
+path food	1
+path hamburger	1
+clone parent clone	1
+parent clone	1
+chain parent	1
+parent path beginning	1
+coordinate comma	1
+part node structure part structure	1
+node parent	1
+parent node	1
+pointer parent	1
+implementation node	1
+node part	1
+submit disaster	1
+grace period excuse	1
+campus outage	1
+part search algorithm	1
+part robot	1
+robot environment randomness	1
+textbook agent robot	1
+hardware agent	1
+actuator agent	1
+basis book	1
+robot vacuum	1
+vacuum cleaner center room	1
+dirt room	1
+dirt environment	1
+salesman location robot	1
+abit room	1
+beginning room	1
+robot vacuum santa clause hat	1
+agent book acronym pea	1
+fun acronym agent	1
+pea performance	1
+environment actuator	1
+robot vacuum performance	1
+degree cleanliness apartment	1
+amount electricity robot	1
+university michigan	1
+translation english	1
+background fun robot	1
+metal component	1
+robot beginning robot	1
+darpa grant	1
+government grant stanford seventy	1
+archive sri diagram	1
+textbook shakey sensor shakey sensor finder	1
+television camera	1
+object room object room	1
+bump detector	1
+finder tv	1
+actuator caster wheel direction	1
+board logic	1
+camera unit camera	1
+board device optimization	1
+elbow shoulder	1
+elbow shoulder angle	1
+degree elbow angle	1
+simulator jeff	1
+angle theta angle	1
+environment obstacle	1
+obstacle coordinate	1
+theta direction	1
+robot degree freedom	1
+environment specification textbook	1
+description shakey environment	1
+triangle anne	1
+response object	1
+logic chapter	1
+robot teammate	1
+stochastic synonym environment	1
+environment action outcome	1
+opponent checker	1
+success spam filter	1
+text processing	1
+environment spam filter email	1
+text determine scam	1
+maze robot	1
+dynamic action	1
+multiagent environment	1
+action environment	1
+chess playing robot	1
+board boundary	1
+soccer game	1
+knowledge agent	1
+environment shakey environment	1
+agent pea acronym performance environment action	1
+friday configuration	1
+node infinity network	1
+processing auditory processing	1
+century evidence	1
+air force	1
+extent mcculloch	1
+pitt hodgkin	1
+impedance voltage plot alexander white voltage outside	1
+voltage outside	1
+milla amp spike neuron activation	1
+milla amp	1
+essence mcculloch	1
+neuron heat sensor	1
+neuron forty	1
+millisecond rosenblatt perceptron network	1
+mcculloch pitt neuron	1
+rosenblatt innovation perceptron learning algorithm	1
+layer neural net workhorse machine	1
+hundred isaac newton	1
+curve delta	1
+net unit activation	1
+threshold times delta integer	1
+curve times delta	1
+curve minus delta	1
+f height width rectangle	1
+sub times sub	1
+sabki sub taxis	1
+limit infinity decay	1
+transform norm	1
+finite infinity	1
+nose infinity	1
+signal sequel	1
+iris violet color	1
+sigma unit	1
+linearity sigma	1
+attention hubel	1
+wiesel fifty	1
+subfigure neuron	1
+washington irving	1
+respond stimulus orientation	1
+delay hubel	1
+wiesel notation	1
+shape orient orientation overtime	1
+century technology	1
+architecture ninety	1
+output age	1
+convolution map	1
+object weather	1
+gate kate	1
+node output	1
+network vision	1
+pattern dynamic	1
+architecture neural net	1
+location image	1
+network attention dynamic signal	1
+net wednesday	1
+weight algorithm	1
+eye opening	1
+propagation vector	1
+output vector star	1
+vector third loss	1
+propagation backpropagation loss	1
+net training	1
+object image	1
+abacus camera chicken	1
+zero image	1
+abacus camera	1
+chicken slug	1
+vector reference label multiclass vector reference label	1
+label sentiment	1
+movie review movie	1
+um image vector	1
+database alex krizhevsky	1
+alex net	1
+label animal	1
+player game alpha beta search	1
+game chess game	1
+quality game board player computing	1
+player computing	1
+infinity degree	1
+board game rook	1
+score board	1
+board score	1
+game board label	1
+vector label	1
+credit vector label bottom	1
+vector object recognition	1
+vector credit part	1
+coauthor paper raymond	1
+graduate student department image	1
+image pixel	1
+target reconstruction	1
+vector image pixel	1
+vector image vector	1
+network star	1
+operation star target output sub vector	1
+box target vector	1
+vector capital dimension	1
+dimension capital	1
+output scalar	1
+training vector zero	1
+probability output	1
+net clothing	1
+net parameter index	1
+index training	1
+training token output vector capital dimension	1
+capital dimension output vector probability distribution	1
+index sub	1
+star sub ci probability	1
+net star sub	1
+index dimension	1
+capital output scalar	1
+bunch sigmoid	1
+capital layer capital	1
+image classifier resnet	1
+edge node	1
+edge node edge node	1
+sub die	1
+output node output star	1
+capital alright	1
+quantity edge	1
+activation terminology	1
+neuron hodgkin	1
+huxley model hodgkin	1
+huxley neuron excitation	1
+neuron response expectation neuron	1
+excitation beta sabki	1
+excitation keith node elf layer response	1
+node age	1
+node activation keith node elf layer response training token superscript node elf layer response training token	1
+output layer capital node	1
+output layer	1
+layer output layer	1
+notation token training database capital node layer notation	1
+notation andrew baron	1
+um capital layer	1
+layer excitation beta	1
+summation activation	1
+layer excitation layer	1
+remix network	1
+algebra matrix multiply	1
+matrix beta vector elf layer matrix multiply layer activation	1
+excitation beta	1
+linearity activation linearity	1
+activation quotation nonlinearity	1
+neuron fire	1
+vector activation	1
+weight matrix expectation	1
+expectation layer	1
+equation layer	1
+layer network output network activation	1
+sigmoid sigma beta	1
+beta denominator	1
+derivative sigmoid	1
+derivative logarithm	1
+derivative sigma	1
+quarter town	1
+wave rectification	1
+beta maximum	1
+activation excitation	1
+derivative raylo	1
+unit activation	1
+friday softmax output layer	1
+output probability	1
+denominator numerator	1
+normalization ring	1
+normalization softmax linearity	1
+derivative softmax beta respect beta jay	1
+derivative sigmoid sigma times	1
+sigma times	1
+sigmoid derivative respect derivative activation respect excitation	1
+excitation activation excitation activation	1
+output star	1
+torch bunch option	1
+target image	1
+output classification task	1
+percentage image	1
+regression vector	1
+image vector star metric	1
+target output	1
+vector subsea	1
+cross entropy probability	1
+friday logarithm star	1
+output subsea star	1
+image vector	1
+star output probability	1
+output vector	1
+opposite output	1
+net image	1
+sub cage superscript	1
+capital index layer index node layer	1
+subset training	1
+newton gift	1
+wikipedia newton	1
+f derivative los respect	1
+derivative los respect weight	1
+direction derivative	1
+derivative loss respect weight network	1
+network multilayer network	1
+training corpus item las	1
+derivative respect weight	1
+training corpus alright los	1
+network derivative los respect	1
+output node derivative los respect output node derivative output node respect derivative output node respect derivative output node respect beta derivative beta respect derivative beta respect derivative beta respect layer derivative layer respect	1
+propagation chain	1
+network layer	1
+derivative los respect	1
+derivative expectation respect	1
+derivative activation respect	1
+auto grad auto differentiator	1
+node alright conclusion	1
+expectation neuron	1
+network third	1
+training corpus token las	1
+chain differentiation	1
+network derivative los respect weight	1
+update machine	1
+robot markov reinforcement learning	1
+scipy exp maximum	1
+cat fur bear whale	1
+anna mammal animal	1
+predicate mailbox object m	1
+database print	1
+reference character setting	1
+print meaning	1
+rose sentence meaning	1
+nonterminal noun phrase verb phrase	1
+comma sequencing	1
+bar noun phrase sequence	1
+noun phrase verb phrase grammar	1
+part subject part object	1
+noun mary	1
+noun phrase verb phrase	1
+preparation modal verb	1
+bike testing sing	1
+wednesday spring monday exam	1
+beginning probability	1
+friday vision introduction	1
+third classifier machine learning theory	1
+configuration parameter	1
+vector machine	1
+intelligence reinforcement learning agent task	1
+environment mistake	1
+norvig umbrella photograph umbrella	1
+baye net inference baye net algorithm	1
+norvig inference enumeration	1
+relevance task	1
+probability network	1
+e numeration e numeration	1
+algorithm filtering	1
+algorithm bomb algorithm	1
+viterbi algorithm max algorithm	1
+programming viterbi	1
+smoothing task	1
+enumeration task enumeration umbrella dick feynman	1
+parent child structure	1
+norvig inference e numeration	1
+algorithm inference baye net	1
+enumeration multiply	1
+probability observe	1
+numeration simplification	1
+probability model	1
+stage algorithm put	1
+exponent alpha beta algorithm	1
+player game exponent	1
+inference e numeration baye net algorithm	1
+enumeration baye net	1
+baye net satisfiability	1
+theory algorithm	1
+ization phase	1
+iteration phase anna termination phase initialisation	1
+multiply sequence	1
+multiply table	1
+probability complexity	1
+probability sub capital	1
+observation probability observation	1
+part speech tag	1
+capital summation	1
+summation capital	1
+squared entry summation	1
+summation probability table sub entry summation	1
+quadratic capital quadratic length sequence	1
+consideration processing sequence length sequence	1
+length sequence	1
+vector machine dataset	1
+capital dependant	1
+finite guy	1
+richard ellie umbrella	1
+finite diagram	1
+graph axis	1
+axis part speech	1
+node measure probability	1
+multiply phase	1
+transition probability observation probability	1
+node edge weight	1
+node edge	1
+node edge node	1
+advantage knowledge	1
+complexity search	1
+probability visa	1
+probability f r	1
+baye probability	1
+probability calculation	1
+sequence restroom iteration	1
+evaluation probability ellie	1
+evaluation probability mob model observation	1
+evaluation probability byproduct	1
+evaluation accident	1
+digression algorithm	1
+dick feynman eli umbrella	1
+weather report	1
+speech sequence text	1
+probability node	1
+node algorithm summation	1
+robot corner room	1
+trick turbi	1
+concept turbi	1
+dependance pairwise dependence	1
+max annan argmax	1
+sequence trelli	1
+pointer argmax	1
+max capital probability sequence	1
+probability path probability sequence	1
+argmax probability	1
+probability observation sequence	1
+max path	1
+probability path	1
+smoothing algorithm	1
+wednesday vision	1
+overview vision	1
+friday afternoon	1
+training basis vocabulary	1
+subset anna	1
+database context coffee	1
+unigram probability	1
+vector coefficient ice capital	1
+envy context	1
+relatedness uhm	1
+research andrea	1
+eric villa del norway	1
+similarity graphs	1
+cap edge	1
+edge synonym thesaurus english	1
+notion relatedness	1
+pageant earring nurse	1
+crowd worker	1
+probability envy	1
+notion similarity	1
+reasoning pair attribute	1
+occupation direction dinner direction	1
+paper bias	1
+network algorithm	1
+database internet alright	1
+tree book street image handle	1
+wood part powerpoint	1
+complexity beta	1
+distance aven	1
+event manhattan distance	1
+event measure node	1
+event aven	1
+heuristic aven	1
+manhattan distance node	1
+shape puzzle	1
+review part datasheet	1
+assumption algorithm	1
+estimate probability sun	1
+bag classifier	1
+response device	1
+rain desert	1
+rain tomorrow probability forecast	1
+treatment doctor response	1
+testing protocol	1
+percent woman breast cancer	1
+posteriori probability	1
+action label	1
+probability latin probability degree event evidence	1
+e evidence	1
+desk desktop	1
+illustration bag	1
+pair bigram document bigram occur	1
+pathetic character	1
+node network	1
+part century evidence	1
+impedance voltage plot voltage outside	1
+millivolt voltage outside	1
+amp spike neuron activation	1
+heat sensor	1
+amount millisecond	1
+millisecond delay	1
+millisecond perceptron network	1
+innovation perceptron algorithm	1
+layer neural workhorse machine	1
+curve times	1
+f height	1
+width rectangle	1
+trial sub	1
+machine learning measurement	1
+iris color	1
+token comma	1
+classification neural net	1
+stimulus orientation	1
+hypercomplex cell notation	1
+shape orientation overtime	1
+dog face	1
+flexibility century technology	1
+output sub	1
+map convolution map	1
+offset weight	1
+textbook vector semantic	1
+exam review	1
+preparation exam	1
+game textbook	1
+textbook site equation	1
+formula mechanism	1
+explanation concept	1
+game player game	1
+mechanism auction	1
+being game theory subfield	1
+agent observation game theory	1
+manner prisoner dilemma	1
+chain paradox	1
+randomness repetition game	1
+randomness cause	1
+prisoner dilemma model evolution morality	1
+evolution cooperation	1
+game theory agent game	1
+ear auction buyer money	1
+price auction	1
+bidding mechanism auction mechanism	1
+variety mechanism	1
+being equilibrium	1
+game equilibrium	1
+equilibrium outcome game	1
+interaction activity	1
+activity opponent	1
+table interest	1
+prediction matrix	1
+rationality theory	1
+rationality theory rationality	1
+being manner	1
+compensating mechanism	1
+wireless spectrum auction	1
+channel wireless spectrum inside boundary	1
+bidding strategy	1
+price channel	1
+bidding war	1
+channel price	1
+money price	1
+outcome auction	1
+stock market prediction	1
+puzzle solution	1
+box diving	1
+box warfare	1
+war winner battle action	1
+enemy troop fighting	1
+activity game	1
+ultimatum game	1
+amount money equilibrium	1
+rationality penny	1
+penny money human	1
+status circumstance conclusion	1
+room stranger	1
+economist game	1
+chain paradox chain paradox	1
+thought exercise monopolist branch town	1
+competitor buyout competitor	1
+monopolist income	1
+city monopolist	1
+game monopoly	1
+option monopolist	1
+town price money monopolist competitor money town monopolist	1
+price competitor	1
+story newspaper subject octopus cartoon	1
+business competitor	1
+town monopolist town	1
+business town monopolist	1
+monopolist price town monopolist income town	1
+competitor business	1
+income competitor	1
+town monopolist competitor	1
+income town	1
+competitor wit	1
+town competitor	1
+town chain paradox	1
+stage monopolist	1
+nature monopolist advance	1
+competitor nature town	1
+probability twentieth competitor	1
+monopolist policy	1
+business reward town	1
+randomness monopolist	1
+intention competitor	1
+buyout offer monopolist	1
+willingness competitor	1
+business monopolist payoff matrix competitor	1
+possibility monopolist	1
+competitor advance	1
+summation zero	1
+probability town	1
+pricing town	1
+advance behavior	1
+prisoner dilemma prisoner dilemma	1
+president dilemma	1
+guy option	1
+score strategy	1
+game opponent cooperate	1
+defection cooperation	1
+game defection consequence	1
+player pic	1
+groger strategy	1
+consequence game opportunity	1
+round strategy	1
+strategy payoff	1
+tournament winner strategy tat	1
+defector strategy tat advantage	1
+tip attack	1
+solution temptation	1
+gain opponent	1
+trait tournament	1
+payout tip tat cooperation	1
+amount punishment	1
+soda tip	1
+trait tip tat tournament	1
+opponent defect	1
+round tat	1
+score opponent tat	1
+scenario advantage	1
+tournament entry	1
+round interaction footnote tournament	1
+strategy tester	1
+player react	1
+defection echo tip tat	1
+reproduction resource reproduction	1
+generation tournament	1
+generation tat	1
+defector native score	1
+strategy score tip tat tiff tag tip tat	1
+strategy score	1
+mistake strategy	1
+tip tat defection echo	1
+temperate dominate	1
+strategy cooperation	1
+bunch defector	1
+self player reproducing cell	1
+gene benefit tip tat	1
+model reproduction	1
+reproduction game	1
+part cell history cell	1
+promo display checkout mechanism	1
+game participant game behave	1
+game participant	1
+profit bidder	1
+object visa	1
+buyer synonym bidder	1
+bid bidder	1
+reward visa	1
+seller earn reward beast	1
+auction seller	1
+bid price increment dollar	1
+equilibrium bidder	1
+valuation audience object	1
+valuation seller valuation	1
+reward buyer	1
+communication bidder bid advance	1
+seller envelope	1
+benefit strategy	1
+buyer profit	1
+seller valuation bidder audience reward buyer	1
+buyer profit margin	1
+amount money bidder	1
+model bidder	1
+valuation pizza	1
+increment valuation outcome	1
+randomness mess strategy	1
+victory auction	1
+bid price auction	1
+envelope auction envelope item bidder	1
+bidder seller	1
+secret valuation	1
+item price valuation	1
+truth revealing mechanism	1
+dollar bill	1
+tragedy auction	1
+strategy government	1
+outcome tragedy	1
+game theory resource	1
+government resource	1
+user reward visa	1
+news resource government resource price	1
+visa bias	1
+visa valuation	1
+reward resource	1
+pasture pastor owner	1
+pasture shape owner	1
+self interest pasture	1
+pasture owner	1
+interest owner	1
+fishing ground	1
+bank home	1
+fishing industry	1
+ocean atmosphere traffic jam rush	1
+solution tragedy	1
+auction mechanism resource auction mechanism agency government agency	1
+profit agency	1
+increment pipe	1
+bid resource eg	1
+cow grazing	1
+part pool spot	1
+cow amount	1
+strategy bidder	1
+valuation logic	1
+valuation bid	1
+bid sub	1
+valuation visa	1
+price auction truth	1
+valuation resource	1
+agent game assumption	1
+player computation	1
+payoff matrix player outcome	1
+option player money	1
+behavior corporation	1
+price signal	1
+rationality morality	1
+benefit player rationality behavior	1
+ascending bid auction winter	1
+bid auction winner valuation	1
+winner valuation	1
+bid price auction winner	1
+interest winner	1
+bid tragedy	1
+mechanism price auction amount	1
+strategy player government valuation resource	1
+credit comparative student	1
+star path stockroom path	1
+path stockroom path r	1
+eye part grid community	1
+wall robot amount center mass	1
+lever solder lever	1
+elbow lever robot arm	1
+optimality metric minimum jerk	1
+coordinate cosine theta white board theta	1
+wall obstacle wall	1
+solution markov policy	1
+calculation policy	1
+game menu	1
+solution policy mapping	1
+iteration converge decay	1
+policy iteration markov monday markov	1
+office scan exam	1
+review galaxy	1
+evolution overtime assumption algorithm	1
+trace history	1
+probability opry ori estimate probability sun	1
+friend elliot carson	1
+rain reno desert	1
+rain reno tomorrow probability forecast	1
+treatment doctor	1
+testing protocol aid aids	1
+f probability	1
+percent woman breast	1
+probability opry ori	1
+pub med	1
+cavity action label	1
+probability opry ori probability latin probability degree event evidence	1
+dimension desktop	1
+layer illustration bag	1
+baghdad qaeda	1
+pair bi gram document bigram occur	1
+event student	1
+restaurant stick robot	1
+wall robot amount	1
+center mass	1
+lever solder lever elbow lever robot arm	1
+relic acceleration	1
+optimality metric	1
+coordinate cosine theta	1
+cord theta	1
+wall obstacle wall maze	1
+origin manhattan distance	1
+manhattan distance manhattan distance	1
+track node	1
+animal kingdom heuristic star	1
+designer software	1
+distance animation manhattan distance	1
+fun animation	1
+animation manhattan distance	1
+distance euclidean distance	1
+animation node center	1
+monday solution	1
+path aven	1
+path search node parent	1
+frontier parent node	1
+unit path	1
+origin path heuristic	1
+heuristic sea	1
+node graph admissibility	1
+computation solution	1
+heuristic part manhattan distance part	1
+animation dijkstra algorithm	1
+star algorithm	1
+node path estimate	1
+third node	1
+decrease complexity	1
+complexity fraction	1
+maze manhattan distance	1
+event tile	1
+heuristic tile	1
+solution part	1
+prune node	1
+node aven	1
+search magnitude	1
+complexity heuristic	1
+tile shuffling position	1
+reshuffling origin	1
+shuffling advance shuffling	1
+bunch heuristic	1
+max comma	1
+search tree	1
+aven path	1
+competitor heuristic	1
+heuristic part	1
+tree street image	1
+wood part	1
+complexity maximum	1
+maze crossword	1
+distance event	1
+measure node	1
+proof uhm	1
+manhattan distance node geo node	1
+multiply probability	1
+training review pathetic probability	1
+bunch thousandth	1
+development corpus hyperparameter	1
+evidence query	1
+distribution dependency evidence query	1
+solution circle arrow	1
+graph bunch circle	1
+arrow graph semantic	1
+arcs load	1
+dependence toothache	1
+hole graph	1
+burglary john	1
+model parameter probability mary alarm	1
+mary burglary	1

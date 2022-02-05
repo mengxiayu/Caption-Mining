@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "9321988e401f2dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d050d444b13b41b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dcc18d8fa3f7087",
+    "type": "split",
+    "children": [
+      {
+        "id": "616a077f20e57bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "566b72c9086f5790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "534283125fbbcd26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4f13b3026a712be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ea8697dbe0bbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29dab89845106388",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d050d444b13b41b",
+  "lastOpenFiles": [
+    "CS_357.md",
+    "STAT_432.md",
+    "CS_361.md",
+    "CS_410.md",
+    "concepts/part speech tag.md",
+    "CS_447.md",
+    "CS_410/CS_410-0.md",
+    "CS_357/CS_357-4.md",
+    "CS_357/CS_357-1.md",
+    "CS_357/CS_357-0.md"
+  ]
+}

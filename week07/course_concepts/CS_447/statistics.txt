@@ -1,0 +1,4130 @@
+machine translation	35
+noun phrase	29
+context grammar	29
+verb phrase	21
+part speech tag	17
+top buffer	17
+probability distribution	15
+top stack	15
+translation model	14
+gram model	14
+part speech	13
+machine learning	13
+structure sentence	12
+tag sequence	12
+probability model	10
+probability label	10
+independence assumption	9
+output layer	9
+classification task	9
+emission probability	9
+part speech tagging	8
+translation probability	8
+sequence labeling	8
+meaning representation	8
+dependency tree	8
+unit layer	7
+probability string	7
+role labeling	7
+vector representation	7
+likelihood estimation	7
+weight vector	6
+model probability	6
+grammar formalism	6
+dependency treebank	6
+sentence symbol	6
+reference translation	6
+sentence image	6
+transition probability	6
+trigram model	6
+parameter model	6
+probability vector	6
+dependency grammar	6
+gradient descent	6
+programming assignment	6
+relation extraction	5
+attention weight	5
+training corpus	5
+sentence boundary	5
+chat bot	5
+unk token	5
+phrase structure	5
+grammar part	5
+phrase structure grammar	5
+sushi tuna	5
+sentence structure	5
+law distribution	4
+weight matrix	4
+sub categorization	4
+structure grammar	4
+category argument	4
+task dialogue	4
+zips law	4
+collection document	4
+noun plural	4
+tree bank	4
+probability sentence	4
+output sequence	4
+programming algorithm	4
+probability tag	4
+image sentence	4
+probability context	4
+parameter sharing	4
+frame net	4
+grade scope	4
+core occurrence	4
+relation entity	3
+part speech tagger	3
+prediction model	3
+confusion matrix	3
+encoder output	3
+encoder position	3
+transformer model	3
+layer activation	3
+probability e	3
+target sentence	3
+source sentence	3
+threshold activation	3
+feedforward network	3
+dimensionality vector	3
+probability text	3
+speech recognition	3
+entity discourse	3
+probability event	3
+probability outcome	3
+phrase model	3
+target sentence phrase	3
+distortion probability	3
+phrase table	3
+phrase alignment	3
+model translation model	3
+derivation tree	3
+role subject	3
+model part	3
+predicate logic	3
+category grammar	3
+model string	3
+encoder decoder	3
+translation text	3
+evaluation metric	3
+brevity penalty	3
+sentence length	3
+text vector	3
+sample sentence	3
+entity recognition	3
+position sentence	3
+probability tag sequence	3
+pointer cell	3
+argument category	3
+attention mechanism	3
+image description	3
+part speech tag terminal	3
+search engine	3
+sequence labeling task	3
+part vocabulary	3
+finite automaton	3
+automata theory	3
+channel metaphor	3
+anger model	3
+dependency pausing	3
+verb object	3
+vector embedding	3
+entropy model	3
+regression classifier	3
+model probability distribution	3
+unigram model	3
+bigram model	3
+claim museum	3
+structure string	3
+center utterance	3
+similarity vector	3
+vector entry	3
+sushi chopstick	3
+meaning sentence	3
+string length	3
+hypernym relation	2
+organization location	2
+inflection verb	2
+semantic meaning	2
+semantic meaning sentence	2
+sentence speaker	2
+discourse model	2
+relation event	2
+speech tag	2
+jj distinction	2
+concept self attention	2
+dimension output vector	2
+observation weight	2
+ice position	2
+self attention layer	2
+feedforward layer	2
+attention layer	2
+decoder output	2
+sequence model	2
+branching tree	2
+model parameter	2
+pc model	2
+sushi tuner	2
+sequence character	2
+beginning sentence	2
+spelling variant	2
+alignment vector	2
+null token	2
+corpus alignment	2
+em algorithm	2
+corpus sentence pair	2
+pair sentence	2
+phrase translation model	2
+xi label	2
+output unit	2
+layer network	2
+label classification	2
+item label	2
+task evaluation	2
+performance model	2
+root token	2
+structure category	2
+phrase verb phrase	2
+book flight	2
+ticket tomorrow	2
+token document	2
+meaning text	2
+symbol surface	2
+unit vocabulary	2
+student union	2
+food court	2
+review probability theory	2
+probability shape	2
+probability sequence	2
+distinction event	2
+event probability	2
+dice probability	2
+distribution multinomial	2
+concept probability	2
+tag tree	2
+domain locality	2
+predicate logic meaning representation	2
+logic expression	2
+predicate logic representation	2
+phrase structure tree bank sector pantry	2
+dependency tree noise translation	2
+probability prefix	2
+label sequence	2
+output encoder	2
+task text	2
+model attention	2
+text classification	2
+item classifier	2
+document vector	2
+item vector	2
+linguist programming	2
+dependency graph	2
+surface string	2
+representation meaning	2
+grammar formalism tree	2
+text entity	2
+probability sentence tag	2
+tag sequence tag	2
+probability sequence sentence	2
+tag probability	2
+tag sentence	2
+probability sequence tag	2
+sentence tag	2
+tag sequence probability	2
+transition cell	2
+algorithm part	2
+subject object	2
+category slash	2
+vector probability	2
+task image description	2
+caption model	2
+description image	2
+pool image	2
+vector representation image	2
+representation sentence	2
+notion alignment	2
+faithfulness translation	2
+fluency translation	2
+machine translation model	2
+cell chart	2
+terminal grammar	2
+entry cell	2
+vector layer	2
+softmax layer	2
+dimension vector	2
+amount text	2
+feedforward network classification	2
+token sequence	2
+infinite string	2
+finite automata	2
+suffix stem	2
+linguistic grammar	2
+edition textbook	2
+source string	2
+corpus target	2
+model gram model	2
+target phrase	2
+email spam	2
+document training	2
+probability item	2
+unigram probability	2
+phrase structure tree	2
+edge parent	2
+root sentence	2
+dependency route	2
+car dealership	2
+co reference	2
+vector representation span	2
+coreference chain	2
+precision vehicle	2
+city councilman	2
+entity organization location	2
+training item	2
+regression model	2
+furnace automata	2
+zoom activity	2
+book quiz	2
+literature review	2
+part overview	2
+shopping cart	2
+family father	2
+sequence rewrite	2
+understanding model	2
+evaluation perplexity	2
+classification experiment	2
+slash category	2
+bill car	2
+rain joint	2
+relation nucleus	2
+comma tableau hundred	2
+relation label	2
+body paragraph	2
+probability label item	2
+model learning	2
+likelihood estimate	2
+loss cross entropy loss	2
+learning eater	2
+task part speech tagging	2
+search algorithm	2
+object verb	2
+noun book	2
+sentence grammar	2
+ex stack	2
+sentence story	2
+sentence part	2
+entity coherence	2
+coin flip	2
+music piano	2
+entity utterance	2
+relation sentence	2
+dependency prime	2
+buffer stack	2
+dependency news	2
+vocabulary context	2
+training sentence	2
+part text model	2
+fraction bigram	2
+output machine translation	2
+sentence statement	2
+discourse semantic	2
+meaning part	2
+adjective adverb	2
+surfer realization	2
+secrecy cmodel	2
+representation sequence	2
+medium event	2
+nlp technology	2
+science background	2
+pie cream	2
+verb semantic	2
+role verb	2
+sentence window	2
+responsibility event	2
+fraction item	2
+bigram distribution	2
+sentence probability	2
+co occurrence	2
+document collection	2
+similarity document	2
+vector similarity	2
+database relation concept	1
+relation cat mammal	1
+relation part	1
+relation part bumper part car	1
+car cause pump bumper musician	1
+orchestra substance meronym dough flower	1
+band orchestra musician member meronym	1
+organization music organization hypernym orchestra band	1
+domain knowledge entity	1
+relation info box	1
+info box info box	1
+relation entity location	1
+representation relation	1
+description framework triple	1
+entity comma relation entity location	1
+relation extraction document	1
+relation entity document	1
+part unit	1
+text unit	1
+relation entity relation	1
+part relation subsidiary pair organization zed parent company	1
+family husband jaune	1
+organization founder organization relation organization	1
+relation research extraction family relation part	1
+relation business relation	1
+relation friendship	1
+location etc affiliation organization founder owner member investor student	1
+interpretation relation	1
+model relation	1
+logic representation logic model	1
+tree model	1
+model domain	1
+universe entity	1
+entity domain entity	1
+relation tuple entity	1
+relation tuple textbook domain	1
+dozen entity company location	1
+relation leg	1
+relation affiliation relation	1
+text pattern	1
+precision recoil relation extraction algorithm substance	1
+mixture lab	1
+pattern comma	1
+building temple	1
+building author law country	1
+country pattern text hypernym	1
+precision recall	1
+relation apparel entity	1
+visitor document	1
+pair entity	1
+relation entity task	1
+distance entity	1
+path entity	1
+context core reference	1
+dependency parser	1
+precision seed pattern	1
+hub relation	1
+classifier coverage	1
+sentence entity pair	1
+seed rhino user hub ryan	1
+airport hub noise	1
+relation extraction distance supervision	1
+database relation	1
+sentence pair entity	1
+output classifier	1
+sentence pipeline	1
+guarantee sentence	1
+entity intuition	1
+confidence prediction classify	1
+relation cab	1
+intuition sentence relation	1
+relation amount text web	1
+constraint textbook part speech tagging	1
+relation string entity verb	1
+constraint algorithm	1
+relation database	1
+argument database	1
+relation interest	1
+confidence score relation database	1
+content noun verb adjective	1
+principle compositionality meaning sentence	1
+sentence correspond proposition	1
+model story writer	1
+generation text	1
+sentence paragraph	1
+generation discourse	1
+coreference resolution cafe	1
+aspect discourse ability	1
+discourse relation	1
+coherence relation	1
+relation lunch	1
+discourse entity event discourse relation	1
+representation logic shallow	1
+science entity	1
+water liquid	1
+discourse relation proposition	1
+relation proposition	1
+introduction linguistic discourse	1
+introduction part speech tagging part	1
+part speech noun verb adjective adverb	1
+peer tag attempt part speech	1
+verb part speech tagging	1
+part speech tag token sentence	1
+pipeline tokenization	1
+relation part speech sentence model	1
+speech tagging	1
+coverage part speech tagger	1
+part speech tag label	1
+corpus tag	1
+part speech tag grammar	1
+domain part speech	1
+part speech tagging model	1
+part speech tagger tag	1
+text part speech tag	1
+attack label	1
+inventory label	1
+guideline tag	1
+expertise tag attack	1
+meaning distinction	1
+annotation distinction	1
+quality annotation distinction annotation	1
+truth tag	1
+corpora part speech tag	1
+part fear anger	1
+noun plural book	1
+morphology tax prog dependency treebank tag	1
+analysis adjective	1
+tag magnitude	1
+ending part speech table noun	1
+verb dining table	1
+politician table motion	1
+adjective distribution	1
+dictionary part speech tag	1
+corpus ambiguity tax	1
+tag part story	1
+token occurrence token part speech tag	1
+visitor token	1
+part speech tagger part	1
+proposal model task	1
+percent accuracy	1
+baseline performance	1
+task speech tagging training	1
+visa model	1
+performance part speech tagging	1
+morphology tag	1
+accuracy beginning photo speech tag	1
+accuracy tagset tag	1
+dd part speech	1
+mistake model	1
+confusion classification	1
+part speech tagging tag	1
+tagging model	1
+tag adjective verb	1
+noun device	1
+adjective verb dinner	1
+understanding accuracy	1
+tagger confusion matrix pipeline	1
+task pipeline	1
+confusion matrix coupon speech tagging accuracy	1
+pipeline task understanding	1
+markov model	1
+algorithm part speech	1
+splash transformer context	1
+entropy sequence model	1
+parameter layer self attention	1
+layer encouragement decoder	1
+transformer basis	1
+model lp	1
+secrecy contention mechanism	1
+decoder layer	1
+part attention	1
+secrecy texture decoder sequence	1
+decoder position speech decoder position retention encoder position	1
+sequence vector	1
+variation encoder	1
+sequence network	1
+attention encoder	1
+decoder attention secrecy cmodel	1
+self attention self attention encoder position	1
+attention encoder position	1
+sequence encoder	1
+position equivalent opposition	1
+weight position	1
+vector encoder position	1
+dinner sequence	1
+basis transformer	1
+vector weight	1
+weight parameter vector	1
+manner task observation	1
+xj manner	1
+self attention query	1
+vector xr	1
+averaging weight position	1
+averaging weight	1
+position attention weight position	1
+vector ice position	1
+vector position	1
+architecture paper	1
+decoder architecture	1
+context attention	1
+stack layer sub layer	1
+decoder part	1
+building pink	1
+layer sublayer	1
+dimension parameter vector dimensionality	1
+position sequence layer building	1
+sublayer addon layer	1
+deviation activation vector	1
+attention feed forward layer	1
+self attention position	1
+feedforward layer decoder	1
+sublayer norm operation	1
+sub layer	1
+channel dinner	1
+setting parameter attention	1
+query matrix	1
+projection query	1
+representation matrix	1
+vector projection	1
+sqrt dimension normalization	1
+attention part	1
+self attention encoder	1
+decoder self attention	1
+net attention layer	1
+parameter position encoder decoder	1
+attention layer normalization	1
+dimension parameter layer	1
+policy typo	1
+encoding embedding	1
+embedding dimension	1
+vector sinusoid frequency	1
+position sequence position fashion part	1
+transformer machine translation	1
+pc model distribution tree	1
+pc independence assumption label node	1
+child inference assumption shape tree	1
+sentence model	1
+corpus tree model independence assumption	1
+strength independence assumption labeling tree	1
+node label	1
+nonterminal model	1
+sentence analyze sentence	1
+corpus sentence	1
+sentence instance school	1
+variance tradeoff	1
+pcf geez probability model bias	1
+partitioning training	1
+gazillion distribution	1
+estimate distribution model	1
+variance model bias	1
+variance model	1
+parent annotation	1
+performance probability model pc model	1
+road transformation	1
+expansion terminal	1
+subject position	1
+clause mps	1
+parent transformation grammar parent node terminal	1
+eat sushi chopstick	1
+vp verb	1
+tuner probability	1
+yield pee	1
+constituent dependency assumption	1
+pcf root	1
+expert ex	1
+vp eat distribution	1
+part category	1
+solution unk token	1
+staff symbol	1
+role pantry bank	1
+pause entropy bank	1
+context part	1
+part speech tagging speech task	1
+sentence sequence	1
+token sentence part speech tag	1
+sequence tag sequence	1
+star dog	1
+sequence label	1
+boundary text	1
+sentence notation	1
+abbreviation punctuation	1
+entity contraction	1
+blank compound	1
+character war	1
+entropy user machine	1
+text corpora	1
+tokenization corpus	1
+sentence restaurant	1
+component tokenization	1
+sentence challenge	1
+punctuation abbreviation	1
+exception challenge	1
+sentence boundary restaurant	1
+distance sentence	1
+text cap	1
+normalization casing spellchecking	1
+spell normalization	1
+scratch document	1
+target translation e source sentence	1
+award alignment	1
+team probability source sentence f	1
+alignment source	1
+probability alignment position	1
+target sentence merry swam	1
+token position	1
+length source sentence	1
+length source sentence correspond token target sentence null	1
+position source position	1
+position luck	1
+supposition swam	1
+friend sentence	1
+user model probability	1
+sentence fate	1
+probability soapy probability source sentence length target sentence length training	1
+alignment probability vector	1
+alignment probability position	1
+target position	1
+chain model	1
+alignment position integer	1
+assumption leg probability alignment probability parameter	1
+probability door	1
+looking expression	1
+alignment probability	1
+alignment sentence	1
+model alignment	1
+position alignment	1
+sentence science probability	1
+sentence sub	1
+probability null probability marry probability	1
+translation probability parameter	1
+frequency expert expectation	1
+egg probability model	1
+model converge expectation maximization	1
+model convex	1
+expectation maximization algorithm	1
+gas translation probability	1
+likelihood training	1
+annuity likelihood threshold	1
+model efini	1
+pair sentence pair	1
+alignment probability alignment efini	1
+efini model	1
+alignment prime	1
+joint probability	1
+probability ear	1
+probability e probability translation probability alignment	1
+pair alot	1
+probability alignment	1
+alignment pair sentence	1
+alignment discount efini table tray	1
+translation probability part	1
+probability e probability	1
+string position	1
+trade model	1
+corpus translation probability	1
+em algorithm model	1
+round model	1
+net family machine learning model	1
+cell brain	1
+network variety classification sentiment analysis sequence generation machine translation	1
+response dialogue	1
+embedding representation learning	1
+task pipeline machine structure prediction task sequence	1
+part speech tagging entity recognition task	1
+network neuron	1
+nerve cell	1
+network cycle	1
+model perceptron	1
+parameter scalar	1
+vet weight vector	1
+learning boundary	1
+arrest crosse	1
+slope boundary hyperplane item	1
+axis scalar	1
+color neuron	1
+threshold activation top	1
+meeting dissent	1
+weight model mistake	1
+ether learning	1
+regression label	1
+slope boundary	1
+weight boundary	1
+notation literature	1
+neural perceptron	1
+neuron output unit vector	1
+layer unit	1
+perception skin	1
+axis vector scalar	1
+architecture network	1
+neural net	1
+part layer part	1
+architecture unit layer	1
+signal cartoon	1
+activation load	1
+classifier perceptron card	1
+linear model	1
+bunch linear bottle	1
+classifier unit	1
+parameter network	1
+weight unit node network	1
+gradient law	1
+multilayer feedforward net	1
+loss output	1
+weight unit	1
+library sigmoid output	1
+approximation heart	1
+unit age	1
+paper variance	1
+foot network	1
+output layer vector	1
+bunch computation	1
+output unit activation	1
+fleet unit	1
+highway connection	1
+layer activation unit eye tractor	1
+unit death unit ice layer vector activation	1
+activation unit layer	1
+vector unit	1
+weight layer matrix	1
+classification task classification task	1
+layer output layer	1
+multiclass classification	1
+sigmoid unit	1
+probability label part	1
+evaluation model	1
+metric perplexity	1
+prediction model automobile text	1
+scene training	1
+disjoint training	1
+source training	1
+training disjoint training	1
+machine learning model	1
+transit evaluation model	1
+text perplexity model inverse	1
+perplexity root	1
+corpus caveat perplexity model	1
+model threshold unk token	1
+volleyball organization model perplexity model	1
+vocabulary trigram model season tram model	1
+city gram model	1
+probability logarithm	1
+probability underflow logarithm	1
+evaluation model evaluation model	1
+model text context speech recognition	1
+model task	1
+candidate instance	1
+task component	1
+component model	1
+score variant	1
+model speech recognition speech recognition	1
+sequence transcript	1
+speech recognizer model	1
+signal transcript	1
+speech recognizer	1
+speech recognition task recognize	1
+envy transcript	1
+transcript gold transcript	1
+lunch select	1
+lunch deletion	1
+ice tea drink	1
+metric sequence	1
+cloud machine translation	1
+basis grammar formalism	1
+linguistic structure grammar attribute grammar	1
+unification grammar attribute matrix structure	1
+unification domain operation structure	1
+grammar anger	1
+sentence student pizza cake	1
+agreement terminal noun student	1
+noun student	1
+plural noun phrase	1
+surface verb phrase	1
+category structure	1
+category noun phrase	1
+structure attribute matrix	1
+structure notion	1
+cat argument	1
+agreement brother attribute	1
+agreement attribute nom	1
+bracket operation structure unification structure	1
+structure cat singular knowledge	1
+conflict attribute	1
+attribute cat unification	1
+beginning part structure variety formalism	1
+constraint unification constraint	1
+grammar structure	1
+agreement fate	1
+agreement norm	1
+verb phrase verb agreement verb phrase	1
+entrance structure	1
+exception box index	1
+agreement sub graph mechanism	1
+entrance attribute grammar	1
+finite attribute grammar	1
+exercise fun exercise	1
+cfg roll lowercase	1
+constraint f parent node	1
+structure af	1
+attribute outside structure	1
+linguistic category grammar context	1
+part linguistic dialogue	1
+chat bot chit chat therapy	1
+ticket customer service	1
+linguistic discourse dialogue discourse story	1
+travel agent	1
+flight back	1
+conversation speaker	1
+utterance speaker	1
+dialogue conversation	1
+speaker dialogue	1
+party dialogue speaker	1
+dialogue discourse	1
+model affair	1
+audience dialogue party	1
+model affair conversation	1
+feedback conversation concept	1
+belief affair party	1
+belief party belief affair	1
+reference entity	1
+belief party belief	1
+ground dialogue	1
+belief party dialogue	1
+dragon daughter	1
+dragon ground	1
+addition ground	1
+exchange linguist psychologist	1
+zoom conference dinner	1
+zoom camera	1
+discourse structure	1
+oracle inflation part discourse	1
+part discourse	1
+zoning model	1
+part paper	1
+aim hero	1
+dialogue structure	1
+adjacency pair dialogue	1
+part para	1
+proposal acceptance	1
+sub dialogue	1
+option proposal	1
+linguistic part pragmatic	1
+action speaker	1
+listener respect	1
+grade label speech	1
+partner party	1
+initiative party initiative user initiative strategy user	1
+initiative strategy	1
+option communication inference agent	1
+customer meeting	1
+customer speaker	1
+travel date	1
+button speaker	1
+travel meeting	1
+interaction travel agent meeting	1
+principle speaker	1
+introduction dialogue part	1
+token document corpus document occurrence document	1
+limit document processor	1
+exercise logic text collection	1
+circle item article determiner	1
+vocabulary frequency	1
+zips law author probability	1
+implication law distribution	1
+curve frequency	1
+implication formula	1
+law distribution text	1
+structure meaning text	1
+cloud linguistic	1
+generalization abstraction linguistic	1
+linguist representation	1
+finite grammar	1
+fight string	1
+vortex generalization	1
+spelling spellchecking	1
+spelling typo	1
+token taking	1
+lemmas lemma	1
+science text retrieval	1
+guarantee symbol	1
+analysis text	1
+stem text	1
+query text	1
+structure book	1
+lemma book	1
+parser output lemma book	1
+adjective fab plural dative	1
+zip floor court	1
+edit threshold	1
+corpus unk token	1
+unk token unk token	1
+character substring champagne sequence character	1
+sequence substring	1
+substring byte pair encoding	1
+character sequence	1
+expression part terminology	1
+expression book	1
+entity reference refer movie	1
+linguist reference	1
+noun phrase walnut	1
+quantifier walnut	1
+noun phrase discourse entity	1
+speaker friend machine	1
+article book	1
+speaker entity	1
+student union food court	1
+weather entity discourse	1
+pronoun anaphoric pronoun	1
+discourse car	1
+event car	1
+agreement constraint girl antecedent	1
+antecedent concept	1
+pronoun australian entity	1
+cop party	1
+sentence context yesterday	1
+insight pronoun	1
+theory capturing entity	1
+amount inference	1
+entity pronoun	1
+bag shape	1
+bag replacement	1
+counting probability	1
+sequence shape	1
+probability triangle	1
+rocket science	1
+text shape	1
+fridge magnet bank	1
+game fringe bag node	1
+zip law action	1
+distribution site	1
+sample replacement	1
+probability beginning	1
+sequence probability text	1
+probability trial	1
+probability sample outcome shape color	1
+event subset sample outcome	1
+sample identity	1
+measurement interest	1
+probability disjoint event	1
+probability model distribution	1
+finite outcome distribution	1
+tail probability	1
+parameter probability	1
+tail episode probability	1
+outcome distribution probability category outcome	1
+probability vocabulary terminology distribution	1
+sequence trial probability	1
+trial sequence trial	1
+distribution concept	1
+bar probability	1
+probability concept	1
+probability conditioning	1
+lp probability model	1
+model parameter training	1
+probability model independence assumption	1
+model independence assumption anarchy parameter	1
+probability master event	1
+phrase translation model phrase translation model	1
+assumption phrase model	1
+unit translation phrase	1
+phrase substring	1
+target phrase source phrase translation probability	1
+phrase distortion probability distortion probability	1
+distance phrase	1
+target phrase source phrase translation probability phrase	1
+source phrase sentence	1
+phrase tradition probability	1
+alignment context model	1
+phrase machine translation model	1
+notion alignment phrase alignment	1
+chunk trunk	1
+cursory presentation	1
+intersection alignment precision alignment intersection	1
+alignment sentence alignment	1
+union alignment	1
+pair union alignment	1
+tree formalism operation quote substitution	1
+string context grammar tag	1
+tree argument anchor	1
+subcategorization tag	1
+linguist shape tree	1
+tag context	1
+consequence context	1
+grammar context grammar	1
+growth length string	1
+counterexample circle	1
+string length string	1
+dependency gear tag	1
+structure verb phrase	1
+object tree fragment	1
+tree fragment operation substitution	1
+root node	1
+tree fruit	1
+tree leaf	1
+foot node	1
+tree derivation	1
+junction operation	1
+opener tree	1
+tree tag	1
+tree substitution grammar	1
+context tree	1
+entry argument	1
+sister junction	1
+junction modifyer	1
+tag lexecon	1
+junction tag	1
+phrase topper	1
+modifier priority	1
+object topper	1
+tower junction	1
+join tree	1
+capacity formalism	1
+introduction category grammar combinatory	1
+part sensor	1
+part annotation	1
+phrase structure tree annotation	1
+parsing divert	1
+country bank label	1
+tag part speech tag	1
+symbol punctuation	1
+tag nonterminal towel phrase	1
+phrase bar medicine	1
+terminal tag	1
+role dash	1
+role peace	1
+adverb manner tag pea tag	1
+tree noun part speech tag trumpski junction argument	1
+tag subject	1
+asterisk ticket context grammar	1
+determiner adjective	1
+compound noun	1
+isation part	1
+pantry rank	1
+pausing modification model	1
+nonterminal transfer tree bank	1
+dependency pause	1
+face structure	1
+formula predicate dawn	1
+model theory	1
+logic meaning representation	1
+aspect representation formula	1
+formula predicate	1
+negation connector negation	1
+conjunction disjunction implication	1
+connective student	1
+predicate student jaune student	1
+student supply	1
+blip food blip	1
+logic tent	1
+yesterday tomorrow	1
+quantifier student	1
+relation student	1
+predicate principle compositionality	1
+model computation	1
+law operation reduction	1
+parenthesis argument	1
+user beta reduction	1
+occurrence argument	1
+reduction semantically	1
+lambda part	1
+dependency annotation dependency tree bank	1
+dependency tree bag	1
+card neural task	1
+network architecture part	1
+architecture vanilla	1
+feedforward net	1
+label task	1
+length sequence sentence	1
+text output	1
+variant iron	1
+structure island	1
+memory cell	1
+mechanism iron	1
+generation completion	1
+machine translation sequence classification sentiment analysis	1
+model foot	1
+sequence variant	1
+part recurrence	1
+parameter connection garden correspond feedforward network	1
+activation home	1
+activation age	1
+matrix notation	1
+feedforward network modeling	1
+output layer unit vocabulary	1
+starting symbol	1
+foot probability	1
+symbol equation	1
+probability network	1
+bottom distribution	1
+net sentence prefix hole ground	1
+hole ground	1
+sentence auto completion	1
+probability sentence rn	1
+auto completion task	1
+sentence hobbit	1
+hobbit orbit sentence model encoder decoder	1
+source target	1
+bot fight utterance	1
+decoder response sequence encoder	1
+decoder rn model	1
+machine translation dimensionality	1
+decoder output sequence	1
+encoder embedding	1
+extension model	1
+island task sequence classification	1
+encoding sequence	1
+lens sequence labeling sequence	1
+polo speech tagging task	1
+softmax distribution	1
+bill rn	1
+vocabulary modeling task distribution	1
+part speech extension	1
+dependency label	1
+label tag output layer softmax distribution	1
+ti tag	1
+layer tag probability tag sequence	1
+string feed	1
+layer embedding part speech tag	1
+tag embedding	1
+tag embedding card distribution	1
+prefix tag	1
+evaluation machine translation	1
+machine translation output	1
+score part loss	1
+evaluation paper	1
+research judge	1
+solution dilemma	1
+evaluation machine translation pronunciation	1
+candidate translation reference translation reference translation sentence	1
+reference translation reference translation	1
+translation score	1
+engram candidate translation	1
+reference guide action engram	1
+appear command	1
+precision engram	1
+bigram trigram	1
+precision engram expression	1
+engram character translation corpus	1
+frequency engram reference	1
+frequency party	1
+candidate translation reference translation	1
+reference translation candidate translation	1
+sentence corpus	1
+candidate translation	1
+engram translation	1
+cat translation	1
+precision retrofit precision	1
+candidate translation fade	1
+translation corpus	1
+challenge translation sentence leg translation	1
+gravity penalty	1
+precision item	1
+translation sentence corpus	1
+frequency reference translation candidate translation frequency candidate translation	1
+translation brevity penalty score	1
+formula precision	1
+precision cap	1
+alright sentence	1
+newspaper article	1
+part classification	1
+spam detection email junk	1
+spam email classifier	1
+finite label	1
+task spam detection	1
+machine learning generalization junk email	1
+stall junk	1
+aspect adaptation	1
+button feedback spam detection algorithm	1
+inbox junk folder spam detector feedback	1
+email folder email	1
+conference folder vacation folder	1
+email folder	1
+region database entry measurement machine learning	1
+map vector	1
+classifier label	1
+vector mapping classification	1
+becausw vector	1
+item vector classifier label	1
+image engineering	1
+classification engineering	1
+model engineering	1
+representation bag representation	1
+structure sentence meaning	1
+vocabulary axis zero	1
+classification classifier f map item label	1
+radar vector	1
+finite label classification task	1
+classification wage item	1
+classification output	1
+classification task label classification	1
+machine task classification voting map label	1
+assumption mapping	1
+mapping target machine learning target	1
+role classification model task	1
+label learning	1
+learning algorithm	1
+label training concept	1
+item training	1
+training vector	1
+gold label	1
+item vector label	1
+target classifier	1
+learning algorithm model	1
+exposure machine learning concept	1
+concept machine learning ability	1
+visualize toy	1
+inner part	1
+syntactician programming	1
+structure operation	1
+rain pup	1
+linguist surface string meaning representation	1
+representation semantic sentence meaning	1
+predicate argument structure	1
+role patient	1
+surface string representation	1
+meaning representation surface string	1
+generation context model	1
+context secrecy sentence	1
+generation meaning representation	1
+object tree	1
+object formalism	1
+constraint dependency	1
+formalism mechanism structure	1
+geez sea	1
+object fragment phrase structure tree	1
+part meaning representation part	1
+phrase structure tree structure	1
+attribute matrix tree	1
+structure formalism	1
+organization location entity facility bridge building airport vehicle	1
+news domain part	1
+content extraction	1
+text protein	1
+jean disease cell organ	1
+gazetteer census	1
+domain gene protein disease drug	1
+indication entity	1
+distribution tail	1
+ambiguity entity	1
+entity reference government	1
+addition gazetteer	1
+nameless identity	1
+embedding neighboring part speech tag	1
+chunk label prefix	1
+uppercase shape neighboring	1
+sequence labeling model mercy vector	1
+uppercase symbol	1
+lowercase symbol accident	1
+digit symbol	1
+punctuation shape	1
+net shape	1
+transformer output layer model embedding	1
+character wedding	1
+bias team	1
+tm glove embedding	1
+bird context embedding	1
+cf layer	1
+top sequence prediction textbook	1
+team precision	1
+document entity	1
+entity substring acronym entity	1
+entity precision anchor	1
+machine task	1
+label confidence deck	1
+precision item anchor principle task	1
+constraint part	1
+speech tagging sentence	1
+tagger part speech tag part speech tag sequence sentence	1
+independence assumption tax sequence	1
+programming technique algorithm	1
+search tag sequence sentence sub tag sequence prefix sentence	1
+memorize solution subproblem structure	1
+tax star sentence	1
+sentence length bigram	1
+independence assumption age	1
+taxi tag sequence sub	1
+solution subproblem trailer	1
+part speech tag attack	1
+ice sentence attack	1
+subscript notation superscript	1
+position sequence	1
+human tag	1
+probability put sentence tag	1
+cell correspond task sequence	1
+ambition probability	1
+position attack green	1
+position equation	1
+starting probability emission probability	1
+independence assumption probability	1
+probability emission probability	1
+tag attack	1
+multiply transition probability	1
+tag sequence tag sentence	1
+sentence transition probability	1
+tag tagset	1
+tag sequence prefix	1
+tag quality algorithm	1
+tag tj	1
+tag position	1
+trailer cell	1
+maximum entry	1
+tag sequence sentence tag	1
+sequence role	1
+table probability tag	1
+trailer probability	1
+target probability seller trailer	1
+photo probability	1
+height tag sequence sentence	1
+admission probability	1
+trailer sentence	1
+cell avatar probability	1
+transition probability tag	1
+tea tag	1
+film maximize	1
+emission probability tag	1
+probability determiner	1
+sequence sentence cell	1
+probability transition probability cell	1
+pointer scoring cell	1
+score emission	1
+cell probability	1
+probability tag sequence tag prefix	1
+victory probability proceeding	1
+spec appointment	1
+pointer pet probability tag sequence	1
+cell noun	1
+transition probability emission probability verb	1
+verb analysis	1
+tax sequence	1
+trigram transition probability	1
+tag row trailer trigram	1
+pair tag	1
+tag rotation travel	1
+cell celebrate	1
+subset transition	1
+output sequence likelihood probability sentence	1
+estimation parameter probability	1
+sentence tax sequence	1
+algorithm likelihood	1
+estimation model	1
+algorithm probability sentence	1
+quality algorithm	1
+recurrence sentence tag probability cross	1
+trailer algorithm	1
+potato map	1
+advantage cgi	1
+resin composition	1
+constituent structure	1
+lo dependency trace subject	1
+house interface syntax	1
+logic meaning representation principle	1
+city capital compositionality	1
+city category	1
+string category	1
+raising argument	1
+role argument instantiation subject	1
+slash direction user	1
+crossing composition	1
+cd semantic	1
+entry map award	1
+pea marriage	1
+verb love mapping	1
+argument syntax	1
+semantic combinatorial syntactic	1
+reduction category	1
+interpretation risk category	1
+category derivation semantic	1
+slot predicate	1
+quantifier scope ambiguity chef	1
+meal chef	1
+category noun chef	1
+chef meal category quantifier bulk	1
+interpretation category	1
+chef cook	1
+semantic formalism	1
+variant earning team	1
+gru memory network	1
+simplification network gate	1
+gradient loss	1
+gradient paper	1
+team cell	1
+gate output gate	1
+gating mechanism activation	1
+unit simplification team gate	1
+multiplication ad	1
+sigmoid layer soap	1
+parameter clint	1
+constraint dimension	1
+probability gate	1
+sigmoid gate	1
+vector multiplication	1
+layer vector	1
+vector safety	1
+amount tea	1
+constraint amount	1
+proportion theater proportion	1
+gate blog	1
+cell vector	1
+dear vector	1
+statement cell vector	1
+sale team	1
+vanilla rn	1
+activation forget gate	1
+cell tilde	1
+output gate gnu cell	1
+gate cell gate	1
+output gate	1
+gate forget gate output gain jia	1
+cell site	1
+symbol structure	1
+update gateway	1
+ziti vector	1
+ice limit	1
+development archive paper	1
+analysis team	1
+formula analysis	1
+principle team cell	1
+cell deer	1
+recount network flavor rn steam	1
+industry lab image	1
+image captioning	1
+student professor	1
+object detector	1
+vocabulary opening vocabulary ability	1
+science fiction	1
+attention task	1
+evaluation part	1
+prescription boy	1
+football boy uniform	1
+description emerge	1
+beach image	1
+guy description	1
+photo album	1
+kid description	1
+image illustration roughness game	1
+entity event	1
+image description model	1
+photo sharing site	1
+image tag	1
+scene audience	1
+audience notion maxim	1
+description wild caption	1
+object detection	1
+image description task	1
+generation image	1
+generation fluency correctness aspect image description	1
+pool sentence image	1
+pool capture image	1
+top evaluation	1
+capture pool image	1
+converse pool caption	1
+image cousin	1
+image ranking	1
+generation model	1
+style model description	1
+distance image	1
+mapping image map caption	1
+cross model ranking	1
+item modality	1
+affinity probability	1
+generation image description	1
+energy technique	1
+image representation	1
+generation part	1
+technique kernel correlation analysis witch	1
+cosine image	1
+behavior model task student phd	1
+task image	1
+caption image	1
+sentence top	1
+distractor caption	1
+task model score image sentence pair	1
+task sentence score image	1
+task mistake model	1
+battery task	1
+distractor item	1
+item task	1
+aspect image description	1
+model art	1
+task gram model smoothing	1
+unigram model background model image	1
+sentence valuation metric	1
+email metric generation	1
+anger overlap metric weakness model	1
+reference caption	1
+bounding box entity caption	1
+entity bounding box	1
+entity grounding task	1
+bonding box image	1
+description scene	1
+description scene tournament	1
+finger tenor subway	1
+shaving mirror	1
+tongue face inference	1
+text image	1
+machine translation source sentence target translation	1
+translation model probability source target model	1
+advantage translation	1
+target translation model e	1
+target source alignment	1
+phrase alignment phrase machine translation model	1
+pool part	1
+source sentence f	1
+alignment source target	1
+source probability	1
+machine translation correspondence reordering	1
+alignment slap	1
+model assumption alignment	1
+model alignment assumption target	1
+source swam source fight target assumption	1
+probability source target	1
+source target source	1
+target swam	1
+token target	1
+target null token	1
+sweat alignment table	1
+vector position source	1
+position target sentence	1
+position lack	1
+source hardware	1
+alignment vector length source sentence	1
+ice source	1
+token target part	1
+battle bottom	1
+programming technique	1
+substring table	1
+table chart	1
+constituent substring complexity algorithm cu sentence length	1
+terminal skit	1
+symbol terminal	1
+foot cfg	1
+branching tree flattery	1
+strap grammar context grammar	1
+grammar seed defragment	1
+sentence chart	1
+correspond diagonal	1
+correspond sequence	1
+weed cell	1
+part entry pair	1
+pointer child	1
+triangular matrix sentence cell	1
+ice sentence	1
+corner chart cell	1
+split string split	1
+chart pair	1
+pointer chat	1
+pause tree	1
+symbol grammar	1
+role parallel	1
+drink milk drink	1
+noun phrase grammar	1
+chart cell	1
+entry terminal grammar	1
+verb phrase verb eat sushi	1
+phrase tuner	1
+cause sentence	1
+verb phrase entry cell	1
+complexity grammar	1
+representation verb phrase substring	1
+complexity algorithm	1
+operation pair cell eat	1
+cell operation	1
+part speech tag toy	1
+part speech tag part speech tag terminal	1
+noun snow fold	1
+loop guy	1
+pair cell	1
+pair cell entry pair	1
+pulse tree	1
+paper exercise	1
+policy sentence	1
+vpn tree pair pointer	1
+terminal tree diagonal	1
+vpn tree pair	1
+part pseudocode	1
+leisure cell	1
+overview technique	1
+web model	1
+network overview	1
+net activation	1
+activation instance	1
+variant model	1
+model press	1
+engram model	1
+layer depth network	1
+neural network	1
+performance gain	1
+intelligence umbrella	1
+processing unit	1
+learning bandwagon vision	1
+vector text consist length sequence	1
+net model	1
+net pee	1
+concatenation vector	1
+output layer softmax	1
+vector vocabulary	1
+output embedding	1
+vocabulary architecture district	1
+layer concatenation vector	1
+layer weight	1
+layer output layer bias parameter	1
+age dimensionality age	1
+output layer parameter	1
+model dimensionality	1
+storage facility bottle	1
+interaction context	1
+rock assumption	1
+embedding model	1
+theater embedding	1
+nurse embedding	1
+sea embedding	1
+etc probability	1
+interpolation smoothing probability	1
+embedding caveat	1
+generalization position	1
+gram model shortcoming gram model	1
+assumption independence assumption	1
+model denser embedding	1
+model embedding	1
+generalization context advantage	1
+network layer	1
+network model	1
+structure top unit layer	1
+network parameter	1
+parameter arrow	1
+unit layout	1
+structure architecture	1
+architecture image	1
+layer perception	1
+inspiration architecture	1
+layer neuron	1
+parameter sharing neuron layer weight trick parameter	1
+lp toy	1
+eva matrix pixel	1
+matrix image	1
+operation convolution	1
+filter patch	1
+soul image	1
+filter parameter layer	1
+filter image	1
+convolution layer	1
+padding layer	1
+abcdefg layer	1
+depth network	1
+toy image	1
+output image	1
+padding top	1
+patch top	1
+output habit parameter	1
+image color channel model	1
+rgb model	1
+pixel triplet	1
+intensity color	1
+generalization matrix dimensionality depth image	1
+filter image patch	1
+sea region	1
+weight parameter	1
+weight chat color channel	1
+weight layer	1
+channel color	1
+layer channel	1
+operation family operation	1
+pair layer	1
+pooling operation	1
+layer tensor depth	1
+pooling min	1
+unit nail	1
+depth channel	1
+pixel color image	1
+color channel	1
+layer tensor	1
+depth filter output filter soda region filter	1
+padding width	1
+height output unit convolution layer	1
+layer unit depth weight	1
+convolution layer activation ice	1
+developer image text classification text length sequence	1
+color dimensionality vector	1
+gram trigram	1
+engram text	1
+text classification length sequence vector channel	1
+depth dimensionality vector	1
+padding grade	1
+vector beginning	1
+vector window engram filter	1
+length depth	1
+vector tensor	1
+width image	1
+text length depth	1
+tensor matrix	1
+sigmoid layer classification output	1
+text classification paper	1
+filter output	1
+engram layer position fielder	1
+analysis filter	1
+reading paper reading station	1
+book chapter	1
+learning book	1
+vision audience	1
+alter blog visualization parameter love	1
+layer school	1
+knowledge database	1
+database query	1
+collection document text span document competition	1
+document text fan document	1
+comprehension ability	1
+answering task knowledge domain document exam	1
+knowledge domain	1
+background resource	1
+chapter textbook	1
+user text snippet collection document search engine	1
+factoid snippet	1
+partnership currency	1
+query formulation detection	1
+population capital population	1
+query expansion pub synonym	1
+city capital	1
+odd setup	1
+location country city	1
+verb city	1
+capital city	1
+subtype entity poop animal	1
+body part	1
+suite human	1
+moon description string	1
+location king city	1
+temperature speed weight	1
+entity human location description	1
+retrieval part	1
+document snippet	1
+document engine	1
+passage paragraph document	1
+filtering stage	1
+passage document stage	1
+entity extraction	1
+visa neural	1
+sequence table	1
+bio formulation	1
+span document span	1
+item fan	1
+insert position rack	1
+position pool	1
+rank position	1
+rescue protocol rank	1
+pool event	1
+reading comprehension	1
+comprehension school child	1
+lp span extraction assumption	1
+sub string document task	1
+friend span extraction scenario dataset	1
+span paragraph	1
+paragraph span document	1
+brother span	1
+leader board	1
+dancing release love crowd sourcing effort	1
+span extraction	1
+bias architecture	1
+passage team	1
+path passage	1
+position passage pie rector	1
+survive qq vector	1
+relevance weight vector	1
+passage token passage embedding	1
+part speech tag label flag	1
+turtle embedding	1
+itms folder vector	1
+position span position	1
+train transformer model	1
+bird task bird	1
+embedding green representation token	1
+user formulation	1
+position transformer model	1
+transformer sequence	1
+staff position span	1
+position despair	1
+retrieval seat	1
+text valuating	1
+development dataset reasoning	1
+hop knowledge task image	1
+science exam bed task	1
+grade science exam	1
+exam equipment mixture iron filing	1
+background knowledge	1
+textbook reasoning capability textbook magnet	1
+mixture iron filing	1
+pepper iron filing	1
+pepper paper	1
+morphology structure	1
+scientist alphabet symbol	1
+string omega sequence	1
+string reckon	1
+symbol star	1
+alphabet string	1
+subset star string star	1
+subset automata	1
+model string symbol	1
+string automaton	1
+automata finite	1
+fantasy automata	1
+consist finite	1
+stick string	1
+toy recognition string dfa	1
+length symbol fantasy	1
+pattern character	1
+expression programming character	1
+pattern expression	1
+repetition cleaning star	1
+destruction beginning alignment book	1
+expression skill morphology	1
+grace stem	1
+stem abbreviation string	1
+prefix stem	1
+prefix tablet suffix automata	1
+union automata	1
+morphology wander noun fossil	1
+verb padding eye	1
+height request minimum	1
+minimization minimize	1
+noun nation noun morpheme	1
+adjective additive	1
+morpheme nature	1
+structure fragment	1
+automata machinery	1
+user task travel arrangement routing customer support tutoring	1
+dialogue travel domain	1
+tutoring dialogue	1
+object proximity	1
+elevator release	1
+conversation dialogue art travel domain	1
+trip ear	1
+architecture dialogue component	1
+spoken dialogue	1
+speech transcriber	1
+signal text speech synthesis	1
+infinite utterance	1
+dialogue manager	1
+task manager dialogue manager architecture	1
+structure dialogue	1
+task manager	1
+text speech module task dialogue slot filling dialogue task	1
+plane ticket task frame slot	1
+knowledge domain task	1
+domain ontology structure	1
+knowledge intention task	1
+guy frame	1
+user travel domain origin destination departure date departure airline	1
+finite dialogue manager	1
+dialogue structure finite diagram city	1
+etc initiative user initiative	1
+user utterance frame	1
+morning flight	1
+flight booking	1
+slot flight	1
+user morning flight	1
+initiative dialogue	1
+dialogue user initiative user proposal	1
+clarification suggestion	1
+agent dialogue	1
+model interpretation	1
+generation speech accent grounding	1
+representation dialogue context	1
+frame dialogue architecture star	1
+dialog tracker dialogue policy component	1
+policy component	1
+dialogue label	1
+indicator utterance content	1
+travel dialogue	1
+slot dialogue	1
+domain slot dialogue slot	1
+slot database dialogue entity restaurant database	1
+table restaurant	1
+constraint user specifie	1
+restaurant domain restaurant cuisine price rating	1
+assault attribute restaurant	1
+slot attribute	1
+slot user	1
+restaurant phone paper overview dialogue tracking	1
+dialogue user	1
+restaurant user	1
+user food downtown food tie center	1
+house food user	1
+user utterance	1
+label inform	1
+sequence utterance	1
+museum vicinity museum	1
+slot filler constraint	1
+dialogue utterance slot	1
+dialogue policy	1
+dialogue history	1
+confidence speech recognizer	1
+confirmation strategy	1
+realization dialogue	1
+restaurant neighborhood	1
+restaurant metallic	1
+utterance slot	1
+model surface realization	1
+restaurant utterance	1
+instance restaurant	1
+slot neighborhood	1
+cuisine slot label cuisine	1
+neighborhood cuisine	1
+grounding assurance	1
+mapping entrance	1
+robot communication	1
+image grounding	1
+device robot self car	1
+part speech meaning	1
+chapter edition	1
+edit distance chapter	1
+concept distinction	1
+lever token	1
+implication law heart coverage core challenge	1
+machine translation source sentence translation target	1
+style target translation probability target sentence source sentence	1
+simplifie modeling task	1
+channel model	1
+target formula	1
+sentence assumption string target	1
+target string	1
+corruption target string tia curd	1
+target decoder	1
+sentence deity	1
+weather source sentence	1
+grammatical sentence target	1
+part fluency aspect	1
+advantage fluency	1
+pair sentence translation model	1
+source alignment	1
+phrase alignment phrase translation model	1
+incidence expectation maximization	1
+connection alignment model	1
+attention secrecy qual	1
+model translation	1
+model context virtualization	1
+translation quality	1
+gram model authorization quality	1
+fold performance	1
+amount model	1
+translation probability model	1
+phase string	1
+debate entity	1
+debate quality translation	1
+movie subtitle	1
+translation model fertitta	1
+align sentence	1
+part category grammar	1
+category grammar family formalism	1
+variant machinery	1
+lexecon specifie category	1
+pool story	1
+parenthesis bracket	1
+category actor	1
+category verb phrase	1
+noun phrase sentence	1
+verb aspect	1
+noun phrase aspect	1
+verb phrase category	1
+fraction multiplying fraction	1
+backslash np	1
+tapa topper	1
+tapa sentence	1
+variant category grammar	1
+combinatory categorial grammar derivation sensor derivation	1
+proof notation	1
+jaune aspect	1
+child aspect	1
+bro schema composition	1
+category aspect	1
+object argument aspect	1
+verb phrase category backslash	1
+composition fraction slash direction	1
+vote argument	1
+resident sentence	1
+object constituent context grammar	1
+subject marry	1
+object constituent	1
+coordination construction node raising	1
+coordination assumption	1
+correspond sentence	1
+sentence object	1
+foot grammar coordination	1
+flavor overview formalism part structure grammar	1
+web semantic	1
+database sentence	1
+blame predicate	1
+role e	1
+role frame organizer	1
+frame predicate eye verb	1
+role sentence position	1
+scale frame	1
+frame item	1
+item position	1
+core role duration	1
+frame contrast proposition sentence	1
+edition yesterday	1
+temp row label	1
+role iframe	1
+frame annotation	1
+dog verb interpretation	1
+doubt role	1
+modifier game	1
+annotation frame	1
+core argument pedia proposition entity	1
+argument patient	1
+starting sale	1
+junk bond amount role	1
+core role	1
+involvement event	1
+participant descent	1
+position participant	1
+movement arg	1
+movement participant	1
+roll game	1
+tag treebank	1
+meat drawer	1
+predicate meat	1
+role labeling task	1
+predicate sentence argument predicate	1
+role representation history	1
+dictionary verb frame	1
+parser phrase structure parser	1
+constituent bracketing	1
+label role	1
+relation predicate	1
+bunch dependency	1
+structure tree	1
+path tree	1
+phrase noun phrase parent feed	1
+child subject verb	1
+vpn np object	1
+model path	1
+span argument sequence labeling	1
+context part speech tagging extraction	1
+phrase machine translation phrase model	1
+phrase source phrase	1
+source phrase	1
+phrase translation probability phrase table	1
+phrase translation	1
+probability model probability sentence phrase	1
+sentence e	1
+model probability sentence	1
+sentence phrase	1
+distortion probability translation probability	1
+target phrase source sentence	1
+scoring translation	1
+stack decoder	1
+star search	1
+corresponding translation	1
+translation school	1
+translation plus	1
+yellow box	1
+translation athlete	1
+inequality stack	1
+priority queue	1
+translation hypothesis	1
+hypothesis translation	1
+continuation hypothesis	1
+algorithm translation	1
+node continuation calculation	1
+equation star	1
+label vector	1
+argmax part	1
+probability label probability	1
+probability absence email spam	1
+probability likelihood	1
+argmax computation	1
+fraction document training notation	1
+document training label	1
+farm probability spammer	1
+independence assumption probability vector thread	1
+probability ice	1
+fraction item training	1
+likelihood probability	1
+fraction document	1
+baye text classification probability vector multinomial	1
+document vector frequency	1
+banana coffee drink	1
+document fish	1
+occurrence banana	1
+occurrence coffee	1
+occurrence eat	1
+occurrence fish representation	1
+vocabulary probability	1
+frequency document	1
+distribution probability	1
+probability vector dice expression	1
+six probability sequence	1
+sequence probability boss five	1
+probability disease appeal	1
+die frequency	1
+probability zips law	1
+unigram probability document	1
+sequence expression	1
+occurrence fish	1
+model classification	1
+probability vector label	1
+probability frequency	1
+multiply unigram probability token notation exponentiation	1
+estimation human	1
+core task	1
+nlp model algorithm representation	1
+concept phenomenon	1
+meaning unit	1
+text consist sentence conversation	1
+signal processing	1
+audio skill	1
+analysis understanding part	1
+generation reproduction	1
+concept model	1
+grammar automata	1
+representation task learning	1
+inference algorithm	1
+modeling technique	1
+background machine	1
+background machine learning	1
+understanding carnival technology	1
+software dataset	1
+research paper syllabus	1
+mouse reading	1
+text book	1
+processing url	1
+chapter update	1
+lp playlist	1
+dependency housing part dependency grammar linguistic part	1
+model dependency parsing dependency part	1
+item arrow	1
+dependency relation	1
+food bank	1
+modifier dependency	1
+relation route sentence verb dependency parsing	1
+dependency pausing domain	1
+country dependency treebank dozen annotation part dependency grammar dependency component grammar formalism dependency grammar assumption	1
+context phrase structure grammar variant	1
+award grammar	1
+context face structure	1
+model context grammar	1
+automata grammar	1
+structure representation dependency parser dependency tree dependency graph sentence graph	1
+soda loop	1
+constraint node	1
+tree sentence	1
+argument event	1
+constituent construction	1
+argument sushi	1
+terminal preposition	1
+content sushi	1
+determiner analysis	1
+dependency tree assumption	1
+dependency tree vendor convention	1
+tree representation dependency grammar construction	1
+treebank convention	1
+tree bank convention	1
+construction divergence annotation	1
+phrase sushi	1
+noun dependency	1
+proposition industry dependency	1
+noun phrase eat sushi	1
+dependency analysis construction	1
+feedback annotation nation	1
+verb coordination	1
+argument object cell	1
+dependency tree necessity dependency	1
+construction representation construction	1
+clause cat	1
+dependency cat	1
+dependency construction coordination	1
+clause assumption parent	1
+context grammar dependency	1
+context dependency	1
+face structure tree	1
+context grammar dependency assumption	1
+service verb gift dependence	1
+bus trip adjective	1
+constituent terminal	1
+hedgehog heavy terminal toy artist speech tag	1
+headboard peer	1
+tree linguist	1
+projection sentence	1
+headword constituent	1
+sentence cfg	1
+child vp	1
+spine tree sentence annotation grammar	1
+projection tree	1
+mp sushi	1
+cross dependency	1
+pc label beginning deck	1
+context phrase structure tree	1
+dependency tree fashion algorithm	1
+tree defence	1
+dependency tree crossing branch construction	1
+egg position	1
+sentence cheeseburger defensive cheeseburger	1
+thought dependency tree	1
+context grammar dependency treebank	1
+coreference resolution	1
+discourse coreference chain	1
+entity dimension	1
+resolution pronoun resolution	1
+pronoun context	1
+follicle story	1
+sentence occurrence	1
+pair noun phrase pair entity context	1
+classifier weather antecedent	1
+phrase antecedent	1
+classifier card	1
+antecedent entity	1
+model coreference resolution	1
+headword entity r entity recognition	1
+role subject object gender food	1
+pronoun noun phrase	1
+embedding neural	1
+down noun	1
+acronym resource net	1
+similarity embedding	1
+amp noun phrase	1
+chairman board chairman board	1
+noun phrase maintenance	1
+distance sentence clause	1
+representation span	1
+vector span	1
+direction representation	1
+span length	1
+dimension score	1
+antecedent score span pair	1
+span antecedent span	1
+pair span	1
+score invention score	1
+score discourse entity score epsilon	1
+span representation embedding	1
+embedding span length span vector representation	1
+scoring score entity	1
+classifier vector representation span	1
+resolution score coreference chain	1
+core chain	1
+chain score cubed precision vehicle	1
+score precision school	1
+con score	1
+detection co reference resolution span	1
+phenomenon coreference resolution	1
+attachment knowledge	1
+inference competition	1
+research phenomenon knowledge	1
+vinaigrette schema challenge	1
+stereotype tion	1
+crash father	1
+hospital surgeon patient	1
+default father	1
+sex plausibility interpretation surgeon	1
+mother boy	1
+variant schema	1
+sequence labeling entropy task	1
+part speech tagging sentence	1
+task photo speech tag sentence	1
+representation treebank task noun phrase	1
+sentence task	1
+noun phrase tax	1
+phrase truck	1
+face chunk	1
+bio encoding	1
+tag beginning noun phrase chunk	1
+office trunk	1
+chunk bracketing sentence	1
+sentence opening bracket	1
+distinction beginning	1
+analysis addition	1
+noun phrase verb phrase	1
+pm np	1
+preposition chunk cause	1
+tag trunk	1
+outside sequence labeling task	1
+pausing entity recognition sentence	1
+tag entity	1
+sequence interaction	1
+output sequence label	1
+part speech tagging sequence labeling	1
+addition sequence labeling	1
+task sequence labeling	1
+task identification	1
+text band sequence labeling algorithm	1
+transformer label output layer	1
+logistic regression	1
+label ice	1
+subscript notation label inventory	1
+tag attire	1
+rf layer output	1
+safe part	1
+part entity recognition part	1
+dependency tree bang	1
+dependency annotation dependency treebank	1
+part transducer	1
+structure district	1
+structure machine map	1
+transduce string server output string	1
+probability posterior	1
+appeal probability label	1
+spam detection fraction email spam probability email spam	1
+probability likelihood hydrogen probability	1
+notion machine learning vector	1
+domain expertise	1
+label item fight	1
+label sample pic item	1
+regression classification	1
+valuation metric	1
+addition accuracy precision measure percentage item label	1
+vehicle opposite percentage item label task label	1
+recall precision	1
+label gold	1
+recovery phrase structure tree	1
+variant span constituent label beginning	1
+precision vehicle span node	1
+site label constituent	1
+vehicle node	1
+node tree sushi	1
+sushi chopstick analysis	1
+face office	1
+zoom office	1
+email platform	1
+piazza discussion	1
+medium channel	1
+friday zoom	1
+linguistic setting	1
+disclaimer experiment office session	1
+activity privacy medium channel	1
+chapter pdfs	1
+discussion office	1
+linearity part	1
+tank quiz credit	1
+literature review quiz	1
+programming assignment programming assignment	1
+part quiz experiment	1
+solution deadline	1
+assignment grade	1
+village exemption	1
+date programming assignment	1
+status update report	1
+knowledge lp	1
+literature survey paper	1
+report critique	1
+paper depth	1
+qualifying exam	1
+percent grade	1
+quiz percent grade	1
+assignment programming assignment	1
+student assignment undergrad performance	1
+phd student	1
+credit research	1
+literature survey	1
+source credit	1
+disability accommodation	1
+dress accommodation	1
+disability service	1
+accommodation dread	1
+part image description	1
+ability inference task recognition	1
+ability image sentence template	1
+speaker conversation	1
+dialogue instruction giving	1
+following fun textbook	1
+inference grounding	1
+ground speaker	1
+ability aspect	1
+image scene	1
+sitting desk	1
+aisle shelf	1
+bunch image	1
+shopping scene pharmacist	1
+supermarket task inscription	1
+ability conversation	1
+ability instruction	1
+bed understanding generation	1
+part challenge task	1
+ado introduction part	1
+part chat bot chat bot	1
+dialogue chat bot	1
+chit chat	1
+therapy dialogue task customer service request	1
+travel reservation	1
+therapist family mother	1
+finite transducer cascade	1
+experience court	1
+dialogue user utterance	1
+corpus utterance	1
+utterance dialogue	1
+model friend	1
+beam search sacrament training objective teacher	1
+probability token reinforcement learning	1
+conversation utterance	1
+lp dream science fiction	1
+guy movie odyssey	1
+clip scene	1
+phrase door	1
+scene student	1
+conversation capability	1
+lip helmet	1
+response reasoning	1
+emergency airlock helmet	1
+helmet reasoning	1
+father resemblance	1
+heart chat bot	1
+cascade transducer	1
+response knowledge reasoning	1
+headline machine	1
+eye texture	1
+child pain headline	1
+part conversation	1
+child guy	1
+body screenshot	1
+being eye	1
+chat board million user	1
+tv machine translation url	1
+produce text	1
+band text	1
+tech review	1
+provider location	1
+trend model	1
+excitement report direction	1
+adult pee	1
+speech interface search retrieval database image search image description dialogue fade	1
+customer service robot tutoring education decade extraction summarization translation	1
+knowledge text meaning knowledge	1
+convenience grammar	1
+style checking email	1
+auto grading	1
+opi task	1
+entity event relation entity relation event relation entity	1
+text representation meaning	1
+clause text	1
+command task	1
+database entry	1
+text flu	1
+dialogue context	1
+utterance response context	1
+article newspaper article	1
+probability string probability	1
+uni gram	1
+sentence beginning sentence token	1
+sentence engram model	1
+bond distribution	1
+string length sentence trick	1
+string leg	1
+measure model	1
+model interest speech recognizer model	1
+overview part	1
+classification task machine learning part	1
+depth chapter edition giraffe	1
+sentiment analysis	1
+classification secrete classification	1
+learning understanding	1
+importance engineering	1
+machine learning classification	1
+ado intro	1
+context grammar fragment	1
+noun phrase pronoun	1
+determinism noun	1
+phrase pee	1
+category noun adjective	1
+determiner pronoun	1
+phrase additive	1
+consist preposition noun phrase	1
+frame pose	1
+recursion finger pov	1
+verb argument	1
+modifyer verb phrase	1
+agreement subject	1
+travel category	1
+explosion grammar	1
+tense girl	1
+consist auxiliary	1
+aspect eating	1
+verb phrase village participle	1
+verb sentence argument sentence argument compliment	1
+heat sushi	1
+heat sushi linguist	1
+noun phrase verb phrase verb	1
+noun phrase girl	1
+trouble ski junction	1
+clause sentence	1
+clause subject	1
+clause object sushi girl	1
+object np	1
+pronoun fault dash np	1
+attention category	1
+verb subject	1
+title verb phrase	1
+sushi son	1
+overview construction	1
+grammar fragmente	1
+complexity office attack	1
+discourse relation discourse	1
+car spinach	1
+explanation hit bill car	1
+spinach relation	1
+car relation	1
+utterance sentence clause paragraph discourse coherent oracle structure theory treebank	1
+structure theory relation	1
+event cause	1
+relation explanation relation reader	1
+event explanation	1
+structure theory	1
+relation utterance	1
+evidence elaboration contrast distance variant relation	1
+satellite flight coordination	1
+argument nucleus satellite	1
+belief reader writer	1
+disco structure	1
+hotel announcement	1
+hotel announcement opening circumstance hundred	1
+police traffic	1
+force align	1
+message claim	1
+task paycheck	1
+thousand snake	1
+lack phone	1
+exception concession	1
+exception laziness sentence	1
+evidence relation	1
+reputation claim	1
+scheme pain bank	1
+tree bank adult	1
+discourse connective	1
+argument firm	1
+connective collective argument	1
+banner user asbestos user cancer	1
+span independence costume	1
+argument clause	1
+position agenda	1
+comparison contrast removal	1
+barrier investment contrast	1
+barrier expansion conjunction	1
+odd addition	1
+contingency comparison expansion	1
+president succession subtype	1
+contingency soda	1
+connective comparison contrast	1
+contrast concession	1
+concession expansion exception association restatement	1
+alternative conjunction disjunction	1
+destructor connective	1
+fan argument	1
+textbook chapter	1
+aspect coherence	1
+coherence document essay	1
+art gallery understanding art internet climb	1
+art gallery	1
+description background history	1
+author artwork	1
+structure art	1
+claim output	1
+eye artwork	1
+art gallery understanding art	1
+argumentation mining	1
+part introduction	1
+paragraph body	1
+argumentation relation support	1
+attack premise	1
+premise support claim	1
+attack claim	1
+structure document	1
+paper role	1
+argumentation paper	1
+statement research	1
+hypothesis car	1
+paper aim	1
+part contribution	1
+label gap weakness	1
+lack solution	1
+conclusion anti	1
+challenge claim	1
+label paper	1
+contribution sentence argument paper	1
+sentence category	1
+label indication	1
+introduction coherence	1
+summarization generation	1
+argument verb argument subject object compliment sentence service argument	1
+noun adverb	1
+modifier noun phrase	1
+pea argument	1
+modifier modifyer	1
+modifier adverb	1
+grammar capture	1
+graph tree dependency	1
+construction center	1
+dependency swim	1
+dependency graphs	1
+edge dependency	1
+tree crossing branch construction cross	1
+dependency pattern	1
+context grammar crossing	1
+sentence clause	1
+pizza front sentence	1
+position guy	1
+sun business	1
+hat guy construction	1
+front sentence	1
+node dependency	1
+clause yesterday object soul	1
+cond context grammar	1
+argument object	1
+construction wh extraction	1
+clause sushi	1
+sushi object eat	1
+object eat	1
+structure syntax tree sentence bracket	1
+noun phrase sushi	1
+linguist phenomenon wh extraction	1
+child skin syntax movement	1
+linguistic construction	1
+overview phrase structure tree sushi	1
+style trump skin analysis extraction analysis trace	1
+user trick trace	1
+event tree	1
+terminal slash	1
+multiply phrase	1
+finite category slash	1
+context grammar part tree	1
+parameter probability label item training	1
+item xi pill	1
+training probability	1
+label parameter	1
+probability item label	1
+wire probability	1
+item probability	1
+parameter label	1
+pause item	1
+item blog weather label probability label	1
+optimization loss minimization	1
+training parameter model	1
+probability model training	1
+parameter estimation	1
+loss minimization	1
+parameter model parameter loss	1
+training loss	1
+loss model	1
+loss capture	1
+estimation technique	1
+probability label training	1
+drawing probability	1
+likelihood probability label	1
+maximization minimalization	1
+probability model label	1
+probability top	1
+model probability label	1
+egg model	1
+probability label probability label model	1
+loss probability	1
+loss classifier loss	1
+notion loss surface parameter setting instantiation foot weight	1
+dimension landscape	1
+correspond vector	1
+height correspond loss classifier	1
+training weight	1
+parameter division	1
+axis loss classifier	1
+correspond parameter	1
+minimum landscape	1
+minimum surface	1
+staff eater	1
+learning producer slope landscape ad gradient loss vector	1
+slope landscape county ad	1
+parameter gradient	1
+descent landscape	1
+minimum model	1
+optimization landscape bump	1
+minima home	1
+loss training	1
+direction intuition	1
+sample training	1
+tee training	1
+parameter algorithm	1
+regression notation	1
+grade loss	1
+label times eye training model	1
+option learning	1
+intuition item landscape	1
+scheme optimizer	1
+learning variant	1
+bridge team	1
+vanilla std	1
+batch textbook regularization	1
+mechanism weight	1
+part syntax	1
+frequency estimation	1
+programming algorithm task sentence	1
+analysis context	1
+representation context grammar dependency	1
+unification grammar	1
+representation fantasy	1
+scoring probability model	1
+context grammar score representation sentence	1
+algorithm interpretation	1
+sentence ambiguity	1
+dependency part context grammar	1
+algorithms algorithm	1
+algorithm pc egg	1
+chapter skin grammar	1
+book style	1
+style book	1
+formalism syntactician programming	1
+implementation formalism history linguistic grammar	1
+review sentence structure	1
+predicate sentence	1
+gift sushi sentence	1
+subcategorization violation subcategorization	1
+argument verb argument	1
+verb sleep subject	1
+sushi preference violation preference	1
+object drink liquid violation	1
+sub categorisation	1
+finite sentence automaton	1
+adjective modify noun modifier	1
+adjunct award	1
+loop attitude	1
+ball garden	1
+bowl garden house ball garden house school	1
+elephant pajama elephant pajama	1
+pajama attachment ambiguity	1
+pajama attache	1
+string structure	1
+theory string	1
+capacity linguistic	1
+capacity string structure	1
+sentence consist	1
+tuna sentence structure	1
+structure phrase structure tree	1
+verb sushi tuna noun phrase	1
+interpretation deed visit sushi chopstick dependency grammar	1
+acyclic graph nose graph edge graph	1
+object edge label	1
+dependency graph tree	1
+sentence dependency grammar	1
+phrase structure tree dependency grammar dependency graph	1
+part speech tag part speech tag	1
+distinction tag noun	1
+noun dog	1
+article singular dog bark	1
+noun snow	1
+article singular snow	1
+mass noun	1
+node gold	1
+silver metal	1
+noun radar organization	1
+tag ounce	1
+suburb activity	1
+event eat	1
+pantry bag tag	1
+verb participle	1
+adjective additive entity color	1
+predicate book	1
+adverb event	1
+manner adverb degree adverb	1
+adverb yesterday	1
+noun disagreement	1
+adverb analogy	1
+adjective addition	1
+verb predicate student	1
+pantry event	1
+preposition relation entity	1
+noun verb	1
+coffee milk	1
+coffee friend	1
+part speech tag preposition	1
+clause snow	1
+pantry distinguishe coordinating	1
+part speech tag preposition particle	1
+verb tag	1
+rp particle	1
+speech tag particle	1
+preposition ambiguity	1
+pronoun circle site	1
+clause book	1
+article ad	1
+pronoun book	1
+quantifier book	1
+bank tag	1
+distinction excursion linguistic	1
+model part speech tagging	1
+finite nonterminal terminal	1
+terminal string nonterminal	1
+symbol terminal sentence	1
+phrase structure tree cfg	1
+phrase structure tree grammar sentence	1
+sushi tuna terminal	1
+noun phrase preposition estimate sentence	1
+verb phrase leaf node	1
+substring sentence	1
+occurrence mps constituent	1
+tuna constituent	1
+symbol grammar jeez capture recursion	1
+constituent recursion	1
+complex garden	1
+behave house	1
+equivalence constituent	1
+noun part speech tag	1
+automaton stack	1
+attention superscript	1
+color bee color	1
+foray bee	1
+sentence part constituent string constituent grammar	1
+terminal substring linguist	1
+movement constituent	1
+sentence modifyer	1
+guideline linguist	1
+relation constituent	1
+noun phrase noun phrase	1
+glass father	1
+distinction preposition	1
+verb phrase verb	1
+linguistic grain salt	1
+phrase oversimplification phrase	1
+tea predicate	1
+construction part	1
+adjunct hayden	1
+argument adult distinction cut	1
+verb steak subject	1
+argument frame argument sentence	1
+object adjunct	1
+adjunct adverb	1
+adjective dawn	1
+gym book	1
+summer yesterday	1
+yesterday town yesterday town lunch	1
+yesterday town lunch	1
+distinguishe argument	1
+principle grammar	1
+constraint aim	1
+linguistic bar theory	1
+lie heart	1
+phrase structure tree grammar	1
+verb phrase noun	1
+role argument category	1
+verb argument verb capture argument	1
+adjunct character adult	1
+category parent	1
+recursion grammar cfg	1
+sentence mouse	1
+mouse snake	1
+cfg sentence	1
+clause noun phrase	1
+noun coordinate	1
+constituent noun phrase	1
+mouse snake corn	1
+discrepancy grammar	1
+speaker competency	1
+memory limitation	1
+stack excursion linguistic part	1
+cfg fragment part introduction	1
+linguist discourse	1
+construction chimney	1
+structure house	1
+cohesion sentence embedding	1
+coherence train	1
+spirit train ride	1
+entity storage piano living room piano	1
+living room	1
+entity fade	1
+living room living room	1
+structure disk	1
+genre document	1
+story arc character	1
+dinner reservation	1
+algorithm parse tree sentence trump	1
+pc egg role probability	1
+algorithm tree pcf	1
+algorithm shortcoming	1
+context grammar vent	1
+correspond substring length diagonal	1
+correspond substring	1
+trigram gram	1
+chart substring	1
+split string	1
+cell row	1
+bottom chart	1
+algorithm parse tree sentence	1
+trump traffic	1
+role sex terminal	1
+window user terminal	1
+triangular matrix cell	1
+subtree cell	1
+pair child terminal complexity	1
+discriminative model	1
+label item	1
+notation probability model graph	1
+automaton semantic node distribution	1
+arrow node dependency	1
+node white node	1
+node argmax classification	1
+distinction event discriminative model	1
+model task classification	1
+probability distribution label xi distribution	1
+multiplie probability	1
+bunch probability	1
+sigmoid signal vex sigmoid	1
+probability lie	1
+probability tail	1
+coin flip parameter	1
+classification item	1
+probability vital vector	1
+eye vector classification task	1
+vector weight vector weight dimensionality	1
+vector android vector weight	1
+regression bias	1
+weight vector empire	1
+regression sigmoid	1
+bunch distribution	1
+distribution aggression	1
+bias parameter	1
+weight bias	1
+ex terminology softmax	1
+vector rail	1
+sentiment analysis lexicon	1
+output classifier machine learning	1
+classifier task	1
+output model	1
+apple zillion zebra	1
+template pair	1
+experimentation ablation	1
+sentiment analysis bigram	1
+sentiment analysis part	1
+entity race coherence	1
+theory discourse	1
+music piano storage	1
+entity thought	1
+entity influence discourse inside	1
+theory entity coherence	1
+discourse entity coherent	1
+visitor discourse segment coherence	1
+algorithm assumption	1
+insight algorithm	1
+association assumption	1
+theory textbook	1
+pronoun resolution algorithm edition textbook	1
+theory utterance sequence sentence	1
+clause discourse	1
+utterance center	1
+object utterance	1
+assumption utterance discourse entity	1
+discourse entity	1
+salience position	1
+entity attention	1
+dimension entity	1
+center utterance entity utterance	1
+salience utterance	1
+assumption subject	1
+theory prediction pronoun	1
+utterance entity utterance	1
+utterance entity document pronoun utterance	1
+pronoun story	1
+consent utterance	1
+center opener	1
+center entity	1
+backlog dog	1
+medium profile theory prediction transition sentence	1
+back outlook	1
+center utterance dog	1
+setting su	1
+coherence prediction	1
+transition ruler constraint	1
+center shifting	1
+center continuation	1
+backward center	1
+continuation retention	1
+discourse intro	1
+feeling model	1
+understanding core task dataset	1
+depth pilot	1
+algorithm representation	1
+intuition model	1
+hole nlp	1
+understanding concept	1
+meaning sentence text conversation	1
+fundamental foundation	1
+interpretation structure	1
+generation text context	1
+misunderstood audience	1
+coverage nose	1
+zip law selector	1
+learning weight	1
+dataset training	1
+amount problematic	1
+medium convention vocabulary	1
+paper register	1
+understanding chat teenager dialect	1
+service register	1
+medium variety	1
+text mistake	1
+newspaper style	1
+learning annotation	1
+rotation scheme	1
+label structure	1
+curve structure	1
+reference task representation	1
+span entity	1
+annotation style annotation	1
+nlp task	1
+representation payoff	1
+annotation chicken	1
+learning nlp	1
+bounding box vision	1
+inference containment recognition	1
+task instruction	1
+ability text paragraph	1
+olympic gold medal	1
+gold medal	1
+text inference	1
+reference pronoun	1
+understanding inference ability inference aspect understanding	1
+supermarket inference	1
+shopping card	1
+desk supermarket desk	1
+speaker ability	1
+damage description	1
+task instruction giving	1
+beginning attention nlp news	1
+pee model	1
+story understanding	1
+meaning surface triangle	1
+beginning story	1
+understanding generation	1
+role linguistic	1
+entropy linguistic	1
+text representation	1
+steroid denser representation	1
+discussion role linguistic	1
+statistic conflict linguistic	1
+conflict discussion	1
+part speech tagging part speech tagging	1
+token verb	1
+plural noun	1
+label part speech tag abstraction	1
+boss demand	1
+representation part vector	1
+generalization role linguistic	1
+representation annotation	1
+insight generalization meaning jury	1
+ambiguity coverage	1
+bunch resource	1
+tech company	1
+model text human lifetime	1
+inference reasoning	1
+nlp technique domain amount	1
+domain discussion annotation allocation scheme	1
+nlp domain	1
+annotation domain expertise entropy expertise	1
+exam cram	1
+cheat sheet	1
+transition pausing	1
+algorithm liver	1
+colleague dependency	1
+algorithm dependency grammar	1
+circle transition pause	1
+graph pause	1
+transition puzzle sequence action sentence	1
+model consist parser	1
+action dependency arc	1
+operation pause model	1
+attachment score	1
+part sentence	1
+tree algorithm transition parsing	1
+dependency tree weight	1
+tree parent	1
+child history	1
+dependency algorithm	1
+sentence damage	1
+headboard sentence	1
+tree notation	1
+sentence foreigner	1
+vocabulary sentence	1
+vocabulary consent	1
+parser structure stack buffer	1
+relation configuration	1
+stack bar	1
+stack buffer	1
+buffer bar moment	1
+top stack buffer	1
+sentence buffer	1
+tree position	1
+route choke	1
+configuration stack	1
+arcs tree	1
+stack direction buffer direction	1
+index eye	1
+top buffer heart	1
+puzzle configuration stack buffer	1
+top buffer relation	1
+ion trouble stack relation	1
+arc direction	1
+buffer sentence pause	1
+algorithm sentence	1
+news arc	1
+news root sentence	1
+subject news	1
+attachment arc market	1
+root route	1
+model action card configuration	1
+action card configuration action	1
+configuration paper	1
+stack part speech tag string distance	1
+action configuration	1
+network servant	1
+action position parser feedforward network	1
+network representation	1
+configuration stack buffer	1
+buffer rn	1
+arc label position stack	1
+photo speech tag arg label	1
+dimensionality photo speech tag arc label	1
+action softmax	1
+browser model	1
+action model predict context	1
+vocabulary vector embedding	1
+net vector	1
+dimensionality vocabulary	1
+vector core occurrence contact vector	1
+context corpus	1
+wood window	1
+vocabulary vector	1
+vector dimensionality training corpus	1
+corpus sensor dining table	1
+dining table	1
+table content	1
+mapping vocabulary	1
+regression classifier variant	1
+context representation	1
+gram representation	1
+optimization objective sampling	1
+sampling ground sampling	1
+parameter classifier	1
+vector representation target	1
+representation vocabulary target	1
+trade embedding graph sampling	1
+classifier target	1
+role text	1
+sample context	1
+weight classifier	1
+target context	1
+correspond embedding	1
+regression vector	1
+bird target context	1
+artwork context	1
+sea context target	1
+probability context target	1
+converse probability	1
+target context pair	1
+probability target context pair intuition	1
+probability signal	1
+probability tag probability tail outcome probability sigmoid	1
+training classifier	1
+sample vocabulary	1
+episode puddle	1
+corpus frequency unigram probability	1
+sigmod teatime	1
+tc parameter model parameter	1
+model weight vector	1
+vector matrix vocabulary	1
+role target	1
+role context	1
+similarity probability	1
+model adult tc	1
+model option pair	1
+vector sigmoid	1
+training objective model	1
+context embedding	1
+target context embedding	1
+representation vocabulary	1
+matrix vocabulary	1
+similarity window	1
+health blood	1
+model splash	1
+claim vector	1
+meaning vector	1
+woman vector	1
+roam claim	1
+reserve analogy dataset	1
+task similarity metric	1
+beer wine	1
+beer coffee	1
+beer glass judgment	1
+pair embedding	1
+vector dimension context	1
+bottle classifier reminder	1
+tag text classification glove semantic	1
+machine translation sentence translation	1
+correspondence sentence	1
+correspondence reordering	1
+scientist jaune	1
+jaune effort	1
+jaune swam verb	1
+reordering divergence	1
+machine translation sensor bank fade	1
+financial bank	1
+sensor book verb	1
+verb sensor	1
+curb pumpkin	1
+sibling brother	1
+divergence agreement adjective	1
+candy morpheme	1
+noun verb object ending noun	1
+object phrase	1
+verb object subject object verb	1
+phrase house phrase house	1
+house independence	1
+inflection divergence	1
+machine translation negation	1
+aspect swim	1
+aspect adverb swim	1
+motion verb	1
+manner motion	1
+direction motion	1
+satellite modifier	1
+excursion linguistic machine translation	1
+model sentence generator	1
+machine translation speech recognition etc	1
+candidate sensor output	1
+sentence model probability	1
+output sentence	1
+interval foot	1
+interval length	1
+user generator	1
+triangle bike garbage trigram	1
+probability bigram	1
+app token	1
+threshold foot	1
+fraction token	1
+consequence zip law	1
+bigram vocabulary	1
+probability mass	1
+probability distribution model	1
+star distribution	1
+distribution pie	1
+slice pie	1
+probability burst aggregate	1
+slice heart	1
+part distribution	1
+interpolation model	1
+trigram model conditioning	1
+primer prime	1
+model outcome	1
+cross boarding bigram model	1
+lambda thought	1
+notation tilde	1
+interpolation trigger model hat	1
+bigram model prime	1
+interpolation bigram model	1
+swimming technique	1
+unigram probability touring	1
+frequency event	1
+model weight bigram model	1
+sushi chopstick grammar	1
+pause tree grammar	1
+model probability tree sentence	1
+probability tienda sentence	1
+part tree	1
+tree yield sentence	1
+reminder yield tree string	1
+leaf node tree sentence	1
+infinite tree probability	1
+distribution tree probability	1
+tree context grammar	1
+symbol toy	1
+probability tree model probability tree probability rp cfg	1
+probability tree probability	1
+parameter pcf	1
+tree bank corpus sentence parse tree	1
+ton instance	1
+pantry bank tag proposition	1
+probability tree	1
+tree probability paw tray	1
+user probability model probability	1
+finite corpus	1
+introduction pcf part	1
+text normalization	1
+zip law	1
+structure oil	1
+morphology grammar	1
+ice cream	1
+transducer relation	1
+thread transducer	1
+transducer friend news service	1
+trip transition map	1
+transducer character	1
+sequence character output	1
+colon notation	1
+character output	1
+string model gram model	1
+text target	1
+regeneration task	1
+pistol dialogue context	1
+context machine translation model	1
+sample string	1
+string probability	1
+candidate output string machine translation	1
+partner translation	1
+child learning	1
+part review probability	1
+probability part	1
+model concept gram model independence assumption	1
+gram distribution	1
+evaluation weather metric	1
+reading chapter	1
+edition outlook introduction machine learning	1
+statement earth	1
+statement inference	1
+blip food	1
+blocker blip	1
+blocker food blah	1
+food inference knowledge	1
+meaning prerequisite understanding	1
+setting ability	1
+circuit model	1
+inference intent speaker	1
+assumption speaker	1
+part understanding	1
+understanding linguist	1
+meaning truth statement	1
+knowledge movement sale bird	1
+speaker intent	1
+meaning linguistic inference	1
+knowledge movement bird	1
+extent knowledge powder	1
+aspect understanding	1
+ability inference	1
+inference knowledge	1
+aspect meaning	1
+linguist semantic prerequisite	1
+representation subfield server	1
+theory meaning	1
+sentence coffee	1
+sentence meaning representation sentence noun	1
+phrase daughter	1
+predicate argument	1
+fault sentence	1
+phrase argument	1
+meaning sentence principle compositionality	1
+philosopher century meaning expression	1
+expression sentence	1
+principle compositionality part	1
+map sentence predicate logic	1
+principle compositionality semantic	1
+event logic event	1
+event extraction	1
+representation logic representation	1
+predicate logic quantifier	1
+sentence chef	1
+fight chef meal	1
+interpretation sentence	1
+sentence predicate logic	1
+guitar joke	1
+representation theory	1
+analysis sentence	1
+mapping sentence	1
+predicate logic representation sentence	1
+logic representation	1
+overview history machine translation	1
+evaluation circle score	1
+evaluation stone	1
+century understanding	1
+machine translation machine translation	1
+machine translation task	1
+demo machine translation demo	1
+machine translation research	1
+fringe community	1
+machine translation pair	1
+interest progress	1
+phrase machine translation syntax machine translation	1
+machine translation triangle	1
+source text	1
+translation source	1
+triangle translation	1
+meaning representation semantic	1
+syntax fade	1
+triangle shape	1
+representation meaning door	1
+analysis triangle	1
+part circle transfer	1
+model transfer	1
+text snippet	1
+art veil skill	1
+provision silence	1
+suit stone part	1
+stone operation	1
+basement church	1
+art neural model	1
+model task part	1
+machine map	1
+transduce string output string	1
+prefix stem brace	1
+dis prefix negation grace noun	1
+lexicon lemmas	1
+asterisk front nonsense	1
+notation linguist shorthand	1
+finite transducer	1
+finite alphabet	1
+facet automata	1
+addition finite	1
+finite alphabet output symbol	1
+output cat noun singular cat plural	1
+friend relation	1
+transducer prime relation	1
+transducer safety prime relation	1
+battery e insertion	1
+e deletion	1
+plural cat cad dog	1
+e fox bus	1
+boundary carrot	1
+representation cat morpheme	1
+folk morphine	1
+morpheme ending	1
+finite transducer representation	1
+boundary hash transducer	1
+goose noun	1
+stem goose	1
+path transducer	1
+character automaton	1
+plural morpheme	1
+character sx	1
+white sxyz	1
+morphine battery character	1
+ambiguity book	1
+verb travel agent book flight	1
+book noun singular book	1
+verb disambiguation	1
+transducer efficiency	1
+eft differ	1
+context token	1
+part speech tagging compound compounding morphology ice cream ice cream cone	1
+relation compound	1
+node ice cream	1
+ice cream cone	1
+bakery ice cream cone	1
+ice cream cone bakery	1
+science student	1
+science graduate student	1
+distinction writer	1
+text structure	1
+beginner text	1
+stem role	1
+surface inflection	1
+verb r verb	1
+structure derivation	1
+noun adjective	1
+cream ice cream ice cream cone ice cream cone bakery	1
+morphine participle plural	1
+participle noun	1
+suffix verb noun	1
+adjective verb	1
+linguist part morpheme	1
+ethic office prefix	1
+affix prefix	1
+curve linguist	1
+book box	1
+box e fly	1
+ren distinguish	1
+morpheme plural noun	1
+surface realization surface forum	1
+rem terminology	1
+grammar trump context	1
+linguist transformation grammar	1
+transcript grammar	1
+annotation corpora	1
+transformation grammar	1
+syntax depth	1
+surface string sequence character contrast	1
+structure representation	1
+meaning surface string	1
+text excursion linguistic	1
+excursion automata theory	1
+part attention mechanism	1
+part alternative seek	1
+encoder decoder model	1
+model task reading sequence	1
+output sequence machine translation	1
+sentence source	1
+sentence target dialogue	1
+utterance user	1
+net encoder sequence	1
+encoder output representation context	1
+probability model decoder output sequence	1
+context encoder	1
+length sequence encoder decoder	1
+encoder representation	1
+coder computation	1
+sequence output	1
+representation encoder	1
+length sequence length vector	1
+attention part sequence	1
+part sequence	1
+part output	1
+generalization alignment	1
+attention context	1
+output generation decoder	1
+output symbol	1
+vector decoder	1
+processing layer decoder	1
+sequence context decoder	1
+foot output decoder	1
+probability distribution attention	1
+sequence machine translation source	1
+sequence capital	1
+target machine translation context	1
+machine translation source	1
+sentence target	1
+vector output	1
+encoder context vector	1
+vector layer decoder	1
+softmax track	1
+context vector context	1
+context vector	1
+output decoder	1
+vector distribution	1
+attention pain	1
+skill bilinear matrix	1
+variance attention parameter	1
+parameter disadvantage parameter part	1
+introduction nlp	1
+effort science	1
+nlp touch	1
+privacy anonymity	1
+news scrape	1
+corpora population	1
+bias population	1
+potential benefit	1
+abuse technology	1
+society computing ethic	1
+member ethic	1
+relevance professional	1
+stakeholder computing obligation	1
+nlp part surveillance	1
+classification prediction sister	1
+sister nlp	1
+computing effort	1
+model normas	1
+emission model emit	1
+environment computing professional	1
+privacy anonymity aspect	1
+collection professional accent	1
+creation technology	1
+disability creation technology	1
+bias model	1
+competence conduct	1
+research ethic	1
+engineering enterprise technology	1
+scale technology	1
+gender lp	1
+attention coreference	1
+pronoun doctor	1
+bias distribution	1
+reference train	1
+gender bias embedding	1
+woman profession	1
+society race	1
+aspect ethic	1
+sensor machine learning	1
+bias machine learning	1
+bias variance tradeoff	1
+bias discussion	1
+buyer gender bias	1
+allocation harm	1
+credit score	1
+context recommender flick	1
+rating hotel	1
+money bed	1
+allocation alarm	1
+exacerbate stereotype society	1
+bias normative exercise	1
+statement norm	1
+norm statement	1
+embedding coreference translation	1
+bias nlp	1
+science literature	1
+theory bias harm	1
+nlp buyer	1
+science perspective	1
+buyer soda	1
+bias impact shortcoming argument	1
+blood technology	1
+survey buyer	1
+buyer paper	1
+embedding paper length embedding	1
+stereotype overtime	1
+stereotype overtime paper	1
+aggregate overtime	1
+embedding strength association bias	1
+stereotype woman	1
+depth overtime	1
+bias embedding	1
+variety corpus	1
+performance degrade	1
+model genre	1
+novel literature	1
+paper performance	1
+distribution vocabulary construction	1
+document dialogue	1
+fragment alot	1
+domain nlp	1
+convention vocabulary spelling grammar	1
+speech technology opiate	1
+part community academic	1
+part community	1
+evidence documentation	1
+argument documentation	1
+technology documentation	1
+disco umbrella entropy resource	1
+research effort	1
+argument technology	1
+exercise harm community	1
+aspect nlp	1
+technology text speech	1
+voice search image description	1
+disability benefit technology technique machine translation summarization	1
+document query	1
+query raid	1
+paper flood knowledge	1
+medium text	1
+volume text	1
+medium monitoring	1
+flu outbreak	1
+norm discussion essex	1
+nlp research community technology	1
+structure morphology	1
+context modeling	1
+hypothesis election	1
+dish meat	1
+linguistic dictionary lexicon	1
+lexicon dictionary	1
+distribution tradition	1
+tradition resource lexicon	1
+knowledge meaning	1
+sensor sub bank	1
+institution bank tour	1
+dog mammal	1
+text meaning	1
+response vector corpus statistic	1
+corpus prerequisite	1
+understanding meaning	1
+height foot	1
+plagiarism detection	1
+semantic meaning representation	1
+intuition representation	1
+linguist century eye doctor	1
+context meaning	1
+context casale	1
+greeno beer	1
+corpus collection	1
+sentence bottle wine	1
+beer bottle	1
+table beer	1
+sentence context sentence	1
+baby greeno	1
+similarity vector semantic	1
+representation vector	1
+occurrence meaning	1
+coffee alot	1
+occurrence tea	1
+occurrence coffee aggregate context	1
+token occurrence	1
+tree factory occurrence	1
+context tree plant	1
+dependency treebank dependency treebank	1
+dependency grammar analysis	1
+phrase structure tree bank	1
+dependency tree algorithm part noise translation	1
+analysis prog dependency treebank dependency treebank	1
+annotation morphology	1
+annotation label dependency tree	1
+syntax coreference	1
+discourse annotation	1
+annotation token	1
+phrase glass	1
+analysis part dependency	1
+boundary plus	1
+dependency undertaking research	1
+sentence dog	1
+dependency dog	1
+cat object flavor dependency	1
+core argument	1
+phrase core argument subject	1
+clause taxis	1
+object linguist compliment	1
+distinction argument	1
+argument core argument	1
+roll argument	1
+clause modifyer	1
+modifyer distinguish	1
+modifie addict modifyer	1
+chairman board chairman board position	1
+category marker preposition	1
+apology coordination	1
+cond dependency expression compound noun	1
+catch dependency	1
+combat catch label	1
+construction dependency grammar	1
+linguist principle privacy content	1
+relation content noun	1
+marker direction	1
+expression preposition	1
+sentence cat	1
+street cat subject	1
+dog object	1
+dependency determinant	1
+noun attache dog	1
+attache street marker	1
+construction dependency grammar assumption	1
+subject went shortcoming dependency grammar	1
+dependency sentence	1
+translation pc	1
+esco stress con jazz probability	1
+travel probability grammar corresponding	1
+mom charter entity correspondence	1
+terminal veto probability	1
+entry terminal	1
+roll probability	1
+debt terminal	1
+scoring pair	1
+pointer pair child	1
+node target probability child travel reality child probability	1
+cell grammar sentence	1
+probability simplicity noun	1
+role loop	1
+noun entry tree	1
+vp pie	1
+prep cream	1
+entry probability	1
+probability pie	1
+probability cream pee	1
+sentence analysis substring	1
+analysis pie	1
+pie constituent	1
+amp role	1
+pie jaune	1
+pie cream verb phrase	1
+pie cream analysis	1
+scoring analysis	1
+johnny pie cream	1
+noun pee pad	1
+shortcoming pcf	1
+semantic noun	1
+relation disambiguation	1
+notion sensor verb semantic	1
+argument structure	1
+alot flux meaning verb predicate argument structure sentence	1
+sentence police officer	1
+suspect scene crime	1
+verb predicate suspect	1
+event sentence	1
+police officer subject	1
+scene crime modifier	1
+role subject object	1
+etc verb	1
+verb event	1
+linguist event	1
+length event window rock event sentence window	1
+window rock	1
+argument object argument	1
+sentence event	1
+role event	1
+event purchase stock	1
+stock purchase description	1
+linguist surface sentence subject object	1
+role linguist	1
+representation event representation predicate logic	1
+event e	1
+event object	1
+sentence pad door	1
+object opening event opener patch	1
+door advantage	1
+predicate window predicate	1
+event adjunct writer optional	1
+window door	1
+event entity logic verb role	1
+representation opener bro	1
+cell purchase breaker	1
+commonality breaker opener linguist breaker opener agent	1
+window theme	1
+participant event	1
+agent action	1
+theme action	1
+instrument action rock	1
+role agent patient	1
+inventory role	1
+role model formulation	1
+independency grammar	1
+referral actin	1
+sentence rock occupy role	1
+breaking event	1
+core participant agent	1
+instrument event	1
+subject theme object	1
+subject pipe instrument	1
+label training	1
+agent experience	1
+instrument roll	1
+cause event waiter	1
+event headache	1
+theme overlap patient	1
+cook jar gadget	1
+gadget jar	1
+banana fork	1
+variety herb	1
+agent patient	1
+resource part	1
+phenomenon linguist	1
+window rock alternation window	1
+window dative alternation gift	1
+box wagon	1
+wagon box	1
+concept verb living	1
+verb meaning	1
+role book verb	1
+database verb	1
+role alternation	1
+verb index	1
+speaker text	1
+text writing	1
+yesterday variety	1
+sentence battery	1
+segmentation organization	1
+pipeline part speech tagging	1
+pod door	1
+verb determiner pod	1
+noun tennis tournament door adjective noun	1
+label reasoning	1
+probability verb noun	1
+probability toy reasoning	1
+tag noun tag verb	1
+model ambiguity	1
+model classifier	1
+ambiguity sentence doc sentence crowd	1
+duck table	1
+stack dinner ambiguity	1
+tuner vessel	1
+sushi chopstick sentence	1
+explosion analysis	1
+sentence structure ambiguity	1
+part speech tagger bank noun	1
+context interpretation sentence	1
+bean meat	1
+door compound noun	1
+pod door noun phrase noun phrase pod door verb phrase	1
+sentence pair	1
+label verb phrase	1
+formalism programming	1
+linguist implementation formalism	1
+representation programming	1
+construction grammar implementation	1
+linguist grammar	1
+sentence representation	1
+representation template filling extraction	1
+date document event	1
+philosophy representation	1
+logic predicate logic	1
+representation meaning representation	1
+logic meaning	1
+text paragraph art	1
+ability text	1
+pipeline server	1
+boundary sentence boundary	1
+part speech label structure	1
+ambiguity bank	1
+sentence string sequence structure	1
+entity metal color coreference resolution	1
+discourse model track entity	1
+pipeline assumption pipeline	1
+structure part speech	1
+part speech sentence	1
+output representation	1
+part speech tagging part speech tag	1
+pausing grammar label	1
+label subject	1
+representation knowledge linguistic fight	1
+representation site	1
+abstraction pipeline representation	1
+release representation expertise shortcoming pipeline	1
+model representation	1
+annotation warp	1
+generalization beef representation	1
+headline news	1
+knowledge reasoning model	1
+billion token	1
+text thousand	1
+classifier beginning	1
+training development dev	1
+rain slice development setup cross	1
+cross validation	1
+training comparison	1
+orange evaluation metric	1
+accuracy fraction item	1
+spam accuracy	1
+performance metric precision	1
+valuation metric query	1
+document collection subset document	1
+query precision percentage retrieve document	1
+recall percentage	1
+metric classification lp addition accuracy percentage item label	1
+percentage item label	1
+fab email	1
+intersection item	1
+remainder item	1
+quantity intersection	1
+cartoon precision	1
+fraction axis	1
+physician vehicle	1
+recall confusion matrix output	1
+classifier confusion matrix tablet item	1
+output item	1
+confusion matrix mistake	1
+spam message	1
+reading precision	1
+frequency micro	1
+precision table	1
+recall performance	1
+item part	1
+piazza office	1
+star string	1
+string probability ice	1
+chain independence assumption	1
+event gram model unigram model	1
+upgrade bigram model	1
+fight assumption event sequence	1
+event assumption	1
+recovery science fee model parameter	1
+outcome vocabulary	1
+correspond outcome distribution	1
+bigram model parameter	1
+root cabul	1
+distribution vocabulary	1
+distribution outcome	1
+trigram model parameter	1
+outcome distribution vocabulary	1
+bigram model trying	1
+replacement bigram model text	1
+probability corpus	1
+book probability	1
+unigram model probability	1
+salad probability model probability	1
+gram probability model	1
+distribution string length probability string bigram probability	1
+probability string probability e probability string	1
+distribution length	1
+probability distribution string length model distribution	1
+sentence solution	1
+vocabulary sentence token	1
+string sentence symbol	1
+model sentence symbol	1
+model sentence token	1
+sentence model distribution	1
+probability sentence symbol guarantee	1
+length model	1
+anger probability context	1
+length sentence parameter estimation	1
+dump model	1
+amount text training	1
+parameter estimation technique	1
+estimation frequency	1
+appear training	1
+accounting procedure	1
+probability string database	1
+probability model probability table	1
+following training	1
+token unk token	1
+part vocabulary token	1
+vocabulary unk	1
+vocabulary training	1
+trigram model probability	1
+trigram probability	1
+beginning sentence symbol sentence	1
+dragon probability trigram probability	1
+sentence symbol summary	1
+bigram model beginning sentence sensor	1
+chicken destination	1
+vocabulary unk token	1
+frequency bigram	1
+frequency probability	1
+beta part	1
+dimension vector correspond context	1
+vector similarity context	1
+vector dimension correspond context vector	1
+degree vector context dimension	1
+entry vector	1
+probability document	1
+document representation	1
+query document	1
+similarity query vector document vector document	1
+intuition document	1
+representation document matrix	1
+matrix frequency	1
+vector counselor document vocabulary	1
+document vector matrix document entry	1
+vocabulary row matrix row vector	1
+entry role vector	1
+document corpus	1
+frequency score textbook	1
+document matrix	1
+context matrix	1
+road vocabulary context variety	1
+similarity context	1
+document sentence	1
+subject verb drink	1
+object verb drink	1
+sentence subject	1
+determinism preposition verb	1
+corpus core occurrence	1
+core occurrence context vector	1
+matrix dimension context	1
+matrix cell	1
+context bottom	1
+core occurrence award context	1
+core occurrence window	1
+co occurrence soda	1
+frequency court corpus	1
+relation distribution	1
+context zero	1
+thousand dimension representation	1
+weather context	1
+core occurrence context	1
+window context window	1
+context probability	1
+cell table sell	1
+probability over cell table	1
+context window	1
+context token window	1
+encore occurrence	1
+frequency completeness	1
+absence occurrence	1
+event pm context	1
+envelope probability	1
+unit vector	1
+metric vector	1
+cosine similarity	1
+vector angle cosine leg height event	1
+direction part	1
+vector occurrence	1
+similarity cosine similarity vector challenge representation	1
+denser socio	1
+length sequence	1
+output ice	1
+parameter island parameter	1
+director iron coda sequence	1
+sentence seek	1
+model encoder	1
+sequence classification	1
+output sequence labeling	1
+elementwise multiplication	1
+addition concatenation	1
+island sequence classification	1
+vector sentence	1
+direction correspond	1
+softmax layer trick	1
+encoder secrecy model trick	1
+label probability	1
+generation task sequence labeling	1
+generation starting	1
+autocompletion symbol	1
+probability sentence tie	1
+fly prefix	1
+beam search	1
+width beam	1
+hypothesis iron	1
+metal probability output	1
+hypothesis probability	1
+width beam option	1
+stock symbol	1
+hypothesis continuation hypothesis	1
+beamwidth sequence	1
+probability weight	1
+sequence parameter	1
+sequence probability sequence	1
+training prefix vocabulary	1
+score vocabulary teacher	1
+training sequence sentence keyword	1
+exposure bias	1
+model prefix	1
+generation prefix	1
+sequence remedy	1
+risk training	1
+loss sequence	1
+gold sequence	1
+risk loss dataset candidate output loss score	1
+probability score machine translation	1
+training sequence	1
+reinforcement learning	1
+student paper quiz part	1

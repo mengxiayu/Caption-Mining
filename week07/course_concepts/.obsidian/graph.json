@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "(tag:#course) OR (tag:#concept)",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#course",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.57315257352941,
+  "lineSizeMultiplier": 2.56981617647059,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 12.9761029411765,
+  "linkStrength": 0.557720588235294,
+  "linkDistance": 30,
+  "scale": 0.03210640015601481,
+  "close": false
+}

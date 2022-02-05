@@ -1,0 +1,3318 @@
+search engine	50
+text mining	45
+mixture model	25
+background model	23
+theta sub	23
+vector model	21
+likelihood estimator	21
+collection model	16
+document query	16
+text categorization	16
+text clustering	16
+text retrieval	15
+probability distribution	15
+retrieval model	14
+document collection	14
+probability document	14
+web search	13
+probability text	12
+document vector	12
+keyword query	12
+document user	12
+sentiment analysis	12
+text object	12
+query vector	12
+opinion mining	11
+likelihood estimate	10
+query document	10
+document frequency	10
+distribution probability	10
+coverage document	10
+machine learning	10
+length normalization	9
+processing technique	9
+relation discovery	9
+distribution document	9
+text document	8
+probability mass	8
+rating user	8
+aspect rating	8
+document model	7
+user query	7
+collection text	7
+background distribution	7
+text collection	7
+document category	7
+text representation	7
+pseudo segment	7
+user document	7
+probability relevance	7
+query likelihood	6
+relevance judgment	6
+probability model	6
+research paper	6
+estimate parameter	6
+analysis text	6
+regression classifier	6
+category document	6
+text categorisation	6
+user perspective	6
+probability theta	6
+precision recall	6
+unigram model	6
+score document	6
+probability category	6
+task support	6
+document length	5
+co occurrence	5
+judgment user	5
+background model probability	5
+probability sub	5
+distribution theta	5
+component model	5
+sentiment classification	5
+parameter beta	5
+model parameter	5
+measure precision	5
+knowledge observer	5
+cluster document	5
+opinion holder	5
+opinion target	5
+probability ratio	5
+dirichlet distribution	5
+document cluster	5
+model text clustering	5
+content text	5
+probability smoothing	4
+collection probability	4
+probability collection	4
+alpha sub	4
+text knowledge	4
+context similarity	4
+occurrence text	4
+content analysis	4
+knowledge user	4
+web search engine	4
+component mixture model	4
+behavior mixture model	4
+email message	4
+generation text	4
+classification accuracy	4
+text categorization technique	4
+vector document	4
+text mining algorithm	4
+generation parameter	4
+absence meat	4
+presence eat	4
+parameter model	4
+text mining paper	4
+cluster object	4
+document clustering	4
+text analysis	4
+series context	4
+stock price	4
+predictor prediction	4
+document length normalization	4
+text prediction	4
+mining text	4
+representation text	4
+probability label	4
+similarity context	4
+parameter mu	3
+discussion vector model	3
+matching query	3
+similarity query	3
+query expansion	3
+query user	3
+context cat	3
+rank document	3
+display text	3
+document query document	3
+art retrieval model	3
+text segment	3
+background probability	3
+network analysis	3
+mining algorithm	3
+rating prediction	3
+category categorization	3
+text article	3
+location text	3
+tradeoff precision	3
+entity text	3
+rank score	3
+variance query	3
+item search	3
+likelihood converge	3
+part speech tagging	3
+part speech tag	3
+domain knowledge	3
+pattern text	3
+text human	3
+distribution label	3
+rating object user	3
+content filtering	3
+beta parameter	3
+eigenvalue probability	3
+probability sequence	3
+speech recognition	3
+model text	3
+text probability	3
+similarity object	3
+model mixture model	3
+discussion evaluation	3
+transition matrix	3
+judgment document	3
+inverse document frequency	3
+estimate model	3
+beta sub	3
+network context	3
+collaboration network	3
+model text mining	3
+text cluster	3
+content collection	3
+search user	3
+model user	3
+knowledge representation	3
+generating model	3
+likelihood probability	3
+mixture unigram model	3
+position document	3
+text context	3
+rock hill	3
+context document	3
+reduction entropy	3
+human sensor	3
+text content	3
+aspect rating analysis	3
+reviewer hotel	3
+map pair	3
+retrieval accuracy	3
+clustering bias	3
+opinion content	3
+retrieval following retrieval	2
+weight document	2
+interpolation coefficient	2
+coefficient interpolation formula	2
+pseudo collection model	2
+matching document	2
+cosine angle	2
+sentence cat	2
+sample text	2
+relation similarity context	2
+similarity context cat	2
+correlation occurrence	2
+sentence paragraph	2
+discussion text retrieval	2
+query retrieval engine	2
+engine user	2
+user feedback module	2
+user relevance feedback	2
+relevance judgment user judgment	2
+water association	2
+user judgment	2
+user activity	2
+feedback relevance feedback user	2
+judgment user effort judgment	2
+pseudo feedback	2
+manner bag representation	2
+strategy user text	2
+text user	2
+user search engine	2
+user initiative	2
+mode contrast push mode initiative	2
+research interest	2
+news filter	2
+news recommender	2
+news stream	2
+news article mode	2
+search context	2
+structure document	2
+user structure	2
+user cell phone	2
+map research	2
+browsing experience	2
+strategy text push	2
+discussion filtering	2
+retrieval filtering recommendation	2
+query sequence	2
+document sequence	2
+formalization relevance	2
+decade researcher retrieval model	2
+document vector model	2
+model family model	2
+document observation	2
+score document respect query probability r document	2
+randomness model	2
+document family model	2
+thinking constraint	2
+thinking retrieval	2
+assumption bag text	2
+campaign news respect document	2
+occur collection	2
+winner researcher	2
+bag representation	2
+comparison art model book chapter	2
+discussion flooding city	2
+document extent	2
+parameter estimation	2
+estimate parameter e	2
+coin correspond	2
+entropy prediction	2
+meat entropy	2
+parameter mixture model	2
+distribution text	2
+probability background	2
+formula moment	2
+analysis technique	2
+representation technique	2
+prediction rating	2
+influence weight	2
+alpha parameter	2
+context coverage	2
+variation context	2
+probability context	2
+oil price	2
+government response	2
+discussion location	2
+paper extension	2
+model discussion	2
+discovery association	2
+knowledge text	2
+research article	2
+author text	2
+source text	2
+retrieval researcher	2
+pattern document	2
+technique text mining	2
+literature article	2
+sentiment category	2
+understanding text	2
+author age	2
+speech text	2
+reinforcement mechanism	2
+hub authority	2
+adjacency matrix	2
+anchor text	2
+score web	2
+similarity model	2
+document actor	2
+similarity query vector	2
+precision query	2
+query conclusion query	2
+query precision	2
+performance strategy	2
+scenario ranking	2
+performance precision	2
+effort user	2
+top effort	2
+r correspond	2
+document transformation	2
+coverage pis	2
+implementation algorithm	2
+entropy reduction	2
+arg max	2
+maximum estimate	2
+knowledge parameter	2
+context opinion	2
+categorisation task	2
+text categorization text categorization	2
+parse tree	2
+model probability	2
+text analytic	2
+technique text retrieval	2
+text amount	2
+ratio probability	2
+category neighbor	2
+object category	2
+training instance	2
+similarity user	2
+preference user	2
+item user	2
+user similarity	2
+content item	2
+user rating	2
+user item	2
+analysis meaning	2
+map estimator	2
+measure evaluation text retrieval	2
+document collection query relevance judgment	2
+task evaluation	2
+document precision	2
+measure retrieval	2
+search engine building	2
+formula contrast	2
+methodology solution	2
+precision retrieval	2
+measure text retrieval evaluation task	2
+user search task	2
+absence eat	2
+entropy meat	2
+probability component	2
+document distribution	2
+mechanism text	2
+parameter vocabulary	2
+similarity clustering	2
+hierarchy structure	2
+object cluster	2
+vector cluster	2
+clustering structure	2
+clustering algorithm	2
+denominator length document	2
+adjustment score	2
+interpolation coefficient document	2
+retrieval assumption	2
+experiment retrieval	2
+smoothing parameter	2
+strategy vector model	2
+retrieval vector model advantage assumption	2
+assumption relevance	2
+probability query probability query	2
+assumption smoothing	2
+evaluation task	2
+probability surfer	2
+equation probability	2
+probability server	2
+document news	2
+query news	2
+popularity collection	2
+cluster clustering	2
+perspective clustering	2
+content document	2
+distribution category	2
+category distribution	2
+theta probability	2
+probability text parameter	2
+node network	2
+network graph	2
+likelihood parameter	2
+representation distribution representation	2
+vocabulary constraint	2
+parameter probability	2
+task mining	2
+clustering text clustering	2
+perspective object	2
+trend web search	2
+accuracy search engine	2
+understanding document	2
+ambiguity trend	2
+quality search	2
+task consumer	2
+search engine support	2
+task support task researcher	2
+site literature	2
+support task paper opportunity	2
+user service triangle	2
+enterprise document	2
+scientist literature service search browsing	2
+research trend	2
+literature assistant	2
+shopping experience	2
+mining capability	2
+customer service email	2
+analysis email	2
+complaint customer	2
+task support response customer email	2
+imagination trend technology	2
+center triangle	2
+bag representation search engine	2
+bag representation approximation document	2
+user node	2
+task environment task context	2
+direction research	2
+relation location	2
+manner scale	2
+search engine service	2
+productivity task	2
+intelligence user	2
+formula weighting	2
+document normalization	2
+logarithm probability	2
+probability formula	2
+model document	2
+query vector model	2
+user interest	2
+threshold utility	2
+strategy exploration	2
+support vector	2
+support vector machine	2
+classifier category	2
+task sentiment analysis	2
+machine technique	2
+distribution theta sub	2
+model distribution	2
+user preference	2
+rating user movie	2
+companion news stream	2
+election series	2
+prediction market	2
+price candidate	2
+model generation	2
+discussion text prediction	2
+feedback text retrieval	2
+relevance feedback	2
+evidence text	2
+location author	2
+network author	2
+partition text	2
+context author	2
+author opinion	2
+retrieval technique	2
+overlap context	2
+document weight	2
+context vector	2
+relation mining	2
+relation context	2
+concept theory	2
+constraint probability	2
+vector model framework	2
+vector similarity	2
+accuracy prediction	2
+text mining technique	2
+opinion text	2
+opinion analysis	2
+text instance pattern	2
+mining knowledge observer	2
+text period	2
+text retrieval technique	2
+model review	2
+rating reviewer	2
+aspect reviewer	2
+indexing technique	2
+analysis review	2
+reviewer service	2
+review rating	2
+aspect segment	2
+sentiment weight aspect	2
+review document	2
+rating alpha	2
+rank position document	2
+pseudo citation	2
+frequency document	2
+index parallel	2
+mapreduce framework	2
+sport travel	2
+statistic scoring	2
+basketball star	2
+pseudo document	2
+feedback vector model	2
+query vector center	2
+centroid vector	2
+evaluation clustering	2
+sentence string character	2
+string character	2
+sequence representation	2
+likelihood document	2
+price hotel	2
+reviewer weight	2
+target opinion	2
+opinion representation	2
+opinion sentiment	2
+sentence opinion	2
+task opinion mining	2
+discussion model retrieval query likelihood retrieval	1
+smoothing retrieval	1
+smoothing parameter lambda	1
+probability network	1
+network part	1
+sub smoothing	1
+coefficient front probability collection model	1
+coefficient mu parameter	1
+mu document	1
+document length coefficient	1
+smoothing part	1
+coefficient smoothing	1
+likelihood estimate part	1
+part text	1
+probability text probability network part	1
+document length normalization vector model	1
+matching document query	1
+throne frequency document	1
+statistic inverse document frequency	1
+document lance	1
+query discussion campaigning beginning document	1
+document lancer imitation	1
+becaus document	1
+third article research paper	1
+matching document matching abstract paper	1
+queer award	1
+document content document	1
+abstract paper	1
+document becaus	1
+degree generalization	1
+document lens pivot reference	1
+score normalizer	1
+lens parallelization	1
+lens document	1
+normalization formula normalizer interpolation	1
+document lens controller parameter	1
+length document	1
+unit length	1
+length normalization length normalization	1
+normalizer document	1
+parallelization document	1
+reward document degree parallelization cause	1
+panelization document reward document	1
+degree length normalization	1
+lens normalization	1
+vector model formula	1
+lance normalization	1
+model reference derivation model	1
+weighting model	1
+lens normalizer bottom	1
+controller parameter	1
+query component normalization	1
+normalizer denominator	1
+effectiveness retrieval dimension	1
+instantiation dimension vector model	1
+bag representation dimension war	1
+stem reward	1
+root computation	1
+water removal	1
+phrase dimension	1
+analysis cluster lady concept engine	1
+unit character engram sequence character dimension bag representation phrase	1
+dimension instantiation	1
+chinese challenge segmenting text	1
+sequence character award	1
+character english	1
+boundary possibility	1
+distance measure	1
+cosine measure	1
+cosine measure pm	1
+f stand	1
+document structure title abstract	1
+body research article	1
+web text	1
+scoring document	1
+transformation occurrence	1
+scoring structure document	1
+rich overturn	1
+normalization formula	1
+anna nicholas	1
+similarity notion relevance	1
+document respect query	1
+vector dimension	1
+heuristic wedding	1
+storm addition	1
+category vector model	1
+interpretation vector model	1
+map model	1
+baptist model reading	1
+length normalization formula paper	1
+paper discussion	1
+mine association	1
+text outline	1
+understanding sentence	1
+cat dog sentence	1
+cat sit sentence	1
+car sentence	1
+relation unit	1
+relation item	1
+phrase noun phrase	1
+sequence mining	1
+unit sequence	1
+location sentence	1
+neighbor sequence	1
+accuracy nlp task	1
+part knowledge	1
+grammar learning	1
+component expression	1
+mining search text retrieval	1
+association edge user	1
+association intuition	1
+advantage context sentence cat	1
+perspective context	1
+part context	1
+cat context	1
+dog context	1
+context dog contrast context cat	1
+context dog context cat	1
+dog similarity context cat	1
+relation sample text	1
+relation eat	1
+relation occurrence eat	1
+occurrence meat eat	1
+bottom occurrence eat	1
+sentence contrast eat	1
+meat intuition	1
+association following relation	1
+feedback catcher retrieval	1
+feedback pet retrieval diagram retrieval	1
+relevance feedback becaus	1
+fault downside effort user foot pseudo relevance feedback	1
+pixel user	1
+user claw document user	1
+slip document text	1
+user document entry	1
+document becaus display text	1
+query technique search engine	1
+crystal feedback	1
+roar text	1
+user initiative part initiative	1
+mode user initiative	1
+user eric airplane	1
+google query	1
+mode texter	1
+query vessel analogy site singing	1
+attraction text	1
+region analogy	1
+support query	1
+map chicago	1
+city chicago map	1
+overview texture retrieval	1
+document query overview	1
+document channel	1
+query kill	1
+model diversion	1
+probability inference	1
+desire constraint model	1
+processing laptop bag war	1
+representation search engine assumption score query	1
+ann length scoring	1
+shop document becaus document	1
+popularity crash	1
+matching array item collection	1
+optimizer model	1
+reference laptop	1
+mitchell model	1
+contribution matching	1
+analysis model	1
+sample article blog article sample government response flooding city orlean donation	1
+criticism government response	1
+government response public flooding city task	1
+segmentation clustering sentence	1
+category characterization water distribution	1
+coverage document pie	1
+background topical	1
+text consequence	1
+cause theta sub	1
+probability water	1
+mixture model probability	1
+sub percentage background text	1
+water distribution formula	1
+holder collection	1
+distribution exercise	1
+distribution probability distribution coverage distribution probability topical	1
+solution optimization	1
+algorithm converge	1
+maximum illustration	1
+explanation knowledge inequality	1
+likelihood curve	1
+algorithm climb algorithm	1
+recorder climbing mri	1
+gas parameter generation	1
+estimation distribution	1
+split event	1
+relation discovery entropy	1
+introduction entropy basis measure	1
+eat cat dog	1
+context eat	1
+prediction text segment	1
+sentence meat frequency	1
+sub denote	1
+segment intuition	1
+randomness sub	1
+measure entropy	1
+measure theory	1
+randomness connection scope	1
+probability entropy coin tossing	1
+sub coin	1
+outcome coin	1
+coin entropy	1
+mixture model estimation	1
+motivation mixture model	1
+mixture model behavior	1
+coin model	1
+oversimplification text	1
+parameter algebra	1
+probability constraint	1
+advantage competition	1
+formula probability text	1
+solution probability text	1
+probability text probability	1
+probability theta sub probability background	1
+background part	1
+probability text theta sub	1
+distribution probability distribution	1
+background model probability background	1
+representation opportunity	1
+analysis capacity table	1
+text recognition	1
+generality representation	1
+representation string text	1
+stream processing algorithm	1
+compression text	1
+analysis technique relation analysis	1
+analysis discovery	1
+research literature scientist research	1
+customer service	1
+business intelligence consumer opinion	1
+graph analysis	1
+graph mining algorithm	1
+structure representation	1
+text object category structure classification	1
+article category	1
+technique knowledge	1
+entity discovery knowledge	1
+opinion energy entity	1
+logic predicate	1
+logic inference ofcourse	1
+text inference	1
+knowledge assistant biologist	1
+literature research understanding gene	1
+inference hypothesis biologist gene	1
+researcher gene	1
+text mining representation	1
+takeaway text representation	1
+text string	1
+relation graph	1
+representation extent	1
+representation technique advantage	1
+effort benefit	1
+human unit communication	1
+semantic representation	1
+regression sentiment analysis	1
+text categorization technique solution	1
+dependency category	1
+category categorization predictor	1
+representation text document	1
+probability equation	1
+rating classifier	1
+object rating	1
+solution premise	1
+classifier premise alot	1
+parameter classifier parameter	1
+regression improvement	1
+intuition rating	1
+parameter training classifier	1
+beta consequence formula beta parameter index	1
+beta classifier	1
+rating subject	1
+alpha parameter beta	1
+score object	1
+desicion rating scoring	1
+rating text object	1
+analysis extension	1
+text consideration context	1
+context model	1
+context influence coverage	1
+content consequence	1
+period extension model	1
+likelihood text context	1
+model assumption dependency	1
+association context	1
+algorithm parameter estimation	1
+estimate premise context	1
+model reference	1
+generation text context model	1
+theme government response donation	1
+city context	1
+tide context location	1
+occupation sociologist	1
+document contact location	1
+variation content context	1
+bottom theme coverage	1
+location audience	1
+donation variation document context	1
+coverage distribution	1
+context distribution	1
+parameter context	1
+text mining sample	1
+sample news article war	1
+collection context	1
+war article	1
+cell distribution	1
+collection variation	1
+weapon inspection war	1
+aid variation context war collection text	1
+background war	1
+war killing	1
+cluster variation killing	1
+article visualization trend overtime	1
+flooding city	1
+addition visualization technique	1
+probability curve	1
+curve coverage flooding city article location	1
+response government	1
+visualization coverage event	1
+region technique	1
+location context	1
+pattern model	1
+model event impact analysis	1
+research article retrieval	1
+event text retrieval conference	1
+evaluation effort	1
+research retrieval publication	1
+modeling retrieval impact	1
+retrieval research	1
+model impact	1
+context event period	1
+retrieval model vector model	1
+retrieval task email enterprise search task	1
+retrieval task	1
+publication model paper	1
+model logic model	1
+dominance model	1
+model estimation parameter	1
+event context impact event technique	1
+impact event	1
+collection comparison	1
+variation collection paper	1
+model probabilistic retrieval model laptop	1
+discussion model retrieval query rover retrieval	1
+query holder ranking	1
+document model maximum flore	1
+probability opposite text	1
+parameter lambda	1
+smoothing parameter lemme lisa smoothing	1
+night network	1
+network spot	1
+alpha sub model	1
+coefficient front probability	1
+model signal	1
+bayesian smoothie	1
+interpolation car	1
+model james multimethod coefficient	1
+mu parameter	1
+length coefficient	1
+smoothie pot	1
+estimator part	1
+pseudocount observed text	1
+war document	1
+cause part text	1
+probability texture probability network part	1
+knowledge content mining	1
+subject discussion	1
+sentence article paragraph	1
+library granularity	1
+discovery text	1
+user sport	1
+discovery mining literature	1
+pattern overtime	1
+insight opinion location mining task mining	1
+document extent document	1
+text task	1
+collection text document	1
+text connection	1
+theater sub	1
+sub document sub theta sub	1
+taxi categorisation	1
+thought evaluation	1
+task categorisation	1
+retrieval researcher human collection	1
+search query document	1
+ground truth ground truth collection	1
+experiment methodology task	1
+categorization categorisation ground truth human	1
+document human	1
+output human	1
+perspective understanding category	1
+categorization mistake	1
+paper texture	1
+pair category	1
+human category document	1
+human assignment	1
+measure classification accuracy	1
+evaluation strength	1
+performance category	1
+document basis desicion cause spam filtering	1
+email inbox	1
+email mistake	1
+skew instance category	1
+instance category	1
+classification accuracy measure	1
+instance minority category	1
+evaluation classification accuracy	1
+document perspective	1
+document division	1
+human vision	1
+performance phone	1
+mesh measure document category	1
+human document category	1
+document subset	1
+document characteristic	1
+category valuation	1
+document category precision	1
+weather precision	1
+recall beta	1
+measure categorisation	1
+text categorization technique text mining	1
+discovery knowledge	1
+mining analysis	1
+content article	1
+categorisation texture categorisation	1
+category hierarchy	1
+text object text object	1
+tax object	1
+text object categorisation	1
+availability training	1
+pattern category	1
+category tax object	1
+possibility category	1
+content text object category	1
+content tax object	1
+characterization content	1
+entity text object author	1
+entity content	1
+author part	1
+author attribution	1
+category text	1
+connection entity	1
+review restaurant	1
+category news categorization news agency	1
+domain mesh annotation mesh	1
+subject heading	1
+content literature article spam email detection	1
+spam filter	1
+categorization review	1
+content email routing	1
+sorting email folder	1
+text categorization folder category	1
+request category	1
+variant formulation	1
+document query spam filter	1
+category classification opinion	1
+email routing folder	1
+categorization category hierarchy	1
+hierarchy variation	1
+dependent task	1
+accuracy task	1
+categorization task category categorisation task	1
+categorization object category	1
+category categorisation	1
+object tune category	1
+sub category	1
+text category text categorization	1
+analysis categorisation text	1
+bag representation text processing task	1
+aggregation tax content	1
+opinion review	1
+categorization text encoding controller vocabulary text categorization	1
+entity network	1
+author affiliation	1
+text mining text categorization	1
+knowledge text analytic	1
+text sensor	1
+entity discovery	1
+content speaker	1
+party affiliation politician	1
+knowledge nature	1
+hub algorithm hit	1
+score authority	1
+hub intuition	1
+site authority	1
+hub algorithm	1
+scoring hub	1
+hub score authority score	1
+authority hub score	1
+authority hub score authoritie score	1
+score authority score hub	1
+hub score authoritie	1
+hub vector edge adjacency matrix	1
+authority vector	1
+authoritie vector transpose	1
+hub vector	1
+authority equation	1
+authoritie vector	1
+equation hub score	1
+hub score vector	1
+transformation equation authority score	1
+computing hub	1
+rank matrix	1
+multiplication edge matrix	1
+transpose algorithm	1
+hit algorithm hub	1
+authority score	1
+analysis algorithm	1
+vector retrieval model	1
+introduction model	1
+similarity document	1
+query assumption	1
+notion relevance	1
+relevance vector retrieval model	1
+programming library	1
+query vector document vector document	1
+representation document	1
+perspective vector	1
+vector representation document	1
+bag temptation representation	1
+press agent library	1
+document programming	1
+programming library software library vector recommendation	1
+similarity query vector document vector	1
+battle model	1
+model framework	1
+engram character sequence character	1
+dimension vocabulary	1
+relevance similarity	1
+vector becaus tom query vector	1
+weather document	1
+document similarity measure	1
+map orgy map algorithm	1
+search engine precision	1
+position conclusion	1
+position arithmetic	1
+position jim abbott	1
+search engine query map	1
+item search target amazon home document	1
+rank position	1
+core rank	1
+designer measure	1
+item measure user	1
+precision recall curve	1
+prison measure	1
+algorithm e	1
+distribution equation	1
+pi pis	1
+prediction pis	1
+coverage probability	1
+theta sub normalization	1
+e formula	1
+theta sub phenomena	1
+phenomenon algorithm event	1
+normalizing computation algorithm	1
+theta sub distribution	1
+counter quantity	1
+re estimate	1
+re estimate coverage	1
+distribution algorithm	1
+track quantity	1
+model mixture model unigram model	1
+proportion document	1
+characterization coverage document	1
+document period	1
+coverage period	1
+document author	1
+document cluster document pis	1
+extent document	1
+document cluster pi	1
+hypothesize segment	1
+technique smoothing	1
+occurrence event	1
+collection document relation	1
+relation candidate	1
+part mining	1
+item unit	1
+text helmet	1
+arrow text window	1
+association discovery association	1
+book chapter	1
+atom phrase composition	1
+paper discussion technique	1
+relation walk	1
+likelihood estimation	1
+estimate arg max probability	1
+argmax probability	1
+belief parameter	1
+likelihood prior	1
+probability parameter	1
+belief hypothesis	1
+probability compromise	1
+theta preference	1
+bias estimate	1
+prior lunch	1
+estimation theta dimension	1
+estimate theta mode	1
+likelihood estimate theta	1
+mode theta	1
+maximum likehood estimate inference	1
+distribution parameter distribution	1
+parameter illustration	1
+model text model unigram model	1
+concept likelihood probability model	1
+likelihood probability sample	1
+distribution parameter	1
+opinion representation task	1
+opinion sentiment review sentiment classification opinion	1
+text object output sentiment label	1
+sentiment tag	1
+polarity analysis	1
+emotion analysis	1
+feeling opinion holder polarity analysis	1
+rating review	1
+sentiment emotion analysis category	1
+classification task	1
+sentiment tagging	1
+moment category polarity analysis	1
+text mining sentiment analysis	1
+character gram	1
+sequence character unit	1
+gram character representation	1
+gram sequence	1
+text processing task	1
+human communication	1
+part speech tag gram	1
+noun pair	1
+gram part speech tag noun	1
+concept thesaurus	1
+ontology net	1
+mining association	1
+pattern syntax	1
+discovery algorithm construction	1
+text representation sentence	1
+gram representation	1
+character gram nlp	1
+representation part speech tag	1
+categorization accuracy	1
+part machine learning	1
+machine learning analysis	1
+domain knowledge designing	1
+understanding seed	1
+nlp enriche text representation	1
+overfitting challenge designing challenge	1
+tradeoff exhaustivity	1
+art part machine text categorization	1
+expectation maximization	1
+probability status update initialization stage	1
+formula e	1
+algorithm e gas	1
+spec m	1
+split hardware	1
+e algorithm	1
+parameter distribution	1
+distribution theta sub content	1
+essence algorithm	1
+setting parameter	1
+maximum likelihood computation formula	1
+improvement setting	1
+guest probability	1
+e probability	1
+generation mate	1
+generation estimate probability	1
+probability algorithm	1
+likelihood becausw probability	1
+extent document background	1
+extent background	1
+overview text mining	1
+text analytic title	1
+phrase mining	1
+text quality	1
+knowledge boundary	1
+angle text mining quality	1
+opinion battery laptop	1
+text output	1
+shopping outcome	1
+text mining supply knowledge	1
+distinction text mining text retrieval	1
+component text mining text retrieval	1
+amount text	1
+background text retrieval text mining	1
+context mining	1
+text mining relation text retrieval	1
+text mining retrieval text mining	1
+processor text mining	1
+effort retrieval knowledge provenance	1
+interpretation text mining text	1
+knowledge text user text retrieval support	1
+introduction concept text mining	1
+relation text mining	1
+retrieval text	1
+sensor analogy text	1
+sensor network sensor	1
+thermometer sensor	1
+signal thermometer temperature	1
+geo sensor location	1
+location specification longitude	1
+network sensor	1
+network traffic	1
+activity network	1
+knowledge user preference	1
+opinion user	1
+framework mining	1
+advantage mining	1
+knowledge output	1
+mining module	1
+vision content	1
+classifier text categorization	1
+discussion classifier	1
+weight probability ratio	1
+distribution scoring	1
+text vector	1
+notation vector	1
+machine algorithm vector	1
+category theta	1
+advantage vector	1
+generation vector	1
+odd ratio	1
+classification task text categorization model	1
+classifier parameter	1
+performance classifier	1
+classification likelihood	1
+training xi	1
+probability label document	1
+estimate probability document category	1
+introduction scope	1
+machine introduction classifier text categorization classifier	1
+probability label training	1
+neighbor text object training	1
+category object	1
+distance neighbor	1
+neighbor saying category object	1
+neighbor influence	1
+distance neighborhood	1
+probability label intuition moment	1
+object category similarity	1
+object center	1
+neighbor box	1
+object category diamond	1
+text object possibility neighborhood	1
+neighbor category	1
+object parameter	1
+parameter cross validation	1
+parameter classifier	1
+distribution label document	1
+probability category document probability theta document	1
+probability document region r	1
+neighborhood instance	1
+machine learning reality	1
+similarity capture object	1
+distribution assumption	1
+probability category document	1
+probability category region benefit	1
+category document region	1
+document region numerator	1
+document region r category	1
+denominator document	1
+document region	1
+estimate category	1
+rating object	1
+user rating user	1
+user memory	1
+normalization prediction rating	1
+object user	1
+influence user	1
+user contribution user	1
+preference formula	1
+user normalizer	1
+weight user	1
+normalization strategy	1
+filtering rating user	1
+correlation coefficient	1
+formula correlation coefficient formula	1
+rating item	1
+rating item measure cosine measure	1
+rating vector	1
+measure vector model retrieval	1
+item filtering	1
+user similarity measure	1
+similarity memory	1
+filtering heuristic	1
+research inverse user frequency	1
+content analysis foundation text mining	1
+mine text	1
+concept dog	1
+playground sentence	1
+meaning sentence	1
+category noun chasing verb boy noun	1
+category part speech tagging	1
+dog noun phrase	1
+sentence outcome parse tree	1
+structure sentence	1
+semantic meeting	1
+structure entity	1
+dog concept	1
+boy concept	1
+entity symbol dog	1
+chasing action predicate chasing	1
+representation semantic sentence	1
+dog sentence	1
+request sentence	1
+ambiguity killer	1
+challenge ambiguity	1
+part speech tag meaning	1
+root plant	1
+interpretation sentence structure	1
+interpretation processing	1
+boy telescope ambiguity	1
+phrase attachment ambiguity	1
+phrase telescope	1
+saw verb resolution	1
+supposition difficulty	1
+context evaluation accuracy	1
+part speech	1
+parsing phrase	1
+accuracy parse tree	1
+analysis extraction entity	1
+disambiguation extent	1
+occurrence root sentence	1
+analysis aspect	1
+intelligence analysis	1
+latent allocation	1
+allocation plan	1
+insight user expectation	1
+retrieval model retrieval	1
+aspect battery	1
+memory opinion laptop	1
+user aspect user knowledge coverage	1
+tag document	1
+knowledge prior	1
+posteriori estimate map estimate	1
+prior parameter	1
+probability model setting	1
+document probability	1
+prior favor parameter probability	1
+em algorithm	1
+likelihood estimator modification parameter	1
+influence prior influence pseudo	1
+prior user battery laptop	1
+review prior distribution	1
+probability battery	1
+prior distribution	1
+preference algorithm	1
+probability prior battery	1
+distribution probability pseudocount	1
+pseudocount denominator pseudocount	1
+distribution prior mu	1
+accuracy counting battery mu	1
+parameter constraint	1
+cranfield evaluation methodology	1
+document charger query	1
+percent precision retrieval document	1
+measure recall measure completeness coverage	1
+document retriever	1
+precision ratio retrieval document retrieve document	1
+denominator ideal	1
+reality precision	1
+document web search	1
+measure becaus	1
+prem beta	1
+recall magic trade	1
+fy encode tradeoff	1
+mash precision	1
+discussion association	1
+presence meat	1
+uncertainty meat	1
+entropy concept	1
+probability entropy	1
+entropy equation	1
+entropy scenario	1
+uncertainty meat content	1
+scenario eat	1
+entropy meat scenario	1
+entropy equation involvement	1
+entropy segment	1
+entropy minimum	1
+meat occurrence	1
+entropy meat eat	1
+wether meat	1
+association meat	1
+meat maximum entropy meat	1
+relation algorithm	1
+relation target	1
+bound entropy	1
+response frequency	1
+solution text probability	1
+probability scenario	1
+document game likelihood	1
+likelihood occurrence	1
+document prime	1
+likelihood solution	1
+probability mess	1
+understanding behavior mixture model	1
+room probability	1
+decrease text	1
+likelihood phenomenon	1
+probability impact probability theta sub probability	1
+probability background model probability	1
+coefficient front	1
+impact probability	1
+probability incentive	1
+estimation mixture model	1
+behavior estimate	1
+intuition component	1
+model attempt probability	1
+likelihood component model	1
+waste probability	1
+likelihood probability component	1
+competition component model component model	1
+component background distribution	1
+collection document collection	1
+background component	1
+sentence probability	1
+sentence eigenvalue probability	1
+distribution context	1
+context discussion sequence probability sequence probability context	1
+text sample	1
+independence assumption	1
+task analysis	1
+probability text mining association	1
+text mining context	1
+mining paper text	1
+probability text mining paper publishing	1
+text document distribution	1
+bottom probability food nutrition	1
+text food nutrition paper distribution text probability estimation	1
+probability query	1
+query probability	1
+similarity text clustering	1
+similarity text object contrast	1
+hierarchy cluster	1
+cluster strategy	1
+threshold similarity	1
+object similarity	1
+similarity text object	1
+provider similarity	1
+pair similarity	1
+algorithm similarity	1
+similarity father sister pair similarity	1
+pair object similarity	1
+similarity pair	1
+similarity pair similarity clustering algorithm	1
+cluster becausw	1
+guarantee member	1
+outlier linker	1
+outlier analogy party	1
+similarity classroom clustering text object vector	1
+vector centroid cluster	1
+sentence cluster	1
+vector cluster host entry vector	1
+distance vector	1
+object cluster tentative assignment object cluster	1
+clustering centroid	1
+recovery centroid	1
+minimum moment	1
+algorithm mixture model algorithm	1
+mixture model clustering	1
+predator algorithm	1
+document mixture model	1
+object cluster e	1
+subset algorithm	1
+allocation nature	1
+discussion clustering	1
+definer similarity model	1
+clustering structure model	1
+algorithm cluster	1
+cluster disadvantage	1
+similarity measure	1
+disadvantage object	1
+text content context representation	1
+relation learning	1
+tax representation cluster	1
+smoothing james sub peace	1
+alpha ratio	1
+vector model becaus part	1
+home query	1
+company waiting	1
+document lance normalization heuristic	1
+waiting assumption vector model	1
+award denominator ratio	1
+distribution collection	1
+part ratio	1
+document instrumentation dealership price mosey jame	1
+collection water probability	1
+james morning	1
+document lens document office	1
+enemy document vector	1
+lens query	1
+document becaus lens denominator document weight	1
+james smooth	1
+role disadvantage	1
+stocking anthem	1
+model relevance	1
+concequence modification	1
+interpolation richard applier pseudo	1
+compara bulto	1
+pivot advance normalization	1
+discussion query holder model anne	1
+query michael	1
+assumption maddie query	1
+probability collection smoothing	1
+jame authorship	1
+precision category	1
+computation document	1
+insight strength	1
+contingency table	1
+utility variation	1
+editing news article	1
+task customer service	1
+score categorisation	1
+search engine evaluation	1
+document response query discovery spam email	1
+email spam category	1
+utility human task	1
+document search engine	1
+categorization evaluation	1
+spam filtering	1
+news categorization	1
+user perspective quality aspect quality tradeoff aspect precision	1
+tester precision	1
+performance angle	1
+variation document evaluation category evaluation	1
+perspective diagnosis analysis categorization	1
+reading chapter book	1
+discussion evaluation measure paper comparison	1
+surfing model sofa	1
+simplification web	1
+wild surfing model	1
+probability ranger rank score document probability sofa	1
+opportunity sofa	1
+surfing model	1
+innings server	1
+metric sub probability	1
+becaus server transition matrix	1
+subscript index	1
+probability server document equation	1
+sofa strategy probability	1
+minus part	1
+server sub eye transition probability	1
+dj server	1
+target pod transition probability	1
+transition probability	1
+smoothing transition matrix	1
+part becaus	1
+entry transition matrix	1
+calculation probability	1
+equation index	1
+equation becaus	1
+equation metric vector metric transpose metric	1
+equation eigenvector	1
+metric vector	1
+rating score	1
+metric vector concrete	1
+transition matrix uniform transition matrix jumping	1
+interpolation metric	1
+updating vector metric multiplication	1
+metric model multiplication	1
+formula rank score	1
+score probability server	1
+interpretation metric multiplication multiply vector matrix	1
+web computation pagerank score	1
+becaus metric sparse	1
+equation ranking	1
+linger server	1
+extension rank extension rank	1
+rank query rank	1
+server board server	1
+query sport	1
+rank sport	1
+query disposal specialized rank score	1
+friendship relation	1
+implementation text retrieval	1
+text retrieval search engine channing	1
+text retrieval architecture	1
+processor tokenizer	1
+token indexer index structure search engine	1
+organizer query text	1
+unit query representation scorer index	1
+interaction signal	1
+accuracy document search engine	1
+part indexer	1
+part scorer response user query	1
+party feedback mechanism index	1
+index moment	1
+module scorer	1
+processor user query	1
+search feedback mechanism	1
+implementation index	1
+feedback mechanism	1
+night position	1
+root computation computing	1
+root computing	1
+coverage document query	1
+coverage content	1
+text water boundary	1
+document structure	1
+search algorithm index document	1
+invert index	1
+document vocabulary	1
+document disk user	1
+invert index document	1
+statistic document	1
+document frequency statistic vector model	1
+query addition	1
+entry fire posting	1
+news document	1
+frequency news document	1
+table entry	1
+posting document	1
+frequency com retrieval	1
+pointer posting	1
+position tone	1
+document position	1
+query phrase	1
+expression relative document	1
+disadvantage query	1
+document ma	1
+document tom	1
+intersection query	1
+union query	1
+query scoring	1
+union document query	1
+weight index	1
+web document	1
+water distribution text phenomenon water distribution text	1
+text extent occurrence	1
+collection singleton	1
+copper layer	1
+zip slaw law rank	1
+node frequency rank formula	1
+axis frequency	1
+path curve	1
+award removal	1
+heister frequency	1
+posting dictionary web	1
+dictionary memory	1
+dictionary structure hash table	1
+entry posting	1
+sequence document frequency document	1
+document tone frequency	1
+benefit compression	1
+output comparison cpu	1
+memory query	1
+amount traffic	1
+memory cpu	1
+model text categorization	1
+categorization machine learning	1
+cluster text clustering	1
+cluster categorization	1
+document clustering model text categorization	1
+distribution cluster	1
+probability distribution theta document	1
+baye inference	1
+probability document probability	1
+assumption independence	1
+documentary category	1
+content document category	1
+document category probability document	1
+likelihood notation	1
+category document probability	1
+category score classifier keyword	1
+probability likelihood	1
+assumption document	1
+text assumption	1
+text categorization task model	1
+bigram model	1
+trigram model	1
+document category nature	1
+model document category	1
+theta category	1
+training text categorization	1
+category document category	1
+unigram model mixture model	1
+distribution document uncertainty mixing category estimation	1
+prior probability theta	1
+document category distribution	1
+estimate probability distribution	1
+probability category probability	1
+document category moment	1
+training document category	1
+document sport	1
+science probability sport category	1
+category probability	1
+training dataset category sub distribution	1
+occurrence document	1
+proportional collection training document sub	1
+probability estimate	1
+amount smoothing technique sparseness training	1
+training document category estimate probability category	1
+weighting inverse document frequency weighting mining relation	1
+pseudo event	1
+estimate influence delta	1
+parameter delta	1
+infinity amount	1
+category infinity amount document	1
+distinction uniform	1
+probability background model theta sub background model	1
+background model pseudocount	1
+probability background model pseudocount	1
+pseudocount addition background model	1
+nonuniform smoothing distribution	1
+background model probability category	1
+background probability category document occurrence	1
+occurrence training document category smoothing parameter mu amount smoothing delta	1
+mu denominator	1
+estimate background model	1
+distribution background model	1
+vocabulary probability	1
+pseudo baye categorization	1
+score category document	1
+category score	1
+ratio probability scoring	1
+category score document	1
+ratio category score document category baye	1
+logarithm ratio	1
+category bias	1
+category part	1
+evidence category	1
+document part weight	1
+document scoring category	1
+theta weight	1
+weight evidence	1
+theta formula	1
+support category	1
+bias formula	1
+symbol beta	1
+categorization document length	1
+weight beta sub	1
+beta weight	1
+setting weight	1
+network author text context	1
+motivation network context analysis text context text article	1
+network author research article collaboration network	1
+medium content	1
+relation benefit	1
+content subnetwork	1
+model modeling following	1
+network constraint	1
+model parameter text	1
+node distribution	1
+variation distribution	1
+regularizer likelihood	1
+likelyhood regularizer r	1
+network constraint perspective	1
+advantage model	1
+text object regularizer	1
+office optimization framework	1
+instantiation extension	1
+network distribution	1
+part likelihood text model	1
+part likelihood	1
+parameter equation constraint	1
+coverage node	1
+front parameter	1
+weight edge	1
+collaborator researcher	1
+weight coverage	1
+influence network constraint	1
+coverage sample	1
+community publication retrieval dm	1
+mining machine learning	1
+community article	1
+network collaboration network	1
+retrieval mining	1
+web separation	1
+influence network	1
+network context model	1
+content subnetwork collaboration text mining context network	1
+network environment	1
+structure network text	1
+sub network	1
+taxis environment context	1
+analysis text network text	1
+model mining	1
+manner ambiguity	1
+distribution sport	1
+vocabulary probability sport game basketball football star	1
+probability travel sport	1
+attraction trip flight hotel	1
+scientist spaceship telescope	1
+probability science	1
+probability threshold	1
+travel probability sport	1
+science probability	1
+refinement distribution	1
+ij document	1
+unit analysis	1
+basis analysis	1
+unit output	1
+modeling text mining	1
+capital lambda	1
+parameter behavior	1
+parameter probability tax mining	1
+pi document	1
+parameter pi	1
+axis probability	1
+output mining algorithm	1
+output algorithm	1
+variation semantic	1
+distribution collection text article	1
+output distribution	1
+constraint parameter	1
+parameter lambda star	1
+star knowledge	1
+text clustering technique	1
+mining analysis organ clustering text clustering	1
+technique mining	1
+object texture object	1
+document passage sentence	1
+texture object	1
+text object shape	1
+object clustering	1
+car horse	1
+clustering user perspective	1
+perspective clustering bias	1
+perspective similarity	1
+object uncertainty	1
+document text collection document unit	1
+distribution cluster text segment passage sentence	1
+text segment model	1
+cluster subtopic text	1
+text law	1
+text object document	1
+article author	1
+author unit	1
+text clustering technique text mining	1
+scenario text email message	1
+customer period	1
+text clustering structure	1
+discrimination texture classification	1
+cluster search	1
+structure query	1
+personalization search	1
+understanding user	1
+restriction domain	1
+lifetime learning	1
+feedback user	1
+trend integration	1
+user task	1
+button shopping site	1
+support search	1
+employee organization document	1
+enterprise search	1
+shopper blog article	1
+review sentiment	1
+promotion message	1
+detector message	1
+productivity opportunity	1
+search support user	1
+document trend	1
+user search history	1
+user modeling	1
+bag representation entity relation representation	1
+search engine progress domain	1
+search recommender	1
+normalization benefit	1
+part formula	1
+nonzero probability formula	1
+engin becaus document	1
+query home	1
+becaus weighting	1
+frequency query vector model	1
+frequency query	1
+obscene frequency	1
+becaus popularity collection denominator	1
+probability collection width	1
+logarithm document frequency	1
+document formula	1
+document land normalization offer document land length	1
+author document	1
+document office update	1
+document weighting	1
+document normalization formula vector model observation	1
+logarithm query scoring	1
+reform formula	1
+logarithm model	1
+modeling assumption	1
+probability collection assumption	1
+formula query weighting	1
+reference model	1
+micro maiden	1
+query aggregating	1
+precision conclusion	1
+menu query	1
+search engine query	1
+item search target home	1
+r rank position	1
+top r	1
+document r	1
+item r measure	1
+user effort	1
+recall curve	1
+ranking user	1
+precision measure	1
+challenge threshold filtering	1
+status relevance	1
+signal label	1
+machine learning training	1
+label dear beginning exploration	1
+exploitation tradeoff	1
+user interest user document	1
+tradeoff becaus	1
+opportunity interest user	1
+utility optimization strategy	1
+training candidate score threshold	1
+scoring threshold utility	1
+training exploration	1
+difficulty bias training sample	1
+thresh threshold	1
+protein gamma threshold	1
+rent training document	1
+coefficient utility	1
+formula threshold interpolation	1
+utility threshold	1
+thresholding mechanism	1
+beta parameter deviation	1
+fitting training	1
+adjustment gamma parameter	1
+formula game isaac inference training	1
+exploration exploitation	1
+utility threshold safeguard	1
+analogy gambling	1
+strategy recommender	1
+filtering content item similarity	1
+filtering user similarity	1
+search engine threshold mechanism	1
+learning algorithm	1
+discussion discriminative classifier text categorization	1
+classifier support vector machine	1
+text categorization classifier	1
+category season	1
+document vector classifier	1
+category boundary	1
+parameter heading direction	1
+vector beta coefficient	1
+criterion tide classification separator	1
+margin distance separator	1
+vector multiplication	1
+transpose vector	1
+aim weight	1
+instance text object vector xi	1
+margin boundary	1
+porter margin	1
+support vector center	1
+margin stay	1
+category assumption	1
+setup linear	1
+convenience moment optimization	1
+label instance	1
+magnitude weight	1
+expression eye	1
+objective maximization margin	1
+quadratic weight quadratic	1
+texture object formulation	1
+instance optimization	1
+classifier mistake	1
+instance ci	1
+region margin	1
+optimization margin	1
+generalization capacity classifier	1
+cross validation	1
+performance modification quadratic	1
+constraint optimization algorithm	1
+winner pro	1
+performance becausw representation	1
+human role machine representation	1
+performance mistake	1
+machine classifier	1
+content text category	1
+predictor text	1
+plenty training	1
+analysis categorization	1
+categorisation category	1
+confusion matrix	1
+instance mistake	1
+insight analysis	1
+machine technique selection technique	1
+sparsity model	1
+technique dimension reduction	1
+metric factorization	1
+technique model	1
+dimension representation	1
+vector justice	1
+multiresolution representation learning technique	1
+machine learning representation learning	1
+network classifier	1
+classifier advance	1
+network technique	1
+speech recognition vision	1
+text promise	1
+representation text localization domain cause	1
+representation text content	1
+content task	1
+learning text processing	1
+wedding learning	1
+labor quality training	1
+pseudo training	1
+categorize review	1
+star review training	1
+star review	1
+opinion rain	1
+text category	1
+confidence classification	1
+training cause	1
+machine technique domain adaptation	1
+transfer learning	1
+categorisation task distribution	1
+training domain	1
+tweet machine technique	1
+model unigram model	1
+sequence model sequence probability	1
+probability sentence	1
+model context	1
+sentence context	1
+sequence possibility	1
+source ambiguity	1
+lab source	1
+knowledge uncertainty	1
+game news article sport	1
+categorization retrieval user	1
+baseball query	1
+matching simplicity model unigram model	1
+text probability sequence probability	1
+parameter text	1
+model sequence	1
+probability sequence model parameter	1
+probability model behavior	1
+probability sequence assumption	1
+unigram model probability	1
+food probability	1
+gender text	1
+mining probability	1
+attack paper text mining paper	1
+folder nutrition paper	1
+text mining distribution	1
+text mine distribution	1
+abstract text	1
+model distribution text	1
+distribution probability text mining	1
+parameter setting	1
+probability observer text	1
+paper abstract thought body article	1
+query likelihood retrieval model	1
+background text	1
+bottom background model frequency background model text	1
+science research paper	1
+collection science research paper	1
+science software text	1
+mining paper	1
+text mining clustering probability contrast distribution text probability	1
+thought text	1
+software probability	1
+context probability	1
+model probability background model	1
+analysis semantic	1
+model unigram model distribution	1
+model document collection	1
+processing article survey	1
+model pointer	1
+plan text clustering	1
+mining model	1
+pi ij	1
+probability document coverage	1
+text clustering document	1
+probability text clustering	1
+clustering output	1
+coverage distribution pi ij	1
+cluster assignment	1
+connection mining	1
+generating model text clustering model	1
+distribution probability theta probability distribution	1
+top document	1
+text clustering document clustering	1
+assumption partitioning document cluster	1
+desicion distribution document	1
+clustering model	1
+cluster identity	1
+distribution document clustering model	1
+distribution document modeling distribution	1
+document distribution document	1
+mixture model certainty	1
+document connection	1
+parameter likelihood	1
+probability distribution probability	1
+map formula	1
+probability distribution theta	1
+assumption probability document probability document model	1
+top mixture model document clustering	1
+assumption distribution	1
+model algorithm	1
+discussion recommender	1
+strategy user item	1
+item similarity	1
+user similarity strategy	1
+user following user	1
+predictor preference	1
+m user similarity	1
+similarity preference	1
+relation user	1
+user interest preference user preference	1
+interest user retrieval	1
+failure eli	1
+cigar paper	1
+user rating item	1
+movie metric item entry	1
+pair user object rating	1
+rating setup	1
+text mining series	1
+stock price curve	1
+stock market crash	1
+news period	1
+attack news article scenario	1
+market stock candidate	1
+stock date	1
+survey opinion candidate	1
+science election	1
+clue news stream insight	1
+tax cut	1
+companion text stream	1
+talking model	1
+context output	1
+coverage text stream	1
+correlation series price	1
+output modeling	1
+coverage overtime solution	1
+role text	1
+perspective site	1
+model series	1
+prior illustration text stream	1
+subtopic variation	1
+correlation analysis	1
+model prior	1
+model discovery	1
+coherence topical	1
+correlation measure	1
+top ideal	1
+component framework	1
+coverage overtime	1
+text series stock price	1
+causality relation	1
+framework correlation measure	1
+correlation measure correlation measure causality	1
+model history	1
+history model	1
+improvement prediction	1
+reference measure	1
+series bias	1
+news event	1
+airline trade terrorism	1
+technology software internet com web	1
+campaign election	1
+election text	1
+article candidate subset news article	1
+election tax cut oil energy abortion	1
+reading paper	1
+series feedback	1
+clue prediction	1
+text context mining text	1
+pattern annotation	1
+background model target theta content	1
+probability theta sub probability	1
+coin probability	1
+model uncertainty distribution	1
+model mixture model probability	1
+sub probability model	1
+model event	1
+model box component	1
+box model	1
+likelihood illustration dimmer illustration generation model	1
+component sub probability	1
+description mixture model	1
+basis model	1
+sub background	1
+probability model parameter	1
+model index	1
+weight likelihood	1
+probability component distribution	1
+feedback impact retrieval diagram retrieval	1
+effort downside effort user feedback pseudo relevance feedback	1
+search pseudo feedback	1
+observe user	1
+clickthrough user	1
+user clue document user	1
+snippet document text	1
+document entry web search	1
+query technique	1
+expectation maximization algorithm	1
+algorithm family algorithm	1
+estimate mixture model	1
+likelihood estimator text	1
+distribution mixture model	1
+text mining clustering	1
+distribution part	1
+theta pseudo document	1
+probability theta sub parameter mixture model	1
+distribution text inference	1
+probability distribution prior	1
+probability prior model	1
+coin inference	1
+prior likelihood	1
+text probability theta sub background model probability	1
+theta sub distribution text	1
+probability text distribution	1
+probability background model	1
+baye formula	1
+selection probability	1
+background model probability text	1
+background theta sub	1
+estimate probability text	1
+specification mixture model	1
+text retrieval web search engine	1
+opportunity web search retrieval algorithms	1
+opportunity algorithm	1
+search algorithm challenge	1
+web search challenge scalability challenge	1
+web ensure completeness coverage	1
+challenge web	1
+scale search quality	1
+challenge dynamic web	1
+quality web search engine	1
+search heuristic	1
+scoring algorithm	1
+vector model algorithm	1
+search advantage	1
+document web search web	1
+opportunity technique	1
+search engine trick	1
+technique analysis	1
+clue layout web	1
+anchor text search engine technology	1
+user web	1
+component crawler	1
+component indexer	1
+component retriever	1
+index user query user browser	1
+crawler spider	1
+software robot	1
+web toy crawler seed	1
+priority queue	1
+trap web	1
+robot exclusion protocol	1
+extension cgi script	1
+url path	1
+crawling strategy breadth	1
+balance server load	1
+server request	1
+research algorithm	1
+sport score	1
+freshness user	1
+web search text retrieval	1
+challenge scalability efficiency quality opportunity	1
+component web search	1
+crowding web	1
+text mining knowledge	1
+source context	1
+analysis meaning discovery	1
+text context illustration context	1
+partitioning text research paper	1
+venue conference	1
+conference venue	1
+paper unit paper	1
+paper author	1
+subset paper author country	1
+paper text mining	1
+discovery knowledge context	1
+knowledge overtime	1
+attention mining research	1
+response region event	1
+analysis location context research interest	1
+researcher author	1
+context research	1
+context news	1
+series stock price context	1
+election series context df	1
+aspect search engine	1
+implementation search engine	1
+search engine becaus technique search engine	1
+mode text	1
+user push mode initiative	1
+knowledge user recommender	1
+item discarding	1
+source item	1
+knowledge user interest	1
+article user	1
+item sex	1
+strategy item similarity	1
+content recommendation	1
+strategy user	1
+classifier knowledge user interest	1
+user interest profile	1
+profile track user interest	1
+utility moment threshold	1
+document threshold	1
+classifier initialization module user	1
+user profile learning module	1
+user feedback overtime	1
+redmond item	1
+evaluation measure map	1
+waiting document	1
+item threshold	1
+relevance strategy utility	1
+gambling game	1
+utility strategy	1
+delivery article	1
+lid encourage	1
+hannah los	1
+classifier text	1
+profile description user	1
+initialization module	1
+text description	1
+component learning module	1
+relevance judgment becaus	1
+delivery document	1
+retrieval search engine	1
+search engine becaus	1
+search engine filtering	1
+retrieval filtering	1
+measure similarity profile text description	1
+score threshold filter indecision	1
+threshold document threshold	1
+user component width	1
+feedback technique	1
+scoring improvement	1
+threshold overtime	1
+vector model filtering	1
+scoring module search engine	1
+document vector score	1
+threshold module	1
+utility filtering	1
+user feedback	1
+vector representation vector learning	1
+query modification	1
+feedback search threshold component	1
+context vector probability context	1
+retrieval heuristic text retrieval	1
+query vector document vector	1
+transformation frequency	1
+frequency context	1
+belief document	1
+mapping frequency	1
+transformation possibility logarithm	1
+scoring transformation	1
+transformation text retrieval	1
+weighting retrieval	1
+inverse document frequency document frequency document	1
+document frequency document	1
+maximum measure search	1
+collection idf	1
+exercise weight	1
+parameter length normalization	1
+formula document length	1
+length document collection length context document	1
+interpretation parameter	1
+length formalization	1
+vector frequency weight	1
+vector context vector	1
+candidate context vector	1
+context candidate cat	1
+relation bi	1
+context candidate pseudo document	1
+text retrieval model	1
+art text retrieval technique	1
+evaluation methodology	1
+document judge query	1
+extent retrieval	1
+precision retrieval document	1
+measure recall	1
+completeness coverage	1
+document retrieval	1
+retrieval document	1
+precision ratio	1
+document retrieval document	1
+document reality	1
+measure retrieval document	1
+measure text retrieval	1
+precision document web search	1
+search precision	1
+recall measure	1
+recall measure tradeoff precision	1
+encode tradeoff	1
+becausw entropy	1
+relation mining eat	1
+info entropy	1
+formula divergence	1
+labeler divergance theory	1
+distribution numerator	1
+part denominator	1
+probability comparison	1
+association consideration	1
+distribution independence assumption divergence	1
+probability presence	1
+probability scenario occurrence	1
+probability calculation	1
+scenario co occurrence	1
+constraint bottom	1
+equation reasoning equation	1
+presence probability presence	1
+absence probability equation	1
+computation probability presence	1
+probability box	1
+probability box presence	1
+framework vector model guidance	1
+instantiation framework	1
+concept dimension	1
+weight query	1
+vocabulary dimension	1
+vocabulary rn dimension	1
+bag temptation	1
+vector strategy vector query	1
+zero docking vector	1
+zero vocabulary	1
+measure thought	1
+vector recommendation similarity	1
+bag recommendation	1
+retrieval vector model	1
+retrieval functioning	1
+weather retrieval	1
+sample document anna sample query	1
+document moment document	1
+ranking human	1
+lap gym	1
+query news press	1
+simplicity vector model	1
+model school document	1
+query vocabulary dimension	1
+vector repetition query	1
+zero becaus	1
+query document becaus	1
+campaign eva	1
+simplest model	1
+query document measure	1
+school becaus	1
+news campaign	1
+news presidential	1
+campaign becaus presidential	1
+dimension document vector	1
+vector query document map	1
+thought similarity	1
+boy telescope	1
+restaurant art	1
+analysis technique advantage text	1
+backbone basis	1
+task human loop	1
+effort analysis technique	1
+nlp foundation text mining	1
+nlp knowledge	1
+scale text mining	1
+nlp basis	1
+smoothing ranking	1
+document vector document vector	1
+document length normalization heuristic	1
+weighting assumption vector model	1
+denominator ratio	1
+following distribution collection	1
+counter part ratio	1
+document length document length alpha sub	1
+query frequency	1
+length query	1
+lens denominator document weight	1
+guarantee formula	1
+retrieval weighting	1
+model consequence modification	1
+linear interpolation	1
+document length normalization smoothing parameter	1
+discussion query likelihood model	1
+probability collection smoothing collection model	1
+extension model	1
+prediction mining	1
+mining loop sensor	1
+involvement text	1
+mining generation	1
+text mining machine	1
+pattern human	1
+human role	1
+model building	1
+domain knowledge prediction	1
+human action	1
+prediction mining loop	1
+prediction accuracy	1
+loop human	1
+machine human	1
+subarea machine learning	1
+acquisition analysis	1
+mining prediction	1
+text mining perspective	1
+text prediction text	1
+human preference	1
+text extent	1
+text extent knowledge	1
+predictor mining	1
+knowledge pattern	1
+text prediction character	1
+framework text mining	1
+analysis technique mining	1
+mining technique	1
+sub task sub task	1
+content text mining	1
+model text context text analysis	1
+pattern opinion	1
+context mining text partition text	1
+text context text	1
+reference body direction	1
+perspective text	1
+meaning pattern	1
+technique pattern annotation	1
+reference pattern annotation dissertation	1
+text mining body	1
+domain knowledge categorization	1
+categorisation news article	1
+news article game	1
+surface text	1
+pattern vocabulary	1
+provision domain	1
+scratch because	1
+game sport basketball sport	1
+text article keyword	1
+machine learning machine	1
+dataset category label document	1
+expert text object	1
+clue category	1
+policy tag	1
+game sport	1
+evidence learning	1
+train classifier	1
+prediction human text object	1
+human judgement	1
+machine text categorization	1
+learning setup classifier	1
+map text object	1
+output category	1
+training machine	1
+training learning optimization	1
+object loss	1
+training tradeoff variation	1
+join distribution	1
+model distribution label	1
+label distribution	1
+vector machine	1
+user initiative party initiative mode user initiative	1
+user ad	1
+item interest initiative	1
+mode text mode	1
+browsing user	1
+query analogy sight seeing	1
+attraction taxi	1
+attraction region analogy	1
+spot query	1
+city map	1
+task text	1
+landscape text mining analytic text	1
+entity relation graph	1
+mining knowledge	1
+usage pattern mining knowledge	1
+quality aspect	1
+mining content	1
+summary content	1
+processing text	1
+mining task	1
+prediction task	1
+discussion news article	1
+medium text	1
+stock price prediction	1
+metadata comparison scenario	1
+perspective text analysis	1
+analysis content	1
+opinion observer	1
+sentiment context landscape text mining	1
+content technique text mining	1
+road map	1
+takeaway message	1
+text representation nlp text	1
+text representation nlp text representation	1
+knowledge discovery	1
+text art	1
+text mining technology	1
+learning technique	1
+relation sequence	1
+context sequence	1
+text similarity	1
+text vector model	1
+similarity text	1
+weight weighting	1
+occurrence analysis text	1
+theory concept entropy	1
+selection text categorization concept	1
+concept model	1
+likelihood estimator technique	1
+building text mining text clustering	1
+similarity text clustering categorization	1
+probability category text	1
+technique text categorization task	1
+text categorization part	1
+evaluation categorisation measure	1
+category sentiment classification	1
+latent aspect rating analysis	1
+aspect text review	1
+network text	1
+interpreting pattern summary takeaway message	1
+basis paper	1
+concept principle text mining	1
+algorithm subject	1
+foundation text nlp	1
+technique backbone technique	1
+text analysis nlp	1
+nlp technique	1
+attention promise speech	1
+vector representation	1
+vector representation similarity	1
+technique technology	1
+similarity evaluation	1
+technique impact text mining	1
+modeling component regression	1
+categorization technique	1
+mining technique pattern discovery text analysis network mining technique	1
+text network	1
+text analysis technique	1
+component text	1
+human position text human loop text	1
+knowledge provenance	1
+search engine technique	1
+retrieval vector	1
+response search engine user query	1
+text beginning text	1
+knowledge prominence	1
+task text mining	1
+companion text retrieval	1
+search engine text retrieval	1
+skill knowledge	1
+skill text mining	1
+discussion opportunity technique	1
+research community	1
+review text	1
+hotel location	1
+aspect room location	1
+understanding reviewer opinion hotel	1
+hotel dimension	1
+user preference review preference	1
+aspect weight reviewer	1
+weight distribution	1
+service cause	1
+price reviewer	1
+understanding opinion task review	1
+aspect weight output	1
+latent aspect rating analysis task review article	1
+aspect comment	1
+aspect opinion summary	1
+reviewer preference	1
+technique press introduction technique	1
+location room conditioning	1
+seed location	1
+segment segmentation stage	1
+rating regression	1
+frequency aspect	1
+weight aspect rating location	1
+rating aspect rating	1
+frequency weight sentiment	1
+aspect sentiment weight	1
+weight sub	1
+aspect rating setup	1
+generation probability	1
+parameter beta rs alpha	1
+rating document	1
+aspect sub aspect	1
+bi beta vector	1
+aspect specifica sentiment weight	1
+r sub	1
+segment model	1
+probability r sub	1
+distribution denote	1
+aspect rating r sub distribution variance	1
+assumption reading	1
+quantity aspect rating	1
+aspect weight aspect rating	1
+covariance matrix	1
+rating distribution	1
+rating aspect rating sentiment weight spectrum sentiment weight	1
+aspect beta	1
+segment award	1
+sentiment aspect premise	1
+aspect sentiment	1
+setting premise maximizer	1
+observer rating	1
+rating aspect	1
+sentiment weight	1
+vocabulary aspect weight alpha	1
+part parameter	1
+maximum posteriori alpha	1
+relevance degree	1
+search engine judgment	1
+judgment top	1
+relevance document	1
+etc gain utility document	1
+game user	1
+user position	1
+gain user	1
+document ndcg	1
+gain deficiency	1
+contribution gain	1
+possibility user	1
+gain weight	1
+three position three	1
+normalization scale	1
+avoid query	1
+rank task judgment	1
+scale judgment	1
+document cut	1
+analysis web search	1
+algorithm web search	1
+ranking model	1
+building improvement	1
+library search	1
+literature query	1
+target query	1
+clue layout title	1
+opportunity context document	1
+feedback through	1
+category feedback technique	1
+machine learning web search	1
+machine algorithm	1
+part document	1
+content matching scoring signal	1
+web snapshot part web	1
+center description document	1
+description text anchor text	1
+user query box	1
+bookstore query anchor text	1
+evidence entry	1
+evidence relevance anchor text	1
+utility document	1
+text matching	1
+authority intuition citation literature paper	1
+advantage intuition	1
+citation counting	1
+paper workshop paper	1
+algebra technique	1
+web indexing	1
+web scale index	1
+web indexer	1
+retrieval technique index	1
+web scale dancing	1
+challenge scalability	1
+efficiency index	1
+challenge google innovation google fire	1
+cluster machine map	1
+software framework	1
+computation source implementation map	1
+architecture google	1
+management mechanism	1
+client chi	1
+specifica location	1
+node network fire zone machine chunk	1
+perspective programmer	1
+top google	1
+map reduce framework	1
+task building	1
+index framework	1
+cluster parallel	1
+framework network communication	1
+building tolerance	1
+server service	1
+map reduce mechanism task	1
+parallel pair	1
+map fault	1
+pair output mac	1
+output map	1
+output reduce	1
+output framework map	1
+programmer map	1
+part parallel	1
+reduce stage reduce	1
+source parallel	1
+thought task	1
+part fire	1
+pair map	1
+counter collector	1
+programmer specifie part	1
+map collector	1
+board pair	1
+pair kiana	1
+functional occurrence	1
+output indexer	1
+stream document	1
+water company document	1
+map track	1
+reduce info	1
+index entry	1
+index construction	1
+procedure map	1
+top map reduce	1
+map occurrence	1
+document reduce	1
+entry map	1
+index scale	1
+index construction web search	1
+web scaling scene technique	1
+index document	1
+extent document sport	1
+content document sport	1
+sport coverage	1
+phrase solution candidate	1
+frequency scoring	1
+domain heuristic news	1
+title because author	1
+title article	1
+relevance ranking	1
+redundancy candidate respect	1
+balance redundancy removal	1
+occurrence sport	1
+estimate coverage probability formula	1
+coverage document distribution	1
+evaluation dataset	1
+text document basketball game content sport	1
+content sport	1
+coverage sport	1
+content sport estimate travel	1
+coverage travel	1
+basketball game	1
+coverage ambiguation	1
+position text	1
+context dog	1
+document context	1
+window text	1
+bag context representation	1
+criterion context	1
+similarity cat	1
+weight similarity	1
+similarity bag representation vector	1
+text retrieval technique vector model	1
+query search	1
+context relation discovery vocabulary dimension	1
+vector context	1
+context cat vector dog	1
+vector context vector model	1
+relation discovery vector	1
+vector xi	1
+similarity context document	1
+context award vector weight probability	1
+document vector xi	1
+wi context	1
+similarity context formula	1
+formula score	1
+overlap frequency	1
+evidence eat	1
+weighting formula vector model	1
+score formula	1
+matching query weight	1
+weighting component	1
+document frequency document formula query	1
+contribution matching document	1
+occurrence matching	1
+document occurrence	1
+frequency document axis	1
+transformation vector representation	1
+researcher transformation	1
+curve logarithm	1
+matching transformation	1
+extreme transformation	1
+shape transformation	1
+weight score transformation	1
+tv transformation	1
+transformation formula	1
+component art	1
+feedback task text retrieval	1
+document vinaigrette	1
+document user vector model feedback	1
+query position	1
+news rock feedback	1
+display document collection	1
+document bakhtaran user similarity document	1
+minus document query vector position	1
+accuracy diagram	1
+query graph	1
+top center	1
+centroid document	1
+query vector anne	1
+vector centroid vector	1
+gamma amount movement	1
+part query vector	1
+century rock hill feedback	1
+document re nuclear	1
+display document vector representation document	1
+center category center vector document	1
+vector centroid	1
+rock hill feedback	1
+parameter query	1
+inference centroid vector	1
+girl kia	1
+controller gamma	1
+becaus movement reader	1
+weight calculation	1
+heist await	1
+query direction	1
+query programming feedback	1
+feedback sample	1
+trust query	1
+user knowledge	1
+bias feedback	1
+pseudo relevance feedback	1
+pseudorandomness feedback pseudo feedback	1
+feedback relevance feedback	1
+parameter paracle	1
+root rock	1
+search engine becaus user	1
+cause customization	1
+understanding user cause	1
+search engine learning	1
+search self	1
+model search navigation	1
+port mode	1
+becaus advertising	1
+support user task	1
+connect triangle	1
+employee organizacion document	1
+search enterprise search	1
+shopper article	1
+sentiment anne folder support	1
+productivity activity	1
+search support	1
+mission document trend	1
+keyword query user search history	1
+user model	1
+bag entity relation representation	1
+google initiative	1
+knowledge graph	1
+search engine progress domain service	1
+search support search recommender	1
+mining pattern	1
+task friend	1
+pie document pis	1
+pis document	1
+complexity model	1
+training document	1
+model parameter dirichlet	1
+distribution launch parameter	1
+parameter model inference part	1
+treatment scope	1
+background model simplicity model parameter	1
+parameter pis	1
+dirichlet distribution vector	1
+probability vector pis dirichlet distribution	1
+vector pis	1
+distribution vector parameter alpha	1
+force pi	1
+pis document beta	1
+price generation	1
+likelihood connection likelihood	1
+background simplicity formula	1
+formula possibility	1
+core assumption model	1
+model extension	1
+mixture model probability document	1
+component formula	1
+likelihood collection	1
+integral uncertainty	1
+govern parameter pi	1
+theta likelihood parameter inference parameter	1
+likelihood estimator parameter	1
+parameter alpha	1
+coverage parameter	1
+beta computation	1
+depth introduction	1
+inference parameter alpha	1
+text basis setup tax	1
+output proportion document	1
+performance task	1
+model paper discussion	1
+paper technique	1
+task conclusion	1
+evaluation text cluster	1
+perspective similarity clustering	1
+perspective evaluation	1
+evaluation valuation	1
+cluster human closeness	1
+quality clustering angle	1
+bias human	1
+similarity cluster	1
+measure purity	1
+correlation cluster label	1
+similarity evaluation measure	1
+contribution clustering	1
+baseline clustering	1
+performance clustering	1
+baseline performance measure	1
+evaluation cluster	1
+assessment quality cluster	1
+contribution cluster	1
+clustering structure text	1
+similarity bias	1
+cluster classroom	1
+text sentence	1
+analysis text mining	1
+correlation character	1
+semantic text	1
+representation text sequence	1
+dog chasing	1
+analysis text sequence	1
+analysis possibility representation	1
+text sequence character	1
+noun verb	1
+text sequence part speech tag	1
+text sequence	1
+sequence part speech tag	1
+analysis writing style	1
+grammar mistake	1
+dog animal	1
+relation dog	1
+playground entity	1
+entity relation recognition	1
+collection news article	1
+mistake representation	1
+speech representation intent sentence request	1
+observer author sentence intention scenario action analysis	1
+representation text knowledge representation	1
+knowledge text mining trade	1
+representation knowledge text human	1
+human text analysis text mining human role loop	1
+collaboration human	1
+mixture model text	1
+likelihood estimator algorithm	1
+mixture model algorithm document clustering	1
+algorithm initialization parameter model	1
+zd document	1
+probability distribution document	1
+distribution probability document normalizer	1
+probability e probability document	1
+probability generator	1
+relist parameter	1
+knowledge district document estimation	1
+knowledge cluster	1
+evidence document	1
+sub parameter probability distribution cluster	1
+constraint normalizer formula	1
+cluster initializer	1
+occurrence mining	1
+mixture model output	1
+mixture model document	1
+setup document	1
+theater subway	1
+occurrence mining numerator probability	1
+possibility document	1
+constraint computation	1
+denominator computation probability	1
+solution district	1
+distribution quantity magnitude	1
+denominator normalizer	1
+probability document distribution	1
+normalizer numerator	1
+denominator expression	1
+denominator normalize	1
+estimate distribution document	1
+probability theta probability	1
+probability tax	1
+discussion generating model clustering	1
+model generation assumption	1
+pattern text unigram model	1
+cluster byproduct document	1
+document unigram model	1
+model capitalization cluster	1
+assignment document cluster	1
+document disjoint cluster	1
+water distribution document	1
+normalization technique	1
+content score document query	1
+rank machine	1
+content score document respect query	1
+score rank score	1
+retrieval model anchor text	1
+clue document	1
+url tilde	1
+indicator homepage	1
+relevance assumption	1
+hypothesising relevance	1
+task training	1
+training measure	1
+ndcg training table tuple	1
+judgment relevance judgment	1
+evaluation text retrieval	1
+discussion evaluating	1
+evaluation text retrieval tester	1
+query anril document user	1
+bias conclusion matching	1
+document collection query	1
+relevance judgment challenge	1
+judgment document query	1
+document labor	1
+micro web	1
+utility user	1
+query sample position	1
+position query	1
+cause fluctuation	1
+curve probability	1
+reading observation becaus fluctuation	1
+percent outcome	1
+fluctuation probability	1
+significance takeaway message query	1
+signaling task judgment	1
+judging document collection subset	1
+document cake	1
+document humor assessor	1
+union document	1
+masse judgment	1
+part text retrieval evaluation	1
+discussion research	1
+methodology cream	1
+search engine marriage map	1
+algorithm research paper	1
+evaluation strategy ab	1
+mixer user	1
+document search engine search engine	1
+track document	1
+leverage user search engine	1
+evaluation ab	1
+text retrieval user	1
+book evaluation	1
+review retrieval evaluation	1
+document setup	1
+collection document output	1
+angle model parameter	1
+parameter output mining algorithm	1
+parameter knowledge	1
+procedure document sequence	1
+sub model unigram model distribution	1
+likelihood probability document model	1
+independence probability document probability	1
+vocabulary sub	1
+probability derivative	1
+content scope	1
+derivative respect theta	1
+document length document	1
+theta probability mass	1
+likelihood estimator estimate	1
+solution optimization likelihood	1
+optimization formula	1
+top probability	1
+document representation	1
+overview text retrieval	1
+document challenge	1
+category model	1
+constraint model	1
+processing bag representation	1
+search engine assumption score query	1
+document length scoring	1
+length normalization query likelihood	1
+retrieval model art	1
+document frequency weighting	1
+segmentation aspect	1
+regression model aspect rating	1
+solution model entity	1
+aspect distribution	1
+generation review text review text	1
+regression model text	1
+model part	1
+cutting edge reference site	1
+rating decomposition	1
+hotel rating dimension	1
+dimension location	1
+opinion aspect ground truth plan prediction	1
+trend reviewer	1
+hotel table decompose rating	1
+dimension model	1
+opinion reviewer	1
+byproduct formulation	1
+model component	1
+sentiment aspect	1
+dimension room location	1
+becausw sentiment polarity context	1
+battery laptop	1
+review laptop	1
+review hotel	1
+tag comment hotel	1
+medium tweet	1
+preference weight model	1
+challenge evaluation	1
+price hotel city	1
+aspect ratio	1
+reviewer ratio measure	1
+review ratio	1
+aspect dimension	1
+infer weight	1
+comparison price	1
+hotel price	1
+generator aspect summary	1
+summary aspect sentence	1
+review mother aspect	1
+review model	1
+cell phone	1
+lightweight laptop	1
+manufacturer generation	1
+user rating behavior weight	1
+dimension reviewer	1
+weight review	1
+star reviewer	1
+room cleanliness model	1
+emphasis text mining algorithm	1
+hotel opinion	1
+consumer location	1
+rating technique	1
+recommendation entity	1
+hotel emphasis	1
+weight reviewer	1
+query recommendation	1
+favor price hotel technique	1
+discussion opinion mining	1
+mining latent user preference model rating regression	1
+weight model	1
+cause context opinion holder opinion target	1
+discussion variation	1
+technique proposal	1
+model aspect rating analysis	1
+regression model	1
+sentiment analysis motivation	1
+human text	1
+sensor contrast	1
+device recorder	1
+advantage text	1
+opportunity observer	1
+text opinion preference	1
+analyze opinion	1
+text concept opinion	1
+sentence laptop battery	1
+laptop statement	1
+background analysis	1
+understanding opinion	1
+opinion holder feeling opinion	1
+content review text	1
+context review	1
+sentiment review	1
+sentence news	1
+target hurricane opinion sentiment	1
+processing technique task	1
+sentiment news	1
+analysis opinion review variation	1
+variation opinion	1
+country opinion	1
+entity policy	1
+company attribute	1
+phrase opinion	1
+opinion article	1
+variation sentiment	1
+emotion dimension feeling opinion	1
+opinion context	1
+text background	1
+discourse context	1
+discourse context opinion	1
+computation perspective	1
+comment opinion target	1
+opinion author contrast text	1
+opinion observation opinion	1
+opinion friend	1
+opinion statement phone	1
+opinion quality battery phone	1
+feeling opinion holder battery opinion	1
+text opinion representation	1
+opinion target content	1
+opinion representation review opinion	1
+opinion mining task	1
+opinion mining technique	1
+reader review	1
+policymaker opinion policy	1
+opinion business intelligence manufacturer advantage	1
+market research	1
+consumer opinion	1
+science research	1
+text mining opinion	1
+advantage prediction task	1
+text prediction technique prediction	1
+tax capture text clustering	1
+component mixture model document clustering	1
+presentation mixture model document clustering	1
+collection document	1
+distribution document cluster	1
+notion probability cluster	1
+document probability document	1
+assumption generation document	1
+generator document	1
+model likelihood	1
+notation equation	1
+sub notation	1
+estimation formula	1
+model presentation	1
+lack functioning	1
+clustering theta content	1
+cluster theta	1
+cluster document cluster document	1
+probability cluster document cluster	1
+cluster document sub	1
+distribution content	1
+theta cluster	1
+relevance document respect query	1
+beta parameter weighting parameter weight	1
+transformation probability relevance probability relevance	1
+query rank score document	1
+query rank	1
+anchor text document	1
+query pair document	1
+relevance status document	1
+probability prediction	1
+minus expression	1
+probability relevance expression probability	1
+likelihood expression	1
