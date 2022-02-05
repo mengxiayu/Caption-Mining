@@ -9,4 +9,4 @@ Note that file names should end with ".md".
 
 # Example
 
-An example is in week07/course_concepts/. If you set it as a vault in Obsidian, you should be able to visualization the links with "graph view".
+An example is in week07/course_concepts/. If you set it as a vault in Obsidian, you should be able to visualize the links with "graph view".
