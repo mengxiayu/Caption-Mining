@@ -1,0 +1,121 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 2000px;
+            height: 1000px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "conditional entropy", "label": "conditional entropy", "level": 2, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_11", "label": "410_11", "level": 1, "shape": "dot", "size": 10}, {"color": "red", "id": "410", "label": "410", "level": 0, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_12", "label": "410_12", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_13", "label": "410_13", "level": 1, "shape": "dot", "size": 10}, {"id": "word distribution", "label": "word distribution", "level": 2, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_9", "label": "410_9", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_16", "label": "410_16", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_17", "label": "410_17", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_18", "label": "410_18", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_19", "label": "410_19", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_20", "label": "410_20", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_21", "label": "410_21", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_22", "label": "410_22", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_23", "label": "410_23", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_24", "label": "410_24", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_26", "label": "410_26", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_27", "label": "410_27", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_28", "label": "410_28", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_29", "label": "410_29", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_31", "label": "410_31", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_32", "label": "410_32", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_33", "label": "410_33", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_38", "label": "410_38", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_47", "label": "410_47", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_50", "label": "410_50", "level": 1, "shape": "dot", "size": 10}, {"id": "maximum likelihood", "label": "maximum likelihood", "level": 2, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_39", "label": "410_39", "level": 1, "shape": "dot", "size": 10}, {"color": "#00ff1e", "id": "410_46", "label": "410_46", "level": 1, "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "410_11", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e this lecture is about the syntagmatic relation discovery and conditional entropy. in this lecture, we\u0027re going to continue the discussion of word association mining an analysis. we \u003c/plaintext\u003e", "to": "conditional entropy"}, {"from": "410", "to": "410_11"}, {"from": "410_12", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e tion. and how it can be used to discover syntagmatic relations? before we talked about a problem of conditional entropy, and that is the conditional entropy computed on different pairs of words is not really comparable, \u003c/plaintext\u003e", "to": "conditional entropy"}, {"from": "410", "to": "410_12"}, {"from": "410_13", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e he three concepts from information theory, entropy, which meshes uncertainly over random variable x conditional entropy, which measures the entropy of x. given we know why. and mutual information of x\u0026y which matches th \u003c/plaintext\u003e", "to": "conditional entropy"}, {"from": "410", "to": "410_13"}, {"from": "410_9", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e is would be very similar to what we had before in that this vector is actually something similar to word distribution or the exercise with sum to one. now the weight of bm25 for each word is defined here. and if you c \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_9"}, {"from": "410_16", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  lectures to talk about this topic. so the basic idea here is improved representation of topic as a word distribution. so what you see now is the old representation, where we represent each topic with just one word or \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_16"}, {"from": "410_17", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e r each word, and they sum to one. so now we can assume our text is a sample drawn according to this word distribution. that just means we\u0027re gonna draw a word each time and then eventually we\u0027ll get a text. so for exa \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_17"}, {"from": "410_18", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e rative model for text data. the simplest language model is unigram language model. it\u0027s basically a word distribution. we introduced the concept of likelihood function which is the probability of data given some model \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_18"}, {"from": "410_19", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e a sequence of words. each word here is denoted by x sub i. our model is a unigram language model, a word distribution that we hope to denote a topic and that\u0027s our goal. so we will have as many parameters as many word \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_19"}, {"from": "410_20", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  theta sub d and probability of theta sub b here. so this is the probability of selecting the topic word distribution. this is the probability of selecting the background word distribution denoted by theta sub b. now  \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_20"}, {"from": "410_21", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  motivation for using a mixture model and we hope to factor out the background words from the topic word distribution. so the idea is to assume that the text data actually contain two kinds of words. one kind is from  \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_21"}, {"from": "410_22", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e data point in the data. we also talk about the special case of fixing one component to a background word distribution, and this distribution can be estimated by using a collection of documents. a large collection of e \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_22"}, {"from": "410_23", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e rio of using a two component mixture model to try to factor out the background words from one topic word distribution here. so we are interested in computing this estimate. and we\u0027re going to try to adjust these proba \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_23"}, {"from": "410_24", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e t\u0027s why we call these hidden variables. now the idea that we talked about before for predicting the word distribution that has been used with the general the world is it\u0027ll predict this. the value of this hidden varia \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_24"}, {"from": "410_26", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e are asked, so one is pies and these are the coverage of topic in the document. and the other is the word distributions that characterize all the topics. so the next line then is simply to plug this in to calculate the \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_26"}, {"from": "410_27", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e topic theta sub-j. but the normalization is different because in this case we are interested in the word distribution. so we simply normalize this over all the words. this is different. in contrast, here we normalized \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_27"}, {"from": "410_28", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e this preference, then the only difference in the em algorithm is in the m step. when we re estimate word distributions, we are going to add. additional counts to reflect our prior right? so here you can see the pseudo \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_28"}, {"from": "410_29", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e achieve the same goal as plsa for text mining. it means it can compute the topic coverage and topic word distributions as in plsa. however, there is no free launch while the parameters for plsa\u00a0 is much fewer, there w \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_29"}, {"from": "410_31", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e nd we hope to generate as output two things. one is a set of topics denoted by theta i\u0027s. each is a word distribution and the other is a pi ij\u0027s and these are the probabilities that each document covers each topic. so \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_31"}, {"from": "410_32", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e fferent from the topic model. but we have similar parameters. we have a set of theta i\u0027s denote the word distributions corresponding to the k unigram language models. we have p of each theta i as the probability of se \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_32"}, {"from": "410_33", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e zer. so basically this normalizes the probability of generating this document by using this average word distribution. so you can see the normalizer here. and since we have used exact the same normalizer for the numer \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_33"}, {"from": "410_38", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e talked about before about text clustering, where we assume there are multiple topics represented by word distributions. each topic is 1 cluster. so once we estimate such model, we faced the problem of deciding which c \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_38"}, {"from": "410_47", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e ld be to use topic model. so given an entity, we can assume there are aspects that are described by word distributions. topics and then we can use a topic model to model the generation of the review text. our assumed  \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_47"}, {"from": "410_50", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e different locations, we assume that there are different views of the topic or different versions of word distributions that characterize a topic, and this assumption allows us to discover different variations of the s \u003c/plaintext\u003e", "to": "word distribution"}, {"from": "410", "to": "410_50"}, {"from": "410_13", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e of events in the observed data to estimate probabilities. and a commonly used technique is called a maximum likelihood estimate, where we simply normalize the observed accounts. so if we do that, we can see we can comp \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_17", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e . in this case, it turns out that our guesses are indeed the best in some sense, and this is called maximum likelihood estimate. and it\u0027s the best in that it would give our observed data the maximum probability. meanin \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_18", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e e and specifically, let\u0027s talk about the two different ways of estimating parameters. one is called maximum likelihood estimate that i already just mentioned. the other is bayesian estimation. so in maximum likelihood  \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_19", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e rested in estimating those parameters, for example by maximizing the likelihood which would lead to maximum likelihood estimator and these estimated parameters would then become the output of the mining algorithm. whic \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_20", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e oblem. well, this is obviously because these words are very frequent in our data and we are using a maximum likelihood estimate and then the estimator obviously would have to assign high probabilities for these words i \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_21", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  the model heuristically to try to factor out this background words. it\u0027s unclear whether if we use maximum likelihood estimator we will actually end up having order distribution where the common words like the will be \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_22", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e cause this has to do with understanding of important behavior of a mixture model and indeed all the maximum likelihood estimator. now if you look at the formula for a moment then you will see. it seems that now the obj \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_23", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e we\u0027re going to introduce the em algorithm, which is a family of useful algorithms for computing the maximum likelihood estimate of mixture models. so this is now familiar scenario of using a two component mixture model \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_26", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e unction shown here, the next is to worry about parameter estimation. and we can do the usual thing. maximum likelihood estimator. so again, it\u0027s a constrained optimization problem like what we have seen before, only th \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_27", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  tells us how to improve the parameters? and as i just explained in both e step formulas, we have a maximum likelihood estimator based on the allocated word \"counts to \"topic theta sub-j. now this phenomena is actually \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_28", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  to inject to guide the analysis. the standard plsa is going to blindly listen to the data by using maximum likelihood estimator. we are going to just fit data as much as we can and get some insight about data. this is \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_29", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e r is making an inference is now the parameters can be now estimated using exactly the same approach maximum likelihood estimator for lda. now you might think about how many parameters are there in lda versus plsa. you  \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_32", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e ck of functioning. now we can talk about how to do parameter estimation. here we can simply use the maximum likelihood estimator, so that\u0027s just a standard way of doing things, so all should be familiar to you now, it\u0027 \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_33", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e  parameters. in this lecture, we\u0027re going to talk more about how exactly we\u0027re going to compute the maximum likelihood estimator. now, as in most cases, the em algorithm can be used to solve this problem for mixture mo \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_38", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e are known to be generated from a category. will likely have higher probability, and that\u0027s just the maximum likelihood estimator indeed, and that\u0027s what we could do. so to estimate the probability of each category. and \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410_39", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e he prediction on the training data as accurate as possible. so, as in other cases, when compute the maximum likelihood estimator basically lets go find a beta value, a set of beta values that will maximize this conditi \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410", "to": "410_39"}, {"from": "410_46", "title": "\u003cplaintext style=\u0027word-break:break-all;\u0027\u003e ters and so we collectively denote all the parameters by lambda here. now we can, as usual, use the maximum likelihood is made and this will give us the settings of this premise that with the maximizer observed. observ \u003c/plaintext\u003e", "to": "maximum likelihood"}, {"from": "410", "to": "410_46"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "layout": {
+        "hierarchical": {
+            "blockShifting": true,
+            "edgeMinimization": true,
+            "enabled": true,
+            "levelSeparation": 150,
+            "parentCentralization": true,
+            "sortMethod": "hubsize",
+            "treeSpacing": 200
+        },
+        "improvedLayout": true,
+        "randomSeed": 0
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
