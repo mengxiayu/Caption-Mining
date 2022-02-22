@@ -1,0 +1,407 @@
+BUS181 Course Syllabus – Fall 2021
+
+
+
+BUS181_02
+
+Business Computer Applications 
+(3 credits)
+
+Class sessions & location: 
+TTH: 5:30-6:50 pm; 
+
+EMG B02
+
+Instructor:
+
+Julie Longson
+
+Julie.Longson@gallaudet.edu
+
+Tutor:
+
+TBD
+
+
+
+Office hours and location:
+
+T/TH: after class
+
+EMG 211B by appointment
+
+Available by appointment 
+
+Catalog Course Description 
+
+This course focuses on computer applications that are used widely in business. The course emphasizes the use of spreadsheets and database applications. Through hands-on training and lectures, student will learn to create professional looking spreadsheet documents and personal database management systems.
+Co-Requisites: BUS 101
+
+Textbooks & Other Materials:
+
+Required:
+
+eTextbook: MindTap® Computing, 1 term (6 months) Instant Access for Vermaat/Freund/Hoisington/Schmeider/Last/Pratt/Sebok/Starks' Shelly Cashman Series® Microsoft® Office 365 & Office 2019: Introductory, 1st Edition 
+(ISBN: 978-1-305-87043-7) 
+
+Optional:
+
+A laptop with Windows 10 operating system and MS Office 2019/365
+
+MINDTAP Portal instructions:
+
+	From your class in Blackboard, use the Cengage link to access the class portal
+
+	Create an account at cengage.com using below information using your Gallaudet email
+
+Blended Instructional Method:
+
+	Instructions will be delivered through classroom meetings, one-on-one meetings; and through self-paced hands-on and e-Learning activities. 
+
+	All required and optional learning materials are available on the course portals hosted by Blackboard MindTap online portal.
+
+Class Policies:
+
+		Class schedule published. Make every effort to come to class and to do all assigned homework on time, or you will have difficulty keeping up with the coursework. 
+
+		Class announcements and documents are posted on the Bb course portal. Students are expected to check the course portal and emails often.
+
+		All assignments and learning activities are hosted on the MindTap course portal. Please follow the weekly schedule for assignments due dates and times. Keep in mind, once the due date is passed, the associated assignment will become inaccessible.
+
+	Absences: Even with permitted absences, students are still responsible for obtaining materials distributed on class days when they are absent. Missed tests or quizzes cannot be made up unless pre-arrangements are made with the instructor. 
+
+	INC grade: Students will not be given an incomplete (INC) grade in the course without a solid reason, documented evidence, and completion of a significant portion of the course. The INC grade policy in the Undergraduate Catalog is strictly followed. 
+
+Instructor Help:
+
+	The instructor will provide help and tutoring via face-to-face and  zoom meetings TBA, email, and online chat. 
+
+	All email inquiries will be responded to within a 48-hour time frame.
+
+Academic Integrity Policy
+
+This course and the instructor adhere to the university Academic Integrity Policy (AIP) published at http://www.gallaudet.edu/Catalog/Registration_and_Policies/Undergrad_Policies/Academic_Integrity.html. Please read the policy in its entirety and comply.  Any violations of academic integrity, such as cheating, plagiarism, fabrication, will result in serious consequences including but not limited to F grade for the assignment or the course, XF grade for the course, suspension from the program or the university. 
+
+OSWD Policy
+
+Students with disabilities who require accommodation need to register with the Office for Students with Disabilities (OSWD) located in SAC 1022 in order to have their status certified and recorded. OSWD will contact the instructors to arrange for accommodation after certification has been issued. No accommodation can be provided prior to authorization by OSWD. For more information about OSWD policy, visit http://oswd.gallaudet.edu/Student_Affairs/Student_Support_Services/Office_for_Students_with_Disabilities/General_Information/Academic_Accommodations_Policy.html
+
+Reporting Responsibilities
+
+While I want you to feel comfortable coming to me with issues you may be struggling with or concerns you may be having, please be aware that I have some reporting requirements that are part of my job requirements at Gallaudet University. For example, if you inform me of an issue of sexual harassment, sexual assault, or discrimination I will keep the information as private as I can, but I am required to bring it to the attention of the Title IX Coordinator or EEO/AA office. If you would like to talk to those offices directly, they can be reached by contacting Sharrell McCaskill through VP (202-559-5683) or at her office in College Hall 312 or at the following website: https://www.gallaudet.edu/title-ix-at-gallaudet-university. Additionally, you can also report incidents or complaints to DPS. You can also get support at CAPS (Counseling and Psychological Services), SHS (Student Health Services) and the Ombudsman. Business Law II Syllabus Page 7 of 9 Fall Semester 2020 Another common example is if you are struggling with an issue that may be traumatic or unusual stress. I will likely inform the campus Behavioral Intervention Team (BIT) or CAPS. If you would like to reach out directly to them for assistance, you can contact them at https://www.gallaudet.edu/student-affairs/behavior-intervention-team. Finally, know that I am always willing to listen and give advice if needed  
+
+Grading:
+
+SAM Training (14)
+
+1400 Points
+
+
+
+SAM Exam – Skill Assessment (14)
+
+1400 Points
+
+
+
+SAM Textbook Project – Learning (12)
+
+1200 Points
+
+
+
+SAM Project 1 – Application (12)
+
+1200 Points
+
+
+
+SAM Capstone Project – Comprehensive Project/Exam (4)
+
+400 Points
+
+
+
+Total Possible Points:
+
+5600
+
+
+
+
+
+Final Grade:
+
+93 and above=A, 90-92=A-, 87-89=B+, 83-86=B, 80-82=B-,77-79=C+, 73-76=C, 70-72=C-, 67-69=D+, 60-66=D, BELOW 60=F
+
+Assignment Time Expectations (Weekly):
+
+For a skills acquisition course such as this, students are expected to devote sufficient time on practice in order to develop the target skills. Assignments, designed for students to learn, develop, and apply computer skills, are hosted on the MindTap portal and assigned weekly. Specifically,
+
+SAM Training – The observe-practice-apply learning activity is covered during class time. The expected time to complete the activity is about 30 minutes. For students without prior computer skills, it may take longer.
+
+SAM Exam – A skill assessment based on the training is assigned for each chapter/learning module as after class HW. The expected time on the assignment is about 2-3 hours depending on a student’s prior skills.
+
+SAM Textbook Project – A step-by-step tutorial from the textbook is covered during class time. The expected time to complete the activity is about 150 minutes. For students without prior computer skills, it may take longer.
+
+SAM Project 1 – An application project is assigned for each chapter/learning module as after class HW. The expected time on the assignment is about 3-4 hours depending on a student’s prior skills.
+
+The instructor reserves the right to change any portion of the syllabus when deemed necessary.
+
+
+
+Course Topics/Skills, Student Learning Outcomes, and Assessment:
+
+
+
+Course Topics/Skills:
+
+
+
+Through a hands-on approach, students will learn and develop fundamental skills using Microsoft Office 365 & Office 2019 (Word, Excel, Access, and PowerPoint). Specific topic/skill coverage includes: 
+
+		Document creation, editing, and formatting
+
+		Research paper/report with references and sources
+
+		Business letters with letterhead and tables
+
+		Spreadsheet creation and formatting
+
+		Formulas and functions
+
+		Charts, graphs, and what-if analysis
+
+		Database creation and objects
+
+		Database maintenance and query
+
+		Presentation creation, formatting, pictures, shapes, media, and animation
+
+
+
+
+
+
+Business Administration Program
+
+Student Learning Outcomes (SLOs) and Assessment of Learning:
+
+
+
+Graduates of BS in Business Administration Program will demonstrate competence and learning outcomes in the following six domains: 
+
+
+
+	Accurately apply fundamental business concepts, models and principles to address hypothetical or real-world business issues. (Common Business Knowledge & Inquiry)
+
+	Communicate effectively in both American Sign Language and written English in various formats and styles to a variety of audiences in multiple business contexts. (Communication)
+
+	Apply technological tools, and statistical and quantitative reasoning skills in analyzing and evaluating numerical information to support evidence-based business decisions. (Quantitative Reasoning & Technological Skills)
+
+	Critically assess business problems and develop well-supported solutions. (Critical Thinking & Problem Solving)
+
+Critically evaluate all business opportunities and challenges using a global business perspective. (Global Dimension)
+
+	Consistently act in a professional, ethical, and socially responsible manner, and collaborate effectively in teamwork when required. (Ethics & Social Responsibility)
+
+
+
+
+
+Gallaudet University
+
+Student Learning Outcomes
+
+
+
+The Gallaudet University Student Learning Outcomes can be found through the following link:
+
+
+
+https://www.gallaudet.edu/academic-catalog/undergraduate-education/learning-outcomes.html
+
+
+
+
+
+
+This chart shows the primary learning outcomes for this course, the learning opportunities for developing those outcomes, and the tools used to assess those outcomes.  It also shows how the course outcomes align with the outcomes of the Business Administration program and of the university.
+
+
+
+
+
+BUS181 Course Student Learning Outcomes (SLOs):
+
+
+
+Students will:
+
+COURSE SLOs: BUS181 Business Computer Applications
+
+BUS SLOs 
+
+GU SLOs
+
+Critical Assessments
+
+Assessment Tools & Expected Levels
+
+Create, edit, and format Word documents including business letters, envelops, resumes, flyers, and research paper/reports
+
+1. Common Business Knowledge & Inquiry 
+
+2. Communication
+
+4. Critical Thinking & Problem Solving
+
+ Bilingualism (b, d, e)
+
+Critical Thinking
+
+(c, d)
+
+Career Readiness
+
+(b, c, d,)
+
+Digital Awareness (a, b, c, e)
+
+case projects, capstone project, skill assessments, final exam
+
+75% or better on case projects; 
+75% or above on skill assessments;
+70% or above on capstone project;
+
+70% or above on final exam
+
+Create, edit, and format Excel spreadsheets; manipulate numerical data using formulas and functions; present data using graphing tools
+
+1. Common Business Knowledge & Inquiry 
+
+3. Quantitative Reasoning & Technological Skills 
+
+4. Critical Thinking & Problem Solving
+
+Bilingualism (b, d, e)
+
+Critical Thinking
+
+(c, d)
+
+Career Readiness
+
+(b, c, d,)
+
+Digital Awareness (a, b, c, e)
+
+case projects, capstone project, skill assessments, final exam
+
+75% or better on case projects; 
+75% or above on skill assessments;
+70% or above on capstone project;
+
+70% or above on final exam
+
+Create, edit, and format Access database files; maintain and query a database; create forms and reports
+
+1. Common Business Knowledge & Inquiry 
+
+4. Critical Thinking & Problem Solving
+
+Bilingualism (b, d, e)
+
+Critical Thinking
+
+(c, d)
+
+Career Readiness
+
+(b, c, d,)
+
+Digital Awareness (a, b, c, e
+
+case projects, capstone project, skill assessments, final exam
+
+75% or better on case projects; 
+75% or above on skill assessments;
+70% or above on capstone project;
+
+70% or above on final exam
+
+Create, edit, and format PowerPoint presentations; manipulate text and graphic objects; apply animation techniques
+
+1. Common Business Knowledge & Inquiry 
+
+2. Communication
+
+4. Critical Thinking & Problem Solving
+
+Bilingualism (b, d, e)
+
+Critical Thinking
+
+(c, d)
+
+Career Readiness
+
+(b, c, d,)
+
+Digital Awareness (a, b, c, e
+
+case projects, capstone project, skill assessments, final exam
+
+75% or better on case projects; 
+75% or above on skill assessments;
+70% or above on capstone project;
+
+70% or above on final exam
+
+
+
+Weekly assignments are located on MindTap Course Portal in Blackboard.
+
+
+
+
+
+Disclaimer:  The instructor reserves the right to change the planned schedule as needed.
+
+
+
+
+
+Masking Requirements
+
+The university has a mask policy that utilizes three colors: green, yellow and red. Please click on this link to read about the university’s mask policy: Gallaudet University mask policy. 
+
+Under the current Yellow Mask Policy Status, all faculty and students are required to wear masks indoors, including in face-to-face classes that are held indoors. We have ordered a very large supply of clear masks that fit above the nose and under the chin. It takes some time to get used to them but please follow the mask posted mask status.  
+
+Mask Etiquette
+
+As we monitor the Mask Status (Green, Yellow, Red) to determine when and where we must mask-up, there may be certain students, faculty, and/or staff who may wish to mask-up even if they are not required to. This decision might cause stigma/taboo by others which might lead to assumptions that they are not vaccinated, which we know not to be always true. We have students who are vaccinated who prefer to wear masks all the time or  are medically unable to be vaccinated so please be sensitive to their position with respect and civility. 
+
+What Will Happen if People Refuse to Wear a Mask
+
+We expect that most if not all people will respect the indoor mask policy. If a person refuses to wear a mask in class or takes off their mask and does not put it back on, they will be asked to leave the class immediately and meet with their instructor about the incident. The instructor is required to report such incidents to Student Accountability Restorative Practice (SARP) immediately after class with the student’s name and a summary of the incident. SARP will follow up right away with the student. Such incidents may lead to disciplinary action. 
+
+Safety on Campus
+
+We are back on campus and the university is fully open. Our administration, staff and faculty have worked hard to make our campus as safe as possible. We have required everyone to be vaccinated or to be approved for a waiver (which requires strict mask-wearing requirements indoors and outdoors). We now require everyone, vaccinated or not, to wear masks indoors as part of DC Health requirements and the Yellow Mask Policy Status. Weekly COVID testing is required for all members of our community, and everyone is required to submit a health screening each time they enter our campus. With all of these requirements in place, we are hopeful that we can provide a positive educational experience for our students on campus. In turn, we ask our students to observe safety protocols and to make sensible and healthy decisions for themselves both on and off campus that will protect themselves and others from possible COVID exposure.
+
+There Will be No Virtual Versions of Courses that are Face - to - Face
+
+We all know how important face-to-face engagement is to our learning mission. We understand  that there are concerns from students about participating in person. Some students have individually approached their faculty or advisors to ask for virtual versions of face-to-face courses. Faculty teaching in person will not make course content for the semester available asynchronously online or to offer hyflex options (where some students attend in person and others join via zoom).
+
+Student Absences for Quarantine and/or Health Reasons
+
+Students or faculty may become ill during the semester. In these situations, we will follow public health and safety protocols.
+
+Quarantine. A number of students will need to quarantine upon arrival in Washington, DC based on guidelines from the DC Department of Health for unvaccinated or partially vaccinated individuals traveling to the area. Faculty with affected students in their classes,  have been asked to work with them on a short-term basis to allow them to complete coursework while quarantining. Students in this situation should notify their instructors  directly of their circumstances. 
+
+Health absences. Similarly, students may need to miss classes throughout the semester for health reasons. Given that we want any student who is experiencing symptoms of illness to refrain from attending in-person classes, we have asked faculty to be flexible in granting short-term excused absences (i.e., one to two classes). The Office of the Dean of Student Affairs will provide notice of absence for those students who need to take more prolonged absences or undergo quarantine/isolation.  
+
+Faculty will support students who become ill during the semester as normal. Your instructors will share PowerPoints or other in-class materials electronically, allow for extensions on assignments, and ensure that students’ participation grades are not negatively impacted. Students should be expected to make up for any missed work.
+
+Contact Tracing. The university will continue to test and contact trace for anyone who tests positive for COVID-19 within our community and will notify instructors, support staff, and classmates if an individual was in their presence while potentially infectious. If a student, faculty, or staff member learns that an individual with whom they’ve interacted tested positive but does not receive official notification, they should assume that contact tracing has determined that the interaction took place outside that person’s infectious period. Faculty and staff should direct questions to coronavirus@gallaudet.edu and suspected exposure to contact.tracing@gallaudet.edu.

@@ -1,0 +1,644 @@
+DEPARTMENT OF BUSINESS
+
+Business Administration Program Syllabus
+
+
+
+						
+
+
+
+
+
+
+
+DEPARTMENT OF BUSINESS
+
+Business Administration Program Syllabus
+
+						
+
+
+
+							General Information
+
+							
+
+Course Title:  Management Information Systems
+
+Course Number:  BUS381
+
+Semester:  Fall, 2021
+
+Number of Credits:  3
+
+Instructor Name:  Kristinn Bjarnason
+Email:  kristinn.bjarnason@gallaudet.edu
+
+Phone/VP:  202-618-6880
+
+Office Hours: By Appointment only:  EMG 211B
+
+Class Days/Time/Location:  Tuesdays and Thursdays: 4:00-5:20 PM; Location: SAC1214
+
+							
+
+Catalog Description:
+
+An introduction to data and information processing concepts and systems viewed from a contemporary management perspective. The course and the lab provide the conceptual foundations in understanding technologies, such as computer hardware and software; the Internet; networking; security; enterprise computing; e-commerce; database management; and how information systems support business functions.
+
+Prerequisites: Business department majors only or permission of the department.
+
+Course Materials—Cengage Unlimited Subscription for one semester
+
+Fundamentals of Information Systems, 9th Edition, by Stair and Reynolds; MindTap® Computing, 6-month instant access; ISBN-13: 978-1-337-09753-6; MindTap Course Key: MTPPZB5QB35X
+
+New Perspectives Microsoft Office 365 & Excel 2016: Comprehensive, by Carey; MindTap® Computing, 6-month instant access; ISBN-13: 978-1-305-88074-0. MindTap Course Key: 
+MTPP3SWQ2ZGQ
+
+Required—Windows PC or Windows Laptop with MS Office 365 installed.
+
+MINDTAP Portal Instructions:
+
+Create an account at cengage.com or use your existing account to log in.
+
+Input your Cengage Unlimited Subscription Access Code (purchased at eCampus.com)
+
+Input Course Keys to enter the course—BUS381-Excel_FL21 and BUS381-MIS_FL21
+
+							Requirements and Grading
+
+Bison Letter Grade Equivalencies:
+
+The Department of Business grading system is:
+
+93% and Above	A
+
+80 – 82%		B-
+
+67 – 69%		D+
+
+90 – 92%		A-
+
+77 – 79%		C+
+
+60 – 66%		D
+
+87 - 89%		B+
+
+73 – 76%		C
+
+Below 60%		F
+
+83 - 86%		B
+
+70 – 72%		C-
+
+
+
+
+
+
+
+
+
+
+Major Assignments and Grading Policy:  
+
+Requirement 								Percentage of Grade
+
+
+
+MindTap eLearning Assignments (Unit Tests)					5%
+
+Class Discussion—Bb Discussion Forum						10%
+
+Excel Training/Exams									10%
+
+Excel Projects & Capstone								30%
+
+MOS Skill Training & Practice Exams 						5%
+
+Passing Microsoft Office Specialist (MOS) Excel 2016 Expert Certification Exam
+ (MOS Exam 77-728)								40%
+
+
+
+	Assignments & Study/Preparation Time Expectations:	
+
+Assignments, designed for students to learn, develop, and apply concepts and skills in MIS, are assigned weekly. Specifically,
+
+Unit eLearning Activities (putting principles into practice & unit test) hosted on the MindTap BUS381-MIS_FL21 portal are assigned as Monday class activities and homework. The estimated time to complete the activities is about 1-2 hours weekly depending on a student’s prior skills.
+
+Class Discussion topics, hosted on the Bb portal, are assigned for each unit. The estimated time to complete the activities is about 1-2 hours weekly depending on a student’s prior skills. The questions are based on the content in the Fundamentals of Information Systems textbook. Your postings in the discussion forums will be reviewed and graded with feedback provided online. You can access the Discussion Board inside Discussion Questions folder on the Bb course portal. Make sure you follow the instructions and post well prepared answers by the deadlines. Specifically:
+
+Students who contribute to the discussion forum must 1) select at least one unanswered question to post your answer entry by Tuesday (if you like a question, act early) and 2) read and respond to at least two peer entries to questions by Wednesday. If a peer posts additional question to your entry, you must reply. In short, you must monitor and maintain your posts. 
+
+Excel Skill Training Activities (trainings-exams-projects) hosted on the MindTap BUS381-Excel_FL21 portal, are assigned weekly. The expected preparation time is about 3-4 hours weekly depending on a student’s prior skills.
+
+SAM/MOS Training – The observe-practice-apply learning activities, unlimited attempt.
+
+SAM/MOS Exam – A skill assessment based on the training, 3 attempts for each task/activity.
+
+SAM Textbook Project – A step-by-step tutorial from the textbook, 3 attempts.
+
+SAM Project 1 – An application project to reinforce skills, 3 attempts.
+
+Skill-based Assessment: Passing Microsoft Office Specialist (MOS) in Excel Expert Certification Exam hosted on the CertiPort portal at https://certiport.pearsonvue.com/; the expected preparation time for the exam is about 8-10 hours depending on a student’s prior skills.
+
+
+
+
+
+Homework Grading and Policy:
+
+
+
+All homework (HW) and assignment must be completed by the due dates to earn full credit. Late submission of HW is subject to the following penalty:
+
+10% deduction of the HW grade for each day the submission is delayed.
+
+After 6 days passing the due date, no credit will be given for the late submission.
+
+Gradesheet maintenance requirement: Students are required to input their assignment scores into the instructor provided gradesheet file. The final grade is automatically calculated after each score input. In this way, students will always know where they stand in their learning progress and adjust their effort in the coursework accordingly. 
+
+     Tentative Class Assignment and Schedule - BUS 381.01 Fall 2021
+      Follow MindTap portals Schedule for Assignments Due Dates.
+
+Wk
+
+Date
+
+Topic
+
+Assignment
+Due by 11:59 PM (EST) 
+
+1
+
+08/31
+
+BUS 381 Introduction
+Course Portal orientation, registration, and enrollment
+Bb courses portal, MindTap course portals for MIS and Excel 
+
+
+
+
+
+09/02
+
+Excel Module 2 Skill Review (training/exam/projects)
+
+
+
+2
+
+09/07
+
+Chapter 1: An Introduction to Information Systems
+MindTap PreTest (20 questions); Unit1 Test (40 Questions)
+
+Discussion Forum Chapter 1 - initial post
+
+
+
+09/09
+
+Excel Module 3 Skill Review (training/exam/projects)
+
+Discussion Forum Chapter 1 – responding post
+
+3
+
+09/14
+
+Chapter 2: Hardware and Software 
+MindTap Unit2 Test (40 Questions)
+
+Discussion Forum Chapter 2 - initial post
+
+
+
+09/16
+
+Excel Module 4 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 2 – responding post
+
+4
+
+09/21
+
+Chapter 3: Database Systems and Big Data
+MindTap Unit3 Test (40 Questions)
+
+Discussion Forum Chapter 3 - initial post
+Excel Module 1-4 Capstone Project
+
+
+
+09/23
+
+Excel Module 5 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 3 – responding post
+
+5
+
+09/28
+
+Chapter 4: Networks and Cloud Computing
+MindTap Unit4 Test (40 Questions)
+
+Discussion Forum Chapter 4 - initial post
+
+
+
+09/30
+
+Excel Module 6 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 4 – responding post
+
+6
+
+10/05
+
+Chapter 5: Electronic Commerce and Enterprise Systems
+MindTap Unit5 Test (40 Questions)
+
+Discussion Forum Chapter 5 - initial post
+
+
+
+10/07
+
+Excel Module 7 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 5 – responding post
+
+7
+
+10/12
+
+Chapter 6: Business Intelligence and Analytics
+MindTap Unit6 Test (40 Questions)
+
+Discussion Forum Chapter 6 - initial post
+
+
+
+10/14
+
+Excel Module 8 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 6 – responding post
+
+8
+
+10/19
+
+Chapter 7: Knowledge Management and Specialized Information Systems
+MindTap Unit7 Test (40 Questions)
+
+Discussion Forum Chapter 7 - initial post
+Excel Module 5-8 Capstone Project
+
+
+
+10/21
+
+Excel Module 9 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 7 – responding post
+
+9
+
+10/26
+
+Chapter 8: System Acquisition and Development
+MindTap Unit8 Test (40 Questions)
+
+Discussion Forum Chapter 8 - initial post
+
+
+
+10/28
+
+Excel Module 10 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 8 – responding post
+
+10
+
+11/02
+
+Chapter 9: Cybercrime and Information System Security
+MindTap Unit9 Test (40 Questions)
+
+Discussion Forum Chapter 9 - initial post
+
+
+
+11/04
+
+Excel Module 11 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 9 – responding post
+
+11
+
+11/09
+
+Chapter 10: Ethical, Legal, and Social Issues of Information Systems
+MindTap Unit10 Test (40 Questions); PostTest (20 Questions)
+
+Discussion Forum Chapter 10 - initial post
+
+
+
+11/11
+
+Excel Module 12 Skill Training & Practice (training/exam/projects)
+
+Discussion Forum Chapter 10 – responding post
+
+12
+
+11/16
+
+MOS Training & Practice Exams
+
+Excel Module 9-12 Capstone Project
+
+
+
+11/18
+
+MOS Training & Practice Exams
+
+
+
+13
+
+11/23
+
+Fall break – No classes
+
+
+
+
+
+11/25
+
+Fall break – No classes
+
+
+
+14
+
+11/30
+
+GMetrix Excel Practice Training & Tests
+
+
+
+
+
+12/02
+
+GMetrix Excel Practice Training & Tests
+
+
+
+15
+
+12/07
+
+GMetrix Excel Practice Training & Tests
+
+
+
+
+
+12/09
+
+GMetrix Excel Practice Training & Tests
+
+
+
+16
+
+12/15 
+
+MOS Excel Certification from Home (MOS Exam 77-728) at 3:30 pm
+
+
+
+      Schedule changes will be announced via Bb Course Portal where updated schedule will be posted.
+
+							Class Policies:  
+
+
+
+Gallaudet University Academic Integrity Policy: 
+
+It is the student’s responsibility to familiarize themselves and comply with the Gallaudet University Undergraduate Academic Integrity Policy, which can be found in the Gallaudet University Undergraduate Catalog or on the Gallaudet University website at https://gallaudet.smartcatalogiq.com/2020-2021/Undergraduate-Catalog/Registration-and-Policies/Undergraduate-Policies/Undergraduate-Academic-Integrity-Policy.  Please read the policy in its entirety and comply.  Any violations of academic integrity, such as cheating, plagiarism, fabrication, will result in serious consequences including but not limited to F grade for the assignment or the course, XF grade for the course, suspension from the program or the university.
+
+
+
+Gallaudet Undergraduate Academic Calendar:
+
+It is the student’s responsibility to familiarize themselves with Gallaudet University’s Academic Calendar with respect to when classes meet, and holidays are.  The Academic Calendar can be found at the Gallaudet University website at https://www.gallaudet.edu/registrar/academic-calendars/undergraduate-academic-calendar
+
+
+
+OSWD Academic Accommodation Policy: 
+
+Students who require accommodations need to register with the Office for Students with Disabilities (OSWD) located in SAC 1242 in order to have their status certified and recorded. OSWD will contact the instructors to arrange for accommodation, but only after certification has been determined. No accommodation can be provided prior to authorization by OSWD. For more information about OSWD policy, go to https://gallaudet.smartcatalogiq.com/en/2020-2021/Undergraduate-Catalog/Registration-and-Policies/Undergraduate-Policies/Academic-Accommodations-Policy
+
+
+
+ADA Compliance 
+
+For information on your rights under the ADA and Section 504 of the Rehabilitation ACT, please see https://www.gallaudet.edu/administration-and-finance/administration-and-operations-manual/110-reasonable-accommodation/
+
+
+
+The Ombuds Support:
+
+												If issues arise related to this course, please contact me (kristinn.bjarnason@gallaudet.edu). If you would like the assistance of an impartial third-party regarding a course-related issue you may contact the Office of the Ombuds. The Ombuds is available as a confidential and neutral resource to assist with the informal resolution of conflicts and concerns. The Office is located at Ely Center 113. Videophone: 202.559.5079. E-mail: ombuds@gallaudet.edu. Website: https://www.gallaudet.edu/office-of-the-ombuds/
+
+												
+
+												Class Cancellation or University Closing:
+
+												If the university closes for any reason or the instructor unexpectedly miss class, that day’s work will be conducted via Blackboard. Check the announcement section of Blackboard for specific instructions, which will be posted by class time if possible.
+
+												
+
+												Credit Hour Compliance:
+
+This course earns 3 credits; therefore, students will spend 150 minutes in class per week for 15 weeks, resulting in 37.5 hours of instructional time for the semester. Students are expected to spend at least 5 hours per week for a total of 75 hours on outside-of-class preparation (e.g. readings, assignments). These two sums should result in total student engagement time of 112.5 hours for the course. Note that these time allotments are minimums, not maximums.
+
+
+
+
+
+      
+
+Statement Regarding Possibility of Syllabus and/or Schedule Change:  
+
+At times, topics shown in this syllabus may be taught in a different sequence, new topics added, and others adjusted. This will ensure the relevancy of the course and enhance your learning.  Please be prepared to be flexible and adjust as this class evolves. All notifications of changes will be done through Blackboard announcements and emails.
+
+
+Reporting Responsibilities: While I want you to feel comfortable coming to me with issues you may be struggling with or concerns you may be having, please be aware that I have some reporting requirements that are part of my job requirements at Gallaudet University. For example, if you inform me of an issue of sexual harassment, sexual assault, or discrimination I will keep the information as private as I can, but I am required to bring it to the attention of the Title IX Coordinator or EEO/AA office. If you would like to talk to those offices directly, they can be reached by contacting Sharrell McCaskill through VP (202-559-5683) or at her office in College Hall 322 or at the following website: https://www.gallaudet.edu/title-ix/
+
+Additionally, you can also report incidents or complaints to DPS. You can also get support at CAPS (Counseling and Psychological Services), SHS (Student Health Services) and the Ombudsman. Another common example is if you are struggling with an issue that may be traumatic or unusual stress. I will likely inform the campus Behavioral Intervention Team (BIT) or CAPS. If you would like to reach out directly to them for assistance, you can contact them at https://www.gallaudet.edu/student-affairs/behavior-intervention-team. Finally, know that I am always willing to listen and give advice if needed.
+
+
+
+Masking Requirements
+
+The university has a mask policy that utilizes three colors: green, yellow and red. Please click on this link to read about the university’s mask policy: Gallaudet University mask policy. 
+
+Under the current Yellow Mask Policy Status, all faculty and students are required to wear masks indoors, including in face-to-face classes that are held indoors. We have ordered a very large supply of clear masks that fit above the nose and under the chin. It takes some time to get used to them but please follow the mask posted mask status. 
+
+
+
+Mask Etiquette
+
+As we monitor the Mask Status (Green, Yellow, Red) to determine when and where we must mask-up, there may be certain students, faculty, and/or staff who may wish to mask-up even if they are not required to. This decision might cause stigma/taboo by others which might lead to assumptions that they are not vaccinated, which we know not to be always true. We have students who are vaccinated who prefer to wear masks all the time or are medically unable to be vaccinated so please be sensitive to their position with respect and civility. 
+
+
+
+What Will Happen if People Refuse to Wear a Mask
+
+If a person refuses to wear a mask in class or takes off their mask and does not put it back on, they will be asked to leave the class immediately and meet with their instructor about the incident. The instructor is required to report such incidents to Student Accountability Restorative Practice (SARP) immediately after class with the student’s name and a summary of the incident. SARP will follow up right away with the student. Such incidents may lead to disciplinary action. 
+
+
+
+Student Absences for Quarantine and/or Health Reasons
+
+Students or faculty may become ill during the semester. In these situations, we will follow public health and safety protocols.
+
+Quarantine. A number of students will need to quarantine upon arrival in Washington, DC based on guidelines from the DC Department of Health for unvaccinated or partially vaccinated individuals traveling to the area. Faculty with affected students in their classes, have been asked to work with them on a short-term basis to allow them to complete coursework while quarantining. Students in this situation should notify their instructors directly of their circumstances. 
+
+Health absences. Similarly, students may need to miss classes throughout the semester for health reasons. Given that we want any student who is experiencing symptoms of illness to refrain from attending in-person classes, we have asked faculty to be flexible in granting short-term excused absences (i.e., one to two classes). The Office of the Dean of Student Affairs will provide notice of absence for those students who need to take more prolonged absences or undergo quarantine/isolation.  
+
+Faculty will support students who become ill during the semester as normal. Your instructors will share PowerPoints or other in-class materials electronically, allow for extensions on assignments, and ensure that students’ participation grades are not negatively impacted. Students should be expected to make up for any missed work.
+
+Contact Tracing. The university will continue to test and contact trace for anyone who tests positive for COVID-19 within our community and will notify instructors, support staff, and classmates if an individual was in their presence while potentially infectious. If a student, faculty, or staff member learns that an individual with whom they’ve interacted tested positive but does not receive official notification, they should assume that contact tracing has determined that the interaction took place outside that person’s infectious period. Faculty and staff should direct questions to coronavirus@gallaudet.edu and suspected exposure to contact.tracing@gallaudet.edu.
+
+
+
+ 
+
+Student Learning Outcomes (SLOs):  
+
+Please see the end of the syllabus for a complete chart of SLOs, critical learning opportunities, assessment methods, and alignment with program and university outcomes as well as those required by the Accreditation Council for Business Schools and Programs (ACBSP).
+
+
+
+Student Learning Outcomes (SLOs) and Assessment of Learning: 
+
+This chart shows the primary learning outcomes for this course, the learning opportunities for developing those outcomes, and the tools used to assess those outcomes.  It also shows how the course outcomes align with the outcomes of the Business Administration program and of the university.
+
+BUS381 Student Learning Outcomes
+
+Critical Learning Opportunities
+
+Tools for Assessment & Expected Levels
+
+Business Administration Program SLOs
+
+GU SLOs
+
+Demonstrate competency in applying concepts and theories related to information technology (e.g., digital content & devices, security, networks, the Web, social media, software, programming, database, information systems, etc.) 
+
+eLearning activities & assignments
+
+Class discussions
+
+Performance-based assessment
+
+Discussion Rubric
+
+1, 2, 3, 4
+
+2, 4
+
+Apply technologies to analyze data and solve business problems. 
+
+eLearning activities & assignments
+
+Excel hands-on projects
+
+Performance-based assessment
+
+
+
+1, 4
+
+2, 4
+
+Demonstrate quantitative reasoning skills and technical mastery by performing advanced data analytical tasks using MS Excel 365/2016, a common business computing tool.
+
+Microsoft Office Specialist in Advanced Excel 2016 training 
+
+Passing MOS Certification Exam in Advanced Excel (MOS Exam 77-728)
+
+3
+
+1, 2, 4
+
+Demonstrate effective communication skills (writing & presentation) in technical environment 
+
+eLearning activities & assignments
+
+Class discussions
+
+Performance-based assessment
+
+Discussion Rubric
+
+1, 2, 3, 4
+
+1, 2, 4
+
+		
+
+Business Administration Program
+
+Student Learning Outcomes
+
+Business Program SLOs AY18-19
+
+Graduates of BS in Business Administration Program will demonstrate competence and learning outcomes in the following six domains: 
+
+	Accurately apply fundamental business concepts, models and principles to address hypothetical or real-world business issues. (Common Business Knowledge & Inquiry)
+
+	Communicate effectively in both American Sign Language and written English in various formats and styles to a variety of audiences in multiple business contexts. (Communication)
+
+	Apply technological tools, and statistical and quantitative reasoning skills in analyzing and evaluating numerical information to support evidence-based business decisions. (Quantitative Reasoning & Technological Skills)
+
+	Critically assess business problems and develop well-supported solutions. (Critical Thinking & Problem Solving)
+
+Critically evaluate all business opportunities and challenges using a global business perspective. (Global Dimension)
+
+	Consistently act in a professional, ethical, and socially responsible manner, and collaborate effectively in teamwork when required. (Ethics & Social Responsibility)
+
+
+
+Gallaudet University
+
+Student Learning Outcomes
+
+
+
+The Gallaudet University Student Learning Outcomes can be found through the following link:
+
+
+
+https://www.gallaudet.edu/academic-catalog/undergraduate-education/learning-outcomes.html
