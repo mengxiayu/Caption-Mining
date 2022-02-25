@@ -1,4 +1,4 @@
-# process syllabus data
+# process syllabus data and generate obsidian concept map
 # each txt file is a course
 
 from collections import Counter
@@ -65,7 +65,13 @@ def extract_ngrams():
                 if v > 1:
                     concept_list.append([k,v])
                     # print(k,v)
-            course_name = fn.split("Syllabus")[0]
+            if "Syllabus" in fn:
+                course_name = fn.split("Syllabus")[0]
+            elif "Syllaus" in fn:
+                course_name = fn.split("Syllaus")[0]
+            else:
+                course_name = fn.split("-")[0]
+            # course_name = fn.split("Syllabus")[0]
             fw = open(output_dir+dept+'/'+course_name+'.md', 'w', encoding='utf-8')
             fw.write("#course\n")
             fw.write(f"#{dept}\n")
