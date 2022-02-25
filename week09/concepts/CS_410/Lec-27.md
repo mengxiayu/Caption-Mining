@@ -1,0 +1,13 @@
+#lecture
+[[language model]]
+[[background language]]
+[[unigram language]]
+[[mixture model]]
+[[language models]]
+[[word distributions]]
+[[word distribution]]
+[[likelihood estimator]]
+[[bayes rule]]
+[[maximum likelihood estimator]]
+[[background language model]]
+[[maximum likelihood]]

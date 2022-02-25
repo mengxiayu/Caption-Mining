@@ -1,0 +1,11 @@
+#lecture
+[[main memory]]
+[[file descriptor]]
+[[disk block]]
+[[race condition]]
+[[whole load]]
+[[six bytes]]
+[[operating system]]
+[[virtual memory]]
+[[child process]]
+[[memory location]]

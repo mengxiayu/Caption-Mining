@@ -1,0 +1,13 @@
+#lecture
+[[conditional probability]]
+[[related words]]
+[[sentiment analysis]]
+[[topic models]]
+[[overall ratings]]
+[[parameter values]]
+[[opinion mining]]
+[[aspect ratings]]
+[[bayesian inference]]
+[[aspect rating]]
+[[topic model]]
+[[maximum likelihood]]

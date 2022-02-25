@@ -1,0 +1,11 @@
+#lecture
+[[heat memory]]
+[[void pointer]]
+[[c library]]
+[[main method]]
+[[six bytes]]
+[[heap memory]]
+[[c code]]
+[[c string]]
+[[memory location]]
+[[memory address]]

@@ -1,0 +1,11 @@
+#lecture
+[[text objects]]
+[[text mining]]
+[[text clustering]]
+[[mixture model]]
+[[generative model]]
+[[text object]]
+[[similarity function]]
+[[clustering bias]]
+[[mutual information]]
+[[training data]]
