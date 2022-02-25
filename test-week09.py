@@ -5,7 +5,7 @@ from collections import Counter
 from nltk.corpus import stopwords
 stops = set(stopwords.words('english'))
 
-stops |= {"one", "many", "little", "different", "thing", "two", "theta" , "get", "semester","hour","class","week","textbook","students","mask","part","office","hour","assignments"}
+stops |= {"one", "many", "little", "different", "thing", "two", "theta" , "get", "semester","hour","class","week","textbook","students","student","mask","part","office","hour","assignments","syllabus","exam","grade"}
 # print(stops)
 import spacy
 nlp = spacy.load("en_core_web_sm")
