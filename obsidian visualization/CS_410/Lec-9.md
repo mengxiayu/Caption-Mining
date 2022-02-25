@@ -1,0 +1,13 @@
+#lecture
+[[relation discovery]]
+[[paradigmatic relations]]
+[[syntagmatic relation]]
+[[common words]]
+[[text retrieval]]
+[[syntagmatic relations]]
+[[scoring function]]
+[[word distribution]]
+[[paradigmatic relation]]
+[[similarity function]]
+[[total number]]
+[[general idea]]

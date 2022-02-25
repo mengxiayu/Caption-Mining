@@ -1,0 +1,11 @@
+#lecture
+[[opinion holder]]
+[[data point]]
+[[contextual text]]
+[[sentiment analysis]]
+[[text mining]]
+[[contextual text mining]]
+[[data mining]]
+[[opinion mining]]
+[[machine learning]]
+[[topic mining]]

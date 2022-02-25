@@ -1,0 +1,11 @@
+#lecture
+[[logistic regression]]
+[[sentiment analysis]]
+[[scoring function]]
+[[text object]]
+[[parameter values]]
+[[categorization problem]]
+[[sentiment classification]]
+[[total number]]
+[[logistical regression]]
+[[training data]]

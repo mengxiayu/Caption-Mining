@@ -1,4 +1,4 @@
-./data/
+data/
 week01/
 week02/
 week03/
@@ -10,3 +10,5 @@ week07/*.txt
 
 .obsidian
 *.zip
+
+package-lock.json

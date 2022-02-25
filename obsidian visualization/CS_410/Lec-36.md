@@ -1,0 +1,13 @@
+#lecture
+[[text objects]]
+[[text categorization]]
+[[sentiment analysis]]
+[[multiple topics]]
+[[text mining]]
+[[training examples]]
+[[text object]]
+[[data mining]]
+[[opinion mining]]
+[[information retrieval]]
+[[categorization problem]]
+[[topic mining]]

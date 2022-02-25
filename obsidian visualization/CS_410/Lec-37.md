@@ -1,0 +1,13 @@
+#lecture
+[[text objects]]
+[[objective function]]
+[[text categorization]]
+[[conditional probability]]
+[[data point]]
+[[optimization problem]]
+[[text object]]
+[[naive bayes]]
+[[machine learning]]
+[[categorization problem]]
+[[logistical regression]]
+[[training data]]

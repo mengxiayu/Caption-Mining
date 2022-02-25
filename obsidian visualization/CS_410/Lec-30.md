@@ -1,0 +1,12 @@
+#lecture
+[[text objects]]
+[[high probabilities]]
+[[text mining]]
+[[topic models]]
+[[text clustering]]
+[[text object]]
+[[data mining]]
+[[world distribution]]
+[[clustering bias]]
+[[topic model]]
+[[topic mining]]

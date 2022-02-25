@@ -1,0 +1,69 @@
+mutex lock 204
+file system 172
+file descriptor 171
+linked list 110
+web server 94
+c library 80
+mutex locks 77
+condition variable 67
+port number 65
+file descriptors 60
+address info 59
+return value 55
+whole load 55
+multiple threads 51
+link list 50
+thread mutex 48
+ip address 47
+heap memory 44
+exclusive access 44
+file systems 44
+c code 43
+child process 43
+cpu time 43
+virtual memory 42
+symbolic link 42
+void pointer 41
+code review 40
+main method 40
+counting semaphores 38
+peter condition 37
+memory address 37
+whole lot 37
+standard error 36
+web page 35
+operating system 35
+six bytes 35
+c string 35
+page table 35
+wait time 34
+write code 33
+meta information 33
+thread exit 33
+pizza slice 32
+counting semaphore 32
+memory location 32
+ring buffer 32
+condition variables 31
+race condition 31
+network card 30
+disk blocks 30
+indirect blocks 30
+main memory 29
+peter mutex 29
+thread condition 28
+dot text 28
+address space 27
+web browser 27
+file handle 26
+heat memory 26
+disk block 26
+tcp connection 26
+p thread mutex 40
+p thread exit 27
+p thread condition 25
+resource allocation graph 20
+particular file descriptor 17
+peter mutex lock 15
+p threat condition 12
+ip four address 11

@@ -1,0 +1,13 @@
+#lecture
+[[standard error]]
+[[symbolic link]]
+[[file systems]]
+[[whole lot]]
+[[whole load]]
+[[dot text]]
+[[file system]]
+[[return value]]
+[[meta information]]
+[[c code]]
+[[port number]]
+[[memory location]]

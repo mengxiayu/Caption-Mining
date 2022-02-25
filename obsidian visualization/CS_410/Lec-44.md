@@ -1,0 +1,11 @@
+#lecture
+[[opinion holder]]
+[[text categorization]]
+[[related words]]
+[[language processing]]
+[[sentiment analysis]]
+[[text mining]]
+[[special case]]
+[[text object]]
+[[machine learning]]
+[[sentiment classification]]
