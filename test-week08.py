@@ -106,21 +106,22 @@ def curate_meta_data_for_course():
 
 import json
 def extract_occurences(cn):
-
-    cn = "CS_410"
     fr = open(f"week09/{cn}_concepts.txt", 'r', encoding='utf-8')
-    concept_list = [line.split()[0] for line in fr]
+    concept_list = [" ".join(line.split()[:-1]) for line in fr]
     fr.close()
     script2course = {}
-    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[2]] = arr
+        script2course[arr[0]] = arr
     fr.close()
-    print(len(script2course))
+    print("script2course size", len(script2course))
 
     fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
     occr_list = []
+    script_data = fr.readlines()
+    fr.close()
     for target in concept_list:
         cnt = 0
         bigramCounter = Counter()
@@ -130,9 +131,11 @@ def extract_occurences(cn):
             "contexts": [],
         }
         ctxs = []
-        for line in fr:
-            scriptid, text = line.strip().split('\t')
+        
+        for line in script_data:
+            scriptid, text = line.strip().split('\t') # NOT FOR CS 410
             if scriptid not in script2course:
+                # print("啊？")
                 continue
             text = text.lower() # filtering
             # extract concepts
@@ -143,19 +146,21 @@ def extract_occurences(cn):
                         "course": cn, 
                         "transcription": scriptid,
                         "lecture": script2course[scriptid][6],
-                        "lecture_num": int(script2course[scriptid][6].split()[1]),
+                        # "lecture_num": int(script2course[scriptid][6].split()[1]),
+                        "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
                         "context": c,
                         "label": "Intro" if "called" in c else "Use",
                     }    
                     ctxs.append(tmp_ctx)
+        print(target, len(ctxs))
         occurence["contexts"] = sorted(ctxs, key=lambda x: x["lecture_num"])
         occr_list.append(occurence)
-    fw = open(f"week08/contexts_{cn}.json", 'w')
+    fw = open(f"week09/contexts_{cn}.json", 'w')
     tmp = json.dumps(occr_list, indent=2)
     fw.write(tmp)
     fw.close()
 
-extract_occurences("CS_410")
+extract_occurences("CS_241")
 
 
 
