@@ -2,8 +2,9 @@
 from collections import Counter
 from nltk.corpus import stopwords
 stops = set(stopwords.words('english'))
-stops |= {"one", "many", "little", "different", "thing", "two", "theta"}
-print(stops)
+
+stops |= {"one", "many", "little", "different", "thing", "two", "theta" , "get",}
+# print(stops)
 import spacy
 nlp = spacy.load("en_core_web_sm")
 import re
@@ -93,19 +94,23 @@ def curate_meta_data_for_course():
     data = []
     for line in fr:
         arr = line.strip().split('\t')
-        if arr[6] == dept and arr[7] == cn and arr[4].startwith("CS241-Lec"): # only for CS 241
+        if arr[6] == dept and arr[7] == cn and arr[4].startswith("CS241-Lec"): # only for CS 241
             data.append(line)
     fr.close()
     fw = open(f"data/transcriptions2courses_{dept}_{cn}.txt", 'w', encoding='utf-8')
     for line in data:
         fw.write(line)
     fw.close()
-curate_meta_data_for_course()
+# curate_meta_data_for_course()
 
 
 import json
-def extract_occurences(cn,concept_list):
+def extract_occurences(cn):
+
     cn = "CS_410"
+    fr = open(f"week09/{cn}_concepts.txt", 'r', encoding='utf-8')
+    concept_list = [line.split()[0] for line in fr]
+    fr.close()
     script2course = {}
     fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
     for line in fr:
@@ -150,7 +155,7 @@ def extract_occurences(cn,concept_list):
     fw.write(tmp)
     fw.close()
 
-# extract_occurences("CS_410", ["conditional entropy"])
+extract_occurences("CS_410")
 
 
 
