@@ -10,3 +10,5 @@ week07/*.txt
 
 .obsidian
 *.zip
+
+package-lock.json
