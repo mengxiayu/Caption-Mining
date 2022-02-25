@@ -55,12 +55,12 @@ def extract_ngrams():
                 trigramCounter.update(trigrams)
             concept_list = []
 
-            print(" === bigram examples: ===")
+            # print(" === bigram examples: ===")
             for k,v in bigramCounter.most_common(100):
                 if v > 1:
                     concept_list.append([k,v])
                     # print(k,v)
-            print(" === trigram examples: ===")
+            # print(" === trigram examples: ===")
             for k,v in trigramCounter.most_common(100):
                 if v > 1:
                     concept_list.append([k,v])
@@ -72,7 +72,7 @@ def extract_ngrams():
             else:
                 course_name = fn.split("-")[0]
             # course_name = fn.split("Syllabus")[0]
-            fw = open(output_dir+dept+'/'+course_name+'.md', 'w', encoding='utf-8')
+            fw = open(output_dir+dept+'/'+course_name.strip()+'.md', 'w', encoding='utf-8')
             fw.write("#course\n")
             fw.write(f"#{dept}\n")
             for c,v in concept_list:
