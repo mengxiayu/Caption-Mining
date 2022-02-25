@@ -2,6 +2,8 @@
 from collections import Counter
 from nltk.corpus import stopwords
 stops = set(stopwords.words('english'))
+stops |= {"one", "many", "little", "different", "thing", "two", "theta"}
+print(stops)
 import spacy
 nlp = spacy.load("en_core_web_sm")
 import re
@@ -10,30 +12,36 @@ def n_grams(tokens, n):
     ngrams = []
     for i in range(len(tokens)-n+1):
         _tokens = tokens[i:i+n]
+
         texts = [t.text for t in _tokens]
+        tt = " ".join(texts)
+        if tt[0]=="-" or any(p in tt for p in ",./?';:\""):
+            continue
         if not set(texts) & stops and _tokens[-1].pos_ in ["PROPN","NOUN"]:
-            tt = " ".join(texts)
-            if not any(p in tt for p in ",./?';:"):
-                ngrams.append(tt)
+            ngrams.append(tt)
     return ngrams
 
 
 def extract_ngrams():
-    cn = "CS_410"
+    cn = "CS_241"
     script2course = {}
-    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[2]] = arr
+        script2course[arr[0]] = arr
     fr.close()
     print(len(script2course))
 
-    fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
+    # fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
+    fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
     cnt = 0
     bigramCounter = Counter()
     trigramCounter = Counter()
     for line in fr:
-        cid, scriptid, text = line.strip().split('\t')
+        # cid, scriptid, text = line.strip().split('\t')
+        scriptid, text = line.strip().split('\t')
+
         if scriptid not in script2course:
             continue
         # extract concepts
@@ -48,19 +56,26 @@ def extract_ngrams():
     print(cnt)
     print(len(bigramCounter))
     print(len(trigramCounter))
+    concept_list = []
+
     print(" === bigram examples: ===")
-    for k,v in bigramCounter.most_common(10):
+    for k,v in bigramCounter.most_common(100):
+        if v > 5:
+            concept_list.append([k,v])
         print(k,v)
     print(" === trigram examples: ===")
-    for k,v in trigramCounter.most_common(10):
+    for k,v in trigramCounter.most_common(100):
+        if v > 10:
+            concept_list.append([k,v])
         print(k,v)
+    with open(f"week09/{cn}_concepts.txt", 'w', encoding='utf-8') as f:
+        for k,v in concept_list:
+            f.write(f"{k} {v}\n")
+            
+# extract_ngrams()
 
-extract_ngrams()
 
-
-
-
-def find_contexts(text, target, window=200):
+def find_contexts(text, target, window=300):
     matches = re.finditer(target, text)
     matches_positions = [match.start() for match in matches]
     contexts = []
@@ -70,8 +85,26 @@ def find_contexts(text, target, window=200):
         contexts.append(text[cstart:cend])
     return contexts
 
+
+def curate_meta_data_for_course():
+    dept = "CS"
+    cn = "241"
+    fr = open("data/transcriptions2courses-2021-09-24.csv", 'r', encoding='utf-8')
+    data = []
+    for line in fr:
+        arr = line.strip().split('\t')
+        if arr[6] == dept and arr[7] == cn and arr[4].startwith("CS241-Lec"): # only for CS 241
+            data.append(line)
+    fr.close()
+    fw = open(f"data/transcriptions2courses_{dept}_{cn}.txt", 'w', encoding='utf-8')
+    for line in data:
+        fw.write(line)
+    fw.close()
+curate_meta_data_for_course()
+
+
 import json
-def extract_occurences(target):
+def extract_occurences(cn,concept_list):
     cn = "CS_410"
     script2course = {}
     fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
@@ -81,38 +114,48 @@ def extract_occurences(target):
     fr.close()
     print(len(script2course))
 
-    fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
-    cnt = 0
-    bigramCounter = Counter()
-    trigramCounter = Counter()
-    occurence = {
-        "text": target,
-        "contexts": [],
-    }
-    ctxs = []
-    for line in fr:
-        cid, scriptid, text = line.strip().split('\t')
-        if scriptid not in script2course:
-            continue
-        text = text.lower()
-        # extract concepts
-        if target in text:
-            contexts = find_contexts(text, target)
-            for c in contexts:
-                tmp_ctx = {
-                    "course": cid, # '410' FIXME should be 'CS_410'
-                    "transcription": scriptid,
-                    "lecture": script2course[scriptid][6],
-                    "lecture_num": int(script2course[scriptid][6].split()[1]),
-                    "context": c,
-                    "label": "Intro" if "called" in c else "Use",
-                }    
-                ctxs.append(tmp_ctx)
-    occurence["contexts"] = sorted(ctxs, key=lambda x: x["lecture_num"])
-    json.dump(occurence, open(f"week08/contexts_CS410_{target.replace(' ', '-')}.json", 'w'), indent=2)
-extract_occurences("maximum likelihood")
+    fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
+    occr_list = []
+    for target in concept_list:
+        cnt = 0
+        bigramCounter = Counter()
+        trigramCounter = Counter()
+        occurence = {
+            "text": target,
+            "contexts": [],
+        }
+        ctxs = []
+        for line in fr:
+            scriptid, text = line.strip().split('\t')
+            if scriptid not in script2course:
+                continue
+            text = text.lower() # filtering
+            # extract concepts
+            if target in text:
+                contexts = find_contexts(text, target)
+                for c in contexts:
+                    tmp_ctx = {
+                        "course": cn, 
+                        "transcription": scriptid,
+                        "lecture": script2course[scriptid][6],
+                        "lecture_num": int(script2course[scriptid][6].split()[1]),
+                        "context": c,
+                        "label": "Intro" if "called" in c else "Use",
+                    }    
+                    ctxs.append(tmp_ctx)
+        occurence["contexts"] = sorted(ctxs, key=lambda x: x["lecture_num"])
+        occr_list.append(occurence)
+    fw = open(f"week08/contexts_{cn}.json", 'w')
+    tmp = json.dumps(occr_list, indent=2)
+    fw.write(tmp)
+    fw.close()
+
+# extract_occurences("CS_410", ["conditional entropy"])
+
+
 
 from pyvis.network import Network
+
 def visualize():
     net = Network(height='1000px', width='2000px', layout=True)
     concepts = ["conditional entropy", "word distribution","maximum likelihood"]
