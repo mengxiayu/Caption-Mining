@@ -1,5 +1,7 @@
 # Open folder as vault
 
+Open folder as vault. Then choose an existing folder. For example, choose CS241/
+
 ![p1](./20220225133655.png)
 
 # Open graph view
