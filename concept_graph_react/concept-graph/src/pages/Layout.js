@@ -24,12 +24,15 @@ const Layout = () => {
           <li>
             <Link to="/">Home</Link>
           </li>
-          {/* <li>
-            <Link to="/users">Users</Link>
+          <li>
+            <Link to="/CS241">CS241</Link>
           </li>
           <li>
-            <Link to="/about">About</Link>
-          </li> */}
+            <Link to="/CS410">CS410</Link>
+          </li>
+          <li>
+            <Link to="/test">test</Link>
+          </li>
         </ul>
       </Nav>
 

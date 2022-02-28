@@ -43,14 +43,15 @@
   text-align: left;
 }
 .Nav ul {
-  /* display: inline;
+  display: inline;
   list-style: none;
   margin: 0;
-  padding: 0; */
+  padding: 0;
 }
 .Nav li {
   display: inline-block;
-  width: 10%;
+  margin: 0 20px;
+  /* width: 10%; */
 }
 
 
@@ -59,9 +60,10 @@
 .container {
   display: block;
   margin: auto;
+  margin-top: 50px;
 
   width: 80%;
-  height: 80vh;
+  height: 100vh;
   position: relative;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);

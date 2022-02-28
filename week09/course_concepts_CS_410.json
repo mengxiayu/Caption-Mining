@@ -1,0 +1,6610 @@
+{
+    "nodes": [
+        {
+            "id": "CS_410.json",
+            "group": 0
+        },
+        {
+            "id": "word distribution",
+            "group": 2
+        },
+        {
+            "id": "CS_410_9",
+            "group": 1,
+            "context": "all the x(i) will sum to one in this vector. so this would be very similar to what we had before in that this vector is actually something similar to word distribution or the exercise with sum to one. now the weight of bm25 for each word is defined here. and if you compare this with our old definition where we just ",
+            "label": "Use",
+            "lecture": "Lecture 9 — Paradigmatic Relation Discovery - Part 2 | UIUC",
+            "transcription": "9a443634-7f2e-4d3a-9ccd-0f1b6604c939"
+        },
+        {
+            "id": "CS_410_16",
+            "group": 1,
+            "context": "odel, and that's why we're going to spend a lot of lectures to talk about this topic. so the basic idea here is improved representation of topic as a word distribution. so what you see now is the old representation, where we represent each topic with just one word or one term or one phrase. but now we're going to us",
+            "label": "Use",
+            "lecture": "Lecture 16 — Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+            "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb"
+        },
+        {
+            "id": "CS_410_17",
+            "group": 1,
+            "context": "e have n words, so we have n probabilities, one for each word, and they sum to one. so now we can assume our text is a sample drawn according to this word distribution. that just means we're gonna draw a word each time and then eventually we'll get a text. so for example now again. we can try to sample words accordi",
+            "label": "Use",
+            "lecture": "Lecture 17 — Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC",
+            "transcription": "54ab232c-85cb-4829-abd0-6cbaed5f3fc8"
+        },
+        {
+            "id": "CS_410_18",
+            "group": 1,
+            "context": "ty distribution over text. it's also called a generative model for text data. the simplest language model is unigram language model. it's basically a word distribution. we introduced the concept of likelihood function which is the probability of data given some model. and this function is very important. given a par",
+            "label": "Intro",
+            "lecture": "Lecture 18 — Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+            "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566"
+        },
+        {
+            "id": "CS_410_19",
+            "group": 1,
+            "context": "r data in this case is just the document which is a sequence of words. each word here is denoted by x sub i. our model is a unigram language model, a word distribution that we hope to denote a topic and that's our goal. so we will have as many parameters as many words in our vocabulary, in this case m. and for conve",
+            "label": "Use",
+            "lecture": "Lecture 19 — Probabilistic Topic Models  Mining One Topic | UIUC",
+            "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a"
+        },
+        {
+            "id": "CS_410_20",
+            "group": 1,
+            "context": " controlled by another probability: probability of theta sub d and probability of theta sub b here. so this is the probability of selecting the topic word distribution. this is the probability of selecting the background word distribution denoted by theta sub b. now in this case i just give example where we can set ",
+            "label": "Use",
+            "lecture": "Lecture 20 — Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+            "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916"
+        },
+        {
+            "id": "CS_410_21",
+            "group": 1,
+            "context": "ers of a mixture model. so let's first look at our motivation for using a mixture model and we hope to factor out the background words from the topic word distribution. so the idea is to assume that the text data actually contain two kinds of words. one kind is from the background here. so the is away etc and the ot",
+            "label": "Use",
+            "lecture": "Lecture 21 — Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+            "transcription": "27d06808-2624-4922-a079-04dccb301dde"
+        },
+        {
+            "id": "CS_410_22",
+            "group": 1,
+            "context": "d more to the change, for example of frequency of data point in the data. we also talk about the special case of fixing one component to a background word distribution, and this distribution can be estimated by using a collection of documents. a large collection of english documents, by using just one distribution a",
+            "label": "Use",
+            "lecture": "Lecture 22 — Probabilistic Topic Models  Mixture Model Estimation - Part 2 | UIUC",
+            "transcription": "5350ccd0-beab-48fc-8484-d8e6a38c4cbf"
+        },
+        {
+            "id": "CS_410_23",
+            "group": 1,
+            "context": "e of mixture models. so this is now familiar scenario of using a two component mixture model to try to factor out the background words from one topic word distribution here. so we are interested in computing this estimate. and we're going to try to adjust these probability values to maximize the probability of the o",
+            "label": "Use",
+            "lecture": "Lecture 23 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+            "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee"
+        },
+        {
+            "id": "CS_410_24",
+            "group": 1,
+            "context": "ial values of z attached to all the words. and that's why we call these hidden variables. now the idea that we talked about before for predicting the word distribution that has been used with the general the world is it'll predict this. the value of this hidden variable. and so. the algorithm, the em algorithm then ",
+            "label": "Use",
+            "lecture": "Lecture 24 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC",
+            "transcription": "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5"
+        },
+        {
+            "id": "CS_410_26",
+            "group": 1,
+            "context": ". those are the most important parameters that we are asked, so one is pies and these are the coverage of topic in the document. and the other is the word distributions that characterize all the topics. so the next line then is simply to plug this in to calculate the probability of document. this is again of the fam",
+            "label": "Use",
+            "lecture": "Lecture 26 — Probabilistic Latent Semantic Analysis PLSA - Part 1 | UIUC",
+            "transcription": "1cc2d7fa-3d11-49fa-b979-ef5e9442466f"
+        },
+        {
+            "id": "CS_410_27",
+            "group": 1,
+            "context": "us to what extent we should allocate this word to topic theta sub-j. but the normalization is different because in this case we are interested in the word distribution. so we simply normalize this over all the words. this is different. in contrast, here we normalized among all the topics. it would be useful to take ",
+            "label": "Use",
+            "lecture": "Lecture 27 — Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+            "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116"
+        },
+        {
+            "id": "CS_410_28",
+            "group": 1,
+            "context": "s dirichlet prior dirichlet distribution based on this preference, then the only difference in the em algorithm is in the m step. when we re estimate word distributions, we are going to add. additional counts to reflect our prior right? so here you can see the pseudocounts are defined the based on the probability of",
+            "label": "Use",
+            "lecture": "Lecture 28 — Latent Dirichlet Allocation LDA - Part 1 | UIUC",
+            "transcription": "5190e288-54f7-4021-9083-8e8ceac11345"
+        },
+        {
+            "id": "CS_410_29",
+            "group": 1,
+            "context": " see there are many fewer parameters. and you can achieve the same goal as plsa for text mining. it means it can compute the topic coverage and topic word distributions as in plsa. however, there is no free launch while the parameters for plsa  is much fewer, there were fewer parameters and in order to compute the t",
+            "label": "Use",
+            "lecture": "Lecture 29 — Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+            "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012"
+        },
+        {
+            "id": "CS_410_31",
+            "group": 1,
+            "context": "ction c and number of topics k and vocabulary v, and we hope to generate as output two things. one is a set of topics denoted by theta i's. each is a word distribution and the other is a pi ij's and these are the probabilities that each document covers each topic. so this is a topic coverage and it's also visualized",
+            "label": "Use",
+            "lecture": "Lecture 31 — Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+            "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568"
+        },
+        {
+            "id": "CS_410_32",
+            "group": 1,
+            "context": "of k unigram language models. it's a little bit different from the topic model. but we have similar parameters. we have a set of theta i's denote the word distributions corresponding to the k unigram language models. we have p of each theta i as the probability of selecting each of the k distributions to generate th",
+            "label": "Use",
+            "lecture": "Lecture 32 — Text Clustering Generative Probabilistic Models - Part 2 | UIUC",
+            "transcription": "f64adab4-578a-4868-8b2c-03fdd4ddf55d"
+        },
+        {
+            "id": "CS_410_33",
+            "group": 1,
+            "context": "numerator and the denominator both by this normalizer. so basically this normalizes the probability of generating this document by using this average word distribution. so you can see the normalizer here. and since we have used exact the same normalizer for the numerator and denominator, the whole value of this expr",
+            "label": "Use",
+            "lecture": "Lecture 33 — Text Clustering Generative Probabilistic Models - Part 3 | UIUC",
+            "transcription": "dccc8a84-66da-47ce-ab88-28e8acf192b9"
+        },
+        {
+            "id": "CS_410_38",
+            "group": 1,
+            "context": " of clustering. and so this is a slide that we've talked about before about text clustering, where we assume there are multiple topics represented by word distributions. each topic is 1 cluster. so once we estimate such model, we faced the problem of deciding which cluster document d should belong to and this questi",
+            "label": "Use",
+            "lecture": "Lecture 38 — Text Categorization Generative Probabilistic Models | UIUC",
+            "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302"
+        },
+        {
+            "id": "CS_410_47",
+            "group": 1,
+            "context": "e generation of text and so a natural solution would be to use topic model. so given an entity, we can assume there are aspects that are described by word distributions. topics and then we can use a topic model to model the generation of the review text. our assumed the words in the review text are drawn from these ",
+            "label": "Use",
+            "lecture": "Lecture 47 — Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 2 | UIUC",
+            "transcription": "ee41ce3a-6c8d-4c3b-90fd-79f3e9190402"
+        },
+        {
+            "id": "CS_410_50",
+            "group": 1,
+            "context": "he context depending on different time periods or different locations, we assume that there are different views of the topic or different versions of word distributions that characterize a topic, and this assumption allows us to discover different variations of the same topic in different context. the other is that ",
+            "label": "Use",
+            "lecture": "Lecture 50 — Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+            "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616"
+        },
+        {
+            "id": "text mining",
+            "group": 2
+        },
+        {
+            "id": "CS_410_2",
+            "group": 1,
+            "context": "so looking at the text mining problem more closely, we see that the problem is similar to general data mining, except that we'll be focusing more on text data. and we're going to ",
+            "label": "Use",
+            "lecture": "Lecture 2 — Overview Text Mining and Analytics - Part 2 | UIUC",
+            "transcription": "aca8d826-412b-4134-8d2c-87537fdc4a76"
+        },
+        {
+            "id": "CS_410_5",
+            "group": 1,
+            "context": " any text data. but unfortunately, using such a representation would not help us do semantic analysis, which is often needed for many applications of text mining. the reason is because we're not even recognizing words. so as a string we're going to keep all the spaces and these ascii symbols. we can perhaps co",
+            "label": "Use",
+            "lecture": "Lecture 5 — Text Representation - Part 1 | UIUC",
+            "transcription": "db1d54dd-bb05-46c0-995b-5f7d5243e3c4"
+        },
+        {
+            "id": "CS_410_6",
+            "group": 1,
+            "context": "rd based representation. these techniques are general and robust and thus are more widely used in various applications. in fact, in virtually all the text mining applications you need this level of representation and the techniques that support analysis of texting this level. but obviously all these other leve",
+            "label": "Use",
+            "lecture": "Lecture 6 — Text Representation - Part 2 | UIUC",
+            "transcription": "2997c717-2552-411d-9dc4-7e648e16bbf0"
+        },
+        {
+            "id": "CS_410_30",
+            "group": 1,
+            "context": "t might also represent the subtopics. so this is a case of combining text clustering with some other techniques, and in general you will see a lot of text mining algorithms can be actually combined in a flexible way to achieve. the goal of doing more sophisticated mining and analysis of text data. we can also ",
+            "label": "Use",
+            "lecture": "Lecture 30 — Text Clustering  Motivation | UIUC",
+            "transcription": "6a9b1334-5f53-407b-8864-2cff7edbc603"
+        },
+        {
+            "id": "CS_410_35",
+            "group": 1,
+            "context": "ther its to assess the contribution of clusters to a particular application. so to summarize text clustering, it's a very useful unsupervised general text mining technique as particularly useful for obtaining an overall picture of the text content. this is often needed to explore text data. and this is often t",
+            "label": "Use",
+            "lecture": "Lecture 35 — Text Clustering  Evaluation | UIUC",
+            "transcription": "da74c929-efc1-4b65-9635-684c7ebcab3f"
+        },
+        {
+            "id": "CS_410_36",
+            "group": 1,
+            "context": "o text data indirectly. once we can make the connection, then we can make predictions about those values. so this is a general way to allow us to use text mining tool. sorry, text categorization to discover knowledge about the world. very useful, especially in big text data. analytics, where we are often inter",
+            "label": "Use",
+            "lecture": "Lecture 36 — Text Categorization Motivation | UIUC",
+            "transcription": "39d13817-de51-4195-a33a-985b0b54e64d"
+        },
+        {
+            "id": "CS_410_43",
+            "group": 1,
+            "context": " consumers opinions and this is clearly very useful, directed for that. data driven social science research can benefit from this because they can do text mining to understand the people's opinions. and if we can aggregate a lot of opinions from social media from a lot of public information, then you can actua",
+            "label": "Use",
+            "lecture": "Lecture 43 — Opinion Mining and Sentiment Analysis  Motivation | UIUC",
+            "transcription": "f1951cf2-4293-450b-8578-4d74c72f9862"
+        },
+        {
+            "id": "CS_410_44",
+            "group": 1,
+            "context": "to do, and that's something that will talk more about later. so now let's talk about some features that often very useful for text categorization and text mining in general, but some of them are especially also needed for sentiment analysis. so let's start from the simplest one, which is character n-grams. you",
+            "label": "Use",
+            "lecture": "Lecture 44 — Opinion Mining, Sentiment Analysis  and  Sentiment Classification | UIUC",
+            "transcription": "4a54f790-991c-44bb-ab62-713cbef84ad1"
+        },
+        {
+            "id": "CS_410_48",
+            "group": 1,
+            "context": "ctually very general and it's reflecting a lot of important applications of big data. so it's useful to keep that in mind while we're looking at some text mining techniques. \" so from text mining perspective and we're interested in text based prediction, of course sometimes text alone can make predictions. and",
+            "label": "Use",
+            "lecture": "Lecture 48 — Text Based Prediction | UIUC",
+            "transcription": "a97a9d5e-48b7-4f4e-9754-4c5b30a31424"
+        },
+        {
+            "id": "CS_410_49",
+            "group": 1,
+            "context": "this lecture is about the contextual text mining. contextual text mining is related to multiple kinds of knowledge that we mine from text data. as i'm showing here, is related to topic mining becaus",
+            "label": "Use",
+            "lecture": "Lecture 49 — Contextual Text Mining  Motivation | UIUC",
+            "transcription": "95f92696-1963-4307-83c6-a8370ff03b30"
+        },
+        {
+            "id": "mixture model",
+            "group": 2
+        },
+        {
+            "id": "CS_410_25",
+            "group": 1,
+            "context": "right? so this one. and this is the one that we hope to maximize an we hope to find a set of value at this point to maximize this. but in the case of mixture model, we cannot easily find the analytical solution to the problem. so we have to resolve a numerical algorithm. an em algorithm is such an algorithm. it'",
+            "label": "Use",
+            "lecture": "Lecture 25 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 3 | UIUC",
+            "transcription": "20703c3c-ced6-4410-ace1-139baa46505c"
+        },
+        {
+            "id": "CS_410_34",
+            "group": 1,
+            "context": "it can be also shown this process will converge to a local minimum. i think about this process for a moment. it might remind you the em algorithm for mixture model. indeed, this algorithm is very similar to the em algorithm for the mixture model for clustering. so more specifically, we also initialize these. pre",
+            "label": "Use",
+            "lecture": "Lecture 34 — Text Clustering Similarity based Approaches | UIUC",
+            "transcription": "5bb813bd-6b7d-4f77-8156-21995f5944ad"
+        },
+        {
+            "id": "CS_410_40",
+            "group": 1,
+            "context": "emi supervised machine learning techniques that can allow you to combine label data with unlabeled data. so in our case actually it's easy to see the mixture model can be used for both text clustering and categorisation, so even imagine if you have a lot of unable text data for categorization then you can actual",
+            "label": "Use",
+            "lecture": "Lecture 40 — Text Categorization  Discriminative Classifier - Part 2 | UIUC",
+            "transcription": "7f9f9b1e-4527-4875-b6f7-4dc0d57ab719"
+        },
+        {
+            "id": "likelihood function",
+            "group": 2
+        },
+        {
+            "id": "CS_410_39",
+            "group": 1,
+            "context": "oing to model this. note that this is a conditional probability of y given x. and this is also precisely what we want for classification. now, so the likelihood function would be just a product over all the training cases. and in each case, this is the modeled probability of observing this particular training case. so",
+            "label": "Use",
+            "lecture": "Lecture 39 — Text Categorization  Discriminative Classifier - Part 1 | UIUC",
+            "transcription": "4da6283d-6903-4be9-8bfc-ad5d330343c6"
+        },
+        {
+            "id": "mutual information",
+            "group": 2
+        },
+        {
+            "id": "CS_410_11",
+            "group": 1,
+            "context": "and they have different upper bounds, so we cannot really compare them in this way. so how do we address this problem? later we'll discuss we can use mutual information to solve this problem.",
+            "label": "Use",
+            "lecture": "Lecture 11 — Syntagmatic Relation Discovery  Conditional Entropy | UIUC",
+            "transcription": "51be74e8-eb10-47c2-a768-b688605de1e0"
+        },
+        {
+            "id": "CS_410_12",
+            "group": 1,
+            "context": "this lecture is about the syntagmatic relation discovery and mutual information. in this lecture, we're going to continue discussing syntagmatic relation discovery. in particular, we're going to talk about another concept, the in",
+            "label": "Use",
+            "lecture": "Lecture 12 — Syntagmatic Relation Discovery  Mutual Information - Part 1 | UIUC",
+            "transcription": "9e5a0c5f-ff4a-42a6-b37b-f43628632860"
+        },
+        {
+            "id": "CS_410_13",
+            "group": 1,
+            "context": "unts, we can just normalize. these counts by n, which is the total number of segments and this will give us the probabilities that we need to compute mutual information. now there is a small problem. when we have zero counts sometimes and in this case we don't want a zero probability because our data maybe a small sa",
+            "label": "Use",
+            "lecture": "Lecture 13 — Syntagmatic Relation Discovery  Mutual Information - Part 2 | UIUC",
+            "transcription": "44df41bc-04d3-41ca-ac51-dbd22dc98305"
+        },
+        {
+            "id": "training data",
+            "group": 2
+        },
+        {
+            "id": "CS_410_37",
+            "group": 1,
+            "context": "experts must annotate datasets with category labels, will tell the computer which documents should not receive which categories. and this is called a training data. and then secondly the human experts also need to provide a set of features to represent each text object that can potentially provide a clue about t",
+            "label": "Intro",
+            "lecture": "Lecture 37 — Text Categorization  Methods | UIUC",
+            "transcription": "aac4e33c-97bb-46c8-a108-3e3e3322a85c"
+        },
+        {
+            "id": "CS_410_45",
+            "group": 1,
+            "context": " 1) * (m + 1). that's alot alot of parameters. so when the classifier has a lot of parameters would in general need a lot of data to actually help us training data to help us decide the optimal parameters of the this such a complex model? so that's not the idea. the second problem is that these problems these k ",
+            "label": "Use",
+            "lecture": "Lecture 45 — Opinion Mining and Sentiment Analysis  Ordinal Logistic Regression | UIUC",
+            "transcription": "2d0e46c7-df4e-48b3-9550-dac3fec3062d"
+        },
+        {
+            "id": "text categorization",
+            "group": 2
+        },
+        {
+            "id": "CS_410_42",
+            "group": 1,
+            "context": "ters of this book where you can find more discussion about evaluation measures. the second is a paper about the comparison of different approaches to text categorization and it also has excellent discussion of how to evaluate the text categorisation.",
+            "label": "Use",
+            "lecture": "Lecture 42 — Text Categorization  Evaluation - Part 2 | UIUC",
+            "transcription": "6382e23f-d54e-4ece-a231-8df819983fb5"
+        },
+        {
+            "id": "language model",
+            "group": 2
+        },
+        {
+            "id": "conditional entropy",
+            "group": 2
+        },
+        {
+            "id": "maximum likelihood",
+            "group": 2
+        },
+        {
+            "id": "CS_410_46",
+            "group": 1,
+            "context": "next question is, how can we estimate these parameters and so we collectively denote all the parameters by lambda here. now we can, as usual, use the maximum likelihood is made and this will give us the settings of this premise that with the maximizer observed. observer ratings condition on their respective reviews. ",
+            "label": "Use",
+            "lecture": "Lecture 46 — Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 1 | UIUC",
+            "transcription": "b1854d1c-3199-4c42-ab7d-f219f70259a3"
+        },
+        {
+            "id": "text clustering",
+            "group": 2
+        },
+        {
+            "id": "word distributions",
+            "group": 2
+        },
+        {
+            "id": "topic model",
+            "group": 2
+        },
+        {
+            "id": "syntagmatic relations",
+            "group": 2
+        },
+        {
+            "id": "CS_410_7",
+            "group": 1,
+            "context": "ow to mine word associations. in general there are two word relations, and these are quite basic. one is called a paradigmatic relation, the other is syntagmatic relations. a&b have paradigmatic relation if they can be substituted for each other. that means, the two words that have paradigmatic relation would be in the ",
+            "label": "Intro",
+            "lecture": "Lecture 7 — Word Association Mining and Analysis | UIUC",
+            "transcription": "0d005f7e-0c3f-465b-b7fe-08f45355e3de"
+        },
+        {
+            "id": "CS_410_10",
+            "group": 1,
+            "context": "scovery. an entropy. in this lecture, we're going to continue talking about word association mining. in particular, we can talk about how to discover syntagmatic relations. and we're going to start with the introduction of entropy, which is the basis for designing some measures for discovering such relations. by definit",
+            "label": "Use",
+            "lecture": "Lecture 10 — Syntagmatic Relation Discovery  Entropy | UIUC",
+            "transcription": "2736e0b3-cd3e-4760-b07e-e9aadcc588e2"
+        },
+        {
+            "id": "CS_410_14",
+            "group": 1,
+            "context": "e on this roadmap, we have just \"we have just \"about the language namely discovery of word  associations such as paradigmatic relations relations and syntagmatic relations. now, starting from this lecture, we're going to talk about mining another kind of knowledge, which is content mining and trying to discover knowledg",
+            "label": "Use",
+            "lecture": "Lecture 14 — Topic Mining and Analysis  Motivation and Task Definition | UIUC",
+            "transcription": "380a7417-6702-4df8-9818-5aceba7cde2b"
+        },
+        {
+            "id": "topic models",
+            "group": 2
+        },
+        {
+            "id": "generative model",
+            "group": 2
+        },
+        {
+            "id": "background model",
+            "group": 2
+        },
+        {
+            "id": "likelihood estimator",
+            "group": 2
+        },
+        {
+            "id": "similarity function",
+            "group": 2
+        },
+        {
+            "id": "CS_410_8",
+            "group": 1,
+            "context": "arity of the context of cat and the context of a word like dog. so now the question is, how can we formally represent the context and then define the similarity function? so first we note that the context actually contains a lot of words. so they can be regarded as a pseudo document. an imaginary document. but there a",
+            "label": "Use",
+            "lecture": "Lecture 8 — Paradigmatic Relation Discovery - Part 1 | UIUC",
+            "transcription": "b9eb5a35-5bad-4cf5-9d94-b0b0c816c8cf"
+        },
+        {
+            "id": "scoring function",
+            "group": 2
+        },
+        {
+            "id": "CS_410_15",
+            "group": 1,
+            "context": " phrases. let's say the simplest solution is to just take each word as a term. these words then become candidate topics. then we're going to design a scoring function to measure how good each term is as a topic. so how can we design such a function? well, there are many things that we can consider. for example, we ",
+            "label": "Use",
+            "lecture": "Lecture 15 — Topic Mining and Analysis  Term as Topic | UIUC",
+            "transcription": "b75d0d2e-a1b7-4f6a-b699-f81ec4b720c7"
+        },
+        {
+            "id": "parameter values",
+            "group": 2
+        },
+        {
+            "id": "topic mining",
+            "group": 2
+        },
+        {
+            "id": "paradigmatic relation",
+            "group": 2
+        },
+        {
+            "id": "sentiment analysis",
+            "group": 2
+        },
+        {
+            "id": "logistic regression",
+            "group": 2
+        },
+        {
+            "id": "data mining",
+            "group": 2
+        },
+        {
+            "id": "syntagmatic relation",
+            "group": 2
+        },
+        {
+            "id": "objective function",
+            "group": 2
+        },
+        {
+            "id": "bayes rule",
+            "group": 2
+        },
+        {
+            "id": "opinion holder",
+            "group": 2
+        },
+        {
+            "id": "naive bayes",
+            "group": 2
+        },
+        {
+            "id": "background language",
+            "group": 2
+        },
+        {
+            "id": "common words",
+            "group": 2
+        },
+        {
+            "id": "text objects",
+            "group": 2
+        },
+        {
+            "id": "categorization problem",
+            "group": 2
+        },
+        {
+            "id": "CS_410_41",
+            "group": 1,
+            "context": "ument basis? one example that shows clearly the desicion errors are having different causes, spam filtering that could be retrieved as a two category categorization problem. missing a legitimate email is all is 1 type of error. but letting us ma'am to come into your folder is another type of error. the two types of error",
+            "label": "Use",
+            "lecture": "Lecture 41 — Text Categorization  Evaluation - Part 1 | UIUC",
+            "transcription": "3956403f-f159-448a-9514-5dc69f314c5a"
+        },
+        {
+            "id": "opinion mining",
+            "group": 2
+        },
+        {
+            "id": "high probabilities",
+            "group": 2
+        },
+        {
+            "id": "conditional probability",
+            "group": 2
+        },
+        {
+            "id": "unigram language",
+            "group": 2
+        },
+        {
+            "id": "related words",
+            "group": 2
+        },
+        {
+            "id": "topic word",
+            "group": 2
+        },
+        {
+            "id": "text object",
+            "group": 2
+        },
+        {
+            "id": "contextual text",
+            "group": 2
+        },
+        {
+            "id": "paradigmatic relations",
+            "group": 2
+        },
+        {
+            "id": "total number",
+            "group": 2
+        },
+        {
+            "id": "document clustering",
+            "group": 2
+        },
+        {
+            "id": "aspect ratings",
+            "group": 2
+        },
+        {
+            "id": "logistical regression",
+            "group": 2
+        },
+        {
+            "id": "language models",
+            "group": 2
+        },
+        {
+            "id": "likelihood estimate",
+            "group": 2
+        },
+        {
+            "id": "posterior probability",
+            "group": 2
+        },
+        {
+            "id": "machine learning",
+            "group": 2
+        },
+        {
+            "id": "clustering bias",
+            "group": 2
+        },
+        {
+            "id": "overall ratings",
+            "group": 2
+        },
+        {
+            "id": "background words",
+            "group": 2
+        },
+        {
+            "id": "topic coverage",
+            "group": 2
+        },
+        {
+            "id": "optimization problem",
+            "group": 2
+        },
+        {
+            "id": "general idea",
+            "group": 2
+        },
+        {
+            "id": "relation discovery",
+            "group": 2
+        },
+        {
+            "id": "probabilistic topic",
+            "group": 2
+        },
+        {
+            "id": "special case",
+            "group": 2
+        },
+        {
+            "id": "information retrieval",
+            "group": 2
+        },
+        {
+            "id": "probabilistic models",
+            "group": 2
+        },
+        {
+            "id": "data point",
+            "group": 2
+        },
+        {
+            "id": "generative models",
+            "group": 2
+        },
+        {
+            "id": "text retrieval",
+            "group": 2
+        },
+        {
+            "id": "multiple topics",
+            "group": 2
+        },
+        {
+            "id": "language processing",
+            "group": 2
+        },
+        {
+            "id": "training examples",
+            "group": 2
+        },
+        {
+            "id": "bayesian inference",
+            "group": 2
+        },
+        {
+            "id": "aspect rating",
+            "group": 2
+        },
+        {
+            "id": "prior knowledge",
+            "group": 2
+        },
+        {
+            "id": "word associations",
+            "group": 2
+        },
+        {
+            "id": "observed data",
+            "group": 2
+        },
+        {
+            "id": "world distribution",
+            "group": 2
+        },
+        {
+            "id": "sentiment classification",
+            "group": 2
+        },
+        {
+            "id": "classification accuracy",
+            "group": 2
+        },
+        {
+            "id": "maximum likelihood estimator",
+            "group": 2
+        },
+        {
+            "id": "background language model",
+            "group": 2
+        },
+        {
+            "id": "contextual text mining",
+            "group": 2
+        },
+        {
+            "id": "maximum likelihood estimate",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "word distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "mixture model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "likelihood function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "mutual information",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "mutual information",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "mutual information",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "mutual information",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "training data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "text categorization",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "conditional entropy",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "conditional entropy",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "conditional entropy",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "maximum likelihood",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "text clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "word distributions",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "topic model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "syntagmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "topic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "generative model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "background model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "similarity function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "similarity function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "similarity function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "similarity function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "similarity function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "scoring function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "scoring function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "scoring function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "scoring function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "scoring function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "parameter values",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "topic mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "paradigmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "sentiment analysis",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "logistic regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "logistic regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "logistic regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "logistic regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "data mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "syntagmatic relation",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "objective function",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "bayes rule",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "opinion holder",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "opinion holder",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "opinion holder",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "opinion holder",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "naive bayes",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "naive bayes",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "naive bayes",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "naive bayes",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "background language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "background language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "background language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "background language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "background language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "common words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "text objects",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "categorization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "opinion mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "high probabilities",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "conditional probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "unigram language",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "related words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "topic word",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "text object",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "contextual text",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "contextual text",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "contextual text",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "paradigmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "paradigmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "paradigmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "paradigmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_14",
+            "target": "paradigmatic relations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "total number",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "document clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "document clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "document clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "document clustering",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "aspect ratings",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "aspect ratings",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "logistical regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "logistical regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "logistical regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "logistical regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "logistical regression",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "language models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "posterior probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "posterior probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "posterior probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "posterior probability",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "machine learning",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "clustering bias",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "clustering bias",
+            "value": 1
+        },
+        {
+            "source": "CS_410_35",
+            "target": "clustering bias",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "overall ratings",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "overall ratings",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "overall ratings",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "background words",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "topic coverage",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "optimization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "optimization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "optimization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "optimization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "optimization problem",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_25",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "general idea",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_12",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "relation discovery",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "probabilistic topic",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_10",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_11",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "special case",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "information retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "probabilistic models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_37",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "data point",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "generative models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_34",
+            "target": "generative models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "generative models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "generative models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "generative models",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "text retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_8",
+            "target": "text retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_9",
+            "target": "text retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "text retrieval",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "multiple topics",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_5",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_6",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_43",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "language processing",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_36",
+            "target": "training examples",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "training examples",
+            "value": 1
+        },
+        {
+            "source": "CS_410_40",
+            "target": "training examples",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "bayesian inference",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "bayesian inference",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "bayesian inference",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "bayesian inference",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "bayesian inference",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_46",
+            "target": "aspect rating",
+            "value": 1
+        },
+        {
+            "source": "CS_410_47",
+            "target": "aspect rating",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "prior knowledge",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "prior knowledge",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "prior knowledge",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_2",
+            "target": "word associations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_7",
+            "target": "word associations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_15",
+            "target": "word associations",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "observed data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "observed data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "observed data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "observed data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "observed data",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_16",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_24",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_30",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_31",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "world distribution",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_44",
+            "target": "sentiment classification",
+            "value": 1
+        },
+        {
+            "source": "CS_410_45",
+            "target": "sentiment classification",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_41",
+            "target": "classification accuracy",
+            "value": 1
+        },
+        {
+            "source": "CS_410_42",
+            "target": "classification accuracy",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_21",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_32",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_33",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_39",
+            "target": "maximum likelihood estimator",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_22",
+            "target": "background language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_26",
+            "target": "background language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_27",
+            "target": "background language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_28",
+            "target": "background language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_38",
+            "target": "background language model",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_48",
+            "target": "contextual text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_49",
+            "target": "contextual text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_50",
+            "target": "contextual text mining",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "CS_410.json",
+            "value": 1
+        },
+        {
+            "source": "CS_410_13",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_17",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_18",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_19",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_20",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_23",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        },
+        {
+            "source": "CS_410_29",
+            "target": "maximum likelihood estimate",
+            "value": 1
+        }
+    ]
+}
