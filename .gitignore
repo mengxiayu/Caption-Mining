@@ -1,4 +1,3 @@
-data/
 week01/
 week02/
 week03/
@@ -7,6 +6,7 @@ week05/
 week06/
 week07/course_tfidf/
 week07/*.txt
+data/
 
 .obsidian
 *.zip
