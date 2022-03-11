@@ -14,7 +14,7 @@ def n_grams(tokens, n):
     for i in range(len(tokens)-n+1):
         _tokens = tokens[i:i+n]
 
-        texts = [t.text for t in _tokens]
+        texts = [t.lemma_ for t in _tokens]
         tt = " ".join(texts)
         if tt[0]=="-" or any(p in tt for p in ",./?';:\""):
             continue
@@ -24,24 +24,25 @@ def n_grams(tokens, n):
 
 
 def extract_ngrams():
-    cn = "CS_241"
+    cn = "CS_410"
     script2course = {}
-    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
-    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
+    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[0]] = arr
+        # script2course[arr[0]] = arr
+        script2course[arr[2]] = arr
     fr.close()
     print(len(script2course))
 
-    # fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
-    fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
+    fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
     cnt = 0
     bigramCounter = Counter()
     trigramCounter = Counter()
     for line in fr:
-        # cid, scriptid, text = line.strip().split('\t')
-        scriptid, text = line.strip().split('\t')
+        cid, scriptid, text = line.strip().split('\t')
+        # scriptid, text = line.strip().split('\t')
 
         if scriptid not in script2course:
             continue
@@ -73,7 +74,7 @@ def extract_ngrams():
         for k,v in concept_list:
             f.write(f"{k} {v}\n")
             
-# extract_ngrams()
+extract_ngrams()
 
 
 def find_contexts(text, target, window=300):
@@ -149,7 +150,7 @@ def extract_occurences(cn):
                         # "lecture_num": int(script2course[scriptid][6].split()[1]),
                         "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
                         "context": c,
-                        "label": "Intro" if "called" in c else "Use",
+                        "label": "",
                     }    
                     ctxs.append(tmp_ctx)
         print(target, len(ctxs))
@@ -160,7 +161,7 @@ def extract_occurences(cn):
     fw.write(tmp)
     fw.close()
 
-extract_occurences("CS_241")
+# extract_occurences("CS_241")
 
 
 
