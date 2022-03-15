@@ -1,5 +1,8 @@
 '''
 1. match caption concepts with ocr concepts
+
+week 10: use OCR "phrases"
+week 11: use OCR "title"
 '''
 import json
 
@@ -45,10 +48,12 @@ def n_grams(tokens, n):
 
 def clean_ocr_phrases(text_list):
     text = " , ".join(text_list)
+    text = text.replace("-", ",")
     tokens = nlp(text)
     bigrams = n_grams(tokens, 2)
     trigrams = n_grams(tokens, 3)
     return set(bigrams + trigrams)
+
 
 def read_ocr_data():
     df = pandas.read_csv("data/CS410-OCRdata-2021-11-18.csv")
@@ -59,7 +64,8 @@ def read_ocr_data():
         # print(scene_data["Scenes"][0].keys()) # dict_keys(['frame_start', 'frame_end', 'start', 'end', 'img_file', 'raw_text', 'phrases', 'title'])
         phrases = []
         for scene in scene_data["Scenes"]:
-            phrases.extend([x.lower() for x in scene["phrases"]])
+            # phrases.extend([x.lower() for x in scene["phrases"]])
+            phrases.append(scene["title"].lower())
         phrases = clean_ocr_phrases(phrases)
         vid2phrases[row["Id"]] = phrases
     return vid2phrases
@@ -87,6 +93,31 @@ def read_caption_data(fn):
 
     return tid2phrases, phrases2contexts
 
+def lecture_statistics():
+    vid2phrases = read_ocr_data()
+    tid2phrases, phrases2contexts = read_caption_data("week10/contexts_CS_410.json")
+    fw = open("week11/lecture_concepts.csv", 'w', encoding='utf-8')
+    fw.write(f"transcriptionid\tvideoid\tphrases_both\tphrases_caption\tphrases_video\n")
+    for tid, tphrases in tid2phrases.items():
+        if tid in transcript2video:
+            vid = transcript2video[tid]
+            # print("=== in video ===")
+            # print(vid2phrases[vid])
+            # print("=== in caption ===")
+            # print(tphrases)
+            phrases_in_both = vid2phrases[vid] & tphrases
+            phrases_in_caption = tphrases - vid2phrases[vid]
+            phrases_in_video = vid2phrases[vid] - tphrases
+            phrases_in_both = ", ".join(list(phrases_in_both))
+            phrases_in_caption = ", ".join(list(phrases_in_caption))
+            phrases_in_video = ", ".join(list(phrases_in_video))
+            fw.write(f"{tid}\t{vid}\t{phrases_in_both}\t{phrases_in_caption}\t{phrases_in_video}\n")
+        else:
+            print("video not exist")
+
+# lecture_statistics()
+
+
 def relabel_contexts():
     vid2phrases = read_ocr_data()
     tid2phrases, phrases2contexts = read_caption_data("week09/contexts_CS_410.json")
@@ -107,59 +138,89 @@ def relabel_contexts():
             "contexts":contexts
         })
     new_data_str = json.dumps(new_data, indent=2)
-    with open ("week10/contexts_CS_410.json", 'w', encoding='utf-8') as f:
+    with open ("week11/contexts_CS_410.json", 'w', encoding='utf-8') as f:
         f.write(new_data_str)
 
 # relabel_contexts()  
 
-def lecture_statistics():
-    vid2phrases = read_ocr_data()
-    tid2phrases, phrases2contexts = read_caption_data()
-    fw = open("week10/lecture_concepts.csv", 'w', encoding='utf-8')
-    fw.write(f"transcriptionid\tvideoid\tphrases_both\tphrases_caption\tphrases_video\n")
-    for tid, tphrases in tid2phrases.items():
-        if tid in transcript2video:
-            vid = transcript2video[tid]
-            # print("=== in video ===")
-            # print(vid2phrases[vid])
-            # print("=== in caption ===")
-            # print(tphrases)
-            phrases_in_both = vid2phrases[vid] & tphrases
-            phrases_in_caption = tphrases - vid2phrases[vid]
-            phrases_in_video = vid2phrases[vid] - tphrases
-            phrases_in_both = ", ".join(list(phrases_in_both))
-            phrases_in_caption = ", ".join(list(phrases_in_caption))
-            phrases_in_video = ", ".join(list(phrases_in_video))
-            fw.write(f"{tid}\t{vid}\t{phrases_in_both}\t{phrases_in_caption}\t{phrases_in_video}\n")
-        else:
-            print("video not exist")
-
-lecture_statistics()
 
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
+
+
+## week 11
 def draw_phrases_heatmap():
-    tid2phrases, phrases2contexts = read_caption_data("week10/contexts_CS_410.json")
+    tid2phrases, phrases2contexts = read_caption_data("week11/contexts_CS_410.json")
     tid2lect = {}
     for phrase, contexts in phrases2contexts.items():
         for cxt in contexts:
             tid2lect[cxt['transcription']] = cxt['lecture_num']
+    df = pandas.read_csv("week11/lecture_concepts.csv", sep='\t', keep_default_na=False)
+    df.fillna('')
     n_lectures = max(tid2lect.values())
-    n_phrases = len(phrases2contexts)
-    print(n_lectures,n_phrases)
-    map = np.zeros((n_phrases, n_lectures))
+    phrases2labels = {}
+    for idx, row in df.iterrows():
+        # print(row)
+        lectnum = tid2lect[row["transcriptionid"]]
+        # both
+        if row["phrases_both"]!="":
+            phrases_list =[x.strip() for x in row["phrases_both"].split(",")] 
+            for p in phrases_list:
+                if p not in phrases2labels:
+                    phrases2labels[p] = [0] * n_lectures
+                phrases2labels[p][lectnum-1] = 3
+        # caption
+        if row["phrases_caption"]!="":
+            phrases_list =[x.strip() for x in row["phrases_caption"].split(",")] 
+            for p in phrases_list:
+                if p not in phrases2labels:
+                    phrases2labels[p] = [0] * n_lectures
+                phrases2labels[p][lectnum-1] = 2
+        # video
+        if row["phrases_video"]!="":
+            phrases_list =[x.strip() for x in row["phrases_video"].split(",")] 
+            for p in phrases_list:
+                if p not in phrases2labels:
+                    phrases2labels[p] = [0] * n_lectures
+                phrases2labels[p][lectnum-1] = 1
+    # print(phrases2labels)
+    n_phrases = len(phrases2labels)
+    map = []
+    
     ylabels = []
     xlabels = [f'L{x}' for x in range(1,n_lectures+1)]
-    for idx,(phrase, contexts) in enumerate(phrases2contexts.items()):
-        ylabels.append(phrase)
-        for ctx in contexts:
-            if ctx["label"] == "intro":
-                map[idx, ctx["lecture_num"]-1] = 2
-            else:
-                map[idx, ctx["lecture_num"]-1] = 1
-    # plt.imshow(map, cmap='hot', interpolation='nearest')
-    
+    for idx, (k,v) in enumerate(phrases2labels.items()):
+        map.append(v)
+        ylabels.append(k)
+    map = np.array(map)
+    print(map.shape)
+    # print(map)
+    # print(len(xlabels),xlabels)
+    # print(len(ylabels),ylabels)
     ax = sns.heatmap(map, linewidth=0.1, xticklabels=xlabels, yticklabels=ylabels, cmap="YlGnBu")
     plt.show()
-# draw_phrases_heatmap()
+
+# def draw_phrases_heatmap_legacy():
+#     tid2phrases, phrases2contexts = read_caption_data("week11/contexts_CS_410.json")
+#     tid2lect = {}
+#     for phrase, contexts in phrases2contexts.items():
+#         for cxt in contexts:
+#             tid2lect[cxt['transcription']] = cxt['lecture_num']
+#     n_lectures = max(tid2lect.values())
+#     n_phrases = len(phrases2contexts)
+#     print(n_lectures,n_phrases)
+#     map = np.zeros((n_phrases, n_lectures))
+#     ylabels = []
+#     xlabels = [f'L{x}' for x in range(1,n_lectures+1)]
+#     for idx,(phrase, contexts) in enumerate(phrases2contexts.items()):
+#         ylabels.append(phrase)
+#         for ctx in contexts:
+#             if ctx["label"] == "intro":
+#                 map[idx, ctx["lecture_num"]-1] = 2
+#             else:
+#                 map[idx, ctx["lecture_num"]-1] = 1
+#     # plt.imshow(map, cmap='hot', interpolation='nearest')
+#     ax = sns.heatmap(map, linewidth=0.1, xticklabels=xlabels, yticklabels=ylabels, cmap="YlGnBu")
+#     plt.show()
+draw_phrases_heatmap()

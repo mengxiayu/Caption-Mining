@@ -74,10 +74,10 @@ def extract_ngrams():
         for k,v in concept_list:
             f.write(f"{k} {v}\n")
             
-extract_ngrams()
+# extract_ngrams()
 
 
-def find_contexts(text, target, window=300):
+def find_contexts(text, target, window=400):
     matches = re.finditer(target, text)
     matches_positions = [match.start() for match in matches]
     contexts = []
@@ -102,7 +102,7 @@ def curate_meta_data_for_course():
     for line in data:
         fw.write(line)
     fw.close()
-# curate_meta_data_for_course()
+curate_meta_data_for_course()
 
 
 import json
@@ -111,11 +111,12 @@ def extract_occurences(cn):
     concept_list = [" ".join(line.split()[:-1]) for line in fr]
     fr.close()
     script2course = {}
-    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
-    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
+    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[0]] = arr
+        # script2course[arr[0]] = arr
+        script2course[arr[2]] = arr
     fr.close()
     print("script2course size", len(script2course))
 
@@ -147,8 +148,8 @@ def extract_occurences(cn):
                         "course": cn, 
                         "transcription": scriptid,
                         "lecture": script2course[scriptid][6],
-                        # "lecture_num": int(script2course[scriptid][6].split()[1]),
-                        "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
+                        "lecture_num": int(script2course[scriptid][6].split()[1]),
+                        # "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
                         "context": c,
                         "label": "",
                     }    
@@ -161,7 +162,7 @@ def extract_occurences(cn):
     fw.write(tmp)
     fw.close()
 
-# extract_occurences("CS_241")
+extract_occurences("CS_410")
 
 
 
