@@ -24,6 +24,7 @@ def n_grams(tokens, n):
 
 
 def extract_ngrams():
+    print("extracting n grams...")
     cn = "CS_410"
     script2course = {}
     fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
@@ -61,20 +62,20 @@ def extract_ngrams():
     concept_list = []
 
     print(" === bigram examples: ===")
-    for k,v in bigramCounter.most_common(100):
-        if v > 5:
+    for k,v in bigramCounter.most_common():
+        if v > 2:
             concept_list.append([k,v])
         print(k,v)
     print(" === trigram examples: ===")
-    for k,v in trigramCounter.most_common(100):
-        if v > 10:
+    for k,v in trigramCounter.most_common():
+        if v > 2:
             concept_list.append([k,v])
         print(k,v)
-    with open(f"week09/{cn}_concepts.txt", 'w', encoding='utf-8') as f:
+    with open(f"week09/{cn}_concepts_all.txt", 'w', encoding='utf-8') as f:
         for k,v in concept_list:
             f.write(f"{k} {v}\n")
             
-# extract_ngrams()
+extract_ngrams()
 
 
 def find_contexts(text, target, window=400):
@@ -102,7 +103,7 @@ def curate_meta_data_for_course():
     for line in data:
         fw.write(line)
     fw.close()
-curate_meta_data_for_course()
+# curate_meta_data_for_course()
 
 
 import json
@@ -162,9 +163,7 @@ def extract_occurences(cn):
     fw.write(tmp)
     fw.close()
 
-extract_occurences("CS_410")
-
-
+# extract_occurences("CS_410")
 
 from pyvis.network import Network
 

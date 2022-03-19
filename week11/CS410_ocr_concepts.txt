@@ -1,0 +1,375 @@
+formal formulation
+mine word
+mixture model estimation
+complex feature
+understanding time
+information filtering
+feedback query
+search engine summary
+cumulative gain
+threshold learning
+mining loop
+predefined category
+information part
+statistical significance
+text retrieval
+two unigram language
+rating decomposition
+indexing standard
+theme life
+paradigmatic relation
+indirect evaluation
+b ’s
+text cluster
+ny time
+prior knowledge
+space model
+language model
+unigram language model
+sentiment analysis
+generative mixture model
+next generation search
+latent semantic analysis
+network supervise topic
+posting doc
+data datum
+different probability
+latent aspect
+popular term
+content variation
+probabilistic topic
+different retrieval
+gamma threshold
+rating behavior
+classifier part
+main technique
+event impact
+reciprocal rank
+different retrieval model
+insufficient scalability
+hit algorithm
+technique basis
+event impact analysis
+methodology methodology
+contextual text mining
+consumer preference
+theoretical justification
+insufficient scalability technique
+ordinal logistic regression
+topical community
+scalability technique basis
+em algorithm
+topic modeling
+contextual probabilistic latent
+computation pipeline
+search engine learning
+general problem
+motivation hotel
+two stage
+multiple understanding
+idf weighting
+mining topic
+engine summary
+joint analysis
+special case
+topical term
+retrieval system
+review document
+likelihood make sense
+mining word association
+maximization algorithm
+generative model
+typical content
+intelligent information
+jm smoothing
+topic mining
+natural language content
+example dictionary posting
+basic filtering question
+categorization method
+web indexing standard
+categorization evaluation
+independent classifier
+natural language
+pseudo document
+systems retrieval problem
+engine analysis
+statistical language model
+cranfield evaluation
+information system
+probabilistic retrieval
+mining causal topic
+commonly use text
+engine system
+task definition
+laboratory testing
+vector recommender
+topic word distribution
+dus triangle
+future intelligent information
+systems retrieval
+general evaluation methodology
+variable content
+text clustering
+mine word association
+segmentation rating
+example dictionary
+value location
+spatial distribution
+generation search
+gamma threshold learning
+simple language model
+additional reading
+recommender system
+like item
+map function
+topic model
+word association
+generative probabilistic model
+web indexing
+information network
+ml parameter estimation
+vector space model
+hurricane katrina
+simple language
+document length
+overall rating
+unigram lm
+likelihood probabilistic model
+vector space
+enriche text representation
+nlp enriche
+compression method
+generative mode
+local maximum
+scalability technique
+data mining
+relevant datum
+word counting
+time series
+likelihood function
+w present
+query likelihood
+one topic
+mixed topic
+integer compression method
+opinion mining
+filtering question
+two unigram
+generative mixture
+generation process
+world variable
+naive baye classifier
+parallel programming
+parameter estimation
+cranfield evaluation methodology
+subjective sensor
+likelihood estimate
+word distribution
+entropy reduction
+joint mining
+network context
+index example
+dictionary posting
+text categorization method
+u like item
+association mining
+text datum
+complete definition
+toy page
+general idea
+afghan war
+component crawler
+topic analysis
+language content analysis
+association analysis
+evaluation methodology
+presidential prediction market
+impact analysis
+presidential election
+paradigmatic relation discovery
+completely user
+filtering problem
+implicit feedback
+topic word
+inverted index compression
+art retrieval
+zero count
+text categorization
+inverted index example
+probabilistic model
+word relation
+latent dirichlet
+index compression
+away message
+latent rating
+collaboration filtering
+analysis main task
+cluster allocation
+evaluation methodology methodology
+pr curve
+model estimation
+course schedule
+collection c
+maximum likelihood estimate
+recommender systems retrieval
+dictionary posting doc
+contextual text
+basic filtering
+mutual information
+computation task
+engine learning
+particular query
+small data datum
+preference weight
+collection evaluation
+automatic feedback
+level rating
+blog article
+test collection evaluation
+imaginary relevant doc
+simple case
+main task
+latent dirichlet allocation
+language content
+probabilistic latent
+rocchio feedback
+causal topic
+social network context
+multiple topic
+aspect rating
+world variable content
+collaboration filtering problem
+simple vsm
+understanding time series
+stage aspect segmentation
+sample result
+mutual information part
+filtering system
+basic word relation
+interesting question
+soft margin
+formal definition
+inverted index
+basic word
+text information
+test collection
+search engine system
+big text datum
+course summary
+possibly form hierarchy
+probabilistic topic model
+news article
+word context
+retrieval problem
+typical tr system
+unigram language
+system implementation
+classification accuracy
+index example dictionary
+judgment completely user
+uncompress inverted index
+search engine analysis
+government response
+overview text mining
+retrieval model
+integer compression
+social network
+syntagmatic relation discovery
+rating behavior analysis
+prediction market
+presidential prediction
+different kind
+document clustering
+sentiment classification
+length normalization
+pagerank algorithm
+user rating behavior
+engine system implementation
+implicit holder
+relation discovery
+text information network
+maximum likelihood
+text mining
+syntagmatic relation
+word association mining
+recommender systems
+feedback query model
+intelligent information system
+latent aspect rating
+rating prediction
+dirichlet allocation
+ml estimate
+art retrieval model
+semantic analysis
+ml parameter
+sensor weather
+aspect rating analysis
+mixture model
+keyword text
+time series supervision
+basic nlp
+basic idea
+document length normalization
+segmentation rating regression
+mining multiple topic
+iterative causal topic
+naive baye
+vsm rank function
+latent rating regression
+near neighbor
+mining word
+logistic regression
+datum mining
+document evaluation
+linear svm
+small data
+query model
+evaluation part
+direct evaluation
+series supervision
+big text
+subjective sensor weather
+datum frequency
+relevant doc
+observed difference
+system architecture
+relevance judgment
+context partitioning
+text representation
+text feature
+background word
+big picture
+general evaluation
+datum mining loop
+overview text
+content analysis
+small relevant datum
+statistical language
+document selection
+behavior analysis
+rating regression
+good separator
+user rating
+life cycle
+correct decision
+discriminative classifier
+major topic
+tf transformation
+rating analysis
+iterative causal
+june 2000 dec
+conditional entropy
+discriminative classifier part
+document link
+probabilistic retrieval model
+probabilistic topic mining
+next generation
+ir research
+theme life cycle
+mining one topic
+similar word
+collaborative filtering
+search engine
+baye classifier
+generation search engine
