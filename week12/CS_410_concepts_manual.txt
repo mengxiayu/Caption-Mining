@@ -1,0 +1,76 @@
+word distribution 90
+mixture model 63
+text mining 59
+topic model 54
+language model 50
+likelihood function 48
+mutual information 44
+syntagmatic relation 43
+conditional entropy 42
+text categorization 40
+training data 39
+generative model 35
+maximum likelihood 33
+paradigmatic relation 31
+text clustering 31
+text object 30
+random variable 27
+similarity function 25
+background model 23
+likelihood estimator 23
+parameter value 23
+scoring function 21
+conditional probability 20
+topic mining 19
+sentiment analysis 18
+logistic regression 18
+objective function 17
+categorization problem 17
+baye rule 17
+naive baye 17
+natural language 16
+background word 16
+background language 16
+opinion mining 16
+zero probability 16
+unigram language 15
+word association 14
+contextual text 14
+probabilistic model 14
+data mining 13
+document clustering 13
+relation discovery 12
+logistical regression 12
+likelihood estimate 12
+posterior probability 12
+machine learning 12
+topic coverage 11
+optimization problem 11
+generate model 11
+information retrieval 11
+text retrieval 10
+language processing 10
+training example 10
+bayesian inference 10
+hidden variable 9
+component model 9
+world distribution 9
+mining algorithm 9
+prior knowledge 9
+discriminative classifier 9
+probability distribution 8
+maximum likelihood estimator 23
+background language model 16
+unigram language model 15
+topic word distribution 14
+contextual text mining 14
+maximum likelihood estimate 12
+probabilistic topic model 11
+statistical language model 4
+component mixture model 4
+basic topic model 4
+model base approach 3
+long mixture model 3
+unified model 3
+regression model 3
+probabilistic retrieval model

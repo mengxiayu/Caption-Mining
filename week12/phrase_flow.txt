@@ -1,0 +1,308 @@
+aca8d826-412b-4134-8d2c-87537fdc4a76	Lecture 2 — Overview Text Mining and Analytics - Part 2 | UIUC
+word association	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+datum mining	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+non text datum	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+non text	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text datum	7	0	0	1	0	1	0	1	0	0	1	0	2	1	1	1	0	2
+text mining	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+stock price	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+observed world	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+real world	2	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+db1d54dd-bb05-46c0-995b-5f7d5243e3c4	Lecture 5 — Text Representation - Part 1 | UIUC
+text datum	1	0	0	0	1	0	0	0	0	1	0	0	0	1	2
+text mining	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+identify word	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0
+natural language	2	0	1	1	0	0	1	0	0	0	0	0	0	0	0
+represent text	2	0	0	0	1	0	0	0	0	1	0	0	0	0	1
+text representation	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2997c717-2552-411d-9dc4-7e648e16bbf0	Lecture 6 — Text Representation - Part 2 | UIUC
+word boundary	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+natural language	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+text datum	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0d005f7e-0c3f-465b-b7fe-08f45355e3de	Lecture 7 — Word Association Mining and Analysis | UIUC
+text retrieval	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+word association	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+context similarity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+paradigmatic relation	2	1	1	0	1	1	0	1	0	0	0	0	1	0	1	0	0	0	0	1	1	0	0	0	0	0	1	0
+syntagmatic relation	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0
+b9eb5a35-5bad-4cf5-9d94-b0b0c816c8cf	Lecture 8 — Paradigmatic Relation Discovery - Part 1 | UIUC
+word cat	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+paradigmatic relation	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+similarity function	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+potential problem	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+9a443634-7f2e-4d3a-9ccd-0f1b6604c939	Lecture 9 — Paradigmatic Relation Discovery - Part 2 | UIUC
+document frequency	0	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+frequency term	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+high frequency term	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+frequent term	1	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+candidate word	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0
+2736e0b3-cd3e-4760-b07e-e9aadcc588e2	Lecture 10 — Syntagmatic Relation Discovery  Entropy | UIUC
+biased coin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0
+syntagmatic relation	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+random variable	0	0	0	0	0	0	1	5	0	1	0	0	1	0	2	0	0	0	0
+completely biased coin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0
+51be74e8-eb10-47c2-a768-b688605de1e0	Lecture 11 — Syntagmatic Relation Discovery  Conditional Entropy | UIUC
+syntagmatic relation	2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	0	1
+word w	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0
+use entropy	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+candidate word	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+conditional entropy	2	0	0	1	1	2	1	2	1	1	2	1	1	0	0	1	1	1	0	1
+9e5a0c5f-ff4a-42a6-b37b-f43628632860	Lecture 12 — Syntagmatic Relation Discovery  Mutual Information - Part 1 | UIUC
+random variable	0	0	0	0	0	0	0	0	0	0	0	3	0	2	0	0	0	0	1	0	0	0	0	0	0
+syntagmatic relation	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+original entropy	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+mutual information	3	0	1	0	0	2	1	3	1	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+relation discovery	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+syntagmatic relation discovery	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+conditional entropy	3	1	3	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+joint distribution	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0
+information theory	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+another concept	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+44df41bc-04d3-41ca-ac51-dbd22dc98305	Lecture 13 — Syntagmatic Relation Discovery  Mutual Information - Part 2 | UIUC
+pseudo segment	0	0	0	2	1	1	0	0	0	0	0	0	0	0
+total number	0	1	2	0	0	0	0	0	0	0	0	0	0	0
+380a7417-6702-4df8-9818-5aceba7cde2b	Lecture 14 — Topic Mining and Analysis  Motivation and Task Definition | UIUC
+topic mining	2	0	0	0	0	0	0	0	0
+k topic	0	0	0	0	0	0	0	2	0
+text datum	1	0	0	0	0	0	0	2	0
+b75d0d2e-a1b7-4f6a-b699-f81ec4b720c7	Lecture 15 — Topic Mining and Analysis  Term as Topic | UIUC
+6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb	Lecture 16 — Topic Mining and Analysis  Probabilistic Topic Models | UIUC
+word distribution	0	2	0	0	0	0	1	1	0	1	0	0	1
+relate term	0	0	0	0	2	0	0	0	0	0	0	0	0
+probabilistic model	0	0	0	0	0	0	0	0	0	2	0	0	0
+probabilistic topic	2	0	0	0	0	0	0	0	0	0	0	0	0
+zero probability	0	0	1	0	2	0	0	0	0	0	0	0	0
+parameter value	0	0	0	0	0	0	0	0	0	0	0	2	0
+probabilistic topic model	2	0	0	0	0	0	0	0	0	0	0	0	0
+high probability	0	0	0	0	0	1	0	0	0	1	0	2	0
+topic model	2	0	0	0	0	0	0	0	0	0	0	0	0
+mining problem	0	0	0	0	0	0	0	0	0	2	0	0	0
+54ab232c-85cb-4829-abd0-6cbaed5f3fc8	Lecture 17 — Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC
+special case	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+probabilistic topic	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+statistical language model	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+statistical language	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+probabilistic topic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+language model	4	0	0	0	2	0	0	0	1	0	0	0	0	3	0	0	0	0
+topic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text document	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+48b37a2f-5ca3-4b7b-9bfc-d841da37c566	Lecture 18 — Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC
+arg max	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+language model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+maximum likelihood	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+e6c92e3a-0169-4af1-96d7-3fe4a5303e3a	Lecture 19 — Probabilistic Topic Models  Mining One Topic | UIUC
+estimate parameter	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+topic model	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+likelihood function	0	2	0	1	0	0	2	1	0	0	1	0	0	0	0	0	0	0	0	0
+simple case	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8eaf2971-31ff-40b7-9fc6-b91c7637f916	Lecture 20 — Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC
+unigram language	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+word distribution	0	0	2	1	0	1	0	0	0	0	1	0	0	0	0	0
+language model	3	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+generative model	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+component model	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0
+unigram language model	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+27d06808-2624-4922-a079-04dccb301dde	Lecture 21 — Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC
+background word	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+word distribution	3	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+topic word	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+mixture model	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+topic word distribution	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5350ccd0-beab-48fc-8484-d8e6a38c4cbf	Lecture 22 — Probabilistic Topic Models  Mixture Model Estimation - Part 2 | UIUC
+high probability	0	0	0	0	3	2	0
+component model	0	0	0	0	0	0	2
+likelihood function	4	1	0	0	1	0	0
+93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee	Lecture 23 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC
+word text	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0
+em algorithm	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+maximum likelihood	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+mixture model	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4c3d9363-8e43-44fe-ab21-8740cfd1a8c5	Lecture 24 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC
+z value	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+em algorithm	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+hidden variable	2	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+20703c3c-ced6-4410-ace1-139baa46505c	Lecture 25 — Probabilistic Topic Models  Expectation Maximization Algorithm - Part 3 | UIUC
+1cc2d7fa-3d11-49fa-b979-ef5e9442466f	Lecture 26 — Probabilistic Latent Semantic Analysis PLSA - Part 1 | UIUC
+multiple topic	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+likelihood function	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0
+government response	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+unknown parameter	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+background model	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+semantic analysis	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+basic topic	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+basic topic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+topic model	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+probabilistic latent	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+latent semantic analysis	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4453a049-7597-4df4-9b9b-67c2d124a116	Lecture 27 — Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC
+likelihood converge	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+word w	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hidden variable	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+em algorithm	1	0	0	0	0	0	1	2	0	1	0	0	0	0	0	0
+time period	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+e step	1	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0
+5190e288-54f7-4021-9083-8e8ceac11345	Lecture 28 — Latent Dirichlet Allocation LDA - Part 1 | UIUC
+latent dirichlet	3	0	0	0	0	0	0	0	0	0
+dirichlet allocation	3	0	0	0	0	0	0	0	0	0
+latent dirichlet allocation	3	0	0	0	0	0	0	0	0	0
+functional form	0	0	0	0	0	0	2	0	0	0
+battery life	0	0	0	0	0	0	0	1	0	2
+d857a66b-1018-4ffb-821a-9d8acc6f5012	Lecture 29 — Latent Dirichlet Allocation LDA - Part 2 | UIUC
+lda formula	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0
+basic topic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+basic topic model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+topic model	0	0	0	0	0	0	0	2	0	0	0	0	0	1	2	0
+dirichlet distribution	0	0	0	2	1	0	0	1	0	0	0	0	0	0	0	0
+6a9b1334-5f53-407b-8864-2cff7edbc603	Lecture 30 — Text Clustering  Motivation | UIUC
+clustering result	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+text clustering	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+text cluster	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+8717e27a-33fb-4d06-ae68-2e0d915b1568	Lecture 31 — Text Clustering Generative Probabilistic Models - Part 1 | UIUC
+likelihood function	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0
+text cluster	8	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+n document	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+probabilistic model	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text clustering	8	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+generative probabilistic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+generative model	1	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+f64adab4-578a-4868-8b2c-03fdd4ddf55d	Lecture 32 — Text Clustering Generative Probabilistic Models - Part 2 | UIUC
+document clustering	2	0	0	0	0	0	0	0	0	0	0	0
+text clustering	2	0	0	0	0	0	0	0	0	0	0	0
+text cluster	2	0	0	0	0	0	0	0	0	0	0	0
+mixture model	2	0	0	0	0	0	0	0	0	0	0	0
+dccc8a84-66da-47ce-ab88-28e8acf192b9	Lecture 33 — Text Clustering Generative Probabilistic Models - Part 3 | UIUC
+word distribution	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0
+probabilistic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text cluster	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text clustering	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+generative probabilistic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+mixture model	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+em algorithm	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hidden variable	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+topic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+e step	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5bb813bd-6b7d-4f77-8156-21995f5944ad	Lecture 34 — Text Clustering Similarity based Approaches | UIUC
+base approach	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+similarity function	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0
+similarity base approach	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cluster bias	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+objective function	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	1
+generative model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+datum point	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+group similarity	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+da74c929-efc1-4b65-9635-684c7ebcab3f	Lecture 35 — Text Clustering  Evaluation | UIUC
+particular application	0	0	0	1	0	0	0	0	2	0	0	0	0
+mutual information	0	0	0	0	2	0	0	0	0	0	0	0	0
+base approach	0	0	0	0	0	0	0	0	0	0	2	0	0
+text cluster	2	0	0	0	0	0	0	0	0	0	0	0	0
+39d13817-de51-4195-a33a-985b0b54e64d	Lecture 36 — Text Categorization Motivation | UIUC
+text categorization	2	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+relevant document	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+text object	0	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text datum	1	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0
+aac4e33c-97bb-46c8-a108-3e3e3322a85c	Lecture 37 — Text Categorization  Methods | UIUC
+text categorization	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+linear combination	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+human expert	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+news article	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+training datum	0	0	0	0	0	0	2	1	2	0	0	0	0	0	0	0	0
+6962b043-7dd8-4050-bad0-bbdb13e2c302	Lecture 38 — Text Categorization Generative Probabilistic Models | UIUC
+text categorization	3	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+discriminative approach	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+background language model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+zero probability	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+background language	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+background model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+datum set	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+language model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+4da6283d-6903-4be9-8bfc-ad5d330343c6	Lecture 39 — Text Categorization  Discriminative Classifier - Part 1 | UIUC
+text categorization	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+similarity function	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	3
+conditional likelihood	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+parameter value	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text datum	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+near neighbor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	0	0
+feature value	1	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+scoring function	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+beta value	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+naive baye	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+k near neighbor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	0	0
+training datum	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+7f9f9b1e-4527-4875-b6f7-4dc0d57ab719	Lecture 40 — Text Categorization  Discriminative Classifier - Part 2 | UIUC
+training example	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1
+text categorization	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+discriminative classifier	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+vector machine	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+support vector machine	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+dimensional space	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+data point	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+large value	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+training error	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+five star	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+support vector	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3956403f-f159-448a-9514-5dc69f314c5a	Lecture 41 — Text Categorization  Evaluation - Part 1 | UIUC
+total number	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6382e23f-d54e-4ece-a231-8df819983fb5	Lecture 42 — Text Categorization  Evaluation - Part 2 | UIUC
+f score	0	2	0	0	0	0	0	0	0	0	0	0
+f1951cf2-4293-450b-8578-4d74c72f9862	Lecture 43 — Opinion Mining and Sentiment Analysis  Motivation | UIUC
+sentiment analysis	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+win feature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+opinion mining	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0
+define opinion	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text datum	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0
+product review	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4a54f790-991c-44bb-ab62-713cbef84ad1	Lecture 44 — Opinion Mining, Sentiment Analysis  and  Sentiment Classification | UIUC
+text categorization	0	0	2	1	0	0	0	0	0	0	0	0	0
+sentiment classification	4	0	1	0	0	0	0	0	0	0	0	0	0
+parse tree	0	0	0	0	0	0	0	0	2	2	0	0	0
+speech tag	0	0	0	0	0	0	0	0	0	2	0	0	0
+n - gram	0	0	0	1	1	2	0	0	1	2	0	0	0
+2d0e46c7-df4e-48b3-9550-dac3fec3062d	Lecture 45 — Opinion Mining and Sentiment Analysis  Ordinal Logistic Regression | UIUC
+categorization problem	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+distinguish k	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+logistic regression	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+training datum	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0
+b1854d1c-3199-4c42-ab7d-f219f70259a3	Lecture 46 — Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 1 | UIUC
+detailed understanding	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sentiment analysis	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sentiment weight	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+opinion mining	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rating analysis	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+overall rating	2	0	0	0	0	0	0	0	1	0	1	1	1	0	2	0	0	0	0	0	0	0	0	0	0
+aspect rating	1	0	0	1	0	0	0	0	1	0	2	0	0	1	0	1	0	0	1	1	0	0	0	0	0
+ee41ce3a-6c8d-4c3b-90fd-79f3e9190402	Lecture 47 — Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 2 | UIUC
+expensive hotel	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0
+make sense	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+opinion holder	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+text mining	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+topic model	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+opinion target	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+overall rating	0	3	2	2	0	0	0	0	2	0	0	1	0	0	0	0	0
+aspect rating	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+a97a9d5e-48b7-4f4e-9754-4c5b30a31424	Lecture 48 — Text Based Prediction | UIUC
+predictive model	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0
+non text datum	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0
+non text	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0
+text datum	1	0	0	1	1	4	1	0	0	2	2	0	0	1	1	0
+95f92696-1963-4307-83c6-a8370ff03b30	Lecture 49 — Contextual Text Mining  Motivation | UIUC
+contextual text	3	0	0	0	0	0	0	1	0	0	0
+compare topic	0	0	0	0	0	1	0	2	0	0	0
+text datum	4	2	0	1	1	0	0	0	0	0	0
+social network	0	1	0	0	0	0	0	0	0	2	0
+text mining	3	0	0	0	0	0	0	1	0	0	0
+contextual text mining	3	0	0	0	0	0	0	1	0	0	0
+3103be2f-681e-41cf-b0f7-21cf6ba56616	Lecture 50 — Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC
+word distribution	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+top word	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+probabilistic model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+contextual text	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+text mining	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+new orleans	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+contextual text mining	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+semantic analysis	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+language model	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+united nations	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+common topic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+probabilistic latent	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+context variable	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+latent semantic analysis	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

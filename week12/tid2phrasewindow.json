@@ -1,0 +1,1494 @@
+{
+  "0d005f7e-0c3f-465b-b7fe-08f45355e3de": [
+    [
+      "word association",
+      "paradigmatic relation"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text retrieval"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "syntagmatic relation"
+    ],
+    [],
+    [
+      "syntagmatic relation"
+    ],
+    [],
+    [],
+    [],
+    [
+      "context similarity"
+    ],
+    []
+  ],
+  "1cc2d7fa-3d11-49fa-b979-ef5e9442466f": [
+    [
+      "probabilistic latent",
+      "basic topic model",
+      "multiple topic",
+      "government response",
+      "topic model",
+      "latent semantic analysis",
+      "basic topic",
+      "semantic analysis"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "background model"
+    ],
+    [],
+    [
+      "likelihood function"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "unknown parameter"
+    ],
+    []
+  ],
+  "20703c3c-ced6-4410-ace1-139baa46505c": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "2736e0b3-cd3e-4760-b07e-e9aadcc588e2": [
+    [
+      "syntagmatic relation"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "random variable"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "random variable"
+    ],
+    [],
+    [
+      "biased coin",
+      "completely biased coin"
+    ],
+    [],
+    []
+  ],
+  "27d06808-2624-4922-a079-04dccb301dde": [
+    [
+      "topic word distribution",
+      "mixture model",
+      "word distribution",
+      "background word",
+      "topic word"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "2997c717-2552-411d-9dc4-7e648e16bbf0": [
+    [
+      "text datum",
+      "word boundary"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "natural language"
+    ],
+    [],
+    []
+  ],
+  "2d0e46c7-df4e-48b3-9550-dac3fec3062d": [
+    [],
+    [
+      "logistic regression",
+      "categorization problem"
+    ],
+    [],
+    [],
+    [
+      "distinguish k"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "training datum"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "3103be2f-681e-41cf-b0f7-21cf6ba56616": [
+    [
+      "probabilistic latent",
+      "context variable",
+      "contextual text mining",
+      "latent semantic analysis",
+      "text mining",
+      "semantic analysis",
+      "contextual text"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "new orleans"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "word distribution"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "united nations"
+    ],
+    [],
+    [
+      "common topic"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "top word"
+    ],
+    [
+      "probabilistic model",
+      "language model"
+    ]
+  ],
+  "380a7417-6702-4df8-9818-5aceba7cde2b": [
+    [
+      "topic mining"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum",
+      "k topic"
+    ],
+    []
+  ],
+  "3956403f-f159-448a-9514-5dc69f314c5a": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "total number"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "39d13817-de51-4195-a33a-985b0b54e64d": [
+    [
+      "text categorization"
+    ],
+    [
+      "text datum"
+    ],
+    [],
+    [
+      "text object"
+    ],
+    [],
+    [
+      "text object"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "relevant document"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum"
+    ],
+    []
+  ],
+  "4453a049-7597-4df4-9b9b-67c2d124a116": [
+    [
+      "word w",
+      "hidden variable"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "e step"
+    ],
+    [
+      "em algorithm"
+    ],
+    [
+      "likelihood converge"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "time period"
+    ],
+    []
+  ],
+  "44df41bc-04d3-41ca-ac51-dbd22dc98305": [
+    [],
+    [],
+    [
+      "total number"
+    ],
+    [
+      "pseudo segment"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "48b37a2f-5ca3-4b7b-9bfc-d841da37c566": [
+    [
+      "maximum likelihood",
+      "arg max"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "language model"
+    ],
+    []
+  ],
+  "4a54f790-991c-44bb-ab62-713cbef84ad1": [
+    [
+      "sentiment classification"
+    ],
+    [],
+    [
+      "text categorization"
+    ],
+    [],
+    [],
+    [
+      "n - gram"
+    ],
+    [],
+    [],
+    [
+      "parse tree"
+    ],
+    [
+      "n - gram",
+      "parse tree",
+      "speech tag"
+    ],
+    [],
+    [],
+    []
+  ],
+  "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5": [
+    [
+      "em algorithm",
+      "z value",
+      "hidden variable"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "4da6283d-6903-4be9-8bfc-ad5d330343c6": [
+    [
+      "text datum",
+      "scoring function",
+      "text categorization",
+      "naive baye"
+    ],
+    [],
+    [
+      "feature value"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "parameter value",
+      "training datum"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "conditional likelihood",
+      "beta value"
+    ],
+    [],
+    [],
+    [
+      "k near neighbor",
+      "near neighbor"
+    ],
+    [],
+    [],
+    [],
+    [
+      "similarity function"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "similarity function"
+    ]
+  ],
+  "5190e288-54f7-4021-9083-8e8ceac11345": [
+    [
+      "dirichlet allocation",
+      "latent dirichlet allocation",
+      "latent dirichlet"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "functional form"
+    ],
+    [],
+    [],
+    [
+      "battery life"
+    ]
+  ],
+  "51be74e8-eb10-47c2-a768-b688605de1e0": [
+    [
+      "use entropy",
+      "syntagmatic relation",
+      "conditional entropy"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "conditional entropy"
+    ],
+    [],
+    [
+      "conditional entropy"
+    ],
+    [],
+    [],
+    [
+      "conditional entropy"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "candidate word"
+    ],
+    [
+      "word w"
+    ],
+    []
+  ],
+  "5350ccd0-beab-48fc-8484-d8e6a38c4cbf": [
+    [
+      "likelihood function"
+    ],
+    [],
+    [],
+    [],
+    [
+      "high probability"
+    ],
+    [
+      "high probability"
+    ],
+    [
+      "component model"
+    ]
+  ],
+  "54ab232c-85cb-4829-abd0-6cbaed5f3fc8": [
+    [
+      "topic model",
+      "probabilistic topic model",
+      "statistical language model",
+      "language model",
+      "special case",
+      "statistical language",
+      "probabilistic topic"
+    ],
+    [],
+    [],
+    [],
+    [
+      "language model"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text document"
+    ],
+    [],
+    [],
+    [
+      "language model"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "5bb813bd-6b7d-4f77-8156-21995f5944ad": [
+    [
+      "generative model",
+      "similarity function",
+      "group similarity",
+      "base approach",
+      "similarity base approach"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "objective function"
+    ],
+    [],
+    [],
+    [
+      "datum point"
+    ],
+    [
+      "similarity function",
+      "cluster bias"
+    ],
+    [],
+    [],
+    []
+  ],
+  "6382e23f-d54e-4ece-a231-8df819983fb5": [
+    [],
+    [
+      "f score"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "6962b043-7dd8-4050-bad0-bbdb13e2c302": [
+    [
+      "discriminative approach",
+      "text categorization"
+    ],
+    [
+      "text categorization"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "zero probability",
+      "datum set"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "background model"
+    ],
+    [],
+    [
+      "language model",
+      "background language model",
+      "background language"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb": [
+    [
+      "topic model",
+      "probabilistic topic model",
+      "probabilistic topic"
+    ],
+    [
+      "word distribution"
+    ],
+    [],
+    [],
+    [
+      "zero probability",
+      "relate term"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "probabilistic model",
+      "mining problem"
+    ],
+    [],
+    [
+      "high probability",
+      "parameter value"
+    ],
+    []
+  ],
+  "6a9b1334-5f53-407b-8864-2cff7edbc603": [
+    [
+      "text clustering",
+      "text cluster"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "clustering result"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "7f9f9b1e-4527-4875-b6f7-4dc0d57ab719": [
+    [
+      "text categorization",
+      "discriminative classifier"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "data point",
+      "support vector"
+    ],
+    [
+      "support vector machine",
+      "support vector",
+      "vector machine"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "training error",
+      "large value"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "dimensional space"
+    ],
+    [],
+    [],
+    [
+      "training example"
+    ],
+    [
+      "five star"
+    ]
+  ],
+  "8717e27a-33fb-4d06-ae68-2e0d915b1568": [
+    [
+      "text clustering",
+      "generative probabilistic model",
+      "probabilistic model",
+      "text cluster"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "n document"
+    ],
+    [],
+    [
+      "generative model"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "likelihood function"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "8eaf2971-31ff-40b7-9fc6-b91c7637f916": [
+    [
+      "language model",
+      "unigram language model",
+      "unigram language"
+    ],
+    [],
+    [
+      "word distribution"
+    ],
+    [],
+    [],
+    [],
+    [
+      "component model"
+    ],
+    [],
+    [
+      "generative model"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee": [
+    [
+      "maximum likelihood",
+      "mixture model",
+      "em algorithm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "word text"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "95f92696-1963-4307-83c6-a8370ff03b30": [
+    [
+      "text datum",
+      "contextual text mining",
+      "text mining",
+      "contextual text"
+    ],
+    [
+      "text datum"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "compare topic"
+    ],
+    [],
+    [
+      "social network"
+    ],
+    []
+  ],
+  "9a443634-7f2e-4d3a-9ccd-0f1b6604c939": [
+    [],
+    [],
+    [],
+    [
+      "frequent term"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "document frequency"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "frequency term",
+      "high frequency term"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "candidate word"
+    ],
+    [],
+    []
+  ],
+  "9e5a0c5f-ff4a-42a6-b37b-f43628632860": [
+    [
+      "information theory",
+      "syntagmatic relation",
+      "conditional entropy",
+      "syntagmatic relation discovery",
+      "relation discovery",
+      "another concept",
+      "mutual information"
+    ],
+    [],
+    [
+      "conditional entropy",
+      "original entropy"
+    ],
+    [],
+    [],
+    [
+      "conditional entropy",
+      "mutual information"
+    ],
+    [],
+    [
+      "mutual information"
+    ],
+    [],
+    [],
+    [],
+    [
+      "random variable",
+      "joint distribution"
+    ],
+    [],
+    [
+      "random variable"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "a97a9d5e-48b7-4f4e-9754-4c5b30a31424": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum"
+    ],
+    [
+      "predictive model"
+    ],
+    [],
+    [],
+    [
+      "text datum"
+    ],
+    [
+      "non text datum",
+      "text datum",
+      "non text"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "aac4e33c-97bb-46c8-a108-3e3e3322a85c": [
+    [
+      "news article",
+      "text categorization"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "human expert",
+      "training datum"
+    ],
+    [],
+    [
+      "training datum"
+    ],
+    [
+      "linear combination"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "aca8d826-412b-4134-8d2c-87537fdc4a76": [
+    [
+      "non text datum",
+      "text datum",
+      "datum mining",
+      "real world",
+      "non text",
+      "text mining"
+    ],
+    [],
+    [
+      "observed world"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum",
+      "stock price"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum",
+      "word association",
+      "text mining"
+    ]
+  ],
+  "b1854d1c-3199-4c42-ab7d-f219f70259a3": [
+    [
+      "opinion mining",
+      "rating analysis",
+      "overall rating",
+      "sentiment analysis"
+    ],
+    [
+      "detailed understanding"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "aspect rating"
+    ],
+    [],
+    [],
+    [],
+    [
+      "overall rating"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "sentiment weight"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "b75d0d2e-a1b7-4f6a-b699-f81ec4b720c7": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "b9eb5a35-5bad-4cf5-9d94-b0b0c816c8cf": [
+    [
+      "word cat",
+      "paradigmatic relation"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "similarity function"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "potential problem"
+    ],
+    [],
+    []
+  ],
+  "d857a66b-1018-4ffb-821a-9d8acc6f5012": [
+    [],
+    [],
+    [],
+    [
+      "dirichlet distribution"
+    ],
+    [],
+    [],
+    [],
+    [
+      "lda formula",
+      "topic model"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "basic topic model",
+      "topic model",
+      "basic topic"
+    ],
+    []
+  ],
+  "da74c929-efc1-4b65-9635-684c7ebcab3f": [
+    [
+      "text cluster"
+    ],
+    [],
+    [],
+    [],
+    [
+      "mutual information"
+    ],
+    [],
+    [],
+    [],
+    [
+      "particular application"
+    ],
+    [],
+    [
+      "base approach"
+    ],
+    [],
+    []
+  ],
+  "db1d54dd-bb05-46c0-995b-5f7d5243e3c4": [
+    [
+      "text representation",
+      "represent text",
+      "natural language"
+    ],
+    [],
+    [],
+    [
+      "identify word"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "text datum",
+      "text mining"
+    ]
+  ],
+  "dccc8a84-66da-47ce-ab88-28e8acf192b9": [
+    [
+      "topic model",
+      "text clustering",
+      "generative probabilistic model",
+      "mixture model",
+      "em algorithm",
+      "probabilistic model",
+      "text cluster"
+    ],
+    [],
+    [],
+    [
+      "e step"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "hidden variable"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "word distribution"
+    ],
+    []
+  ],
+  "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a": [
+    [
+      "topic model",
+      "simple case"
+    ],
+    [
+      "likelihood function",
+      "estimate parameter"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "likelihood function"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "ee41ce3a-6c8d-4c3b-90fd-79f3e9190402": [
+    [
+      "topic model",
+      "aspect rating"
+    ],
+    [
+      "overall rating"
+    ],
+    [
+      "overall rating"
+    ],
+    [
+      "make sense",
+      "overall rating"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "overall rating"
+    ],
+    [],
+    [
+      "expensive hotel"
+    ],
+    [
+      "text mining"
+    ],
+    [],
+    [],
+    [],
+    [
+      "opinion holder",
+      "opinion target"
+    ],
+    []
+  ],
+  "f1951cf2-4293-450b-8578-4d74c72f9862": [
+    [
+      "text datum",
+      "opinion mining",
+      "sentiment analysis"
+    ],
+    [],
+    [
+      "define opinion"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "product review"
+    ],
+    [],
+    [],
+    [
+      "text datum"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "opinion mining"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "win feature"
+    ]
+  ],
+  "f64adab4-578a-4868-8b2c-03fdd4ddf55d": [
+    [
+      "text clustering",
+      "mixture model",
+      "document clustering",
+      "text cluster"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

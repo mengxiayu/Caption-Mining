@@ -210,7 +210,7 @@ def draw_phrases_heatmap():
 #     n_lectures = max(tid2lect.values())
 #     n_phrases = len(phrases2contexts)
 #     print(n_lectures,n_phrases)
-#     map = np.zeros((n_phrases, n_lectures))
+#     map = np.zeros((n_phrases, n_lectures))read_ocr_data
 #     ylabels = []
 #     xlabels = [f'L{x}' for x in range(1,n_lectures+1)]
 #     for idx,(phrase, contexts) in enumerate(phrases2contexts.items()):
@@ -223,4 +223,14 @@ def draw_phrases_heatmap():
 #     # plt.imshow(map, cmap='hot', interpolation='nearest')
 #     ax = sns.heatmap(map, linewidth=0.1, xticklabels=xlabels, yticklabels=ylabels, cmap="YlGnBu")
 #     plt.show()
-draw_phrases_heatmap()
+# draw_phrases_heatmap()
+
+def get_ocr_vocab():
+    vid2phrases = read_ocr_data()
+    all_phrases = set()
+    for vid, phrases in vid2phrases.items():
+        all_phrases |= phrases
+    with open("week11/CS410_ocr_concepts.txt", 'w', encoding='utf-8') as f:
+        for p in all_phrases:
+            f.write(p+'\n')
+get_ocr_vocab()
