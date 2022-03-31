@@ -2,7 +2,7 @@ import React from "react";
 
 import * as d3 from 'd3';
 
-export function ForceGraph({ nodesData, nodeHoverTooltip }) {
+export function ForceGraphConcept({ nodesData, nodeHoverTooltip }) {
     const containerRef = React.useRef(null);
 
     React.useEffect(() => {
@@ -140,6 +140,19 @@ function getForceGraph(
             .attr("x", d => { return d.x; })
             .attr("y", d => { return d.y; })
     });
+
+    // zooming
+    let transform;
+    const zoom = d3.zoom().on("zoom", e => {
+        // link.attr("transform", (transform = e.transform));
+        // link.style("stroke-width", 3 / Math.sqrt(transform.k));
+        // node.attr("r", 3 / Math.sqrt(transform.k));
+
+        link.attr("transform", (transform = e.transform));
+        node.attr("transform", (transform = e.transform));
+        label.attr("transform", (transform = e.transform));
+    });
+    svg.call(zoom);
 
     return {
         destroy: () => {

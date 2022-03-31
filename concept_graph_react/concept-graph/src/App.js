@@ -8,7 +8,8 @@ import {
 import logo from './logo.svg';
 import './App.css';
 import Layout from './pages/Layout';
-import { ForceGraph } from './components/force_graph_svg';
+import { ForceGraphConcept } from './components/force_graph_concept';
+import { ForceGraphTopics } from './components/force_graph_topics';
 // import { FileSelect } from './components/file_select';
 
 import data_cs241 from './data/course_concepts_CS_241.json';
@@ -16,6 +17,7 @@ import data_cs410 from './data/course_concepts_CS_410.json';
 import data_test from './data/course_concepts.json';
 // import data from './graph_data/contexts';
 
+import topic_data_cs410 from './data/topic_graph/topic_graph_CS410.json'
 
 
 function App() {
@@ -34,6 +36,7 @@ function App() {
                 <Route path="CS241" element={<CS241 />} />
                 <Route path="CS410" element={<CS410 />} />
                 <Route path="test" element={<Test />} />
+                <Route path="TopicsCS410" element={<TopicsCS410 />} />
               </Route>
             </Routes>
           </Router>
@@ -64,20 +67,26 @@ function Users() {
 }
 
 function CS241() {
-  return <ForceGraph
+  return <ForceGraphConcept
     nodesData={data_cs241}
     nodeHoverTooltip={0} />;
 }
 
 function CS410() {
-  return <ForceGraph
+  return <ForceGraphConcept
     nodesData={data_cs410}
     nodeHoverTooltip={0} />;
 }
 
 function Test() {
-  return <ForceGraph
+  return <ForceGraphConcept
     nodesData={data_test}
+    nodeHoverTooltip={0} />;
+}
+
+function TopicsCS410() {
+  return <ForceGraphTopics
+    nodesData={topic_data_cs410}
     nodeHoverTooltip={0} />;
 }
 
