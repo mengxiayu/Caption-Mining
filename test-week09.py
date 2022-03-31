@@ -15,7 +15,6 @@ def n_grams(tokens, n):
     ngrams = []
     for i in range(len(tokens)-n+1):
         _tokens = tokens[i:i+n]
-
         texts = [t.text for t in _tokens]
         tt = " ".join(texts)
         if not tt[0].isalpha() or any(p in tt for p in ",./?';:()\""):

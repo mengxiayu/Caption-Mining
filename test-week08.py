@@ -14,7 +14,7 @@ def n_grams(tokens, n):
     for i in range(len(tokens)-n+1):
         _tokens = tokens[i:i+n]
 
-        texts = [t.text for t in _tokens]
+        texts = [t.lemma_ for t in _tokens]
         tt = " ".join(texts)
         if tt[0]=="-" or any(p in tt for p in ",./?';:\""):
             continue
@@ -24,24 +24,26 @@ def n_grams(tokens, n):
 
 
 def extract_ngrams():
-    cn = "CS_241"
+    print("extracting n grams...")
+    cn = "CS_410"
     script2course = {}
-    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
-    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
+    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[0]] = arr
+        # script2course[arr[0]] = arr
+        script2course[arr[2]] = arr
     fr.close()
     print(len(script2course))
 
-    # fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
-    fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
+    fr = open("week04/corpus_corrected_410.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/course_captions/{cn}", 'r', encoding='utf-8')
     cnt = 0
     bigramCounter = Counter()
     trigramCounter = Counter()
     for line in fr:
-        # cid, scriptid, text = line.strip().split('\t')
-        scriptid, text = line.strip().split('\t')
+        cid, scriptid, text = line.strip().split('\t')
+        # scriptid, text = line.strip().split('\t')
 
         if scriptid not in script2course:
             continue
@@ -60,23 +62,23 @@ def extract_ngrams():
     concept_list = []
 
     print(" === bigram examples: ===")
-    for k,v in bigramCounter.most_common(100):
-        if v > 5:
+    for k,v in bigramCounter.most_common():
+        if v > 2:
             concept_list.append([k,v])
         print(k,v)
     print(" === trigram examples: ===")
-    for k,v in trigramCounter.most_common(100):
-        if v > 10:
+    for k,v in trigramCounter.most_common():
+        if v > 2:
             concept_list.append([k,v])
         print(k,v)
-    with open(f"week09/{cn}_concepts.txt", 'w', encoding='utf-8') as f:
+    with open(f"week09/{cn}_concepts_all.txt", 'w', encoding='utf-8') as f:
         for k,v in concept_list:
             f.write(f"{k} {v}\n")
             
-# extract_ngrams()
+extract_ngrams()
 
 
-def find_contexts(text, target, window=300):
+def find_contexts(text, target, window=400):
     matches = re.finditer(target, text)
     matches_positions = [match.start() for match in matches]
     contexts = []
@@ -110,11 +112,12 @@ def extract_occurences(cn):
     concept_list = [" ".join(line.split()[:-1]) for line in fr]
     fr.close()
     script2course = {}
-    # fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
-    fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
+    fr = open("data/transcriptions2courses-410-c5.txt", 'r', encoding='utf-8')
+    # fr = open(f"data/transcriptions2courses_{cn}.txt", 'r', encoding='utf-8')
     for line in fr:
         arr = line.strip().split('\t')
-        script2course[arr[0]] = arr
+        # script2course[arr[0]] = arr
+        script2course[arr[2]] = arr
     fr.close()
     print("script2course size", len(script2course))
 
@@ -146,10 +149,10 @@ def extract_occurences(cn):
                         "course": cn, 
                         "transcription": scriptid,
                         "lecture": script2course[scriptid][6],
-                        # "lecture_num": int(script2course[scriptid][6].split()[1]),
-                        "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
+                        "lecture_num": int(script2course[scriptid][6].split()[1]),
+                        # "lecture_num": int(script2course[scriptid][4].split('-')[1][-2:]), # only for CS 
                         "context": c,
-                        "label": "Intro" if "called" in c else "Use",
+                        "label": "",
                     }    
                     ctxs.append(tmp_ctx)
         print(target, len(ctxs))
@@ -160,9 +163,7 @@ def extract_occurences(cn):
     fw.write(tmp)
     fw.close()
 
-extract_occurences("CS_241")
-
-
+# extract_occurences("CS_410")
 
 from pyvis.network import Network
 

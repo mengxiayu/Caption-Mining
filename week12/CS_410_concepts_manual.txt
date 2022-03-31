@@ -24,7 +24,6 @@ conditional probability 20
 topic mining 19
 sentiment analysis 18
 logistic regression 18
-opinion holder 18
 objective function 17
 categorization problem 17
 baye rule 17
@@ -36,10 +35,8 @@ opinion mining 16
 zero probability 16
 unigram language 15
 word association 14
-topic word 14
 contextual text 14
 probabilistic model 14
-clustering result 14
 data mining 13
 document clustering 13
 relation discovery 12
@@ -49,7 +46,6 @@ posterior probability 12
 machine learning 12
 topic coverage 11
 optimization problem 11
-probabilistic topic 11
 generate model 11
 information retrieval 11
 text retrieval 10
@@ -68,6 +64,13 @@ background language model 16
 unigram language model 15
 topic word distribution 14
 contextual text mining 14
-discover syntagmatic relation 12
 maximum likelihood estimate 12
 probabilistic topic model 11
+statistical language model 4
+component mixture model 4
+basic topic model 4
+model base approach 3
+long mixture model 3
+unified model 3
+regression model 3
+probabilistic retrieval model

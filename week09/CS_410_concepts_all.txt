@@ -1,0 +1,601 @@
+text datum 177
+word distribution 90
+mixture model 63
+text mining 59
+topic model 54
+language model 50
+high probability 49
+likelihood function 48
+mutual information 44
+syntagmatic relation 43
+conditional entropy 42
+text categorization 40
+training datum 39
+generative model 35
+maximum likelihood 33
+paradigmatic relation 31
+em algorithm 31
+text clustering 31
+text object 30
+overall rating 29
+random variable 27
+similarity function 25
+background model 23
+likelihood estimator 23
+parameter value 23
+aspect rating 23
+e step 22
+scoring function 21
+conditional probability 20
+small probability 19
+topic mining 19
+non text 19
+common word 18
+sentiment analysis 18
+real world 18
+logistic regression 18
+opinion holder 18
+special case 17
+objective function 17
+categorization problem 17
+baye rule 17
+naive baye 17
+natural language 16
+background word 16
+k topic 16
+background language 16
+opinion mining 16
+zero probability 16
+unigram language 15
+data point 15
+word association 14
+general idea 14
+topic word 14
+contextual text 14
+probabilistic model 14
+use text 14
+clustering result 14
+make sense 13
+represent text 13
+total number 13
+datum mining 13
+document clustering 13
+relation discovery 12
+logistical regression 12
+beta value 12
+likelihood estimate 12
+posterior probability 12
+machine learning 12
+topic coverage 11
+optimization problem 11
+probabilistic topic 11
+simple case 11
+generate model 11
+information retrieval 11
+text retrieval 10
+right side 10
+basic idea 10
+multiple topic 10
+previous slide 10
+hide variable 10
+language processing 10
+time period 10
+training example 10
+datum point 10
+use baye 10
+bayesian inference 10
+analyze text 9
+hidden variable 9
+component model 9
+world distribution 9
+mining algorithm 9
+high level 9
+another example 9
+product review 9
+prior knowledge 9
+discriminative classifier 9
+five star 9
+related word 8
+text document 8
+probability distribution 8
+sentiment classification 8
+feature value 8
+classification accuracy 8
+z value 8
+candidate word 8
+another way 8
+opinion target 8
+speech tag 8
+effective feature 8
+base approach 8
+cluster bias 8
+dimensional space 8
+support vector 8
+semantic analysis 7
+particular word 7
+x sub 7
+word text 7
+generate text 7
+base representation 7
+particular topic 7
+base prediction 7
+pseudo segment 7
+another word 7
+near neighbor 7
+dirichlet distribution 7
+high value 7
+particular distribution 7
+every word 7
+document frequency 7
+world variable 7
+frequent term 7
+sentiment weight 7
+another application 6
+relate word 6
+hurricane katrina 6
+estimate parameter 6
+possible value 6
+entropy function 6
+interesting question 6
+fair coin 6
+biased coin 6
+observe text 6
+probability mass 6
+syntactic structure 6
+text representation 6
+binary categorization 6
+regression classifier 6
+second problem 6
+alpha value 6
+context variable 6
+sample word 6
+news article 6
+united nations 6
+retrieval model 6
+see word 6
+particular application 6
+good way 6
+high similarity 6
+n document 6
+text categorisation 6
+general way 6
+sub - 6
+zero count 6
+bayesian estimation 6
+posterior distribution 6
+domain knowledge 6
+feature vector 6
+similar object 6
+continue discussion 6
+next lecture 6
+high score 6
+pseudo count 6
+mining problem 6
+clustering problem 6
+training error 6
+first word 6
+interesting way 6
+second word 6
+take advantage 5
+similar context 5
+co occurrence 5
+probabilistic latent 5
+government response 5
+whole collection 5
+local maximum 5
+multiple time 5
+prediction problem 5
+information theory 5
+low value 5
+simple example 5
+content word 5
+email message 5
+k category 5
+main idea 5
+linear combination 5
+conditional likelihood 5
+cover topic 5
+main difference 5
+common topic 5
+probability word 5
+text article 5
+vector space 5
+space model 5
+suggest reading 5
+discover knowledge 5
+data mining 5
+categorisation result 5
+text content 5
+search engine 5
+e - 5
+cluster document 5
+term cluster 5
+observed datum 5
+interesting variable 5
+opinion representation 5
+future datum 5
+new generation 5
+discriminative approach 5
+baye classifier 5
+probability ratio 5
+additional datum 5
+use topic 5
+battery life 5
+original entropy 5
+see text 5
+mining paper 5
+k cluster 5
+human expert 5
+complicated topic 5
+dot product 5
+feature representation 5
+partition text 5
+stock price 5
+document vector 5
+linear transformation 5
+raw count 5
+context document 5
+predictive model 5
+social medium 5
+rating analysis 5
+topical term 5
+word cat 5
+baseline system 5
+cheap hotel 5
+word relation 4
+use word 4
+negative opinion 4
+left context 4
+extreme case 4
+basic topic 4
+component mixture 4
+lambda sub 4
+sub b 4
+important parameter 4
+specific example 4
+text segment 4
+function form 4
+maximum value 4
+deep analysis 4
+major topic 4
+research topic 4
+make inference 4
+processing technique 4
+categorization technique 4
+category categorization 4
+beta parameter 4
+new orleans 4
+top word 4
+discover topic 4
+useful technique 4
+ground truth 4
+four combination 4
+legitimate email 4
+multiple perspective 4
+search result 4
+human sensor 4
+predefined category 4
+know category 4
+infer property 4
+text analysis 4
+word w 4
+observe evidence 4
+cause overfitting 4
+learn program 4
+frequent word 4
+parse tree 4
+feature design 4
+error analysis 4
+feature space 4
+infer value 4
+uniform distribution 4
+100 % 4
+take logarithm 4
+main goal 4
+functional form 4
+call k 4
+potential problem 4
+know eat 4
+estimation problem 4
+statistical language 4
+good guess 4
+tentative clustering 4
+group similarity 4
+term vector 4
+clustering structure 4
+overall precision 4
+f score 4
+use machine 4
+training document 4
+inverse document 4
+rare word 4
+beta sub 4
+document length 4
+general form 4
+relate term 4
+assign weight 4
+follow lecture 4
+clustering bias 4
+text cluster 4
+vector machine 4
+linear separator 4
+important role 4
+learn technique 4
+whole document 4
+unique word 4
+pseudo document 4
+w sub 4
+social network 4
+expect overlap 4
+rare term 4
+normalize count 4
+joint distribution 4
+mining technique 4
+effective predictor 4
+mine knowledge 4
+pay attention 4
+observed world 4
+detailed understanding 4
+aspect weight 4
+r sub 4
+weighted average 4
+make mistake 4
+another person 4
+infer weight 4
+expensive hotel 4
+association mining 3
+valid sentence 3
+second kind 3
+general problem 3
+see eat 3
+general context 3
+first case 3
+paradigmatically relation 3
+context similarity 3
+topic analysis 3
+vocabulary set 3
+water distribution 3
+another topic 3
+first topic 3
+important formula 3
+large collection 3
+unknown parameter 3
+parameter estimation 3
+coverage distribution 3
+climb algorithm 3
+current gas 3
+variable value 3
+predict value 3
+three word 3
+sub w 3
+high entropy 3
+use entropy 3
+2 case 3
+observe datum 3
+analysis technique 3
+word boundary 3
+major complaint 3
+win feature 3
+multiple way 3
+basic unit 3
+rating prediction 3
+distinguish category 3
+distinguish k 3
+high rating 3
+binary response 3
+response variable 3
+1 classifier 3
+make decision 3
+plsa model 3
+generation process 3
+context information 3
+particular document 3
+iraq war 3
+afghanistan war 3
+text collection 3
+block article 3
+topic overtime 3
+conditional distribution 3
+sigir paper 3
+another kind 3
+meta datum 3
+topic k 3
+I j 3
+particular category 3
+arithmetic mean 3
+important technique 3
+tax object 3
+characterize content 3
+sentiment category 3
+author attribution 3
+right person 3
+particular person 3
+relevant document 3
+categorization task 3
+categorisation task 3
+word representation 3
+text processing 3
+make prediction 3
+likelihood converge 3
+k unigram 3
+cluster term 3
+estimate probability 3
+entropy reduction 3
+medical relation 3
+interesting variation 3
+arg max 3
+observe word 3
+use bayesian 3
+prior belief 3
+map estimate 3
+maximum probability 3
+opinion sentiment 3
+polarity analysis 3
+categorization method 3
+design feature 3
+additional information 3
+word count 3
+weight combination 3
+give datum 3
+close neighbor 3
+data instance 3
+define similarity 3
+latent dirichlet 3
+dirichlet allocation 3
+generate document 3
+another concept 3
+small entropy 3
+word w1 3
+upper bound 3
+optimal solution 3
+large probability 3
+frequency word 3
+model parameter 3
+prior probability 3
+word sequence 3
+probability value 3
+n word 3
+speech recognition 3
+second distribution 3
+hierarchical clustering 3
+large cluster 3
+clustering method 3
+single link 3
+complete link 3
+average link 3
+clustering algorithm 3
+object function 3
+macro average 3
+f value 3
+geometric mean 3
+rank list 3
+use measure 3
+subtle difference 3
+learning method 3
+hand side 3
+long mixture 3
+datum set 3
+every category 3
+large text 3
+second line 3
+second part 3
+multiple word 3
+new way 3
+lambda star 3
+texture object 3
+good clustering 3
+previous lecture 3
+next question 3
+small value 3
+linear constraint 3
+large value 3
+deep learning 3
+unlabeled datum 3
+c sub 3
+topic modeling 3
+background topic 3
+word probability 3
+compare topic 3
+frequency term 3
+relation mining 3
+high weight 3
+left side 3
+general topic 3
+latent aspect 3
+unified model 3
+normal distribution 3
+candidate term 3
+like eat 3
+pick word 3
+lda formula 3
+indirect evaluation 3
+generate cluster 3
+gold standard 3
+identify word 3
+interesting analysis 3
+regression model 3
+review text 3
+average price 3
+define opinion 3
+opinion content 3
+maximum likelihood estimator 23
+non text datum 18
+background language model 16
+unigram language model 15
+topic word distribution 14
+contextual text mining 14
+discover syntagmatic relation 12
+maximum likelihood estimate 12
+probabilistic topic model 11
+natural language processing 10
+use baye rule 9
+n - gram 8
+analyze text datum 7
+assign high probability 7
+word base representation 7
+text base prediction 7
+generative probabilistic model 7
+real world variable 7
+discover paradigmatic relation 6
+represent text datum 6
+k near neighbor 6
+latent semantic analysis 5
+syntagmatic relation discovery 5
+completely biased coin 5
+background word distribution 5
+ordinal logistic regression 5
+high probability word 5
+vector space model 5
+use text datum 5
+e - step 5
+sub - j 5
+non zero probability 5
+text mining algorithm 5
+naive baye classifier 5
+text mining paper 5
+similarity base approach 5
+partition text datum 5
+basic topic model 4
+component mixture model 4
+language processing technique 4
+text datum mining 4
+machine learn program 4
+statistical language model 4
+inverse document frequency 4
+support vector machine 4
+machine learn technique 4
+aspect rating analysis 4
+k topical term 4
+word association mining 3
+paradigmatically relate word 3
+lambda sub b 3
+use maximum likelihood 3
+category categorization problem 3
+binary response variable 3
+logistic regression classifier 3
+logistical regression classifier 3
+yet another application 3
+use text categorization 3
+text categorization technique 3
+k unigram language 3
+use mutual information 3
+also make sense 3
+latent dirichlet allocation 3
+intuitively make sense 3
+use conditional entropy 3
+high frequency word 3
+group similar object 3
+model base approach 3
+commonly use measure 3
+long mixture model 3
+good clustering result 3
+high dimensional space 3
+use topic model 3
+generate text datum 3
+paradigmatic relation discovery 3
+high frequency term 3
+latent aspect rating 3
+word like eat 3
+randomly pick word 3
+system generate cluster 3
+might make mistake 3
