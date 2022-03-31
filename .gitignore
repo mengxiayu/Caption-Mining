@@ -8,8 +8,10 @@ week07/course_tfidf/
 week07/*.txt
 data/
 
+
 .obsidian
 *.zip
 
 package-lock.json
 .ipynb_checkpoints
+
