@@ -12,3 +12,4 @@ data/
 *.zip
 
 package-lock.json
+.ipynb_checkpoints
