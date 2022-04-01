@@ -64,7 +64,7 @@ function getForceGraph(
 
     function drag(simulation) {
         function dragstarted(event) {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
+            if (!event.active) simulation.alphaTarget(0.5).restart();
             event.subject.fx = event.subject.x;
             event.subject.fy = event.subject.y;
         }
@@ -75,7 +75,7 @@ function getForceGraph(
         }
 
         function dragended(event) {
-            if (!event.active) simulation.alphaTarget(0);
+            if (!event.active) simulation.alphaTarget(0); // simulation speed when not dragging
             event.subject.fx = null;
             event.subject.fy = null;
         }
@@ -94,7 +94,6 @@ function getForceGraph(
         .force("charge", d3.forceManyBody().strength(-300))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
-
 
     const svg = d3
         .select(container)
@@ -166,6 +165,41 @@ function getForceGraph(
         label.attr("transform", (transform = e.transform));
     });
     svg.call(zoom);
+
+    // Option checkboxes
+    const options = d3
+        .select(container)
+        .append("div")
+        .attr("class", "graph-options")
+    const checkboxForceX = d3
+        .select(".graph-options")
+        .append("div")
+        .attr("class", "checkboxWrapper")
+        .attr("desc", "expand on X-axis")
+        .append("input")
+        .attr("type", "checkbox")
+        .attr("class", "largerCheckbox")
+        .on('click', function () {
+            simulation.force("x").strength(this.checked ? 0 : 0.1);
+            simulation.alphaTarget(0.5).restart();
+        });
+    const checkboxForceY = d3
+        .select(".graph-options")
+        .append("div")
+        .attr("class", "checkboxWrapper")
+        .attr("desc", "expand on Y-axis")
+        .append("input")
+        .attr("type", "checkbox")
+        .attr("class", "largerCheckbox")
+        .on('click', function () {
+            simulation.force("y").strength(this.checked ? 0 : 0.1);
+            simulation.alphaTarget(0.5).restart();
+        });
+
+    // append text to checkbox
+    d3.selectAll(".checkboxWrapper").append("text").text(function () {
+        return this.parentNode.getAttribute("desc");
+    });
 
     return {
         destroy: () => {
