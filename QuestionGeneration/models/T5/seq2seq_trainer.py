@@ -112,12 +112,13 @@ logger = logging.getLogger(__name__)
 
 
 class Seq2SeqTrainer(Trainer):
-    def __init__(self, config, data_args, *args, **kwargs):
+    def __init__(self, config, data_args, test_dataset, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.config = config
         self.data_args = data_args
         self.max_gen_length = data_args.val_max_target_length
         self.vocab_size = self.config.tgt_vocab_size if isinstance(self.config, FSMTConfig) else self.config.vocab_size
+        self.test_dataset = test_dataset
 
     def create_optimizer_and_scheduler(self, num_training_steps: int):
         """
@@ -403,7 +404,7 @@ class Seq2SeqTrainer(Trainer):
             # Reset the past mems state at the beginning of each epoch if necessary.
             if self.args.past_index >= 0:
                 self._past = None
-
+            epoch_loss = torch.tensor(0.0).to(self.args.device)
             epoch_pbar = tqdm(epoch_iterator, desc="Iteration", disable=disable_tqdm)
             for step, inputs in enumerate(epoch_iterator):
                 
@@ -420,7 +421,7 @@ class Seq2SeqTrainer(Trainer):
                 inputs['labels'].shape = [batch_size, max_target_length] (token_id in each position, w/o SOS)
                 '''
 
-                tr_loss += self.training_step(model, inputs)
+                epoch_loss += self.training_step(model, inputs)
                 self.total_flos += self.floating_point_ops(inputs)
 
                 if (step + 1) % self.args.gradient_accumulation_steps == 0 or (
@@ -454,14 +455,35 @@ class Seq2SeqTrainer(Trainer):
                     break
             epoch_pbar.close()
             train_pbar.update(1)
+            with open(self.args.output_dir + "/epoch_tr_loss.txt", 'a') as f_loss:
+                f_loss.write("epoch {} loss {}\n".format(epoch, epoch_loss))
+            tr_loss += epoch_loss
             
             if epoch < int(np.ceil(num_train_epochs)):
+                # # Prediction
+                # output = self.predict(test_dataset=self.test_dataset)
+                # metrics = output.metrics
+                # predictions = output.predictions.tolist()
+                # with open(self.args.output_dir + '/test_output_epoch_{}.txt'.format(epoch+1), 'w') as epoch_out:
+                #     for pred in predictions:
+                #         epoch_out.write(self.tokenizer.decode(pred,
+                #                                               skip_special_tokens=True,
+                #                                               clean_up_tokenization_spaces=False)
+                #                                               + '\n')
+
+                # with open(self.args.output_dir + '/epoch_test.json', 'a') as epoch_eval:
+                #     json.dump(metrics, epoch_eval, indent=1)
+
+                # logger.info("***** Test results *****")
+                # for key, value in metrics.items():
+                #     logger.info("  %s = %s", key, value)
+
 
                 output = self.evaluate()
                 metrics = output.metrics
 
                 predictions = output.predictions.tolist()
-                with open(self.args.output_dir + '/output_epoch_{}.txt'.format(epoch+1), 'w') as epoch_out:
+                with open(self.args.output_dir + '/eval_output_epoch_{}.txt'.format(epoch+1), 'w') as epoch_out:
                     for pred in predictions:
                         epoch_out.write(self.tokenizer.decode(pred,
                                                               skip_special_tokens=True,
@@ -477,7 +499,7 @@ class Seq2SeqTrainer(Trainer):
 
                 ''' save the model '''
                 self._report_to_hp_search(trial, epoch, metrics)
-                if self.args.load_best_model_at_end:
+                if self.args.load_best_model_at_end and epoch > 5 and epoch%5 == 0:
                     self._save_training(model, trial, metrics=metrics)
 
             if self.args.tpu_metrics_debug or self.args.debug:

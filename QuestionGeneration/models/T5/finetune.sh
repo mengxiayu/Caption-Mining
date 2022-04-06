@@ -1,14 +1,14 @@
 #!/bin/bash
-#$ -M wyu1@nd.edu
+#$ -M myu2@nd.edu
 #$ -m abe
-#$ -q gpu@qa-v100-001
+#$ -q gpu@qa-2080ti-007
 #$ -pe smp 1
-#$ -l gpu=0
+#$ -l gpu=1
 
-CUDA_VISIBLE_DEVICES=3 /afs/crc.nd.edu/user/w/wyu1/anaconda3/envs/bart/bin/python -u finetune.py \
-    --data_dir cnn_tiny \
+CUDA_VISIBLE_DEVICES=0 /afs/crc.nd.edu/user/m/myu2/anaconda2/envs/bart/bin/python3.6 -u finetune.py \
+    --data_dir datasets/bus_240 \
     --model_name_or_path t5-small  \
-    --output_dir cnn_tiny_out \
+    --output_dir out_bus_240 \
     --num_train_epochs 20 \
     --max_source_length 512 \
     --max_target_length 150 \

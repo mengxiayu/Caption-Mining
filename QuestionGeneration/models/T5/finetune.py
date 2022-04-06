@@ -222,6 +222,8 @@ def main():
         model_args.tokenizer_name if model_args.tokenizer_name else model_args.model_name_or_path,
         cache_dir=model_args.cache_dir,
     )
+    special_tokens = ["[MASK]"]
+    tokenizer.add_tokens(special_tokens)
 
     model = T5ForConditionalGeneration.from_pretrained(
     # model = AutoModelForSeq2SeqLM.from_pretrained(
@@ -230,6 +232,7 @@ def main():
         config=config,
         cache_dir=model_args.cache_dir,
     )
+    model.resize_token_embeddings(len(tokenizer))
 
     # if loading some pre-trained vector
     # model.embeddings.word_embeddings.weight[-1, :] = torch.zeros([model.config.hidden_size])
@@ -315,6 +318,7 @@ def main():
         eval_dataset=eval_dataset,
         data_collator=Seq2SeqDataCollator(tokenizer, data_args, training_args.tpu_num_cores),
         compute_metrics=compute_metrics_fn,
+        test_dataset=test_dataset,
         data_args=data_args,
     )
 
