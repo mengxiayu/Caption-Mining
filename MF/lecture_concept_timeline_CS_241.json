@@ -1,0 +1,1709 @@
+{
+  "topic 1": {
+    "keywords": [
+      "mutex lock",
+      "peter mutex",
+      "race condition"
+    ],
+    "mentions": {
+      "lecture 13-Q01": [
+        "0 minute",
+        "6 minute"
+      ],
+      "lecture 13-Q06": [
+        "1 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 13-Q07": [
+        "8 minute",
+        "10 minute"
+      ],
+      "lecture 13-Q09": [
+        "0 minute",
+        "9 minute",
+        "10 minute",
+        "11 minute"
+      ],
+      "lecture 14-Q02": [
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 14-Q05": [
+        "0 minute"
+      ],
+      "lecture 14-Q06": [
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 14-Q07": [
+        "3 minute"
+      ],
+      "lecture 14-Q08": [
+        "0 minute"
+      ],
+      "lecture 15-Q03": [
+        "2 minute"
+      ],
+      "lecture 15-Q04": [
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 15-Q05": [
+        "0 minute",
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 15-Q06": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute",
+        "5 minute"
+      ],
+      "lecture 16-Q01": [
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 17-Q01": [
+        "5 minute"
+      ],
+      "lecture 17-Q02": [
+        "6 minute",
+        "9 minute"
+      ],
+      "lecture 17-Q06": [
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 18-Q01": [
+        "2 minute"
+      ],
+      "lecture 18-Q03": [
+        "0 minute"
+      ],
+      "lecture 18-Q04": [
+        "3 minute"
+      ],
+      "lecture 18-Q05": [
+        "1 minute",
+        "6 minute"
+      ],
+      "lecture 18-Q06": [
+        "0 minute",
+        "1 minute",
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 18-Q08": [
+        "0 minute",
+        "2 minute",
+        "8 minute",
+        "9 minute",
+        "11 minute"
+      ],
+      "lecture 19-Q01": [
+        "6 minute",
+        "8 minute",
+        "9 minute",
+        "11 minute",
+        "12 minute"
+      ],
+      "lecture 19-Q03": [
+        "1 minute",
+        "5 minute"
+      ],
+      "lecture 19-Q08": [
+        "4 minute",
+        "8 minute"
+      ],
+      "lecture 20-Q03": [
+        "0 minute"
+      ],
+      "lecture 20-Q06": [
+        "1 minute"
+      ],
+      "lecture 20-Q07": [
+        "0 minute",
+        "1 minute",
+        "5 minute"
+      ],
+      "lecture 21-Q01": [
+        "2 minute"
+      ],
+      "lecture 22-Q07": [
+        "1 minute",
+        "4 minute"
+      ],
+      "lecture 24-Q02": [
+        "1 minute",
+        "3 minute",
+        "4 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 32-Q03": [
+        "10 minute"
+      ],
+      "lecture 35-Q07": [
+        "5 minute"
+      ],
+      "lecture 39-Q04": [
+        "0 minute",
+        "7 minute"
+      ]
+    }
+  },
+  "topic 2": {
+    "keywords": [
+      "condition variable",
+      "thread condition",
+      "p thread condition"
+    ],
+    "mentions": {
+      "lecture 15-Q01": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 15-Q02": [
+        "0 minute",
+        "1 minute",
+        "6 minute",
+        "7 minute",
+        "10 minute"
+      ],
+      "lecture 15-Q03": [
+        "0 minute",
+        "3 minute"
+      ],
+      "lecture 15-Q04": [
+        "2 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 17-Q01": [
+        "0 minute",
+        "8 minute"
+      ],
+      "lecture 17-Q02": [
+        "0 minute",
+        "1 minute",
+        "4 minute",
+        "7 minute",
+        "8 minute",
+        "13 minute"
+      ],
+      "lecture 17-Q06": [
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 18-Q04": [
+        "0 minute"
+      ],
+      "lecture 18-Q05": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 18-Q07": [
+        "1 minute"
+      ],
+      "lecture 18-Q08": [
+        "10 minute",
+        "14 minute"
+      ],
+      "lecture 19-Q01": [
+        "13 minute",
+        "15 minute"
+      ],
+      "lecture 20-Q01": [
+        "0 minute"
+      ],
+      "lecture 22-Q07": [
+        "3 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 24-Q02": [
+        "2 minute"
+      ],
+      "lecture 32-Q01": [
+        "2 minute"
+      ]
+    }
+  },
+  "topic 3": {
+    "keywords": [
+      "file system",
+      "symbolic link",
+      "meta information"
+    ],
+    "mentions": {
+      "lecture 05-pt1": [
+        "2 minute"
+      ],
+      "lecture 05-pt2": [
+        "4 minute"
+      ],
+      "lecture 21-Q08": [
+        "0 minute"
+      ],
+      "lecture 22-Q06": [
+        "2 minute"
+      ],
+      "lecture 27-Q02": [
+        "0 minute",
+        "1 minute",
+        "3 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "9 minute",
+        "12 minute",
+        "13 minute",
+        "14 minute"
+      ],
+      "lecture 27-Q05": [
+        "0 minute",
+        "5 minute",
+        "8 minute",
+        "11 minute",
+        "12 minute"
+      ],
+      "lecture 27-Q06": [
+        "0 minute",
+        "2 minute",
+        "4 minute"
+      ],
+      "lecture 28-Q01": [
+        "0 minute",
+        "8 minute"
+      ],
+      "lecture 28-Q02": [
+        "3 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 28-Q04": [
+        "0 minute",
+        "4 minute"
+      ],
+      "lecture 28-Q06": [
+        "0 minute",
+        "6 minute",
+        "7 minute",
+        "9 minute"
+      ],
+      "lecture 29-Q02": [
+        "2 minute"
+      ],
+      "lecture 29-Q04": [
+        "1 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 29-Q05": [
+        "0 minute",
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 29-Q06": [
+        "0 minute"
+      ],
+      "lecture 29-Q07": [
+        "1 minute"
+      ],
+      "lecture 29-Q08": [
+        "0 minute",
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 29-Q09": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 30-Q05": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "8 minute"
+      ],
+      "lecture 31-Q02": [
+        "0 minute"
+      ],
+      "lecture 31-Q05": [
+        "0 minute",
+        "21 minute",
+        "22 minute",
+        "23 minute"
+      ],
+      "lecture 37-Q01": [
+        "2 minute"
+      ],
+      "lecture 38-Q02": [
+        "3 minute"
+      ],
+      "lecture 39-Q01": [
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 39-Q02": [
+        "1 minute"
+      ],
+      "lecture 39-Q03": [
+        "0 minute"
+      ],
+      "lecture 39-Q06": [
+        "0 minute"
+      ]
+    }
+  },
+  "topic 4": {
+    "keywords": [
+      "thread mutex",
+      "p thread mutex"
+    ],
+    "mentions": {
+      "lecture 13-Q06": [
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 13-Q07": [
+        "4 minute",
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 13-Q09": [
+        "8 minute"
+      ],
+      "lecture 14-Q02": [
+        "0 minute"
+      ],
+      "lecture 14-Q06": [
+        "4 minute",
+        "5 minute"
+      ],
+      "lecture 15-Q02": [
+        "3 minute",
+        "4 minute",
+        "8 minute",
+        "9 minute",
+        "11 minute"
+      ],
+      "lecture 15-Q03": [
+        "1 minute"
+      ],
+      "lecture 16-Q01": [
+        "5 minute",
+        "9 minute"
+      ],
+      "lecture 16-Q02": [
+        "9 minute"
+      ],
+      "lecture 17-Q01": [
+        "7 minute"
+      ],
+      "lecture 17-Q02": [
+        "5 minute"
+      ],
+      "lecture 17-Q06": [
+        "2 minute"
+      ],
+      "lecture 18-Q01": [
+        "0 minute"
+      ],
+      "lecture 18-Q02": [
+        "0 minute"
+      ],
+      "lecture 18-Q04": [
+        "2 minute"
+      ],
+      "lecture 18-Q08": [
+        "1 minute"
+      ],
+      "lecture 19-Q01": [
+        "19 minute"
+      ],
+      "lecture 21-Q01": [
+        "0 minute"
+      ],
+      "lecture 22-Q07": [
+        "0 minute",
+        "5 minute"
+      ],
+      "lecture 24-Q01": [
+        "0 minute"
+      ],
+      "lecture 24-Q02": [
+        "0 minute"
+      ]
+    }
+  },
+  "topic 5": {
+    "keywords": [
+      "link list"
+    ],
+    "mentions": {
+      "lecture 03-Q03": [
+        "2 minute"
+      ],
+      "lecture 07-Q10": [
+        "1 minute"
+      ],
+      "lecture 08-Q07": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 08-Q08": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 08-Q09": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 08-Q10": [
+        "0 minute",
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 08-Q11": [
+        "1 minute",
+        "2 minute",
+        "5 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 09-Q01": [
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 09-Q02": [
+        "1 minute",
+        "3 minute",
+        "10 minute",
+        "11 minute"
+      ],
+      "lecture 09-Q04": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 09-Q05": [
+        "0 minute",
+        "1 minute",
+        "3 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "7 minute",
+        "9 minute",
+        "10 minute"
+      ],
+      "lecture 09-Q06": [
+        "1 minute"
+      ],
+      "lecture 09-Q07": [
+        "0 minute",
+        "7 minute",
+        "8 minute",
+        "10 minute"
+      ],
+      "lecture 10-Q01": [
+        "0 minute"
+      ],
+      "lecture 10-Q02": [
+        "1 minute",
+        "3 minute",
+        "13 minute"
+      ],
+      "lecture 10-Q03": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 10-Q07": [
+        "1 minute"
+      ],
+      "lecture 13-Q04": [
+        "2 minute"
+      ],
+      "lecture 14-Q03": [
+        "0 minute",
+        "1 minute",
+        "4 minute",
+        "5 minute",
+        "9 minute"
+      ],
+      "lecture 16-Q01": [
+        "0 minute"
+      ],
+      "lecture 17-Q04": [
+        "4 minute"
+      ],
+      "lecture 19-Q01": [
+        "0 minute",
+        "7 minute",
+        "10 minute"
+      ],
+      "lecture 19-Q08": [
+        "10 minute"
+      ],
+      "lecture 25-Q05": [
+        "1 minute"
+      ],
+      "lecture 26-Q01": [
+        "11 minute"
+      ],
+      "lecture 33-Q01": [
+        "3 minute"
+      ],
+      "lecture 37-Q02": [
+        "4 minute",
+        "5 minute"
+      ]
+    }
+  },
+  "topic 6": {
+    "keywords": [
+      "memory address",
+      "virtual memory",
+      "page table"
+    ],
+    "mentions": {
+      "lecture 02-Q02": [
+        "10 minute"
+      ],
+      "lecture 02-Q07": [
+        "0 minute"
+      ],
+      "lecture 02-Q10": [
+        "0 minute"
+      ],
+      "lecture 03-Q08": [
+        "2 minute"
+      ],
+      "lecture 03-Q09": [
+        "4 minute"
+      ],
+      "lecture 04-Q01": [
+        "0 minute"
+      ],
+      "lecture 04-Q02": [
+        "0 minute"
+      ],
+      "lecture 04-Q06": [
+        "1 minute"
+      ],
+      "lecture 06-Q02": [
+        "0 minute"
+      ],
+      "lecture 06-Q05": [
+        "0 minute"
+      ],
+      "lecture 06-Q08": [
+        "6 minute"
+      ],
+      "lecture 07-Q02": [
+        "1 minute"
+      ],
+      "lecture 08-Q01": [
+        "0 minute"
+      ],
+      "lecture 08-Q02": [
+        "0 minute"
+      ],
+      "lecture 08-Q03": [
+        "1 minute"
+      ],
+      "lecture 08-Q09": [
+        "3 minute"
+      ],
+      "lecture 09-Q02": [
+        "9 minute"
+      ],
+      "lecture 10-Q05": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 11-Q01": [
+        "6 minute"
+      ],
+      "lecture 11-Q03": [
+        "2 minute"
+      ],
+      "lecture 11-Q09": [
+        "5 minute"
+      ],
+      "lecture 11-Q10": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 12-Q02": [
+        "3 minute"
+      ],
+      "lecture 13-Q07": [
+        "2 minute"
+      ],
+      "lecture 14-Q01": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 16-Q01": [
+        "3 minute"
+      ],
+      "lecture 21-Q02": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "10 minute"
+      ],
+      "lecture 21-Q03": [
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 21-Q04": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute"
+      ],
+      "lecture 21-Q05": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute"
+      ],
+      "lecture 21-Q06": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 21-Q07": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 21-Q08": [
+        "3 minute",
+        "7 minute"
+      ],
+      "lecture 21-Q09": [
+        "0 minute"
+      ],
+      "lecture 24-Q07": [
+        "1 minute",
+        "4 minute"
+      ],
+      "lecture 27-Q05": [
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 27-Q07": [
+        "8 minute"
+      ],
+      "lecture 30-Q06": [
+        "0 minute"
+      ],
+      "lecture 30-Q08": [
+        "6 minute"
+      ],
+      "lecture 31-Q01": [
+        "0 minute"
+      ],
+      "lecture 31-Q03": [
+        "0 minute",
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 31-Q04": [
+        "0 minute",
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 33-Q06": [
+        "0 minute"
+      ],
+      "lecture 34-Q01": [
+        "4 minute"
+      ],
+      "lecture 34-Q02": [
+        "9 minute"
+      ],
+      "lecture 37-Q03": [
+        "1 minute"
+      ],
+      "lecture 38-Q02": [
+        "9 minute"
+      ],
+      "lecture 38-Q03": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 38-Q04": [
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 38-Q09": [
+        "2 minute"
+      ]
+    }
+  },
+  "topic 7": {
+    "keywords": [
+      "web server",
+      "web page",
+      "ip address"
+    ],
+    "mentions": {
+      "lecture 06-Q07": [
+        "1 minute"
+      ],
+      "lecture 08-Q11": [
+        "0 minute",
+        "3 minute"
+      ],
+      "lecture 10-Q06": [
+        "2 minute"
+      ],
+      "lecture 18-Q07": [
+        "0 minute"
+      ],
+      "lecture 24-Q07": [
+        "5 minute",
+        "6 minute",
+        "10 minute",
+        "11 minute",
+        "14 minute"
+      ],
+      "lecture 25-Q01": [
+        "1 minute",
+        "4 minute"
+      ],
+      "lecture 25-Q02": [
+        "0 minute"
+      ],
+      "lecture 25-Q03": [
+        "0 minute"
+      ],
+      "lecture 25-Q05": [
+        "0 minute",
+        "9 minute",
+        "12 minute",
+        "15 minute",
+        "16 minute",
+        "17 minute",
+        "18 minute"
+      ],
+      "lecture 25-Q06": [
+        "0 minute",
+        "3 minute"
+      ],
+      "lecture 26-Q01": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "7 minute",
+        "10 minute",
+        "13 minute",
+        "17 minute",
+        "19 minute",
+        "20 minute",
+        "21 minute"
+      ],
+      "lecture 26-Q02": [
+        "0 minute",
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 26-Q03": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "11 minute",
+        "13 minute"
+      ],
+      "lecture 26-Q04": [
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 27-Q01": [
+        "3 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 27-Q03": [
+        "0 minute",
+        "5 minute"
+      ],
+      "lecture 27-Q04": [
+        "2 minute",
+        "7 minute",
+        "8 minute",
+        "9 minute",
+        "10 minute"
+      ],
+      "lecture 28-Q05": [
+        "5 minute"
+      ],
+      "lecture 29-Q07": [
+        "2 minute"
+      ],
+      "lecture 30-Q02": [
+        "2 minute",
+        "4 minute"
+      ],
+      "lecture 31-Q02": [
+        "1 minute"
+      ],
+      "lecture 32-Q02": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 33-Q01": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 33-Q02": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 33-Q03": [
+        "0 minute",
+        "1 minute",
+        "6 minute"
+      ],
+      "lecture 33-Q06": [
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 33-Q07": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 35-Q08": [
+        "0 minute"
+      ],
+      "lecture 36-Q01": [
+        "12 minute",
+        "13 minute"
+      ],
+      "lecture 36-Q02": [
+        "0 minute",
+        "1 minute",
+        "6 minute",
+        "7 minute",
+        "9 minute",
+        "10 minute"
+      ],
+      "lecture 36-Q03": [
+        "2 minute"
+      ],
+      "lecture 36-Q04": [
+        "0 minute",
+        "2 minute",
+        "6 minute"
+      ],
+      "lecture 36-Q05": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 36-Q06": [
+        "0 minute",
+        "4 minute"
+      ],
+      "lecture 36-Q07": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 36-Q09": [
+        "0 minute",
+        "3 minute"
+      ],
+      "lecture 37-Q01": [
+        "1 minute"
+      ],
+      "lecture 37-Q04": [
+        "5 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 38-Q02": [
+        "4 minute"
+      ],
+      "lecture 38-Q07": [
+        "0 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 38-Q08": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "7 minute"
+      ],
+      "lecture 38-Q09": [
+        "7 minute",
+        "8 minute",
+        "10 minute"
+      ],
+      "lecture 39-Q02": [
+        "0 minute",
+        "5 minute",
+        "6 minute",
+        "7 minute"
+      ]
+    }
+  },
+  "topic 8": {
+    "keywords": [
+      "file descriptor",
+      "network card"
+    ],
+    "mentions": {
+      "lecture 04-Q02": [
+        "5 minute"
+      ],
+      "lecture 05-pt7": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 12-Q02": [
+        "4 minute"
+      ],
+      "lecture 13-Q06": [
+        "5 minute"
+      ],
+      "lecture 22-Q01": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "9 minute",
+        "15 minute"
+      ],
+      "lecture 22-Q03": [
+        "0 minute",
+        "1 minute",
+        "5 minute",
+        "6 minute",
+        "17 minute"
+      ],
+      "lecture 22-Q05": [
+        "0 minute"
+      ],
+      "lecture 22-Q06": [
+        "0 minute"
+      ],
+      "lecture 22-Q08": [
+        "2 minute"
+      ],
+      "lecture 23-Q01": [
+        "3 minute",
+        "6 minute"
+      ],
+      "lecture 23-Q04": [
+        "4 minute"
+      ],
+      "lecture 23-Q06": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 24-Q05": [
+        "0 minute"
+      ],
+      "lecture 24-Q06": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 24-Q08": [
+        "7 minute"
+      ],
+      "lecture 25-Q04": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 25-Q05": [
+        "7 minute",
+        "8 minute"
+      ],
+      "lecture 26-Q02": [
+        "1 minute",
+        "4 minute"
+      ],
+      "lecture 26-Q03": [
+        "5 minute",
+        "6 minute",
+        "8 minute",
+        "9 minute",
+        "10 minute"
+      ],
+      "lecture 27-Q01": [
+        "2 minute",
+        "4 minute",
+        "5 minute",
+        "8 minute",
+        "9 minute"
+      ],
+      "lecture 28-Q01": [
+        "13 minute",
+        "14 minute"
+      ],
+      "lecture 28-Q02": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 28-Q06": [
+        "3 minute"
+      ],
+      "lecture 30-Q03": [
+        "4 minute"
+      ],
+      "lecture 30-Q06": [
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 31-Q03": [
+        "2 minute"
+      ],
+      "lecture 33-Q01": [
+        "2 minute"
+      ],
+      "lecture 33-Q03": [
+        "3 minute",
+        "4 minute",
+        "5 minute"
+      ],
+      "lecture 33-Q04": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute",
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 33-Q05": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "4 minute",
+        "6 minute",
+        "8 minute"
+      ],
+      "lecture 34-Q04": [
+        "8 minute"
+      ],
+      "lecture 36-Q08": [
+        "0 minute"
+      ],
+      "lecture 37-Q02": [
+        "2 minute"
+      ],
+      "lecture 37-Q05": [
+        "1 minute"
+      ],
+      "lecture 38-Q05": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 38-Q09": [
+        "11 minute"
+      ],
+      "lecture 39-Q07": [
+        "3 minute"
+      ]
+    }
+  },
+  "topic 9": {
+    "keywords": [
+      "return value",
+      "void pointer",
+      "thread exit"
+    ],
+    "mentions": {
+      "lecture 02-Q01": [
+        "0 minute"
+      ],
+      "lecture 02-Q02": [
+        "2 minute"
+      ],
+      "lecture 02-Q08": [
+        "1 minute"
+      ],
+      "lecture 02-Q11": [
+        "0 minute"
+      ],
+      "lecture 02-Q14": [
+        "0 minute"
+      ],
+      "lecture 03-Q01": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 03-Q03": [
+        "0 minute"
+      ],
+      "lecture 03-Q04": [
+        "5 minute",
+        "8 minute",
+        "11 minute",
+        "12 minute"
+      ],
+      "lecture 03-Q05": [
+        "1 minute"
+      ],
+      "lecture 03-Q10": [
+        "4 minute"
+      ],
+      "lecture 04-Q02": [
+        "6 minute",
+        "10 minute"
+      ],
+      "lecture 04-Q03": [
+        "1 minute",
+        "6 minute"
+      ],
+      "lecture 04-Q04": [
+        "8 minute"
+      ],
+      "lecture 04-Q05": [
+        "2 minute",
+        "12 minute"
+      ],
+      "lecture 04-Q06": [
+        "2 minute",
+        "4 minute",
+        "9 minute"
+      ],
+      "lecture 04-Q07": [
+        "1 minute"
+      ],
+      "lecture 05-pt3": [
+        "5 minute"
+      ],
+      "lecture 05-pt4": [
+        "0 minute",
+        "2 minute",
+        "4 minute",
+        "6 minute"
+      ],
+      "lecture 05-pt5": [
+        "0 minute"
+      ],
+      "lecture 05-pt8": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 06-Q01": [
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 06-Q02": [
+        "1 minute"
+      ],
+      "lecture 06-Q04": [
+        "1 minute"
+      ],
+      "lecture 06-Q05": [
+        "2 minute",
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 06-Q06": [
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 06-Q07": [
+        "2 minute"
+      ],
+      "lecture 06-Q08": [
+        "0 minute",
+        "10 minute"
+      ],
+      "lecture 07-Q01": [
+        "0 minute",
+        "6 minute",
+        "8 minute"
+      ],
+      "lecture 07-Q02": [
+        "8 minute"
+      ],
+      "lecture 07-Q03-05": [
+        "1 minute"
+      ],
+      "lecture 08-Q01": [
+        "3 minute"
+      ],
+      "lecture 08-Q04": [
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 08-Q06": [
+        "1 minute",
+        "7 minute",
+        "8 minute"
+      ],
+      "lecture 09-Q01": [
+        "2 minute"
+      ],
+      "lecture 09-Q02": [
+        "6 minute",
+        "8 minute"
+      ],
+      "lecture 09-Q07": [
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 10-Q02": [
+        "11 minute"
+      ],
+      "lecture 10-Q04": [
+        "5 minute"
+      ],
+      "lecture 11-Q02": [
+        "4 minute",
+        "5 minute",
+        "6 minute",
+        "8 minute",
+        "9 minute",
+        "10 minute",
+        "11 minute",
+        "12 minute",
+        "19 minute",
+        "20 minute",
+        "21 minute",
+        "22 minute",
+        "23 minute",
+        "24 minute",
+        "25 minute",
+        "26 minute"
+      ],
+      "lecture 11-Q04": [
+        "1 minute"
+      ],
+      "lecture 11-Q05": [
+        "2 minute"
+      ],
+      "lecture 11-Q06": [
+        "0 minute"
+      ],
+      "lecture 11-Q09": [
+        "0 minute",
+        "1 minute",
+        "3 minute"
+      ],
+      "lecture 11-Q10": [
+        "2 minute"
+      ],
+      "lecture 12-Q01": [
+        "2 minute"
+      ],
+      "lecture 12-Q02": [
+        "2 minute",
+        "6 minute",
+        "9 minute"
+      ],
+      "lecture 12-Q03": [
+        "0 minute"
+      ],
+      "lecture 12-Q05": [
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 12-Q07": [
+        "4 minute",
+        "5 minute"
+      ],
+      "lecture 13-Q01": [
+        "2 minute",
+        "4 minute",
+        "5 minute"
+      ],
+      "lecture 13-Q09": [
+        "2 minute",
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 14-Q09": [
+        "5 minute"
+      ],
+      "lecture 15-Q04": [
+        "5 minute"
+      ],
+      "lecture 16-Q01": [
+        "7 minute"
+      ],
+      "lecture 16-Q02": [
+        "2 minute"
+      ],
+      "lecture 17-Q05": [
+        "2 minute"
+      ],
+      "lecture 18-Q05": [
+        "0 minute"
+      ],
+      "lecture 22-Q01": [
+        "12 minute"
+      ],
+      "lecture 22-Q02": [
+        "1 minute"
+      ],
+      "lecture 22-Q03": [
+        "10 minute"
+      ],
+      "lecture 22-Q05": [
+        "1 minute"
+      ],
+      "lecture 22-Q08": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 23-Q02": [
+        "2 minute"
+      ],
+      "lecture 23-Q03": [
+        "4 minute",
+        "9 minute"
+      ],
+      "lecture 24-Q03": [
+        "0 minute"
+      ],
+      "lecture 24-Q06": [
+        "1 minute",
+        "4 minute"
+      ],
+      "lecture 24-Q08": [
+        "3 minute"
+      ],
+      "lecture 25-Q05": [
+        "2 minute",
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 25-Q06": [
+        "1 minute"
+      ],
+      "lecture 27-Q01": [
+        "1 minute"
+      ],
+      "lecture 27-Q04": [
+        "0 minute",
+        "3 minute"
+      ],
+      "lecture 28-Q03": [
+        "0 minute"
+      ],
+      "lecture 29-Q02": [
+        "0 minute",
+        "4 minute"
+      ],
+      "lecture 30-Q04": [
+        "4 minute"
+      ],
+      "lecture 32-Q02": [
+        "8 minute"
+      ],
+      "lecture 33-Q06": [
+        "5 minute"
+      ],
+      "lecture 34-Q03": [
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 35-Q04": [
+        "2 minute"
+      ],
+      "lecture 35-Q09": [
+        "0 minute",
+        "2 minute"
+      ],
+      "lecture 37-Q01": [
+        "4 minute"
+      ],
+      "lecture 37-Q05": [
+        "2 minute"
+      ],
+      "lecture 38-Q02": [
+        "10 minute"
+      ],
+      "lecture 39-Q02": [
+        "4 minute"
+      ]
+    }
+  },
+  "topic 10": {
+    "keywords": [
+      "c library",
+      "file handle",
+      "standard error"
+    ],
+    "mentions": {
+      "lecture 02-Q01": [
+        "1 minute"
+      ],
+      "lecture 02-Q02": [
+        "0 minute",
+        "5 minute"
+      ],
+      "lecture 02-Q12": [
+        "0 minute"
+      ],
+      "lecture 03-Q02": [
+        "2 minute"
+      ],
+      "lecture 03-Q04": [
+        "1 minute"
+      ],
+      "lecture 03-Q06": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 03-Q07": [
+        "1 minute",
+        "2 minute",
+        "3 minute",
+        "4 minute"
+      ],
+      "lecture 03-Q10": [
+        "5 minute"
+      ],
+      "lecture 04-Q02": [
+        "7 minute",
+        "13 minute"
+      ],
+      "lecture 04-Q03": [
+        "0 minute"
+      ],
+      "lecture 04-Q04": [
+        "0 minute",
+        "2 minute",
+        "4 minute"
+      ],
+      "lecture 04-Q05": [
+        "0 minute",
+        "3 minute",
+        "5 minute",
+        "7 minute",
+        "9 minute",
+        "15 minute"
+      ],
+      "lecture 04-Q06": [
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 04-Q07": [
+        "5 minute"
+      ],
+      "lecture 05-pt2": [
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 05-pt3": [
+        "0 minute",
+        "1 minute",
+        "2 minute"
+      ],
+      "lecture 05-pt4": [
+        "3 minute",
+        "5 minute"
+      ],
+      "lecture 05-pt5": [
+        "2 minute",
+        "3 minute",
+        "10 minute"
+      ],
+      "lecture 05-pt7": [
+        "1 minute",
+        "3 minute",
+        "6 minute"
+      ],
+      "lecture 06-Q04": [
+        "4 minute"
+      ],
+      "lecture 07-Q01": [
+        "2 minute",
+        "3 minute",
+        "10 minute",
+        "14 minute",
+        "16 minute"
+      ],
+      "lecture 07-Q02": [
+        "4 minute"
+      ],
+      "lecture 07-Q09": [
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 08-Q01": [
+        "2 minute"
+      ],
+      "lecture 08-Q03": [
+        "0 minute"
+      ],
+      "lecture 10-Q04": [
+        "3 minute"
+      ],
+      "lecture 11-Q02": [
+        "16 minute"
+      ],
+      "lecture 11-Q10": [
+        "3 minute"
+      ],
+      "lecture 13-Q01": [
+        "7 minute"
+      ],
+      "lecture 14-Q07": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 14-Q09": [
+        "3 minute"
+      ],
+      "lecture 15-Q05": [
+        "4 minute"
+      ],
+      "lecture 19-Q08": [
+        "0 minute"
+      ],
+      "lecture 21-Q08": [
+        "5 minute"
+      ],
+      "lecture 22-Q01": [
+        "7 minute",
+        "13 minute",
+        "14 minute"
+      ],
+      "lecture 22-Q03": [
+        "8 minute"
+      ],
+      "lecture 22-Q04": [
+        "0 minute",
+        "5 minute"
+      ],
+      "lecture 22-Q05": [
+        "4 minute",
+        "9 minute",
+        "10 minute"
+      ],
+      "lecture 22-Q08": [
+        "3 minute"
+      ],
+      "lecture 23-Q01": [
+        "0 minute",
+        "1 minute",
+        "5 minute"
+      ],
+      "lecture 23-Q02": [
+        "0 minute"
+      ],
+      "lecture 23-Q03": [
+        "0 minute",
+        "2 minute",
+        "3 minute"
+      ],
+      "lecture 23-Q04": [
+        "0 minute",
+        "1 minute",
+        "2 minute",
+        "5 minute"
+      ],
+      "lecture 23-Q05": [
+        "0 minute"
+      ],
+      "lecture 24-Q03": [
+        "1 minute"
+      ],
+      "lecture 24-Q04": [
+        "0 minute",
+        "1 minute"
+      ],
+      "lecture 28-Q01": [
+        "9 minute"
+      ],
+      "lecture 29-Q03": [
+        "6 minute",
+        "7 minute"
+      ],
+      "lecture 30-Q02": [
+        "5 minute",
+        "6 minute"
+      ],
+      "lecture 30-Q05": [
+        "7 minute"
+      ],
+      "lecture 30-Q08": [
+        "1 minute"
+      ],
+      "lecture 31-Q04": [
+        "4 minute"
+      ],
+      "lecture 32-Q03": [
+        "12 minute"
+      ],
+      "lecture 32-Q04": [
+        "0 minute"
+      ],
+      "lecture 33-Q02": [
+        "1 minute"
+      ],
+      "lecture 34-Q01": [
+        "7 minute"
+      ],
+      "lecture 34-Q04": [
+        "7 minute"
+      ],
+      "lecture 37-Q02": [
+        "3 minute"
+      ],
+      "lecture 38-Q01": [
+        "0 minute"
+      ],
+      "lecture 38-Q02": [
+        "2 minute"
+      ],
+      "lecture 38-Q03": [
+        "0 minute"
+      ]
+    }
+  }
+}

@@ -105,3 +105,17 @@ input.largerCheckbox {
   width: 1rem;
   height: 1rem;
 }
+
+
+/* video player css */
+.videoHolder {
+  position: relative;
+  overflow: hidden;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 60%;
+  /* background: #000; */
+  margin-top: 1rem;
+}
+

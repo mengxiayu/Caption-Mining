@@ -1,0 +1,7187 @@
+{
+  "007a4c69-a949-4550-b450-ecb4cd7a8b1e": [
+    [
+      "pizza slice",
+      "mutex lock"
+    ],
+    [],
+    [
+      "counting semaphore",
+      "pizza slice"
+    ],
+    []
+  ],
+  "009c9eb3-b71a-4571-8437-2a3fe5ce01e4": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "memory address",
+      "link list",
+      "memory location"
+    ]
+  ],
+  "00dd4389-2bac-4f00-8dcd-785c286c3d68": [
+    [
+      "network card",
+      "web server",
+      "port number"
+    ],
+    [
+      "address info",
+      "port number",
+      "ip four address"
+    ],
+    [
+      "file descriptor",
+      "network card",
+      "port number"
+    ],
+    [
+      "file descriptor",
+      "link list",
+      "return value"
+    ]
+  ],
+  "0173c9a1-6ea6-40ab-b5d1-ccc145c2f251": [
+    [
+      "whole lot"
+    ],
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "01850175-f9bd-4eba-a73b-9dc63940ee41": [
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    []
+  ],
+  "025c4079-6f2d-496a-bc87-51d078e15f66": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "0313c4b8-b3cb-47c4-893c-bcb27ce990a3": [
+    [
+      "race condition",
+      "whole load"
+    ],
+    [],
+    [
+      "main memory"
+    ],
+    [],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "main memory",
+      "write code",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "031c882d-0a19-4489-b1ef-d9328844d378": [
+    [
+      "port number"
+    ],
+    [
+      "c code"
+    ],
+    [],
+    [
+      "web page"
+    ]
+  ],
+  "040bf74d-c21b-4d61-a0f9-38e3b2cc4d67": [
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "condition variable",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex"
+    ],
+    [
+      "file descriptor",
+      "file handle",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "04137246-bc7c-420a-966b-5b8d482d352c": [
+    []
+  ],
+  "04149e23-3b12-41fe-bb0f-f717c1d17865": [
+    [
+      "virtual memory",
+      "address space"
+    ],
+    [
+      "memory address",
+      "virtual memory"
+    ],
+    [
+      "address space"
+    ],
+    [],
+    [
+      "address space"
+    ],
+    [
+      "address space"
+    ],
+    [
+      "address space"
+    ],
+    [],
+    [],
+    [],
+    [
+      "address space"
+    ],
+    [],
+    []
+  ],
+  "04829254-3696-4583-a42b-bd35a938c624": [
+    [
+      "link list",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "main memory"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "thread exit"
+    ],
+    [],
+    [
+      "thread mutex",
+      "mutex lock"
+    ]
+  ],
+  "056e04b9-e004-4e05-af4b-dee1b2888806": [
+    [],
+    [],
+    [
+      "web server"
+    ]
+  ],
+  "068de9f9-f0f5-4140-8da8-7ba0ac3aa5c3": [
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "p threat condition"
+    ],
+    [
+      "condition variable"
+    ],
+    [],
+    [
+      "p thread mutex",
+      "condition variable",
+      "thread mutex"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "peter mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread mutex",
+      "peter condition",
+      "thread mutex",
+      "mutex lock"
+    ]
+  ],
+  "079e15d0-be66-4f0c-a3b4-bb9079ea8eea": [
+    [
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "write code",
+      "p thread mutex",
+      "thread condition",
+      "condition variable",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "peter condition"
+    ],
+    [],
+    [
+      "peter condition"
+    ],
+    [],
+    [
+      "peter condition"
+    ],
+    [
+      "peter condition"
+    ]
+  ],
+  "084ced83-e9fe-4139-9d64-86f4824864cf": [
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "memory address"
+    ],
+    [
+      "heat memory"
+    ],
+    [
+      "heat memory"
+    ],
+    [
+      "write code",
+      "heat memory"
+    ],
+    [
+      "void pointer",
+      "heap memory"
+    ]
+  ],
+  "08a28266-820e-4f7f-8326-7c8c3f53dc2b": [
+    [],
+    [
+      "return value"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "child process"
+    ],
+    [
+      "write code",
+      "return value"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    []
+  ],
+  "0c22ed5a-99c0-4ba5-9ac9-c56c5e3911ca": [
+    [
+      "resource allocation graph",
+      "c code"
+    ],
+    [
+      "resource allocation graph",
+      "mutex lock"
+    ],
+    [
+      "exclusive access"
+    ],
+    [
+      "exclusive access"
+    ],
+    [
+      "resource allocation graph",
+      "exclusive access"
+    ],
+    [
+      "write code",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "0cebe85c-2283-48d7-bb48-045052e80cae": [
+    [
+      "port number"
+    ],
+    [
+      "c code"
+    ],
+    [],
+    [
+      "web page"
+    ]
+  ],
+  "0dfe3fc6-d54e-41af-b8c0-14d77999a05c": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "whole load"
+    ]
+  ],
+  "0e5047cd-7d46-49d0-a2ab-8ee74d7a774b": [
+    [
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "0e632880-1c9f-491d-b02d-a61aa58f2639": [],
+  "0e904504-e9c5-4ef5-9739-b762f6053521": [
+    [],
+    [
+      "child process"
+    ],
+    [],
+    [],
+    [
+      "operating system"
+    ]
+  ],
+  "0f5acc21-05fe-4694-921a-f38f2fb0134e": [
+    [],
+    [
+      "child process"
+    ],
+    [
+      "memory location"
+    ],
+    [],
+    []
+  ],
+  "0f70d1df-7a51-4bea-9a39-589fd7c57802": [
+    [
+      "race condition"
+    ],
+    [
+      "race condition",
+      "code review"
+    ],
+    [
+      "link list",
+      "exclusive access"
+    ]
+  ],
+  "0fe42c84-6a79-4581-94d8-ef1fae922e78": [
+    [
+      "operating system",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "main memory",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "111f8779-d189-4a26-9857-42833718e44a": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "whole lot"
+    ]
+  ],
+  "117f0f11-cc38-4a40-b359-8f1ba81655e1": [
+    [],
+    [
+      "memory location"
+    ],
+    [
+      "void pointer"
+    ],
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "1260cf03-e3d2-405c-8846-79c5af487b4d": [
+    [
+      "ip address",
+      "web browser"
+    ],
+    [
+      "ip address"
+    ],
+    [
+      "ip address",
+      "web page",
+      "web server"
+    ],
+    [],
+    [
+      "web browser"
+    ],
+    [
+      "ip address"
+    ],
+    [],
+    [
+      "web page",
+      "whole lot"
+    ]
+  ],
+  "12682bb1-804f-4939-a519-445af7451475": [
+    [
+      "file descriptor"
+    ],
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    [
+      "cpu time"
+    ],
+    [],
+    [
+      "heat memory"
+    ]
+  ],
+  "13ca4430-73f8-429a-b935-c642a8be526e": [
+    [
+      "thread condition"
+    ],
+    [],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "race condition",
+      "mutex lock"
+    ]
+  ],
+  "1440787d-bb97-4558-b85b-8aa384d86ede": [
+    [
+      "mutex lock"
+    ],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "14544fe6-66a5-40d6-988b-0d22aa081150": [
+    [
+      "c library"
+    ],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    [
+      "file handle"
+    ],
+    [],
+    [
+      "c string"
+    ],
+    [],
+    [
+      "c library"
+    ],
+    [],
+    [],
+    [
+      "return value"
+    ],
+    [],
+    [],
+    [
+      "c string"
+    ],
+    []
+  ],
+  "14984eb1-a900-473a-816e-4e304fedc041": [
+    [
+      "address space"
+    ],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "operating system",
+      "return value"
+    ],
+    []
+  ],
+  "160c1e41-f1c4-4ca1-9264-636d986cb0a1": [
+    [],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "p threat condition"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "return value"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "code review"
+    ]
+  ],
+  "16e62b2f-2875-432e-af0d-583257d7723a": [
+    [
+      "web server"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "web server"
+    ],
+    [],
+    [
+      "main memory",
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ]
+  ],
+  "1853bd34-e9ca-43fa-91f5-250a9abc155b": [
+    [
+      "link list"
+    ]
+  ],
+  "1950b119-9d1c-4760-aafa-f10604e9d6cd": [
+    [
+      "virtual memory"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "199ad3c7-e0c6-414e-8fa1-80276ca9fdcc": [
+    [],
+    [
+      "return value"
+    ],
+    [],
+    [
+      "ring buffer"
+    ],
+    [],
+    []
+  ],
+  "1a077e0a-fca4-4696-851e-cc0eb3ca149a": [
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "cpu time",
+      "mutex lock"
+    ],
+    [],
+    []
+  ],
+  "1aec58de-6b0d-4068-a042-acdc8954bcda": [
+    [
+      "web server"
+    ],
+    [
+      "dot text",
+      "port number"
+    ],
+    [
+      "web browser"
+    ],
+    [],
+    [
+      "dot text",
+      "web server"
+    ],
+    [
+      "web page"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "ip address"
+    ],
+    [],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "link list",
+      "whole lot",
+      "ip four address"
+    ],
+    [],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip four address"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "port number"
+    ],
+    [
+      "link list",
+      "web server"
+    ],
+    [
+      "network card",
+      "port number"
+    ]
+  ],
+  "1af0122b-b9dc-41df-a00a-b449acd1c803": [
+    [
+      "main method"
+    ],
+    [
+      "standard error",
+      "c library"
+    ],
+    [
+      "c library"
+    ],
+    [
+      "standard error",
+      "dot text"
+    ],
+    [
+      "standard error",
+      "c library"
+    ]
+  ],
+  "1af6249c-bd09-46a8-9b8f-738611112cb5": [
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    []
+  ],
+  "1b576d61-d378-4ab7-892f-56f113eb5f08": [
+    [
+      "virtual memory"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "whole load"
+    ],
+    []
+  ],
+  "1b746b25-23e0-4c94-9d7c-de89b9b30c5a": [
+    [
+      "operating system"
+    ],
+    [],
+    [
+      "exclusive access"
+    ],
+    [],
+    [
+      "exclusive access",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "write code",
+      "resource allocation graph"
+    ],
+    [
+      "peter mutex",
+      "exclusive access",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [],
+    [
+      "link list",
+      "mutex lock"
+    ]
+  ],
+  "1b84f2ca-7d13-46c1-8e96-254217cc7d9b": [
+    [
+      "ip address",
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "tcp connection"
+    ],
+    [],
+    [],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "web server"
+    ],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "ip address",
+      "write code"
+    ]
+  ],
+  "1be96113-98ce-4816-86a2-55d1f7e9357e": [
+    [],
+    [
+      "return value",
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "file descriptor",
+      "address info"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "1df54d06-6533-47ef-9136-ed124c6ff6d3": [
+    []
+  ],
+  "1df72ccf-c3d4-4939-945b-2a60fbbe7490": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "1e783a67-b8be-40c2-9441-09e0f8e0a1f8": [
+    [
+      "race condition",
+      "whole load"
+    ],
+    [],
+    [
+      "main memory"
+    ],
+    [],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "main memory",
+      "write code",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "1ea99e17-8bc6-433e-90ce-9d051362f24b": [
+    [
+      "dot text",
+      "address space"
+    ],
+    [
+      "memory location",
+      "dot text",
+      "address space"
+    ],
+    [
+      "dot text"
+    ],
+    [
+      "memory address"
+    ],
+    [
+      "c string",
+      "dot text"
+    ],
+    [],
+    [
+      "whole lot"
+    ],
+    [],
+    [],
+    []
+  ],
+  "1eae9ffe-aa3f-41af-bb4f-a63743eb80a6": [
+    [],
+    [
+      "return value"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "void pointer"
+    ]
+  ],
+  "1eb0f7e3-89d3-453d-bfbc-accad12de44e": [
+    [],
+    [],
+    []
+  ],
+  "1f0947f0-7d90-4971-8f36-20b870937782": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "1f76e788-6515-470d-8411-5a70fc7d7edb": [
+    [],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "link list",
+      "c code"
+    ]
+  ],
+  "203bde9a-6185-4ffa-94f2-2c4b061612e8": [
+    [
+      "memory location"
+    ],
+    [],
+    [],
+    []
+  ],
+  "20a17ad5-03fa-40e1-bb61-739bcec6e2e2": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ]
+  ],
+  "214ce85d-efea-4e30-9831-390614fc2683": [
+    [],
+    [],
+    [],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "21a18c82-8c09-4c06-aa5a-1430e944cfd4": [
+    [
+      "address info",
+      "network card"
+    ],
+    [],
+    [
+      "address info"
+    ],
+    [
+      "port number",
+      "ip four address",
+      "c code"
+    ],
+    [
+      "ip address"
+    ]
+  ],
+  "22302903-5bcb-4262-bd2c-179cf2135ab9": [
+    [
+      "web page"
+    ],
+    [],
+    [
+      "tcp connection"
+    ],
+    []
+  ],
+  "23d922a6-680c-4d83-887e-43c407779538": [
+    [],
+    [
+      "void pointer",
+      "memory location"
+    ],
+    [
+      "void pointer",
+      "memory location"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "24389f97-732f-4c49-9ec5-d5ea195e83da": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [],
+    []
+  ],
+  "25b095de-25dc-448b-873a-ddcf22752393": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    []
+  ],
+  "25f60154-4c5e-4768-9b0f-f050b09bb778": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [
+      "main memory",
+      "whole load"
+    ],
+    [
+      "virtual memory"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "meta information",
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "whole load",
+      "file system"
+    ],
+    [
+      "meta information"
+    ],
+    [],
+    [
+      "whole load",
+      "file system"
+    ],
+    [
+      "meta information"
+    ],
+    [
+      "meta information"
+    ]
+  ],
+  "2635d0a3-9614-4aa7-9bdc-dca870b27eec": [
+    [],
+    [],
+    [
+      "web page"
+    ],
+    [
+      "web browser"
+    ]
+  ],
+  "27f7e6d9-2a1f-419b-b0c5-3ad8dc4064d3": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "28a2bdb5-a357-4b00-bb00-b9d1e478498b": [
+    [],
+    [
+      "web server"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "write code"
+    ]
+  ],
+  "2a2f8631-b18e-4323-90d0-8f71927323fc": [
+    [
+      "address info",
+      "web server"
+    ],
+    [
+      "address info",
+      "link list"
+    ],
+    [
+      "heat memory"
+    ],
+    [],
+    [
+      "address info",
+      "ip four address"
+    ],
+    [
+      "address info",
+      "return value"
+    ],
+    [
+      "address info",
+      "return value"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "address info",
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "ip address"
+    ],
+    [
+      "web page"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "web browser",
+      "tcp connection"
+    ]
+  ],
+  "2a7b5c6d-c236-498b-8c94-c4baac66feaf": [
+    [
+      "pizza slice"
+    ],
+    [
+      "pizza slice"
+    ]
+  ],
+  "2b24ffa8-c092-48c4-af51-3e0e88ff8792": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "2c80a67a-6e39-4b62-812c-69eb49905471": [
+    [
+      "virtual memory",
+      "operating system",
+      "c library"
+    ],
+    [
+      "memory address",
+      "operating system"
+    ]
+  ],
+  "2cd13b51-dc41-427e-91b3-c63a9d8334fe": [
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "virtual memory",
+      "file system"
+    ],
+    [
+      "web browser"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "address space"
+    ],
+    [
+      "memory location"
+    ],
+    []
+  ],
+  "2ce0c44c-c7e2-4bab-becf-4f3ab3af2d11": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "memory address"
+    ]
+  ],
+  "2cfefc6a-33cd-4ed1-8b07-a9aacbed4aca": [
+    [
+      "mutex lock"
+    ],
+    [
+      "file handle",
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "code review",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "race condition"
+    ],
+    [
+      "race condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "whole load"
+    ],
+    [
+      "peter condition",
+      "condition variable"
+    ],
+    []
+  ],
+  "2d49256b-843d-4c27-969c-5a4a8ef761ed": [
+    [
+      "counting semaphore",
+      "code review",
+      "ring buffer"
+    ]
+  ],
+  "2e2bb4d7-75e2-4780-90b7-77bbe8fd3c70": [
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [
+      "standard error",
+      "c library"
+    ],
+    []
+  ],
+  "305a1d6f-7dfb-4fe9-8271-64421be8f294": [
+    [],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "link list",
+      "c code"
+    ]
+  ],
+  "31222488-6252-419c-9c31-9ff072cffeee": [
+    [
+      "void pointer"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "31a84e40-90fe-4ea7-9af5-cfc0d0ffebe8": [
+    [
+      "dot text"
+    ],
+    [
+      "whole lot",
+      "operating system"
+    ],
+    [],
+    [],
+    [
+      "whole load"
+    ],
+    [],
+    [
+      "whole load",
+      "address space"
+    ]
+  ],
+  "32897e63-cb36-4269-8874-4059caa719c9": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "write code"
+    ],
+    []
+  ],
+  "34a28852-0928-4275-9d51-ae6393b84ed4": [
+    []
+  ],
+  "34b3522d-04fe-4f64-bfd8-427941a01fb5": [
+    [],
+    [
+      "memory address",
+      "page table",
+      "virtual memory"
+    ],
+    [
+      "cpu time"
+    ],
+    [
+      "main memory",
+      "page table"
+    ],
+    [],
+    []
+  ],
+  "34f5f15f-13e2-472c-a71d-7653231e61e9": [
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "condition variable",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex"
+    ],
+    [
+      "file descriptor",
+      "file handle",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "3645730a-4aa1-43d8-be7d-16db4e0c5df3": [
+    [],
+    [],
+    [
+      "c string",
+      "heat memory"
+    ],
+    [
+      "c string"
+    ]
+  ],
+  "367502e6-86bd-4b7c-8b0f-a6d09829fe75": [
+    [],
+    [
+      "virtual memory"
+    ],
+    [
+      "heap memory"
+    ],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "operating system"
+    ],
+    [
+      "operating system"
+    ],
+    [],
+    [],
+    [
+      "memory location"
+    ],
+    []
+  ],
+  "37245daa-183e-43b4-9765-a5d9bc2a6ac6": [
+    [
+      "memory address"
+    ],
+    [],
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "37ee433b-e79d-4957-9dbc-0d62b0785dbd": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "37ef3efe-3f33-4f02-bfee-552b68beac1b": [
+    [],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "p threat condition"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "return value"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "code review"
+    ]
+  ],
+  "386e3067-a4c7-42a0-9721-75a58c84ced0": [
+    [
+      "operating system"
+    ],
+    [],
+    []
+  ],
+  "38a81991-43dc-442e-b214-b0fdcb528caf": [
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "web server"
+    ],
+    []
+  ],
+  "38d669a5-394b-4826-bb65-0090a3444b01": [
+    [
+      "web page"
+    ],
+    [],
+    [
+      "tcp connection"
+    ],
+    []
+  ],
+  "398ab8f1-44ca-4550-8662-16d9a98af68a": [
+    [],
+    [],
+    [
+      "web server"
+    ],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "c string"
+    ],
+    [
+      "file handle",
+      "dot text"
+    ],
+    [
+      "dot text"
+    ]
+  ],
+  "39e45f0e-a47f-4922-a4a3-3b2f8e19cefa": [
+    [
+      "file descriptor",
+      "network card",
+      "c code"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "network card",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "39f43910-3996-4918-b9ce-21346fb84956": [
+    [],
+    [],
+    []
+  ],
+  "3b653f0c-c210-4f13-a615-5d87a823e96e": [
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    []
+  ],
+  "3b9f5713-ca11-400c-bd6f-428347679520": [
+    [],
+    [
+      "void pointer",
+      "memory location"
+    ]
+  ],
+  "3bc5e145-f08c-45f8-af8f-9b7dd35d816f": [],
+  "3c6b2669-f4b1-4b5e-ad45-a0b90bff5373": [
+    [
+      "whole lot",
+      "heat memory"
+    ]
+  ],
+  "3cd7353d-eaae-4c1c-a4d5-ca1b6ce5f52f": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "c string",
+      "c library"
+    ],
+    [
+      "whole lot",
+      "c library"
+    ],
+    [],
+    [],
+    [
+      "file descriptor",
+      "code review"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [],
+    []
+  ],
+  "3d0ca20e-770a-4185-b85c-16363e80fe82": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "virtual memory"
+    ],
+    []
+  ],
+  "3e1b1597-b1e1-4999-9d99-6e412cce8d0e": [
+    [
+      "web page",
+      "wait time",
+      "web server"
+    ],
+    [
+      "web page",
+      "web browser"
+    ],
+    [],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "wait time"
+    ],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "cpu time",
+      "c code"
+    ],
+    []
+  ],
+  "3eef8bd5-25ff-471b-9ae8-2388a3967aa9": [
+    [],
+    [],
+    [
+      "file descriptor"
+    ],
+    [
+      "operating system"
+    ],
+    [
+      "link list",
+      "whole load"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    []
+  ],
+  "3f559120-de38-4bc0-bcf2-95f88505b2a5": [
+    [
+      "web server"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "heap memory"
+    ],
+    [],
+    [
+      "address info",
+      "ip four address"
+    ],
+    [
+      "address info",
+      "return value"
+    ],
+    [
+      "return value"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "ip address"
+    ],
+    [
+      "web page"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "web browser",
+      "tcp connection"
+    ]
+  ],
+  "400997f2-57b2-4cbf-8257-c43a761b7df6": [
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "4032b6db-39d8-4d61-bef9-218a42c0a7e4": [
+    [
+      "ip address",
+      "web page",
+      "web browser"
+    ],
+    [
+      "web server"
+    ]
+  ],
+  "412638bd-03f0-44d0-a48b-5c8f0bee64e9": [
+    [
+      "mutex lock"
+    ],
+    [
+      "cpu time",
+      "mutex lock"
+    ],
+    [
+      "race condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "operating system"
+    ]
+  ],
+  "41b0a81d-3653-466e-87dd-0eda65d6af2e": [
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "42b41294-c566-4d01-97b7-8822cdc13bb9": [
+    []
+  ],
+  "42ebcdb6-a366-49f4-b95a-a0614c5ac1ce": [
+    [
+      "heap memory"
+    ],
+    [],
+    [
+      "c string"
+    ],
+    [
+      "c string",
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "standard error"
+    ],
+    [],
+    []
+  ],
+  "43f3b072-76f4-44af-91de-41fdc64695b5": [
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "441ed34b-d340-4f03-8c15-3753a894fcf7": [
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "meta information"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system",
+      "cpu time",
+      "c code"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "file system",
+      "cpu time"
+    ],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "meta information",
+      "write code",
+      "file system"
+    ],
+    [
+      "file system"
+    ]
+  ],
+  "4566a81d-1bd5-43f8-8720-ba122a2b1f23": [
+    [],
+    [],
+    []
+  ],
+  "4601a707-5dd9-44c5-b66d-261ac8ae080b": [
+    [
+      "write code",
+      "operating system",
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file handle",
+      "file system",
+      "c library"
+    ],
+    [
+      "whole load"
+    ],
+    []
+  ],
+  "4675bcdc-930f-4e8f-bcf1-5baea25f1628": [
+    [
+      "file system"
+    ],
+    [],
+    [
+      "meta information",
+      "disk block"
+    ],
+    [],
+    [
+      "file system"
+    ],
+    [],
+    []
+  ],
+  "46d738b3-f1ab-4400-a64d-55474f51875f": [
+    [
+      "heat memory"
+    ],
+    [],
+    []
+  ],
+  "48c308bd-22a2-405e-9437-75a1df1794fe": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [],
+    [
+      "link list",
+      "mutex lock"
+    ],
+    [],
+    []
+  ],
+  "48e97dd2-4492-4527-bff9-3e3f957a074b": [
+    [],
+    [],
+    [
+      "p thread mutex",
+      "p threat condition",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "491a80ef-eda8-4e66-a332-f2dd12cb7ebe": [
+    [
+      "c string"
+    ],
+    [],
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [
+      "c string"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "memory address"
+    ],
+    []
+  ],
+  "4a691a02-f191-450e-8b66-639b515b068e": [
+    [
+      "page table",
+      "virtual memory"
+    ],
+    [
+      "main memory",
+      "memory address",
+      "page table",
+      "virtual memory"
+    ],
+    [
+      "main memory",
+      "page table"
+    ],
+    [],
+    [
+      "memory address",
+      "virtual memory"
+    ]
+  ],
+  "4aa29e14-ce85-47a2-a685-4c0979a6c56b": [
+    [],
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "4bb4d9de-3031-4ca5-9b24-28a62fa33ed8": [
+    [
+      "counting semaphore",
+      "code review",
+      "ring buffer"
+    ]
+  ],
+  "4be923cb-0fb1-4a38-b904-ceb8ff09755a": [
+    [
+      "whole load"
+    ],
+    [
+      "whole load"
+    ],
+    [],
+    [
+      "ring buffer"
+    ],
+    [
+      "link list"
+    ]
+  ],
+  "4c2cacef-7dbd-4877-97e1-9c6cf834fa33": [
+    [],
+    [
+      "whole load"
+    ],
+    [],
+    [],
+    [
+      "main memory"
+    ],
+    [],
+    [],
+    [
+      "operating system"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "4cadee54-ee1a-49c8-b696-1968feee37b3": [
+    [],
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [],
+    [
+      "c code"
+    ]
+  ],
+  "4cdc54a1-22f0-4dcc-b071-570ac31d7e39": [
+    [
+      "link list"
+    ],
+    [
+      "whole load"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "peter condition",
+      "mutex lock"
+    ],
+    [
+      "link list",
+      "mutex lock"
+    ],
+    [
+      "peter condition",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "link list",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [
+      "peter condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [
+      "write code",
+      "p thread condition",
+      "thread condition"
+    ],
+    [],
+    [
+      "p threat condition"
+    ],
+    [],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ]
+  ],
+  "4d347210-3ea8-47bc-bc01-d7e1cbc6d868": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "4e573abf-cf71-448e-9c87-e47ce02c5bf0": [
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [],
+    [
+      "ring buffer"
+    ],
+    [
+      "file descriptor",
+      "child process"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "c library"
+    ],
+    [],
+    [
+      "child process"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file descriptor"
+    ]
+  ],
+  "4f500541-bb78-41b4-8597-24e61e794f81": [
+    [
+      "file descriptor",
+      "whole lot",
+      "dot text",
+      "child process"
+    ],
+    [
+      "file descriptor",
+      "child process"
+    ],
+    [
+      "dot text"
+    ]
+  ],
+  "500f2f37-cb53-4088-952f-c866acfded89": [
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "disk block"
+    ],
+    [
+      "meta information",
+      "disk block"
+    ],
+    []
+  ],
+  "50ebb1c4-4d86-4abe-bcf6-d6d0948214d6": [
+    [
+      "counting semaphore",
+      "code review",
+      "ring buffer"
+    ]
+  ],
+  "513bcd38-3d1f-455e-9de0-3a1cb12f8bf0": [
+    [],
+    [],
+    []
+  ],
+  "51cddab2-570c-440f-8b14-9adb4a3cbf88": [
+    [
+      "web server"
+    ],
+    [
+      "address info",
+      "port number"
+    ],
+    [
+      "network card",
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [],
+    [
+      "file descriptor",
+      "write code"
+    ],
+    [
+      "file descriptor",
+      "c string"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [
+      "web page",
+      "web server"
+    ],
+    [],
+    [],
+    []
+  ],
+  "51d90699-38b0-4f5e-8fa7-adc726deb48b": [
+    [],
+    [],
+    [
+      "memory address"
+    ],
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    []
+  ],
+  "527934a0-530d-4125-a5a8-2a5cf05dcd5d": [
+    [
+      "c code"
+    ],
+    [
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "533db1aa-ad5e-40dd-b819-8b989c89b1f6": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "553189a9-6ee0-4efd-8e9e-0f57d5500e5f": [
+    [
+      "whole lot"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "heap memory"
+    ],
+    [
+      "link list"
+    ]
+  ],
+  "55699194-1692-490a-a863-a26370265ef7": [
+    [
+      "file descriptor",
+      "whole load"
+    ],
+    [],
+    [
+      "address space",
+      "file system"
+    ],
+    []
+  ],
+  "55fa9033-494f-4ca8-a264-154a981f06db": [
+    [
+      "condition variable"
+    ],
+    [
+      "file handle",
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ]
+  ],
+  "578b472b-d7f9-455d-b241-95da7faa4f77": [
+    [],
+    [
+      "tcp connection"
+    ],
+    [
+      "ip address",
+      "web page",
+      "web server"
+    ],
+    [
+      "web page",
+      "whole load"
+    ]
+  ],
+  "578e3a53-f9ab-41fa-bf8f-4907d8f5ebbe": [
+    [],
+    [
+      "main memory"
+    ],
+    [
+      "heat memory"
+    ],
+    []
+  ],
+  "57935b87-3626-4a44-93bd-a923f9a0ba9d": [
+    [
+      "condition variable",
+      "code review",
+      "mutex lock"
+    ],
+    [
+      "peter condition"
+    ],
+    [],
+    []
+  ],
+  "57f1edee-d98f-4b8b-9ca9-c3c66e7774d1": [
+    [
+      "virtual memory",
+      "operating system",
+      "c library"
+    ],
+    [
+      "memory address",
+      "operating system"
+    ]
+  ],
+  "580ae97f-7447-4844-927b-098638c01c95": [
+    [
+      "file system",
+      "c code"
+    ],
+    [],
+    [
+      "disk block"
+    ],
+    []
+  ],
+  "594d9f66-6e3e-4370-b43a-cf1498062ce1": [
+    [
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "web page",
+      "web server"
+    ],
+    [
+      "ip address",
+      "web server"
+    ],
+    [],
+    [
+      "tcp connection"
+    ]
+  ],
+  "5ab7cd3e-b52e-4bfc-aa50-687888c3c92d": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "web server"
+    ]
+  ],
+  "5b5cb5f1-f7e4-4e34-b21a-4b055a2c2121": [
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "main memory",
+      "mutex lock"
+    ],
+    [
+      "write code",
+      "operating system",
+      "mutex lock"
+    ]
+  ],
+  "5bd8420a-ccee-4ff9-b38e-466d0cfca53a": [
+    [
+      "operating system",
+      "web server"
+    ],
+    [
+      "web page",
+      "web browser",
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "child process"
+    ],
+    [
+      "ip address"
+    ],
+    [
+      "ip address"
+    ],
+    [
+      "tcp connection",
+      "web server"
+    ],
+    [
+      "address info"
+    ]
+  ],
+  "5c06ea70-4c6c-40b5-828d-a3492fe9fa96": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "web server"
+    ]
+  ],
+  "5c6032d9-cc7d-468f-82d9-4054bf6258ab": [
+    [
+      "web page"
+    ],
+    [
+      "condition variable",
+      "mutex lock"
+    ]
+  ],
+  "5cfcbc81-f386-4c5f-bbdc-4d1995a831ae": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "5d08e5da-dc37-4280-b939-3b84bb917113": [
+    [],
+    [
+      "write code"
+    ],
+    [
+      "address space"
+    ],
+    [],
+    [
+      "memory address",
+      "virtual memory"
+    ],
+    [
+      "page table"
+    ],
+    [
+      "page table",
+      "address space"
+    ]
+  ],
+  "5e0c43a3-3588-4f37-80a2-d3681b4119ea": [
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    []
+  ],
+  "5e4db746-ae92-4bc8-ba83-cf475b89a78c": [
+    [
+      "page table"
+    ],
+    [
+      "memory address"
+    ],
+    [
+      "page table"
+    ],
+    [
+      "page table"
+    ],
+    [],
+    []
+  ],
+  "5e598bf6-90ab-4adf-86a5-0f9204ac0b6f": [
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "cpu time"
+    ],
+    [],
+    []
+  ],
+  "5f3d6627-e0d7-473c-920e-5f3d6584e568": [
+    [
+      "void pointer"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "5f473d50-4d3a-49d3-8c52-1affccadabf1": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "60132500-ca65-443c-a48b-78c3732e652a": [
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "603b0b01-6f4b-4c59-b606-c075dd30516e": [
+    [],
+    [
+      "whole lot"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "6294f981-6e83-4197-a055-9b34816b1257": [
+    []
+  ],
+  "631bb988-4152-4a20-a77e-bcd5ee36e8bd": [],
+  "633f10ed-2038-4da2-9855-c3cad245559f": [
+    [
+      "main method",
+      "void pointer"
+    ],
+    [
+      "main method",
+      "c code"
+    ],
+    [],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [],
+    [
+      "memory address"
+    ]
+  ],
+  "63aafada-b118-41b8-a266-44bcb09d9eca": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "64320885-c055-41b4-9516-16a7910a1baa": [
+    [
+      "file descriptor",
+      "memory address",
+      "memory location"
+    ],
+    [],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "file descriptor",
+      "memory location"
+    ],
+    [
+      "c string",
+      "return value"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    [],
+    [
+      "memory location"
+    ],
+    [],
+    [],
+    [
+      "standard error"
+    ]
+  ],
+  "6469a892-5a29-4895-b922-8ef54fabb1a8": [
+    [],
+    [
+      "file system"
+    ],
+    [
+      "whole load",
+      "port number"
+    ],
+    [
+      "whole lot"
+    ],
+    []
+  ],
+  "6500319c-14b4-4a6e-a714-3cf7e49e96a9": [
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "662ac3ea-798b-43f9-bf91-290620d22337": [
+    [
+      "thread exit",
+      "p thread exit"
+    ]
+  ],
+  "66f7d2a0-017d-4176-a5b6-a307cc73a392": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "67bd4b3a-2f54-49a6-9c31-ff5dd35bf7d9": [
+    [
+      "main method"
+    ],
+    [],
+    [],
+    [
+      "child process"
+    ],
+    [
+      "return value"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "682ea22a-c797-434b-a768-f7e9a7769709": [
+    [],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "p threat condition"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "return value"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "code review"
+    ]
+  ],
+  "689b84d6-86d5-4519-8312-97bd8c8fecd0": [
+    [],
+    [
+      "heap memory"
+    ],
+    []
+  ],
+  "68eae3bc-b156-461c-8392-ea61a730464c": [
+    [
+      "address info"
+    ],
+    [
+      "return value",
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "file descriptor",
+      "address info"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "692302bd-49d3-4d62-bbc5-f1d4ce6e3684": [
+    [
+      "linked list"
+    ],
+    [
+      "link list",
+      "heap memory"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "memory address"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "memory address",
+      "link list"
+    ],
+    []
+  ],
+  "6ad1ba5c-6f3e-4ca6-b80b-2f7d444e23ef": [
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    [],
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    []
+  ],
+  "6bda4161-ec8d-403f-b5c5-d510d46fe230": [
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "disk block"
+    ],
+    [
+      "meta information",
+      "disk block"
+    ],
+    []
+  ],
+  "6c4c517c-e925-4d55-ac5a-58757254b2f6": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [
+      "main memory",
+      "whole load"
+    ],
+    [
+      "virtual memory"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "meta information",
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "meta information",
+      "whole load",
+      "file system"
+    ],
+    [
+      "meta information"
+    ],
+    [],
+    [
+      "whole load",
+      "file system"
+    ],
+    [
+      "meta information",
+      "disk block"
+    ],
+    [
+      "meta information"
+    ]
+  ],
+  "6c7e145f-442c-430a-a17d-cd3630fbce96": [
+    [
+      "file handle"
+    ],
+    [
+      "file handle",
+      "dot text"
+    ],
+    [
+      "whole lot"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "6edb53ee-a4a5-45f0-ac64-fcf9b4cbf53f": [
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "6fa7868f-bbe1-47f6-bee8-22507dfcc8c8": [
+    [
+      "c string"
+    ],
+    [],
+    [
+      "standard error",
+      "c library"
+    ],
+    [],
+    [
+      "file handle"
+    ],
+    [],
+    [],
+    [],
+    [
+      "c code"
+    ]
+  ],
+  "708df333-e9ad-4b1c-8f24-df23dcfb4811": [
+    [
+      "operating system"
+    ],
+    [],
+    [
+      "virtual memory"
+    ],
+    [
+      "main memory",
+      "virtual memory",
+      "address space"
+    ],
+    []
+  ],
+  "714fd6aa-ef81-4bbb-bc38-fac32ba091c6": [
+    [],
+    [
+      "exclusive access"
+    ],
+    [],
+    [],
+    [],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "7196be55-e5f8-41a0-9dd7-3eacbf66ed4d": [
+    [
+      "standard error",
+      "file descriptor",
+      "file system",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "c string"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [
+      "child process"
+    ],
+    [
+      "file descriptor",
+      "file handle",
+      "c library"
+    ],
+    [
+      "file handle"
+    ],
+    [
+      "file descriptor",
+      "file handle"
+    ]
+  ],
+  "7292aa1d-0d99-46a1-8077-9688f41b785d": [
+    [
+      "memory location"
+    ],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "file handle"
+    ],
+    [
+      "heap memory"
+    ],
+    [
+      "c library"
+    ],
+    [
+      "c string",
+      "heap memory"
+    ]
+  ],
+  "729584e4-abeb-48b5-8aa2-e4cd25428f98": [
+    [],
+    [
+      "address space"
+    ],
+    [],
+    [],
+    [
+      "address space"
+    ],
+    [
+      "web browser",
+      "web server",
+      "port number"
+    ],
+    [
+      "port number",
+      "ip four address"
+    ],
+    [],
+    [],
+    [],
+    [
+      "port number"
+    ],
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "web page",
+      "ip four address"
+    ]
+  ],
+  "72f91574-339a-40e1-9278-a3dc18f62a35": [
+    [
+      "condition variable",
+      "code review",
+      "mutex lock"
+    ],
+    [
+      "peter condition"
+    ],
+    [],
+    []
+  ],
+  "734339b1-3010-43a2-9cfa-55d690efddab": [
+    [],
+    [
+      "link list"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    [
+      "void pointer",
+      "link list"
+    ]
+  ],
+  "73c03049-aa68-4e80-86c4-2fe840200860": [
+    [],
+    [],
+    [
+      "memory address"
+    ],
+    [
+      "memory address"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "heat memory"
+    ],
+    []
+  ],
+  "7466bd20-538e-4aeb-b004-1fa8fb518f9f": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [
+      "thread exit",
+      "write code",
+      "p thread exit"
+    ],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [],
+    [
+      "void pointer"
+    ],
+    [
+      "void pointer"
+    ],
+    [
+      "void pointer",
+      "thread exit",
+      "return value",
+      "p thread exit"
+    ],
+    [
+      "void pointer"
+    ],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "whole load",
+      "operating system"
+    ],
+    [],
+    [],
+    [
+      "return value"
+    ],
+    [
+      "return value"
+    ],
+    [
+      "memory address",
+      "return value"
+    ],
+    [
+      "void pointer",
+      "return value"
+    ],
+    [
+      "return value"
+    ],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [
+      "return value"
+    ],
+    [
+      "return value"
+    ]
+  ],
+  "74e03522-c6e8-4e59-84ba-95a62ce5f3fd": [
+    [
+      "main method"
+    ],
+    [],
+    [
+      "void pointer",
+      "thread exit",
+      "p thread exit"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "7515c79a-82da-4b96-90bc-a6cbb5ee3e36": [
+    [
+      "main method",
+      "mutex lock"
+    ],
+    [
+      "heat memory"
+    ],
+    [
+      "main method",
+      "race condition",
+      "heat memory"
+    ],
+    [],
+    [
+      "thread exit",
+      "p thread exit"
+    ],
+    [
+      "race condition",
+      "heat memory",
+      "heap memory"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "c library"
+    ]
+  ],
+  "75f9edda-e9ef-4983-8421-b05c1beb5f32": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "file system"
+    ]
+  ],
+  "76432ce8-d67d-4e28-9ec9-d38527969358": [
+    [
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "web page",
+      "web server"
+    ],
+    [
+      "ip address",
+      "web server"
+    ],
+    [],
+    [
+      "tcp connection"
+    ]
+  ],
+  "781c2c19-58df-4f6e-9dcf-99e51f685f66": [
+    [
+      "write code",
+      "operating system",
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file handle",
+      "file system",
+      "c library"
+    ],
+    [
+      "whole load"
+    ],
+    []
+  ],
+  "78b152f6-1621-4792-8595-2687dfbc6aa9": [
+    [],
+    [],
+    [
+      "whole load"
+    ],
+    [],
+    [],
+    [],
+    [
+      "memory address",
+      "address space",
+      "return value"
+    ],
+    []
+  ],
+  "78b23023-0958-47d0-90f2-41607cd135b3": [
+    [
+      "void pointer"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "798dfc68-4c27-4294-b5d2-be44d2f85516": [
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [],
+    [
+      "file handle",
+      "p thread mutex",
+      "thread mutex"
+    ],
+    [
+      "p thread mutex",
+      "return value",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "race condition"
+    ]
+  ],
+  "7a7590a3-2294-4d27-89ff-d625512f82e5": [
+    [
+      "standard error",
+      "code review"
+    ],
+    [
+      "c library"
+    ],
+    [
+      "file handle"
+    ],
+    [],
+    [],
+    [
+      "return value"
+    ],
+    []
+  ],
+  "7aab9397-22c3-4ad5-beca-764e7308dfdf": [
+    [
+      "virtual memory",
+      "operating system",
+      "c library"
+    ],
+    [
+      "memory address",
+      "operating system"
+    ]
+  ],
+  "7c19bcb8-2e74-423d-94b8-77b2b5ccb983": [
+    [
+      "file descriptor",
+      "whole lot",
+      "particular file descriptor"
+    ]
+  ],
+  "7c96669f-3968-4af3-b08d-c28d80ecf477": [
+    [],
+    [
+      "ip address"
+    ],
+    [],
+    [],
+    [
+      "web page"
+    ]
+  ],
+  "7d923e20-7168-4cea-b7dd-1ffabc4e892c": [
+    [
+      "c library"
+    ],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "7dd4705a-6995-4f39-a32c-12a1174bd04e": [
+    [
+      "child process",
+      "heap memory"
+    ],
+    [
+      "child process"
+    ],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "whole load"
+    ],
+    [],
+    [],
+    []
+  ],
+  "7dec3665-e1bb-4bf2-a909-d43c2937b24b": [
+    [
+      "web page",
+      "tcp connection"
+    ],
+    [],
+    [
+      "whole lot",
+      "web browser"
+    ],
+    [
+      "web page",
+      "tcp connection"
+    ],
+    [
+      "web browser"
+    ]
+  ],
+  "7fdcfa9d-8d8a-4615-9be7-3c2492321893": [
+    [],
+    [],
+    []
+  ],
+  "802abd70-0cc9-49a1-8916-5ff1c0a98738": [
+    [
+      "code review"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "void pointer",
+      "memory location",
+      "return value"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "race condition"
+    ]
+  ],
+  "8078f738-b531-4bab-83c7-0facaf3ee1bf": [
+    [
+      "memory address"
+    ],
+    [
+      "memory address"
+    ],
+    [
+      "thread exit"
+    ],
+    [
+      "operating system"
+    ],
+    []
+  ],
+  "8258d360-0ce7-4e09-93ba-dbde1dba4781": [
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    []
+  ],
+  "82687def-c053-4955-8eef-1d80e8bf31da": [
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    []
+  ],
+  "82fd59dc-808f-40f4-a0bc-0ccf6eb76e78": [
+    [],
+    [],
+    [
+      "return value"
+    ]
+  ],
+  "83887d4e-f5b2-4f94-9e3f-4d3c19d88dd9": [
+    [],
+    [
+      "thread exit",
+      "p thread exit"
+    ]
+  ],
+  "838e7f44-0162-44a2-bc9a-9896d00d13e1": [
+    [
+      "page table"
+    ],
+    [
+      "page table"
+    ],
+    [
+      "page table"
+    ],
+    [],
+    [
+      "main memory"
+    ],
+    [],
+    [
+      "whole load"
+    ]
+  ],
+  "83c8c367-376a-4574-bc73-6b7b742d1b47": [
+    [
+      "memory address",
+      "memory location"
+    ],
+    []
+  ],
+  "8407548d-d06c-4cbe-a5c3-2f290c519b7c": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "8459ee6a-30aa-499c-9226-74f97c8f7ce4": [
+    [],
+    [],
+    [
+      "main method"
+    ],
+    [
+      "standard error"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "8485219d-b168-4bd7-a966-b4688125a726": [
+    [
+      "web server"
+    ],
+    [
+      "address info",
+      "port number"
+    ],
+    [
+      "network card",
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [],
+    [
+      "file descriptor",
+      "write code"
+    ],
+    [
+      "file descriptor",
+      "c string"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor",
+      "web page",
+      "web server"
+    ],
+    [],
+    [
+      "port number"
+    ],
+    []
+  ],
+  "849095e8-a9e5-4467-8af4-be36e4991af6": [
+    [
+      "race condition"
+    ],
+    [
+      "race condition",
+      "code review"
+    ],
+    [
+      "link list",
+      "exclusive access"
+    ]
+  ],
+  "84be7473-dcd6-496d-9ec9-c463acb081d2": [
+    [
+      "mutex lock"
+    ],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "84c32d4e-7aac-462f-b6e7-5a15921bfb97": [
+    [
+      "void pointer"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "860cce32-5467-4a4c-a9c0-2fac9093e34e": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "868deb37-9bd1-4419-a9ac-e164d0b078da": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "86a6f898-deff-45df-b7a6-2a0d2dc10c5a": [
+    [
+      "file handle",
+      "c library"
+    ],
+    [
+      "c library"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    [
+      "file descriptor",
+      "code review"
+    ],
+    [
+      "file handle"
+    ],
+    []
+  ],
+  "87dfa0a9-a180-45ac-87e0-763c82801382": [
+    [],
+    [],
+    []
+  ],
+  "8b052423-2727-4a8f-a436-99ef0efaf792": [
+    [
+      "file descriptor",
+      "file handle"
+    ],
+    [
+      "child process"
+    ],
+    [],
+    [],
+    [
+      "file handle",
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "file descriptor",
+      "file handle",
+      "c library"
+    ]
+  ],
+  "8bac3c58-461d-4e82-b52c-289fa7e681a4": [
+    [],
+    [
+      "return value"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "child process"
+    ],
+    [
+      "write code",
+      "return value"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    []
+  ],
+  "8eabf8ac-475f-41e0-83f4-7e1e117f86f0": [
+    [],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    []
+  ],
+  "8ec6e5c8-eddb-435b-b7b7-0caa4b4d8ee2": [
+    [
+      "whole load",
+      "condition variable"
+    ],
+    [
+      "condition variable"
+    ],
+    [],
+    [],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "peter condition",
+      "thread condition",
+      "p threat condition",
+      "mutex lock"
+    ],
+    [
+      "peter condition",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [
+      "peter condition",
+      "condition variable"
+    ]
+  ],
+  "8f1b71ff-82be-442b-835a-49c8714f9776": [
+    [
+      "mutex lock"
+    ],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "923b48d1-82c9-4c57-9d23-3c0a31dd37d0": [
+    [
+      "file descriptor",
+      "whole lot",
+      "particular file descriptor"
+    ]
+  ],
+  "92db69f3-9bba-45d8-8f6d-84d8ae3c2b2e": [
+    [
+      "port number"
+    ],
+    [
+      "c code"
+    ],
+    [],
+    [
+      "web page"
+    ]
+  ],
+  "93398f4a-2825-4434-b33c-6fcac2f37ef7": [
+    [
+      "ring buffer"
+    ],
+    [],
+    [
+      "memory location",
+      "ring buffer"
+    ],
+    [
+      "ring buffer"
+    ],
+    [
+      "counting semaphore",
+      "pizza slice"
+    ],
+    [],
+    [
+      "counting semaphore",
+      "pizza slice"
+    ],
+    [
+      "pizza slice"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ]
+  ],
+  "935f6155-a7a0-4504-b818-62e2db066493": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "symbolic link"
+    ]
+  ],
+  "948fe415-3254-4286-bc66-225eba2cb234": [
+    [
+      "standard error",
+      "return value"
+    ],
+    [
+      "child process"
+    ],
+    [
+      "standard error",
+      "file descriptor"
+    ],
+    [
+      "standard error"
+    ]
+  ],
+  "94ea6cdc-aa81-48b6-84f3-323a89a40075": [
+    [],
+    [
+      "link list"
+    ],
+    [],
+    [],
+    [
+      "whole lot",
+      "heat memory"
+    ]
+  ],
+  "95b8a0e0-2c36-49bf-aa43-15733ee06e86": [
+    [
+      "memory address"
+    ],
+    []
+  ],
+  "95f1881e-d728-4112-81d1-6c7060a34beb": [
+    [],
+    [],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    [],
+    [],
+    [
+      "file descriptor"
+    ],
+    []
+  ],
+  "983b6f0c-8731-4f16-a4a4-67e9285836e5": [
+    [
+      "dot text"
+    ],
+    [],
+    []
+  ],
+  "98759da5-160f-4e80-9141-033193a74769": [
+    [
+      "main method"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    []
+  ],
+  "9951a684-a841-47e6-8d48-035d4127b468": [
+    [
+      "web page"
+    ],
+    [
+      "tcp connection"
+    ],
+    [
+      "web page",
+      "tcp connection"
+    ],
+    [],
+    [],
+    [],
+    [
+      "web browser"
+    ]
+  ],
+  "997db39c-e2cc-45d8-b756-16ad32dc030c": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "file system"
+    ]
+  ],
+  "9a084a3f-6ceb-4fe7-b5f7-2981d484a27d": [
+    [
+      "link list",
+      "heap memory"
+    ],
+    [
+      "void pointer"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "void pointer",
+      "memory location"
+    ],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "whole lot"
+    ],
+    [],
+    [],
+    []
+  ],
+  "9a9a10a2-6a75-46c5-b677-38e5d3684981": [
+    [
+      "condition variable",
+      "code review",
+      "mutex lock"
+    ],
+    [
+      "peter condition"
+    ],
+    [],
+    []
+  ],
+  "9bcf92f3-7cc1-4972-b0d0-3a9e468673ac": [
+    [],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "p threat condition"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "return value"
+    ],
+    [
+      "p thread condition",
+      "thread condition",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "code review"
+    ]
+  ],
+  "9c4b2de5-a3dd-4f12-99ed-f3bf1b2ee816": [
+    [
+      "write code",
+      "c code"
+    ],
+    [],
+    [
+      "c code"
+    ],
+    []
+  ],
+  "9d6762ba-3f90-4302-bebe-53ad562322b2": [
+    [
+      "memory address",
+      "port number"
+    ],
+    [
+      "port number"
+    ],
+    [
+      "ip address",
+      "web server"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "ip address",
+      "main method"
+    ],
+    [
+      "ip four address",
+      "heap memory"
+    ],
+    [
+      "port number"
+    ]
+  ],
+  "9ddff03f-fb90-4ca7-9381-f30bb13acc08": [
+    [
+      "file system"
+    ],
+    [],
+    [
+      "meta information",
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block",
+      "file system"
+    ],
+    [],
+    [
+      "disk block"
+    ]
+  ],
+  "9edf0a56-503a-444a-861d-6bd29f8a2e58": [
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    []
+  ],
+  "9eeb3210-b89c-48dc-b32c-2597c75bc28b": [
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "address space"
+    ],
+    [
+      "whole lot"
+    ],
+    [
+      "address space",
+      "c library"
+    ],
+    [],
+    [
+      "page table",
+      "virtual memory"
+    ]
+  ],
+  "a04b015e-498e-4c02-9326-bd1715c8f047": [
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ]
+  ],
+  "a1020a6c-61f2-4b16-b8a8-b2f4b04242c5": [
+    [
+      "file descriptor",
+      "whole lot",
+      "particular file descriptor"
+    ]
+  ],
+  "a1ef4c45-f42c-44c7-9792-60bae135ff0e": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "a2ab9689-c933-4b35-bc36-acc823aa42c8": [
+    [],
+    [
+      "link list"
+    ],
+    []
+  ],
+  "a2f92ca4-d435-4bce-a132-de1a03149ff1": [
+    [
+      "meta information"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "disk block"
+    ],
+    [],
+    [
+      "virtual memory",
+      "disk block"
+    ],
+    [
+      "disk blocks",
+      "disk block"
+    ],
+    [
+      "disk block"
+    ]
+  ],
+  "a339955c-d52d-4f69-9c8a-c4e9d4cf038f": [
+    [
+      "whole lot",
+      "c library"
+    ],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "file handle"
+    ],
+    [
+      "heat memory",
+      "heap memory"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "return value"
+    ],
+    []
+  ],
+  "a36c9a4b-0ff7-4b83-9157-f856ccfd8b26": [
+    [
+      "return value"
+    ],
+    [],
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [],
+    [
+      "return value",
+      "c code"
+    ],
+    []
+  ],
+  "a37986ec-bb69-4841-90b8-6c7f50b431f0": [
+    [
+      "tcp connection"
+    ],
+    [
+      "tcp connection"
+    ],
+    [
+      "tcp connection"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "tcp connection"
+    ],
+    [],
+    [
+      "tcp connection"
+    ],
+    [
+      "ip address"
+    ],
+    [
+      "ip address"
+    ]
+  ],
+  "a60784ac-5129-4d35-8feb-23e8aa752f87": [
+    [
+      "web page"
+    ],
+    [],
+    [
+      "tcp connection"
+    ],
+    []
+  ],
+  "a6948c0b-717d-4a5a-afbc-f2641ef17bc1": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "standard error",
+      "file descriptor",
+      "file system"
+    ]
+  ],
+  "a73bb722-a006-40e7-ba5b-1402cd135b37": [
+    [
+      "race condition",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ]
+  ],
+  "a8161152-527c-4bb1-b65e-2d56e013ab7e": [
+    [
+      "ip address"
+    ],
+    [],
+    [],
+    [
+      "tcp connection"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "a855d876-1b55-4c60-aedf-e70a95f03847": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "a86a145c-b6f4-40eb-9ae9-1db34396ab40": [
+    [],
+    [],
+    []
+  ],
+  "a9f8e960-2caa-4eb8-b9a8-108fee71d968": [
+    [],
+    [],
+    [],
+    [
+      "main method"
+    ],
+    []
+  ],
+  "aa01a980-f756-4c1c-87f6-abf1aed24f98": [
+    [],
+    [],
+    [
+      "main method",
+      "thread exit",
+      "p thread exit"
+    ]
+  ],
+  "aa979b80-c6f3-4eca-aaf9-1b888ebea383": [
+    [
+      "void pointer"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "aac7d262-6dd0-4009-967c-be10e55a9cd5": [
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "symbolic link"
+    ],
+    [],
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "file system"
+    ]
+  ],
+  "aaed71d6-01a3-42f8-b99e-ca3a84253b58": [
+    [],
+    [
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [
+      "standard error"
+    ]
+  ],
+  "ab2486a0-3b00-4439-9a3b-86695d469f1e": [
+    [
+      "address info",
+      "network card"
+    ],
+    [],
+    [
+      "address info"
+    ],
+    [
+      "port number",
+      "c code"
+    ],
+    [
+      "ip address"
+    ]
+  ],
+  "adb2cfd0-541a-4a0b-b58d-3929f1a61fdc": [
+    [
+      "memory address"
+    ],
+    [
+      "write code"
+    ],
+    [
+      "child process",
+      "return value"
+    ],
+    [
+      "child process"
+    ],
+    [],
+    [
+      "return value"
+    ],
+    [],
+    [],
+    []
+  ],
+  "adb60962-723f-41e9-a34e-3801a6b91bdf": [
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "file descriptor",
+      "c library"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "ae276754-6e15-40ee-81f0-29994714b47a": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "b0c92d50-f05e-4513-bf48-995a2b995850": [
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    []
+  ],
+  "b0da58fc-a91c-483d-b535-feed011744a3": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "b113e839-a5aa-4be6-89f0-89eb1c0dff1a": [
+    [
+      "file descriptor",
+      "network card",
+      "c code"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "network card",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "b24c9c84-49ae-4c9d-a9b0-914ea82356cb": [
+    [],
+    [
+      "link list"
+    ]
+  ],
+  "b2add30a-6189-4ab5-96fd-957e96967d60": [
+    [
+      "code review",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "b37a29fd-55de-4893-bb2e-ef162944f9fd": [
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "b44a6271-011d-4df4-88e4-54685e216cf9": [
+    [
+      "code review",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "b4efecab-e0c0-41b8-b21e-6ccca0ed2893": [
+    [],
+    [
+      "child process",
+      "cpu time"
+    ],
+    [
+      "child process"
+    ],
+    [
+      "memory location"
+    ],
+    [],
+    [
+      "child process"
+    ]
+  ],
+  "b60fb3d4-0600-4074-8432-449ea0067907": [
+    [
+      "race condition"
+    ],
+    [
+      "race condition",
+      "code review"
+    ],
+    [
+      "link list",
+      "exclusive access"
+    ]
+  ],
+  "b681599f-1223-4f55-aca4-e57ac7b4b6cd": [
+    [
+      "race condition",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ]
+  ],
+  "b6cf130c-a8fd-42d6-979b-2037d3be7212": [
+    [
+      "meta information"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [
+      "disk block"
+    ],
+    [],
+    [],
+    [],
+    [
+      "virtual memory",
+      "disk block"
+    ],
+    [
+      "disk blocks",
+      "disk block"
+    ],
+    [
+      "disk block"
+    ]
+  ],
+  "b7f1de1e-a1ea-4bb5-9459-de401bd7f1ab": [
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "exclusive access"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "b876ebf8-b1c2-4187-bfab-f4c2fa732965": [
+    [
+      "write code"
+    ],
+    [],
+    [],
+    [],
+    [
+      "c code"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "heat memory"
+    ],
+    []
+  ],
+  "b8ce533a-7b9e-4642-a7b3-a69cb4a5fa50": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "b9161da0-95b9-41ea-9071-0d954a849a97": [
+    [],
+    [],
+    [
+      "ip address",
+      "tcp connection"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "b933e096-b63b-4b20-8715-01984d323c7d": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "b93caeac-d529-4079-99f4-28d2f8c07db2": [
+    [],
+    [],
+    [],
+    [
+      "whole lot"
+    ],
+    []
+  ],
+  "b94d1f92-8ee2-461c-ae2e-934cfdcfd6cb": [
+    [
+      "file system"
+    ],
+    []
+  ],
+  "b96e8ea2-f596-4b5a-807e-4646d78cc7a0": [
+    [
+      "file descriptor",
+      "whole lot",
+      "particular file descriptor"
+    ]
+  ],
+  "baa2188b-1097-4e5f-9fed-2ae8b4b6eff9": [
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    []
+  ],
+  "baaa7fb5-1eff-422c-a5c9-4666f6c80a74": [
+    [
+      "port number"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "web page",
+      "web server"
+    ],
+    [
+      "ip address",
+      "web server"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "tcp connection"
+    ]
+  ],
+  "bb308b87-9d36-4d8c-b1da-bcd886514268": [
+    [
+      "file descriptor",
+      "web server",
+      "child process"
+    ],
+    [
+      "web server"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "operating system"
+    ],
+    [
+      "file descriptor",
+      "web server"
+    ]
+  ],
+  "bbb895a1-cba7-4548-8727-a436ca271b72": [
+    [
+      "file descriptor",
+      "whole lot",
+      "particular file descriptor"
+    ]
+  ],
+  "bc05bdb0-371d-4cd3-97a6-753a576a32f2": [
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    []
+  ],
+  "bca931a7-24de-4925-b5d1-9bfa74828e0c": [
+    []
+  ],
+  "bcc2191c-ce75-4441-b029-c038282b1677": [
+    [],
+    [],
+    [],
+    [
+      "whole lot"
+    ],
+    [],
+    [
+      "whole load"
+    ]
+  ],
+  "bddf8fc1-9916-4a07-9b3c-a5e00e0c780e": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "bfc28ac1-7f97-42f4-ae46-fb91930b68f6": [
+    [],
+    [],
+    []
+  ],
+  "c13af5c8-7804-4b6a-ab8f-1f0d32ac4c29": [
+    [
+      "file handle"
+    ],
+    [
+      "file handle",
+      "dot text"
+    ],
+    [
+      "whole lot"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "c277c266-d1b9-4670-92b6-d06d4a8cee3f": [
+    [
+      "disk block",
+      "file system"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "c string",
+      "c library"
+    ],
+    [
+      "whole lot"
+    ],
+    [],
+    [],
+    [
+      "file descriptor",
+      "code review"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [],
+    []
+  ],
+  "c4e34ebf-4fec-4220-80f0-55bff9d28117": [
+    [
+      "main method",
+      "race condition",
+      "mutex lock"
+    ],
+    [
+      "race condition"
+    ],
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "thread mutex"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "race condition",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "c62f6568-fa2b-4be3-9e27-5e119359489e": [
+    [
+      "mutex lock"
+    ],
+    [
+      "resource allocation graph"
+    ]
+  ],
+  "c6d33883-2388-4db3-8817-93586fd5f883": [
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "symbolic link"
+    ],
+    [],
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "file system"
+    ]
+  ],
+  "c761dcf5-f751-4ac2-acb7-906f30ff83be": [
+    [
+      "link list"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [
+      "memory address"
+    ],
+    []
+  ],
+  "c8a95218-1f53-4559-b5f5-32b9385d7f90": [
+    [
+      "memory location",
+      "heap memory"
+    ],
+    [],
+    [
+      "link list"
+    ],
+    [],
+    []
+  ],
+  "ca407966-df2d-404e-98ad-238fa2551362": [
+    [],
+    [
+      "whole load"
+    ]
+  ],
+  "ca760730-bb8f-426f-8d87-931bf10baf4e": [
+    [],
+    [],
+    [
+      "memory address",
+      "heat memory"
+    ]
+  ],
+  "ca90fc46-67a5-4381-9bae-274ec85fffbb": [
+    [
+      "counting semaphore",
+      "code review",
+      "ring buffer"
+    ]
+  ],
+  "cb9f0e61-d268-4cde-b498-ea76b68c9604": [
+    [
+      "void pointer",
+      "p thread mutex",
+      "condition variable",
+      "code review",
+      "thread mutex",
+      "mutex lock",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "condition variable"
+    ],
+    [
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [
+      "p thread mutex",
+      "condition variable",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "race condition",
+      "condition variable"
+    ]
+  ],
+  "cbf2feb7-901b-481f-8dab-38bea64b966f": [
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ],
+    [
+      "link list"
+    ]
+  ],
+  "cc2fa93f-a576-423d-b080-9da120a3796d": [
+    [],
+    [
+      "address info"
+    ],
+    [
+      "memory address",
+      "port number"
+    ],
+    [
+      "address info"
+    ],
+    [],
+    [],
+    [],
+    [
+      "ip address"
+    ],
+    [
+      "ip address"
+    ],
+    [],
+    [
+      "ip address"
+    ],
+    [
+      "file descriptor",
+      "port number"
+    ],
+    []
+  ],
+  "ce59bcf4-f76c-4a93-a4eb-d506559bd60d": [
+    [],
+    [],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "wait time"
+    ],
+    [
+      "wait time",
+      "cpu time"
+    ],
+    [
+      "wait time"
+    ]
+  ],
+  "cf2878ea-cd88-4929-bd1c-146cdfb2d8ce": [
+    [],
+    [
+      "return value"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "child process"
+    ],
+    [
+      "write code",
+      "return value"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    []
+  ],
+  "cf992758-bf07-4e89-af7f-f47de3438f0d": [
+    [
+      "whole load",
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "operating system"
+    ],
+    [
+      "file system"
+    ]
+  ],
+  "cfb03b59-dbf5-447a-880e-0633fd40a533": [
+    [
+      "write code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "web page"
+    ],
+    [
+      "web page"
+    ],
+    [
+      "web page"
+    ],
+    [],
+    [],
+    []
+  ],
+  "cfcca673-a18d-4f07-9473-13b87f7c5ef5": [
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    [],
+    [
+      "heat memory"
+    ],
+    [],
+    [],
+    []
+  ],
+  "d134a7b4-0001-41ff-bfa4-8f4f15a30f69": [
+    [
+      "file descriptor",
+      "c library"
+    ]
+  ],
+  "d1de06d0-ffdb-44f8-9fcd-6df31432c967": [
+    [
+      "code review",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "d20bd8cb-7714-4093-a0bd-850b11d62c39": [
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    [
+      "memory address"
+    ],
+    [
+      "file descriptor",
+      "heap memory"
+    ],
+    [],
+    [
+      "main method",
+      "c code"
+    ],
+    [],
+    [],
+    [
+      "c code"
+    ]
+  ],
+  "d310b36e-5c21-4803-b0c6-78d62b73b532": [
+    [
+      "virtual memory",
+      "c code"
+    ],
+    [
+      "child process",
+      "heap memory"
+    ],
+    [],
+    []
+  ],
+  "d3378aac-9686-4a0a-874e-b599c3686e2d": [],
+  "d4a2eab5-55da-4f12-ac50-fe32c6e4d99a": [
+    [],
+    [],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "cpu time"
+    ],
+    [],
+    [],
+    [],
+    [
+      "cpu time"
+    ],
+    [
+      "cpu time"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "cpu time"
+    ],
+    [
+      "operating system"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "network card",
+      "cpu time"
+    ]
+  ],
+  "d4eaea6f-874c-4acc-a000-07cdfb9fa35b": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "d51e1b38-6c01-4584-9e0b-69d42464cfa6": [
+    [
+      "heat memory"
+    ],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "web server",
+      "symbolic link"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "web server"
+    ],
+    []
+  ],
+  "d5fa5a60-c6ea-4207-bb11-869c29ad96ff": [
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "meta information"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system",
+      "cpu time",
+      "c code"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "file system",
+      "cpu time"
+    ],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [
+      "meta information",
+      "write code",
+      "file system"
+    ],
+    [
+      "file system"
+    ]
+  ],
+  "d66b6d30-efd2-4f1e-976b-f89adad7606b": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "d74d1bca-8940-47ce-bff5-6e04844cc7f7": [
+    [
+      "file descriptor",
+      "file handle"
+    ],
+    [
+      "child process"
+    ],
+    [],
+    [],
+    [
+      "file handle",
+      "c library"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "file descriptor",
+      "file handle",
+      "c library"
+    ]
+  ],
+  "d80efb9d-96a2-4cc0-ad4f-a9049155313e": [
+    [],
+    [],
+    [
+      "main method",
+      "thread exit",
+      "p thread exit"
+    ]
+  ],
+  "d8c34ce3-8698-443a-b044-40b8ce707888": [
+    [],
+    [],
+    [],
+    [
+      "c string"
+    ],
+    [],
+    [
+      "void pointer"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "race condition"
+    ]
+  ],
+  "d8f53a34-3f12-4b3d-93bd-cafca4e23ae5": [
+    [
+      "code review",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "d8f6f268-02f8-4d31-a805-f951523e92a1": [
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "dot text"
+    ],
+    [
+      "whole load"
+    ],
+    [
+      "web server"
+    ],
+    []
+  ],
+  "d984a52e-2c0a-4b29-992a-3b4e6bd8ab25": [
+    [
+      "code review",
+      "ring buffer"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ]
+  ],
+  "da7958fa-52cd-4d05-93a6-42c5aaca70a7": [
+    [
+      "race condition",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ]
+  ],
+  "dbf720c2-82de-433d-a735-d7968905688e": [
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [
+      "file system"
+    ]
+  ],
+  "dcde2695-ae8c-4032-aceb-2d001a2ec718": [
+    [
+      "file descriptor",
+      "whole load"
+    ],
+    [],
+    [
+      "address space",
+      "file system"
+    ],
+    []
+  ],
+  "de67c1db-85ec-40ee-affa-68ebcf984028": [
+    [
+      "web server"
+    ],
+    [],
+    [],
+    [
+      "dot text"
+    ],
+    [
+      "whole load"
+    ],
+    [
+      "web server"
+    ],
+    []
+  ],
+  "dfa2b80f-5fdc-4f8a-9f3f-bf26dde6603b": [
+    [],
+    [
+      "web browser",
+      "web server",
+      "file system"
+    ],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "whole lot",
+      "whole load",
+      "c code"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "dfe8f684-5acd-41bf-8ba0-276a3fc52ffb": [
+    [
+      "operating system",
+      "file system"
+    ],
+    [
+      "web browser"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "symbolic link"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "dff47837-9853-4be6-9e60-8ab2c54b8272": [
+    [
+      "standard error"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [
+      "write code"
+    ],
+    [],
+    [],
+    []
+  ],
+  "e09a816e-d4d4-46c2-9a55-faaa21d5a1d4": [
+    [
+      "web server",
+      "port number"
+    ],
+    [
+      "operating system"
+    ],
+    [
+      "port number"
+    ],
+    [],
+    []
+  ],
+  "e0d9ea58-cf82-4b71-957b-9da72ccb2d90": [
+    [
+      "main method",
+      "c code"
+    ],
+    [],
+    [
+      "file handle",
+      "c library",
+      "c code"
+    ],
+    [
+      "c string"
+    ],
+    [],
+    [],
+    [
+      "child process",
+      "return value"
+    ],
+    [
+      "ring buffer"
+    ],
+    [
+      "child process"
+    ],
+    [],
+    [
+      "file handle",
+      "child process"
+    ],
+    [],
+    [],
+    [],
+    [
+      "file handle"
+    ],
+    [],
+    [
+      "file handle"
+    ],
+    []
+  ],
+  "e12861bf-8be8-4e4d-a2d8-c07e5d79f3dd": [
+    [
+      "main method"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    []
+  ],
+  "e1cac33e-3bee-4e92-81db-c22e4418b623": [
+    [
+      "file descriptor",
+      "dot text"
+    ],
+    [
+      "standard error",
+      "c library"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "standard error"
+    ],
+    [],
+    [],
+    [
+      "c library"
+    ],
+    [
+      "whole load",
+      "dot text"
+    ]
+  ],
+  "e1d6897e-2542-433c-804f-21a23a9bd0ee": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "e3b111b7-8038-4f0e-a112-7fb6b2538548": [
+    [
+      "virtual memory",
+      "operating system",
+      "c library"
+    ],
+    [
+      "memory address",
+      "operating system"
+    ]
+  ],
+  "e471cd5f-b9e7-4738-8b65-d975365f4c4c": [
+    [
+      "file descriptor",
+      "network card",
+      "c code"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "network card",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ]
+  ],
+  "e50d3496-12be-490f-aada-1211850d9275": [
+    [
+      "thread exit",
+      "mutex lock"
+    ],
+    [
+      "p threat condition",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [],
+    [
+      "pizza slice"
+    ]
+  ],
+  "e574f9c9-dc9b-4dd2-b746-c100de94ae3b": [
+    [
+      "main method"
+    ],
+    [],
+    [],
+    [
+      "race condition"
+    ],
+    [
+      "race condition"
+    ],
+    [],
+    [],
+    []
+  ],
+  "e61962ea-1b9a-41e3-8779-5e49bf8449a5": [
+    [],
+    [
+      "whole lot"
+    ],
+    [
+      "symbolic link"
+    ],
+    [],
+    [
+      "return value"
+    ],
+    [
+      "symbolic link"
+    ],
+    [
+      "symbolic link"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "e86ac683-96f5-4bc0-b5c5-3a7f93c80b32": [
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "e8fc277c-1bd5-4c49-99df-f1b1b017da12": [
+    [],
+    [
+      "symbolic link"
+    ],
+    [],
+    []
+  ],
+  "e99e7c6d-cc07-4a0f-afd1-f6e775951990": [
+    [
+      "file descriptor",
+      "file system"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [],
+    [
+      "file descriptor"
+    ],
+    [],
+    [
+      "file descriptor"
+    ]
+  ],
+  "eb1a08a4-8b77-4361-a5d8-4e3b26439f27": [
+    [
+      "c library"
+    ],
+    [
+      "memory location"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "return value"
+    ],
+    []
+  ],
+  "eb60661b-5d09-4877-bb19-11bf0d303584": [
+    [
+      "operating system",
+      "cpu time"
+    ],
+    []
+  ],
+  "ebaa6b70-f89c-485c-b02b-5e82ca8c5a2c": [
+    [
+      "page table",
+      "disk block"
+    ],
+    [
+      "address space"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "page table",
+      "virtual memory",
+      "address space"
+    ],
+    [],
+    []
+  ],
+  "ebe899fb-f9df-4e7d-b72b-afd15f5bdaf5": [
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [
+      "file system",
+      "symbolic link"
+    ],
+    [
+      "symbolic link"
+    ]
+  ],
+  "ec6fca4d-5cae-48dd-b541-e7bae7852408": [
+    [
+      "network card"
+    ],
+    [],
+    [],
+    [
+      "file system"
+    ],
+    [],
+    [
+      "file system"
+    ],
+    []
+  ],
+  "ec98de0c-eb65-40d6-8b08-a77fdf9433ff": [
+    [
+      "resource allocation graph"
+    ],
+    [
+      "resource allocation graph",
+      "mutex lock"
+    ],
+    [
+      "exclusive access"
+    ],
+    [
+      "exclusive access"
+    ],
+    [
+      "resource allocation graph",
+      "exclusive access"
+    ],
+    [
+      "write code",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "ecbcb30c-3c7e-4d14-b443-7fe6e775c690": [
+    [
+      "operating system"
+    ],
+    [],
+    [
+      "exclusive access"
+    ],
+    [],
+    [
+      "exclusive access",
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "write code",
+      "resource allocation graph"
+    ],
+    [
+      "peter mutex",
+      "exclusive access",
+      "peter mutex lock",
+      "mutex lock"
+    ],
+    [],
+    [
+      "link list",
+      "mutex lock"
+    ]
+  ],
+  "ecc913a8-cf8a-4205-b23c-530df9ebc4eb": [
+    [
+      "file system"
+    ],
+    [],
+    [],
+    [
+      "pizza slice"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "ed85781a-a46c-454f-99d6-e290835a6979": [
+    [
+      "counting semaphore",
+      "code review",
+      "ring buffer"
+    ]
+  ],
+  "ef681962-29d9-43da-bc9c-fdb2c8005093": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "ef84d9c3-5b70-4f68-aa5f-bdd541a475e6": [
+    [
+      "page table"
+    ],
+    [
+      "page table"
+    ],
+    [
+      "page table"
+    ],
+    [
+      "page table",
+      "virtual memory"
+    ],
+    [
+      "page table"
+    ]
+  ],
+  "efd565c9-78d8-4cd0-8d76-4beb5b405651": [
+    [
+      "wait time",
+      "cpu time"
+    ],
+    [],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time",
+      "cpu time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    [
+      "wait time"
+    ],
+    []
+  ],
+  "f0e1bf48-9541-4edc-b44d-924ad17a8ee2": [
+    [
+      "page table",
+      "virtual memory"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "cpu time"
+    ],
+    [
+      "file descriptor",
+      "meta information"
+    ]
+  ],
+  "f11d312f-2dc3-4d38-893d-f28714ba089d": [
+    [
+      "web page"
+    ],
+    [
+      "whole lot"
+    ],
+    [
+      "tcp connection"
+    ],
+    [
+      "tcp connection"
+    ],
+    [
+      "web page"
+    ],
+    []
+  ],
+  "f11e4d89-fc04-4700-9bde-fecbb79a9ada": [
+    [
+      "p thread mutex",
+      "code review",
+      "thread mutex"
+    ],
+    [
+      "code review"
+    ],
+    [
+      "memory location",
+      "resource allocation graph",
+      "mutex lock"
+    ]
+  ],
+  "f1bc3d55-8d23-4e2f-ad60-b79aa0d962ee": [
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor"
+    ],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ],
+    [
+      "file descriptor",
+      "particular file descriptor"
+    ]
+  ],
+  "f2346ed4-1e17-412e-91f1-e269250987e5": [
+    [
+      "memory address"
+    ],
+    [],
+    [
+      "address space"
+    ]
+  ],
+  "f4140b9d-47b6-45a5-b675-3e2e57dd9224": [
+    [
+      "heap memory"
+    ],
+    [],
+    [
+      "web server"
+    ],
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    [
+      "meta information"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "web server",
+      "symbolic link"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "web server"
+    ],
+    []
+  ],
+  "f4854068-5be5-4c56-b771-fcf375c9a2d2": [
+    [],
+    [],
+    [
+      "whole lot"
+    ],
+    [
+      "dot text"
+    ]
+  ],
+  "f54b05e1-9f81-4fe4-a600-991b1977d3fc": [
+    [
+      "condition variable",
+      "code review",
+      "mutex lock"
+    ],
+    [
+      "peter condition"
+    ],
+    [],
+    []
+  ],
+  "f6868da9-5be3-472a-ac74-0889cc0d698a": [
+    [],
+    [
+      "main method"
+    ],
+    [
+      "memory address",
+      "c string"
+    ],
+    [],
+    []
+  ],
+  "f7acd66f-6e2d-4d16-ad5b-83adf8627df9": [
+    [],
+    [
+      "c string"
+    ],
+    [],
+    [],
+    [],
+    [
+      "memory location"
+    ],
+    [],
+    [],
+    [
+      "heap memory"
+    ],
+    [],
+    [],
+    [
+      "memory location"
+    ],
+    [
+      "memory location"
+    ],
+    []
+  ],
+  "f815b599-ae2e-4d57-9c3e-b1834f484942": [
+    [
+      "web server"
+    ],
+    [],
+    [
+      "symbolic link"
+    ],
+    [
+      "whole load"
+    ],
+    [
+      "cpu time"
+    ],
+    [],
+    []
+  ],
+  "f84e2260-9145-46a3-bdce-409d6138324a": [
+    [],
+    [],
+    [
+      "c string",
+      "operating system",
+      "c library"
+    ]
+  ],
+  "f8b87906-763d-4c78-8224-d88dd43fdd87": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "operating system"
+    ],
+    [
+      "file descriptor"
+    ],
+    []
+  ],
+  "f8cd1533-dec2-4250-9e5f-bc34e9a3181a": [
+    [
+      "mutex lock"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [
+      "exclusive access"
+    ],
+    [
+      "mutex lock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "f8ecc9da-31e3-4c40-bd72-4df6058e9d24": [
+    [
+      "memory location"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "memory location"
+    ],
+    [
+      "return value"
+    ]
+  ],
+  "f93d7eee-504a-401c-940d-9680e03614c3": [
+    [],
+    [],
+    [
+      "symbolic link"
+    ],
+    [
+      "file descriptor",
+      "symbolic link"
+    ]
+  ],
+  "f95595a2-cfee-4a7b-942b-a5818fd21a55": [
+    [
+      "condition variable",
+      "ring buffer"
+    ],
+    [
+      "counting semaphore",
+      "ring buffer"
+    ],
+    [
+      "counting semaphore"
+    ],
+    [
+      "ring buffer"
+    ],
+    [],
+    [
+      "mutex lock",
+      "ring buffer"
+    ],
+    [
+      "ring buffer"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "counting semaphore",
+      "condition variable",
+      "mutex lock"
+    ]
+  ],
+  "f98ba734-0314-4594-abb4-128d7495d297": [
+    [
+      "symbolic link"
+    ],
+    [
+      "whole load",
+      "symbolic link"
+    ],
+    [
+      "symbolic link"
+    ],
+    [
+      "symbolic link"
+    ],
+    [
+      "symbolic link",
+      "c code"
+    ],
+    [
+      "symbolic link"
+    ],
+    [
+      "meta information",
+      "symbolic link"
+    ]
+  ],
+  "fa389ce6-5fa6-4288-b2a2-949e66af677a": [
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "network card"
+    ],
+    [
+      "counting semaphore"
+    ]
+  ],
+  "fbf50bc7-ae3a-4768-be0b-502c42ec38cc": [
+    [
+      "race condition",
+      "whole load"
+    ],
+    [],
+    [
+      "main memory"
+    ],
+    [],
+    [
+      "p thread mutex",
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [
+      "thread mutex",
+      "mutex lock"
+    ],
+    [],
+    [
+      "mutex lock"
+    ],
+    [],
+    [
+      "main memory",
+      "write code",
+      "peter mutex",
+      "peter mutex lock",
+      "mutex lock"
+    ]
+  ],
+  "fc0386f0-e3f8-43ca-97ae-dd0bead788b2": [
+    [],
+    [],
+    []
+  ],
+  "fc1cbfed-4866-4545-9574-b49c350aa1aa": [
+    [
+      "web server"
+    ],
+    [
+      "dot text",
+      "port number"
+    ],
+    [
+      "web browser"
+    ],
+    [],
+    [
+      "dot text",
+      "web server"
+    ],
+    [
+      "web page"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "ip address"
+    ],
+    [],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "link list",
+      "whole lot",
+      "ip four address"
+    ],
+    [],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip four address"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "address info"
+    ],
+    [
+      "address info"
+    ],
+    [
+      "ip address",
+      "port number"
+    ],
+    [
+      "web server"
+    ],
+    [
+      "network card",
+      "port number"
+    ]
+  ],
+  "fccd9ec6-d393-407f-823e-632afca9a1c3": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "fe9fc313-44a9-4bd8-9b72-c6ae61dd1f87": [
+    [
+      "main method",
+      "thread exit",
+      "whole load",
+      "p thread exit"
+    ],
+    [
+      "mutex lock"
+    ],
+    [
+      "condition variable"
+    ],
+    [
+      "p thread condition",
+      "wait time",
+      "thread condition",
+      "mutex lock"
+    ],
+    [
+      "main method"
+    ],
+    [
+      "race condition",
+      "peter condition"
+    ],
+    [
+      "mutex lock"
+    ],
+    []
+  ],
+  "ff918b22-18b3-4e5f-96f5-e6eb462fbefd": [
+    [],
+    [
+      "file descriptor",
+      "main method"
+    ],
+    [
+      "child process"
+    ],
+    []
+  ]
+}

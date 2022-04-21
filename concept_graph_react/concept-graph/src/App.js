@@ -12,6 +12,9 @@ import { ForceGraphConcept } from './components/force_graph_concept';
 import { ForceGraphTopics } from './components/force_graph_topics';
 // import { FileSelect } from './components/file_select';
 
+import { ConceptTimeline } from './components/concept_timeline';
+
+
 import data_cs241 from './data/course_concepts_CS_241.json';
 import data_cs410 from './data/course_concepts_CS_410.json';
 import data_test from './data/course_concepts.json';
@@ -37,6 +40,7 @@ function App() {
                 <Route path="CS410" element={<CS410 />} />
                 <Route path="test" element={<Test />} />
                 <Route path="TopicsCS410" element={<TopicsCS410 />} />
+                <Route path="Timeline" element={<Timeline />} />
               </Route>
             </Routes>
           </Router>
@@ -58,13 +62,13 @@ function Home() {
   return <h2>Home</h2>;
 }
 
-function About() {
-  return <h2>About</h2>;
-}
+// function About() {
+//   return <h2>About</h2>;
+// }
 
-function Users() {
-  return <h2>Users</h2>;
-}
+// function Users() {
+//   return <h2>Users</h2>;
+// }
 
 function CS241() {
   return <ForceGraphConcept
@@ -88,6 +92,10 @@ function TopicsCS410() {
   return <ForceGraphTopics
     nodesData={topic_data_cs410}
     nodeHoverTooltip={0} />;
+}
+
+function Timeline() {
+  return <ConceptTimeline />;
 }
 
 export default App;

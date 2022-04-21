@@ -1,0 +1,371 @@
+transcriptionid	videoid	phrases_both	phrases_caption	phrases_video
+0313c4b8-b3cb-47c4-893c-bcb27ce990a3	6bcd8791-b067-4442-b1c5-690b51547ecf		peter mutex lock, mutex lock, whole load, main memory, p thread mutex, mutex locks, race condition, thread mutex, peter mutex, write code	
+040bf74d-c21b-4d61-a0f9-38e3b2cc4d67	cc52fb01-ec70-48ed-ac3c-0d0f5009aee9		condition variable, peter mutex lock, mutex lock, file descriptor, p thread mutex, mutex locks, peter mutex, thread mutex, condition variables, file handle	
+1e783a67-b8be-40c2-9441-09e0f8e0a1f8	6bcd8791-b067-4442-b1c5-690b51547ecf		peter mutex lock, mutex lock, whole load, main memory, p thread mutex, mutex locks, race condition, thread mutex, peter mutex, write code	
+34f5f15f-13e2-472c-a71d-7653231e61e9	cc52fb01-ec70-48ed-ac3c-0d0f5009aee9		condition variable, peter mutex lock, mutex lock, file descriptor, p thread mutex, mutex locks, peter mutex, thread mutex, condition variables, file handle	
+7515c79a-82da-4b96-90bc-a6cbb5ee3e36	1003629d-960f-4898-beb9-de1536ba5efc		multiple threads, mutex lock, heat memory, mutex locks, thread exit, race condition, main method, heap memory, p thread exit, c library	
+c4e34ebf-4fec-4220-80f0-55bff9d28117	c42e2f59-bfdf-4b5f-b02a-1af50905bcfd		memory location, mutex locks, race condition, thread mutex, mutex lock, main method, heap memory	
+fbf50bc7-ae3a-4768-be0b-502c42ec38cc	6bcd8791-b067-4442-b1c5-690b51547ecf		peter mutex lock, mutex lock, whole load, main memory, p thread mutex, mutex locks, race condition, thread mutex, peter mutex, write code	
+1df72ccf-c3d4-4939-945b-2a60fbbe7490	f956f35b-93a8-41c2-ac85-22e020a887ac		p thread mutex, mutex locks, peter mutex, peter mutex lock, mutex lock, thread mutex	
+48c308bd-22a2-405e-9437-75a1df1794fe	d4327564-29b6-4be8-aff0-3972383be72d		mutex locks, multiple threads, link list, mutex lock, linked list	
+6c7e145f-442c-430a-a17d-cd3630fbce96	ef5433ce-e682-4349-b0eb-34816e1d3bae		mutex locks, multiple threads, dot text, mutex lock, whole lot, file handle, ring buffer	
+798dfc68-4c27-4294-b5d2-be44d2f85516	0c07701f-a2eb-4738-b415-e272c29ee336		peter mutex lock, mutex lock, return value, p thread mutex, peter mutex, race condition, thread mutex, file handle	
+868deb37-9bd1-4419-a9ac-e164d0b078da	3c91a533-b27d-41a4-b488-05fee285ce7c		mutex locks, mutex lock	
+a73bb722-a006-40e7-ba5b-1402cd135b37	465e0658-af49-4e55-bce0-9959002af3cf		mutex locks, race condition, mutex lock	
+b681599f-1223-4f55-aca4-e57ac7b4b6cd	465e0658-af49-4e55-bce0-9959002af3cf		mutex locks, race condition, mutex lock	
+baa2188b-1097-4e5f-9fed-2ae8b4b6eff9	a38b8bdf-6621-456f-b277-a516fc8bb58e		counting semaphore, mutex locks, multiple threads, mutex lock	
+c13af5c8-7804-4b6a-ab8f-1f0d32ac4c29	ef5433ce-e682-4349-b0eb-34816e1d3bae		mutex locks, multiple threads, dot text, mutex lock, whole lot, file handle, ring buffer	
+da7958fa-52cd-4d05-93a6-42c5aaca70a7	465e0658-af49-4e55-bce0-9959002af3cf		mutex locks, race condition, mutex lock	
+068de9f9-f0f5-4140-8da8-7ba0ac3aa5c3	68fa98ee-c94b-4af6-a2cb-2bfa446f281d		condition variable, p thread condition, mutex lock, peter condition, whole load, p threat condition, p thread mutex, mutex locks, peter mutex, thread mutex, thread condition, condition variables	
+079e15d0-be66-4f0c-a3b4-bb9079ea8eea	425d2bec-4f97-457f-954c-1d757fe7a28c		condition variable, p thread condition, peter condition, mutex lock, main memory, p thread mutex, thread mutex, thread condition, condition variables, write code	
+160c1e41-f1c4-4ca1-9264-636d986cb0a1	2de1c633-7ecc-4c20-b29f-81096c568dcd		condition variable, p thread condition, multiple threads, peter mutex lock, mutex lock, return value, p threat condition, peter mutex, thread condition, code review	
+37ef3efe-3f33-4f02-bfee-552b68beac1b	2de1c633-7ecc-4c20-b29f-81096c568dcd		condition variable, p thread condition, multiple threads, peter mutex lock, mutex lock, return value, p threat condition, peter mutex, thread condition, code review	
+412638bd-03f0-44d0-a48b-5c8f0bee64e9	db6de850-7f4f-4f00-bf97-5f87eb466d29		operating system, mutex locks, race condition, mutex lock, cpu time	
+5b5cb5f1-f7e4-4e34-b21a-4b055a2c2121	4eeec198-ad6e-4fee-8693-fa3576cb2886		operating system, mutex locks, mutex lock, main memory, write code	
+682ea22a-c797-434b-a768-f7e9a7769709	2de1c633-7ecc-4c20-b29f-81096c568dcd		condition variable, p thread condition, multiple threads, peter mutex lock, mutex lock, return value, p threat condition, peter mutex, thread condition, code review	
+9bcf92f3-7cc1-4972-b0d0-3a9e468673ac	2de1c633-7ecc-4c20-b29f-81096c568dcd		condition variable, p thread condition, multiple threads, peter mutex lock, mutex lock, return value, p threat condition, peter mutex, thread condition, code review	
+04829254-3696-4583-a42b-bd35a938c624	3bc3e1ce-50a6-400e-a754-49a154bca019		condition variable, thread condition, multiple threads, peter mutex lock, mutex lock, linked list, main memory, thread exit, thread mutex, peter mutex	
+93398f4a-2825-4434-b33c-6fcac2f37ef7	ff3fb505-0287-4781-b45b-f16420a5d926		counting semaphore, memory location, multiple threads, mutex lock, counting semaphores, pizza slice, thread mutex, ring buffer	
+48e97dd2-4492-4527-bff9-3e3f957a074b	811242f6-4aeb-4d1e-bc58-701641d80e7a		condition variable, counting semaphore, multiple threads, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread mutex, condition variables	
+8ec6e5c8-eddb-435b-b7b7-0caa4b4d8ee2	50a33dc9-3e6b-4843-af46-400f54958e71		condition variable, p thread condition, multiple threads, mutex lock, peter condition, whole load, p threat condition, p thread mutex, mutex locks, race condition, thread mutex, thread condition, condition variables	
+f95595a2-cfee-4a7b-942b-a5818fd21a55	72f45457-25e2-4c36-bfaf-e5a1a255de87		condition variable, counting semaphore, mutex lock, peter condition, counting semaphores, mutex locks, thread mutex, pizza slice, ring buffer, condition variables	
+007a4c69-a949-4550-b450-ecb4cd7a8b1e	517cb8d8-1e5c-46e5-ac82-a7599aacb49e		condition variable, counting semaphore, mutex lock, race condition, pizza slice, peter condition, condition variables	
+025c4079-6f2d-496a-bc87-51d078e15f66	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+13ca4430-73f8-429a-b935-c642a8be526e	95028285-9c38-4025-b99c-61532347a114		thread condition, mutex locks, race condition, thread mutex, mutex lock, main method	
+1a077e0a-fca4-4696-851e-cc0eb3ca149a	c69f9206-f85f-4e33-892c-e6160748d971		p thread mutex, multiple threads, thread mutex, mutex lock, main memory, cpu time	
+27f7e6d9-2a1f-419b-b0c5-3ad8dc4064d3	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+2b24ffa8-c092-48c4-af51-3e0e88ff8792	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+2cfefc6a-33cd-4ed1-8b07-a9aacbed4aca	41ad88a0-12ba-4bd0-8040-fb153353546c		condition variable, thread condition, p thread condition, multiple threads, peter mutex lock, mutex lock, peter condition, whole load, p thread mutex, mutex locks, race condition, thread mutex, peter mutex, code review, file handle	
+37ee433b-e79d-4957-9dbc-0d62b0785dbd	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+533db1aa-ad5e-40dd-b819-8b989c89b1f6	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+5c6032d9-cc7d-468f-82d9-4054bf6258ab	1039e11c-fcef-4c06-94f6-27899230d355		condition variable, web page, condition variables, mutex lock	
+63aafada-b118-41b8-a266-44bcb09d9eca	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+66f7d2a0-017d-4176-a5b6-a307cc73a392	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+a1ef4c45-f42c-44c7-9792-60bae135ff0e	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+ae276754-6e15-40ee-81f0-29994714b47a	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+b8ce533a-7b9e-4642-a7b3-a69cb4a5fa50	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+b933e096-b63b-4b20-8715-01984d323c7d	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+bddf8fc1-9916-4a07-9b3c-a5e00e0c780e	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+d4eaea6f-874c-4acc-a000-07cdfb9fa35b	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+d66b6d30-efd2-4f1e-976b-f89adad7606b	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+e1d6897e-2542-433c-804f-21a23a9bd0ee	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+e50d3496-12be-490f-aada-1211850d9275	3f0785e2-61a6-46c7-b502-4100795c1603		counting semaphore, mutex lock, p threat condition, p thread mutex, counting semaphores, mutex locks, thread exit, thread mutex, pizza slice	
+fa389ce6-5fa6-4288-b2a2-949e66af677a	525be7b4-9d7c-4d9d-8530-6b670362e986		network card, counting semaphore, p thread mutex, thread mutex, mutex lock	
+fe9fc313-44a9-4bd8-9b72-c6ae61dd1f87	e5d3adb9-29b4-4865-ba4e-e020f3879d95		condition variable, p thread condition, wait time, peter condition, mutex lock, whole load, thread exit, race condition, thread condition, main method, p thread exit	
+0c22ed5a-99c0-4ba5-9ac9-c56c5e3911ca	515056c7-9761-4c35-8a5b-96fb197a3647		multiple threads, peter mutex lock, mutex lock, resource allocation graph, mutex locks, exclusive access, peter mutex, c code	
+1b746b25-23e0-4c94-9d7c-de89b9b30c5a	5e5b8949-2435-4c15-8d6f-7619a4ed33f1		operating system, peter mutex lock, mutex lock, mutex locks, link list, exclusive access, peter mutex, resource allocation graph, write code	
+4cdc54a1-22f0-4dcc-b071-570ac31d7e39	5e45c247-33f7-4cb4-9dfd-a5907faff648		condition variable, p thread condition, mutex lock, linked list, whole load, peter condition, p threat condition, cpu time, p thread mutex, mutex locks, link list, thread mutex, thread condition, condition variables, write code	
+ec98de0c-eb65-40d6-8b08-a77fdf9433ff	515056c7-9761-4c35-8a5b-96fb197a3647		mutex locks, multiple threads, exclusive access, peter mutex lock, mutex lock, peter mutex, resource allocation graph	
+ecbcb30c-3c7e-4d14-b443-7fe6e775c690	5e5b8949-2435-4c15-8d6f-7619a4ed33f1		operating system, peter mutex lock, mutex lock, mutex locks, link list, exclusive access, peter mutex, resource allocation graph, write code	
+1440787d-bb97-4558-b85b-8aa384d86ede	13acaf62-e6e6-4d97-91da-24cce943504b		resource allocation graph, exclusive access, mutex lock	
+41b0a81d-3653-466e-87dd-0eda65d6af2e	e7ce138d-a863-43d9-9c02-056f886b11cc		c code, mutex locks, write code, mutex lock	
+57935b87-3626-4a44-93bd-a923f9a0ba9d	62598b12-fb04-4223-aafd-dfa8416e63e0		condition variable, condition variables, mutex lock, multiple threads, peter condition, code review, p threat condition	
+60132500-ca65-443c-a48b-78c3732e652a	d47e21be-252e-4609-9bd7-1e2f50a45794		mutex locks, exclusive access, mutex lock	
+6edb53ee-a4a5-45f0-ac64-fcf9b4cbf53f	d47e21be-252e-4609-9bd7-1e2f50a45794		mutex locks, exclusive access, mutex lock	
+72f91574-339a-40e1-9278-a3dc18f62a35	62598b12-fb04-4223-aafd-dfa8416e63e0		condition variable, condition variables, mutex lock, multiple threads, peter condition, code review, p threat condition	
+84be7473-dcd6-496d-9ec9-c463acb081d2	13acaf62-e6e6-4d97-91da-24cce943504b		resource allocation graph, exclusive access, mutex lock	
+8f1b71ff-82be-442b-835a-49c8714f9776	13acaf62-e6e6-4d97-91da-24cce943504b		resource allocation graph, exclusive access, mutex lock	
+9a9a10a2-6a75-46c5-b677-38e5d3684981	62598b12-fb04-4223-aafd-dfa8416e63e0		condition variable, condition variables, mutex lock, multiple threads, peter condition, code review, p threat condition	
+c62f6568-fa2b-4be3-9e27-5e119359489e	13acaf62-e6e6-4d97-91da-24cce943504b		resource allocation graph, exclusive access, mutex lock	
+e86ac683-96f5-4bc0-b5c5-3a7f93c80b32	d47e21be-252e-4609-9bd7-1e2f50a45794		mutex locks, exclusive access, mutex lock	
+f54b05e1-9f81-4fe4-a600-991b1977d3fc	62598b12-fb04-4223-aafd-dfa8416e63e0		condition variable, condition variables, mutex lock, multiple threads, peter condition, code review, p threat condition	
+f8cd1533-dec2-4250-9e5f-bc34e9a3181a	d47e21be-252e-4609-9bd7-1e2f50a45794		mutex locks, exclusive access, mutex lock	
+f11e4d89-fc04-4700-9bde-fecbb79a9ada	e5d50028-7b5f-4b9f-a055-bc2282c2491a		memory location, virtual memory, mutex lock, resource allocation graph, p thread mutex, mutex locks, exclusive access, thread mutex, code review	
+cb9f0e61-d268-4cde-b498-ea76b68c9604	7d421975-ffd9-407c-8560-57feea07740f		condition variable, thread condition, p thread condition, multiple threads, peter mutex lock, mutex lock, void pointer, p thread mutex, mutex locks, race condition, thread mutex, peter mutex, code review, ring buffer, condition variables	
+2d49256b-843d-4c27-969c-5a4a8ef761ed	cc0276c4-8050-49a7-b742-fd80b63ab473		counting semaphore, counting semaphores, mutex lock, code review, ring buffer	
+4bb4d9de-3031-4ca5-9b24-28a62fa33ed8	cc0276c4-8050-49a7-b742-fd80b63ab473		counting semaphore, counting semaphores, mutex lock, code review, ring buffer	
+50ebb1c4-4d86-4abe-bcf6-d6d0948214d6	cc0276c4-8050-49a7-b742-fd80b63ab473		counting semaphore, counting semaphores, mutex lock, code review, ring buffer	
+b2add30a-6189-4ab5-96fd-957e96967d60	76b373bf-e698-4336-b6b3-ab19bdf38e2e		condition variable, counting semaphore, counting semaphores, mutex locks, mutex lock, code review, ring buffer	
+b44a6271-011d-4df4-88e4-54685e216cf9	76b373bf-e698-4336-b6b3-ab19bdf38e2e		condition variable, counting semaphore, counting semaphores, mutex locks, mutex lock, code review, ring buffer	
+ca90fc46-67a5-4381-9bae-274ec85fffbb	cc0276c4-8050-49a7-b742-fd80b63ab473		counting semaphore, counting semaphores, mutex lock, code review, ring buffer	
+d1de06d0-ffdb-44f8-9fcd-6df31432c967	76b373bf-e698-4336-b6b3-ab19bdf38e2e		condition variable, counting semaphore, counting semaphores, mutex locks, mutex lock, code review, ring buffer	
+d8f53a34-3f12-4b3d-93bd-cafca4e23ae5	76b373bf-e698-4336-b6b3-ab19bdf38e2e		condition variable, counting semaphore, counting semaphores, mutex locks, mutex lock, code review, ring buffer	
+d984a52e-2c0a-4b29-992a-3b4e6bd8ab25	76b373bf-e698-4336-b6b3-ab19bdf38e2e		condition variable, counting semaphore, counting semaphores, mutex locks, mutex lock, code review, ring buffer	
+ed85781a-a46c-454f-99d6-e290835a6979	cc0276c4-8050-49a7-b742-fd80b63ab473		counting semaphore, counting semaphores, mutex lock, code review, ring buffer	
+ce59bcf4-f76c-4a93-a4eb-d506559bd60d	20012c57-a52e-4338-b873-9c305812c63f		condition variable, counting semaphore, wait time, mutex lock, cpu time, counting semaphores, mutex locks, condition variables	
+d4a2eab5-55da-4f12-ac50-fe32c6e4d99a	2f9b107f-9e4f-47cb-be2e-cbf33167c8dd		operating system, network card, cpu time, mutex lock	
+24389f97-732f-4c49-9ec5-d5ea195e83da	6f95853b-6e35-488f-b394-5e117a13894d		main method, mutex locks, mutex lock	
+0fe42c84-6a79-4581-94d8-ef1fae922e78	f4f2af03-d8e1-47da-b551-4200c101ed20		operating system, peter mutex, peter mutex lock, mutex lock, race condition	
+ecc913a8-cf8a-4205-b23c-530df9ebc4eb	1117227f-0090-4f47-9811-5b9a1567c4cb		counting semaphore, mutex lock, p thread mutex, counting semaphores, mutex locks, file system, thread mutex, pizza slice	
+603b0b01-6f4b-4c59-b606-c075dd30516e	32deb242-d33d-4c69-87e8-c057f9be069d		whole lot, main method, file system	
+8459ee6a-30aa-499c-9226-74f97c8f7ce4	830abb49-520d-4caa-88f7-7fa7edc0b779		main method, c string, file system, standard error	
+9eeb3210-b89c-48dc-b32c-2597c75bc28b	6e3a6dec-dcf7-4b3a-98f1-a68ad6515305		virtual memory, file system, page table, whole lot, address space, c library	
+4601a707-5dd9-44c5-b66d-261ac8ae080b	adeb4f1f-9fce-421b-ba88-728876d543ff		operating system, file system, write code, whole load, file handle, c library	
+55699194-1692-490a-a863-a26370265ef7	a4437684-b8bf-447d-92b8-6fc24de56210		file descriptor, file system, address space, whole load	
+7196be55-e5f8-41a0-9dd7-3eacbf66ed4d	bb261144-e017-4e1f-bc55-688a344296e9		child process, six bytes, file handle, file descriptor, standard error, file descriptors, particular file descriptor, file system, c string, write code, c library	
+781c2c19-58df-4f6e-9dcf-99e51f685f66	adeb4f1f-9fce-421b-ba88-728876d543ff		operating system, file system, write code, whole load, file handle, c library	
+dcde2695-ae8c-4032-aceb-2d001a2ec718	a4437684-b8bf-447d-92b8-6fc24de56210		file descriptor, file system, address space, whole load	
+1af6249c-bd09-46a8-9b8f-738611112cb5	07a550a6-5b3b-4b0f-86d5-f20e1eef8637		indirect blocks, disk blocks, file system, disk block	
+1be96113-98ce-4816-86a2-55d1f7e9357e	690b11be-17c2-48df-bb2e-30d3193e59ea		address info, return value, port number, file descriptor, file descriptors, file systems, file system, ip address	
+25f60154-4c5e-4768-9b0f-f050b09bb778	b03d5775-ad9a-4eb8-be05-18e23508a4d2		six bytes, virtual memory, whole load, main memory, meta information, file systems, file system, disk block, disk blocks	
+441ed34b-d340-4f03-8c15-3753a894fcf7	35448f26-e329-41e2-9dec-57239d821b18		file systems, file system, c code, whole load, meta information, cpu time	
+4675bcdc-930f-4e8f-bcf1-5baea25f1628	d881020c-094d-402e-a51e-02a620af4a22		file systems, file system, disk block, meta information, disk blocks	
+5e0c43a3-3588-4f37-80a2-d3681b4119ea	07a550a6-5b3b-4b0f-86d5-f20e1eef8637		indirect blocks, disk blocks, file system, disk block	
+68eae3bc-b156-461c-8392-ea61a730464c	690b11be-17c2-48df-bb2e-30d3193e59ea		address info, return value, port number, file descriptor, file descriptors, file systems, file system, ip address	
+6c4c517c-e925-4d55-ac5a-58757254b2f6	b03d5775-ad9a-4eb8-be05-18e23508a4d2		six bytes, virtual memory, whole load, main memory, meta information, file systems, file system, disk block, disk blocks	
+9ddff03f-fb90-4ca7-9381-f30bb13acc08	d881020c-094d-402e-a51e-02a620af4a22		file systems, file system, disk block, meta information, disk blocks	
+a2f92ca4-d435-4bce-a132-de1a03149ff1	ccc8833a-9774-4030-81b0-e9ce73f25c25		indirect blocks, virtual memory, file system, disk block, meta information, disk blocks, page table	
+b6cf130c-a8fd-42d6-979b-2037d3be7212	ccc8833a-9774-4030-81b0-e9ce73f25c25		indirect blocks, virtual memory, file system, disk block, meta information, disk blocks, page table	
+d5fa5a60-c6ea-4207-bb11-869c29ad96ff	35448f26-e329-41e2-9dec-57239d821b18		file systems, file system, c code, whole load, meta information, cpu time	
+3cd7353d-eaae-4c1c-a4d5-ca1b6ce5f52f	da2b51c7-c505-49bd-9814-ebd94310b267		file descriptor, file descriptors, file systems, indirect blocks, file system, disk block, code review, whole lot, c string, disk blocks, c library	
+500f2f37-cb53-4088-952f-c866acfded89	202ad472-59dc-4d4c-9796-7ef87bd37e42		disk blocks, meta information, file system, disk block	
+6bda4161-ec8d-403f-b5c5-d510d46fe230	202ad472-59dc-4d4c-9796-7ef87bd37e42		disk blocks, meta information, file system, disk block	
+75f9edda-e9ef-4983-8421-b05c1beb5f32	a86d9ded-b64d-4aa2-b66d-7b64dd7fe17d		file systems, file system, disk block, c code, disk blocks, file descriptor	
+997db39c-e2cc-45d8-b756-16ad32dc030c	a86d9ded-b64d-4aa2-b66d-7b64dd7fe17d		file systems, file system, disk block, c code, disk blocks, file descriptor	
+aac7d262-6dd0-4009-967c-be10e55a9cd5	286fe088-fb60-40cb-8d97-d3aead841b50		file descriptor, file systems, file system, symbolic link	
+c277c266-d1b9-4670-92b6-d06d4a8cee3f	da2b51c7-c505-49bd-9814-ebd94310b267		file descriptor, file descriptors, file systems, indirect blocks, file system, disk block, code review, whole lot, c string, disk blocks, c library	
+c6d33883-2388-4db3-8817-93586fd5f883	286fe088-fb60-40cb-8d97-d3aead841b50		file descriptor, file systems, file system, symbolic link	
+6469a892-5a29-4895-b922-8ef54fabb1a8	a0a05e83-7246-443a-9dcb-6a1d6bf54ce4		port number, file system, whole lot, whole load	
+a04b015e-498e-4c02-9326-bd1715c8f047	8bd542b2-3640-4478-90b3-2dbe43bda058		file systems, file system	
+a36c9a4b-0ff7-4b83-9157-f856ccfd8b26	cfa029b4-4da4-4168-8901-dfd70b19e8af		memory location, c code, file system, symbolic link, return value	
+b94d1f92-8ee2-461c-ae2e-934cfdcfd6cb	7762a867-6b19-4e91-ac33-0b04737fff60		file systems, file system	
+dbf720c2-82de-433d-a735-d7968905688e	d2f358f9-963f-475a-b76f-68d3029abc32		file systems, file system	
+ebe899fb-f9df-4e7d-b72b-afd15f5bdaf5	7b3c74a3-cfe4-40be-8782-c9268e329679		file system, symbolic link	
+a6948c0b-717d-4a5a-afbc-f2641ef17bc1	6e365994-8950-42f9-ade7-0b715321821d		file descriptor, file system, standard error, symbolic link	
+cf992758-bf07-4e89-af7f-f47de3438f0d	499b2e4c-9f30-4443-b2dc-fc391524f06d		operating system, whole load, file systems, file system	
+bc05bdb0-371d-4cd3-97a6-753a576a32f2	045aca71-0e08-45bc-af12-a906eb63bd7a		whole load, file systems, file system	
+dfe8f684-5acd-41bf-8ba0-276a3fc52ffb	cb97338b-477e-4fb0-a9e3-ed9ce68ed205		operating system, file systems, file system, symbolic link, web browser	
+e99e7c6d-cc07-4a0f-afd1-f6e775951990	4ae8156c-d207-4c24-89d8-32c0344d2ef2		file descriptors, particular file descriptor, file system, tcp connection, file descriptor	
+dfa2b80f-5fdc-4f8a-9f3f-bf26dde6603b	20df22b1-8887-4e9b-9bd6-a50bf8722055		heat memory, file system, c code, whole load, web browser, web server, whole lot	
+2cd13b51-dc41-427e-91b3-c63a9d8334fe	4f64a0c6-e8ab-493f-81ac-865662a69e2d		memory location, virtual memory, file system, main memory, web browser, address space, c library	
+580ae97f-7447-4844-927b-098638c01c95	80742462-0da3-4ab8-ba7b-d7acca05b6ce		c code, disk blocks, file system, disk block	
+5bd8420a-ccee-4ff9-b38e-466d0cfca53a	49f197bd-f94b-45d7-bf1c-b6dfdc073c08		operating system, child process, address info, tcp connection, web server, web page, file system, ip address, web browser	
+ec6fca4d-5cae-48dd-b541-e7bae7852408	341de5fe-56f1-4ebd-b41e-fb6e3e6a3fe4		network card, file systems, file system	
+2e2bb4d7-75e2-4780-90b7-77bbe8fd3c70	35ea3b9d-5d9f-4633-a0b7-62244152ec0e		file descriptors, file descriptor, standard error, c library	
+64320885-c055-41b4-9516-16a7910a1baa	176a4ee0-3eeb-451a-a5a8-e43b858d953b		memory location, six bytes, return value, file descriptor, cpu time, standard error, c string, main method, memory address, c library	
+e1cac33e-3bee-4e92-81db-c22e4418b623	042085cd-c036-47fa-9bdd-bd3bcaa7cbbf		file descriptors, dot text, whole load, file descriptor, standard error, c library	
+d20bd8cb-7714-4093-a0bd-850b11d62c39	ec9ac9ba-7f43-4f93-a5ba-7b9d590e64aa		heap memory, c code, main method, memory address, file descriptor	
+4e573abf-cf71-448e-9c87-e47ce02c5bf0	27c5931d-b0ed-4874-b5e0-524fd5f26900		child process, file descriptors, six bytes, ring buffer, file descriptor, c library	
+8b052423-2727-4a8f-a436-99ef0efaf792	7d73706c-4173-4137-832a-c46aa681d535		child process, file handle, file descriptor, c library	
+948fe415-3254-4286-bc66-225eba2cb234	4d2fe579-2a32-41b6-96d9-08b16636e3cd		child process, file descriptors, return value, file descriptor, standard error	
+d74d1bca-8940-47ce-bff5-6e04844cc7f7	7d73706c-4173-4137-832a-c46aa681d535		child process, file handle, file descriptor, c library	
+4f500541-bb78-41b4-8597-24e61e794f81	b6359a7d-415d-4e6b-8c04-72e9bf35b9b8		child process, file descriptors, six bytes, dot text, whole lot, file descriptor	
+86a6f898-deff-45df-b7a6-2a0d2dc10c5a	ac2cd944-3f8e-4761-bf0e-1c5a7d96070d		file descriptors, code review, c string, file handle, file descriptor, c library	
+adb60962-723f-41e9-a34e-3801a6b91bdf	55d722e8-d703-4909-985c-fdabb50639af		file descriptors, file descriptor, c library	
+d134a7b4-0001-41ff-bfa4-8f4f15a30f69	1d414887-8179-4374-8f28-1ac26143d4f8		file descriptor, c library	
+08a28266-820e-4f7f-8326-7c8c3f53dc2b	10e8aa96-7ed8-4b96-9072-9bcf7083f8a3		child process, counting semaphore, file descriptors, return value, write code, file descriptor	
+7c19bcb8-2e74-423d-94b8-77b2b5ccb983	ea3d2576-012d-48b5-8d22-1eed5c22ada1		return value, whole lot, file descriptor, particular file descriptor	
+8bac3c58-461d-4e82-b52c-289fa7e681a4	10e8aa96-7ed8-4b96-9072-9bcf7083f8a3		child process, counting semaphore, file descriptors, return value, write code, file descriptor	
+923b48d1-82c9-4c57-9d23-3c0a31dd37d0	ea3d2576-012d-48b5-8d22-1eed5c22ada1		return value, whole lot, file descriptor, particular file descriptor	
+95f1881e-d728-4112-81d1-6c7060a34beb	ef22e16e-d0c6-48aa-88b1-79342bc913b3		file descriptor, void pointer	
+a1020a6c-61f2-4b16-b8a8-b2f4b04242c5	ea3d2576-012d-48b5-8d22-1eed5c22ada1		return value, whole lot, file descriptor, particular file descriptor	
+b96e8ea2-f596-4b5a-807e-4646d78cc7a0	ea3d2576-012d-48b5-8d22-1eed5c22ada1		return value, whole lot, file descriptor, particular file descriptor	
+bbb895a1-cba7-4548-8727-a436ca271b72	ea3d2576-012d-48b5-8d22-1eed5c22ada1		return value, whole lot, file descriptor, particular file descriptor	
+cf2878ea-cd88-4929-bd1c-146cdfb2d8ce	10e8aa96-7ed8-4b96-9072-9bcf7083f8a3		child process, counting semaphore, file descriptors, return value, write code, file descriptor	
+2a2f8631-b18e-4323-90d0-8f71927323fc	5fd7b7ba-81ba-406b-b49c-d7c05ee93ab3		six bytes, address info, linked list, port number, return value, tcp connection, file descriptor, web server, ip four address, heat memory, web page, ip address, web browser	
+39e45f0e-a47f-4922-a4a3-3b2f8e19cefa	5d23adaf-b080-4bfd-804f-3c40069279c9		network card, address info, whole load, file descriptor, particular file descriptor, link list, ip address, c code	
+3f559120-de38-4bc0-bcf2-95f88505b2a5	5fd7b7ba-81ba-406b-b49c-d7c05ee93ab3		six bytes, address info, linked list, port number, return value, tcp connection, file descriptor, web server, ip four address, web page, ip address, web browser, heap memory	
+b113e839-a5aa-4be6-89f0-89eb1c0dff1a	5d23adaf-b080-4bfd-804f-3c40069279c9		network card, linked list, whole load, file descriptor, file descriptors, particular file descriptor, ip address, c code	
+e471cd5f-b9e7-4738-8b65-d975365f4c4c	5d23adaf-b080-4bfd-804f-3c40069279c9		network card, address info, whole load, file descriptor, particular file descriptor, link list, ip address, c code	
+51cddab2-570c-440f-8b14-9adb4a3cbf88	779c567a-1002-4702-90aa-d927253b5f9b		network card, address info, port number, web server, file descriptor, file descriptors, particular file descriptor, web page, c string, write code	
+594d9f66-6e3e-4370-b43a-cf1498062ce1	54b73bf8-598b-4f83-9d90-e3a044578a22		file descriptor, web page, ip address, port number, tcp connection, web server	
+76432ce8-d67d-4e28-9ec9-d38527969358	54b73bf8-598b-4f83-9d90-e3a044578a22		file descriptor, web page, ip address, port number, tcp connection, web server	
+8485219d-b168-4bd7-a966-b4688125a726	779c567a-1002-4702-90aa-d927253b5f9b		network card, address info, port number, web server, file descriptor, file descriptors, particular file descriptor, web page, c string, write code	
+baaa7fb5-1eff-422c-a5c9-4666f6c80a74	54b73bf8-598b-4f83-9d90-e3a044578a22		file descriptor, web page, ip address, port number, tcp connection, web server	
+f0e1bf48-9541-4edc-b44d-924ad17a8ee2	3e3de1ff-dad7-4cf9-b516-b6c8bbcc22e5		file descriptors, virtual memory, cpu time, page table, whole lot, meta information, file descriptor	
+ebaa6b70-f89c-485c-b02b-5e82ca8c5a2c	030ab16c-02a1-4a3d-85fd-863463fd7d1c		virtual memory, disk block, page table, disk blocks, file descriptor, address space	
+00dd4389-2bac-4f00-8dcd-785c286c3d68	4536e296-4f7f-46cb-8430-cffbe9e405a0		network card, address info, linked list, port number, return value, ip four address, file descriptor, web server, file descriptors, link list	
+bb308b87-9d36-4d8c-b1da-bcd886514268	50d5a202-b731-4b2e-8df0-e316d6f4b596		operating system, child process, file descriptor, file descriptors, web server	
+f1bc3d55-8d23-4e2f-ad60-b79aa0d962ee	3aa53059-023c-4932-9905-5b0e634dc777		file descriptors, multiple threads, file descriptor, particular file descriptor	
+f8b87906-763d-4c78-8224-d88dd43fdd87	9e248574-24e1-40c8-9d91-20635a52979e		operating system, file descriptor, race condition	
+12682bb1-804f-4939-a519-445af7451475	ff60a060-dd5c-449c-a761-1cde8edce46f		heat memory, file descriptor, cpu time	
+3eef8bd5-25ff-471b-9ae8-2388a3967aa9	5becda31-5f2d-4bf7-bcc4-f308714cd485		operating system, link list, linked list, whole load, file descriptor	
+ff918b22-18b3-4e5f-96f5-e6eb462fbefd	6a82634b-294c-4d34-be57-74114f47d18c		child process, main method, six bytes, file descriptor	
+b37a29fd-55de-4893-bb2e-ef162944f9fd	730b333a-40cd-4cc4-bab1-790e44af7a01		file descriptors, file descriptor, particular file descriptor	
+cc2fa93f-a576-423d-b080-9da120a3796d	fb673894-7573-45c8-b89e-fb3e9be346e2		six bytes, address info, ip address, port number, memory address, file descriptor	
+f93d7eee-504a-401c-940d-9680e03614c3	5e7e489f-8e60-4e53-8fa6-7ba4dc5b6323		code review, file descriptors, file descriptor, symbolic link	
+c8a95218-1f53-4559-b5f5-32b9385d7f90	e5f8a046-ae9a-4e4d-a5c8-9ff0496dc4ae		linked list, memory location, heap memory	
+94ea6cdc-aa81-48b6-84f3-323a89a40075	bac3a6e5-3e40-4b87-bed0-f2656c7e4363		linked list, whole lot, link list, heat memory	
+117f0f11-cc38-4a40-b359-8f1ba81655e1	54f97e73-6d1c-4215-a2a2-c604ff871c43		heat memory, memory location, six bytes, linked list, return value, void pointer	
+16e62b2f-2875-432e-af0d-583257d7723a	516480e8-7b29-40e4-be2a-dd4fbfb76986		link list, six bytes, linked list, main memory, web server	
+1f76e788-6515-470d-8411-5a70fc7d7edb	870662c9-b8d7-43dc-ad8e-1bb9ac0a4af9		linked list, link list, c code	
+25b095de-25dc-448b-873a-ddcf22752393	5c3224e8-4a17-447a-98fc-9fc02909a3e7		linked list, link list	
+305a1d6f-7dfb-4fe9-8271-64421be8f294	870662c9-b8d7-43dc-ad8e-1bb9ac0a4af9		linked list, link list, c code	
+c761dcf5-f751-4ac2-acb7-906f30ff83be	be203664-b00c-46dd-8a49-6421c89cd763		linked list, memory address	
+cbf2feb7-901b-481f-8dab-38bea64b966f	0d671c02-821b-4d14-b091-0e4bbe8c4780		linked list, link list, heat memory	
+009c9eb3-b71a-4571-8437-2a3fe5ce01e4	fc23eae1-5239-4247-b948-f77a3166cd03		linked list, memory location, link list, memory address	
+20a17ad5-03fa-40e1-bb61-739bcec6e2e2	d836d0a1-ff57-428f-8cd9-6149590c67ad		linked list, link list	
+553189a9-6ee0-4efd-8e9e-0f57d5500e5f	38bac0cf-c288-4cf1-8516-b89857d14778		linked list, whole lot, link list, heap memory	
+692302bd-49d3-4d62-bbc5-f1d4ce6e3684	3556a852-1966-4ce0-b6d9-f3df2e4c9322		linked list, heap memory, memory address	
+9a084a3f-6ceb-4fe7-b5f7-2981d484a27d	ecf5ea35-be37-41b2-b7d2-7ab474bed932		memory location, link list, linked list, whole lot, heap memory, void pointer	
+b24c9c84-49ae-4c9d-a9b0-914ea82356cb	d76b5f2b-32b4-434e-807e-733697fc095d		linked list	
+1853bd34-e9ca-43fa-91f5-250a9abc155b	5dc8c151-85b3-4ec4-aed4-6889de2d5c55		linked list, link list	
+1f0947f0-7d90-4971-8f36-20b870937782	efeab817-86b2-461c-88b8-fd79b6d79bb4		linked list, link list, six bytes	
+734339b1-3010-43a2-9cfa-55d690efddab	822aa304-7441-4a88-b733-60fb19ea31ab		linked list, void pointer	
+a2ab9689-c933-4b35-bc36-acc823aa42c8	01b56d4a-02bc-41c3-a897-80a3be094ea2		linked list, link list	
+0f70d1df-7a51-4bea-9a39-589fd7c57802	a16ddf30-a7ce-4b89-a8b4-d3bab9060d21		p thread mutex, exclusive access, race condition, thread mutex, linked list, code review	
+849095e8-a9e5-4467-8af4-be36e4991af6	a16ddf30-a7ce-4b89-a8b4-d3bab9060d21		p thread mutex, exclusive access, race condition, thread mutex, linked list, code review	
+b60fb3d4-0600-4074-8432-449ea0067907	a16ddf30-a7ce-4b89-a8b4-d3bab9060d21		p thread mutex, exclusive access, race condition, thread mutex, linked list, code review	
+4be923cb-0fb1-4a38-b904-ceb8ff09755a	0c669a32-a61e-437e-9a1f-e09a4e611f0f		link list, linked list, whole load, write code, ring buffer	
+1aec58de-6b0d-4068-a042-acdc8954bcda	590e0868-40fa-4331-b4b5-5c2bfdcce8d4		network card, address info, dot text, linked list, port number, web browser, ip four address, web server, web page, ip address, whole lot	
+fc1cbfed-4866-4545-9574-b49c350aa1aa	590e0868-40fa-4331-b4b5-5c2bfdcce8d4		network card, address info, dot text, linked list, port number, web browser, ip four address, web server, web page, ip address, whole lot	
+28a2bdb5-a357-4b00-bb00-b9d1e478498b	ff48fb8a-7459-4d82-86ef-31dbaea0f7b2		memory location, write code, web server	
+056e04b9-e004-4e05-af4b-dee1b2888806	7fa364f4-e792-4045-b802-ae7a82239f79		web server	
+729584e4-abeb-48b5-8aa2-e4cd25428f98	e06bb23e-875e-4b7e-be55-b2d40b203f4d		web page, port number, web browser, ip four address, web server, address space	
+031c882d-0a19-4489-b1ef-d9328844d378	cf39e0e9-b209-44aa-af9c-56610eabf661		c code, port number, web page, web server	
+0cebe85c-2283-48d7-bb48-045052e80cae	cf39e0e9-b209-44aa-af9c-56610eabf661		c code, port number, web page, web server	
+7c96669f-3968-4af3-b08d-c28d80ecf477	e9cb6230-47ed-4e4e-b6f3-fa247c9bbe61		web page, ip four address, web server, ip address	
+92db69f3-9bba-45d8-8f6d-84d8ae3c2b2e	cf39e0e9-b209-44aa-af9c-56610eabf661		c code, port number, web page, web server	
+d51e1b38-6c01-4584-9e0b-69d42464cfa6	716d7f94-75e8-4bbf-9053-62753f1df615		heat memory, heap memory, web server, symbolic link	
+d8f6f268-02f8-4d31-a805-f951523e92a1	56b22768-1393-471b-9f71-d5044d027cf3		whole load, web server, dot text	
+de67c1db-85ec-40ee-affa-68ebcf984028	56b22768-1393-471b-9f71-d5044d027cf3		whole load, web server, dot text	
+f4140b9d-47b6-45a5-b675-3e2e57dd9224	716d7f94-75e8-4bbf-9053-62753f1df615		heap memory, meta information, web server, symbolic link	
+5ab7cd3e-b52e-4bfc-aa50-687888c3c92d	7845a4a8-ee1c-4a36-86ad-fdf8e976a005		web server	
+5c06ea70-4c6c-40b5-828d-a3492fe9fa96	7845a4a8-ee1c-4a36-86ad-fdf8e976a005		web server	
+398ab8f1-44ca-4550-8662-16d9a98af68a	42836964-4013-4fe2-90f8-48534c2a43ad		c string, file handle, web server, dot text	
+3e1b1597-b1e1-4999-9d99-6e412cce8d0e	73eba239-dff9-4084-9866-40a8e98962a8		wait time, web page, cpu time, c code, web browser, web server	
+4032b6db-39d8-4d61-bef9-218a42c0a7e4	1b65166c-0676-4433-85c4-e543585ad3d4		web browser, web page, web server, ip address	
+9d6762ba-3f90-4302-bebe-53ad562322b2	5a7ab8f0-6b81-45e6-b2e1-ec5946ca1e3f		address info, memory address, port number, ip four address, web server, ip address, main method, heap memory	
+e09a816e-d4d4-46c2-9a55-faaa21d5a1d4	5bf3298c-a218-4cb5-a2b4-5ff9a6819283		operating system, port number, web server	
+f815b599-ae2e-4d57-9c3e-b1834f484942	5cbc3b52-a866-41a3-907d-f3a2af9ef6fe		cpu time, symbolic link, c code, whole load, web server	
+1b84f2ca-7d13-46c1-8e96-254217cc7d9b	dc6b4b98-f42b-4a29-931d-1e8f945630bf		port number, tcp connection, web server, ip address	
+38a81991-43dc-442e-b214-b0fdcb528caf	29b3a157-6fc9-46d1-8de9-95b18c858080		six bytes, web server	
+578b472b-d7f9-455d-b241-95da7faa4f77	5caeee47-5f82-4588-b030-7b20f8f8f10b		web page, ip address, whole load, tcp connection, web server	
+9951a684-a841-47e6-8d48-035d4127b468	6d42a55f-a731-426b-aa61-78323835b22d		web page, multiple threads, web browser, tcp connection, web server	
+1260cf03-e3d2-405c-8846-79c5af487b4d	e5a071b7-3593-42f8-b545-c14250961066		web page, ip address, web browser, web server, whole lot	
+0e5047cd-7d46-49d0-a2ab-8ee74d7a774b	8a61c9fd-e6a7-472b-b82f-2329be691ccb		c library	
+527934a0-530d-4125-a5a8-2a5cf05dcd5d	d1fcc83b-1703-4b2a-8f9e-34784814fb33		c code, c library	
+1af0122b-b9dc-41df-a00a-b449acd1c803	f696b3a5-103e-4c7e-abe6-f90918079d84		main method, dot text, standard error, c library	
+f84e2260-9145-46a3-bdce-409d6138324a	35b67834-2245-424d-9961-41a7cf65335c		operating system, c string, c library	
+14544fe6-66a5-40d6-988b-0d22aa081150	55e95ae3-c3e5-47d3-82f0-16e841239c31		return value, c string, heap memory, file handle, c library	
+6fa7868f-bbe1-47f6-bee8-22507dfcc8c8	94c88f45-0200-4219-a75e-0e51bb15ceab		c code, c string, file handle, standard error, c library	
+eb1a08a4-8b77-4361-a5d8-4e3b26439f27	81ad1e89-72f6-4416-8929-c0840f3dc6db		return value, memory location, c library	
+42ebcdb6-a366-49f4-b95a-a0614c5ac1ce	036fed8d-5c24-467e-a1b0-72f466969983		c string, heap memory, standard error, c library	
+7292aa1d-0d99-46a1-8077-9688f41b785d	86a7396f-27db-4e6c-b655-917789f82340		memory location, six bytes, c string, heap memory, file handle, c library	
+7a7590a3-2294-4d27-89ff-d625512f82e5	dd12ff9e-a55a-40c9-9a83-9ee8b0b46f45		file handle, return value, heap memory, code review, standard error, c library	
+0173c9a1-6ea6-40ab-b5d1-ccc145c2f251	9ddc3e54-7056-4d45-94c2-938416dedecd		c code, whole lot, memory address, c library	
+e0d9ea58-cf82-4b71-957b-9da72ccb2d90	b7d6e152-6300-4755-9138-6b7a1415bad0		child process, return value, c string, c code, ring buffer, main method, file handle, c library	
+14984eb1-a900-473a-816e-4e304fedc041	3cb0077e-7009-43d8-93c6-d5e8cc734fa1		return value, address space, operating system, c library	
+2c80a67a-6e39-4b62-812c-69eb49905471	370ff433-67d6-4761-87d1-38f451cf02d3		operating system, six bytes, virtual memory, memory address, c library	
+57f1edee-d98f-4b8b-9ca9-c3c66e7774d1	370ff433-67d6-4761-87d1-38f451cf02d3		operating system, six bytes, virtual memory, memory address, c library	
+7aab9397-22c3-4ad5-beca-764e7308dfdf	370ff433-67d6-4761-87d1-38f451cf02d3		operating system, six bytes, virtual memory, memory address, c library	
+e3b111b7-8038-4f0e-a112-7fb6b2538548	370ff433-67d6-4761-87d1-38f451cf02d3		operating system, six bytes, virtual memory, memory address, c library	
+4cadee54-ee1a-49c8-b696-1968feee37b3	c94089e2-8c6f-4f37-97d0-788d61792427		c code, c library	
+802abd70-0cc9-49a1-8916-5ff1c0a98738	0e335293-6ff5-4b0d-b282-f24989e71e9c		memory location, race condition, return value, code review, void pointer, c library	
+7d923e20-7168-4cea-b7dd-1ffabc4e892c	78aaa830-e914-465c-9164-e41127b480e0		six bytes, void pointer, c library	
+a339955c-d52d-4f69-9c8a-c4e9d4cf038f	2ad4716e-64da-489f-b4df-57a246439b24		heat memory, write code, return value, whole lot, heap memory, file handle, c library	
+55fa9033-494f-4ca8-a264-154a981f06db	12d5b460-633d-4d2a-b5c1-3ad4d2e0b677		condition variable, p thread condition, thread condition, condition variables, file handle	
+21a18c82-8c09-4c06-aa5a-1430e944cfd4	f821e484-760b-4b75-932c-50619510f001		network card, address info, ip address, c code, port number, ip four address	
+ab2486a0-3b00-4439-9a3b-86695d469f1e	f821e484-760b-4b75-932c-50619510f001		network card, address info, ip address, c code, port number	
+f8ecc9da-31e3-4c40-bd72-4df6058e9d24	3f81a7ca-c14c-49c3-b4e6-618cc1b96399		return value, memory location, c string	
+67bd4b3a-2f54-49a6-9c31-ff5dd35bf7d9	aa9e33c6-a872-4155-8f15-759bf1e8c65b		return value, child process, main method	
+adb2cfd0-541a-4a0b-b58d-3929f1a61fdc	9652692e-dd31-4b04-8bab-b6d245aecec6		return value, child process, memory address	
+d310b36e-5c21-4803-b0c6-78d62b73b532	6ab5ec08-d21e-4866-9b15-09221281f827		child process, c code, virtual memory, return value, heap memory	
+1eae9ffe-aa3f-41af-bb4f-a63743eb80a6	3037c608-8f5b-45ae-8ed2-3b9c99728baa		return value, heap memory, void pointer	
+7466bd20-538e-4aeb-b004-1fa8fb518f9f	fd3da857-9e98-40d4-a086-a223f26ca622		operating system, return value, whole load, void pointer, address space, thread exit, race condition, p thread exit, memory address, write code	
+78b152f6-1621-4792-8595-2687dfbc6aa9	eee1b185-b013-445a-ae60-54a4124d55c0		return value, whole load, memory address, address space	
+74e03522-c6e8-4e59-84ba-95a62ce5f3fd	4c0f5f92-cfbe-4f71-8f38-9663266b644c		p thread exit, c code, thread exit, return value, main method, void pointer	
+82fd59dc-808f-40f4-a0bc-0ccf6eb76e78	71f83440-9e29-4c8a-94b0-9abc1d23649f		return value	
+199ad3c7-e0c6-414e-8fa1-80276ca9fdcc	ec222889-2be0-445f-b0ab-7884bf9dbcb7		counting semaphore, counting semaphores, c code, return value, ring buffer	
+e61962ea-1b9a-41e3-8779-5e49bf8449a5	40828d9c-afb4-4cb0-9364-444762f36ed3		return value, whole lot, symbolic link	
+386e3067-a4c7-42a0-9721-75a58c84ced0	e6c0d504-3152-4700-b3c6-b46fcfe33693		return value, operating system	
+7dd4705a-6995-4f39-a32c-12a1174bd04e	fcfb3fc4-e052-4945-b2ce-cae346ae8691		whole load, heap memory, child process, cpu time	
+ca407966-df2d-404e-98ad-238fa2551362	8f80cc01-b087-4a2b-81ac-0f88ebd83bed		whole load	
+838e7f44-0162-44a2-bc9a-9896d00d13e1	8167cecf-27ad-4006-bfb5-9564610b419e		six bytes, page table, whole load, memory address, main memory	
+935f6155-a7a0-4504-b818-62e2db066493	020c9afd-45bf-4f23-a159-e31cce2b5254		whole load, standard error, symbolic link	
+f98ba734-0314-4594-abb4-128d7495d297	df7abf1d-b0aa-4304-8238-d51397adb661		c code, whole load, meta information, symbolic link	
+31a84e40-90fe-4ea7-9af5-cfc0d0ffebe8	60c3e81d-d897-4f30-92d5-7388197ee2f7		operating system, dot text, whole load, address space, whole lot	
+bcc2191c-ce75-4441-b029-c038282b1677	8749f411-8bbd-4de7-aa29-584aebd74c5c		whole load, whole lot	
+1b576d61-d378-4ab7-892f-56f113eb5f08	fd8282b8-e824-4b9b-8eff-6633307207b7		whole load, virtual memory	
+4c2cacef-7dbd-4877-97e1-9c6cf834fa33	32d1aef6-02de-428f-b48c-249e01ceb779		operating system, whole load, six bytes, main memory	
+0dfe3fc6-d54e-41af-b8c0-14d77999a05c	d025343b-9eed-4e33-ae92-e6c90526d8be		whole load	
+ef681962-29d9-43da-bc9c-fdb2c8005093	1f634a38-a5ad-4d43-bba4-a632e82f8035		multiple threads	
+39f43910-3996-4918-b9ce-21346fb84956	8a1ca935-1fe3-4c99-8566-94fa61720306		multiple threads	
+513bcd38-3d1f-455e-9de0-3a1cb12f8bf0	8a1ca935-1fe3-4c99-8566-94fa61720306		multiple threads	
+87dfa0a9-a180-45ac-87e0-763c82801382	8a1ca935-1fe3-4c99-8566-94fa61720306		multiple threads	
+a86a145c-b6f4-40eb-9ae9-1db34396ab40	8a1ca935-1fe3-4c99-8566-94fa61720306		multiple threads	
+01850175-f9bd-4eba-a73b-9dc63940ee41	a3fd003e-bbd5-4f03-876b-71da0068bcff		write code, multiple threads, standard error	
+8258d360-0ce7-4e09-93ba-dbde1dba4781	a3fd003e-bbd5-4f03-876b-71da0068bcff		write code, multiple threads, standard error	
+82687def-c053-4955-8eef-1d80e8bf31da	a3fd003e-bbd5-4f03-876b-71da0068bcff		write code, multiple threads, standard error	
+9edf0a56-503a-444a-861d-6bd29f8a2e58	a3fd003e-bbd5-4f03-876b-71da0068bcff		write code, multiple threads, standard error	
+dff47837-9853-4be6-9e60-8ab2c54b8272	a3fd003e-bbd5-4f03-876b-71da0068bcff		write code, multiple threads, standard error	
+3bc5e145-f08c-45f8-af8f-9b7dd35d816f	60cb1ead-fb02-42d6-818b-852b26a45734		link list	
+a8161152-527c-4bb1-b65e-2d56e013ab7e	07815bb0-99a8-4c0e-b130-a50e2626a951		tcp connection, ip address	
+a37986ec-bb69-4841-90b8-6c7f50b431f0	49ef52d7-a9e8-4586-ac98-5388d916c8ef		tcp connection, ip address	
+b9161da0-95b9-41ea-9071-0d954a849a97	420c4806-008a-472f-9f9d-36744dee3e16		web page, tcp connection, ip address	
+b0c92d50-f05e-4513-bf48-995a2b995850	e291bfce-3031-4b8f-bfff-c864ea6ab577		heap memory	
+689b84d6-86d5-4519-8312-97bd8c8fecd0	4dff5584-1cc0-4488-a933-ace44b5e67fe		heap memory	
+f7acd66f-6e2d-4d16-ad5b-83adf8627df9	f9b92429-1b03-496b-bca0-46b57da14948		memory location, heap memory, c string	
+367502e6-86bd-4b7c-8b0f-a6d09829fe75	6e2fe450-765e-4c71-ad59-ede5c821031d		operating system, memory location, heap memory, virtual memory	
+084ced83-e9fe-4139-9d64-86f4824864cf	108390da-601d-47c2-a2fe-1e440bc78526		heat memory, child process, heap memory, c code, memory address, write code, void pointer	
+43f3b072-76f4-44af-91de-41fdc64695b5	281c3d1c-67de-4cde-b228-385a00035e37		heap memory	
+1eb0f7e3-89d3-453d-bfbc-accad12de44e	e3b8d4ce-9b86-4a98-a834-be45352ae3ac		exclusive access	
+214ce85d-efea-4e30-9831-390614fc2683	fef9369d-5a7b-427b-961f-3de7757d9fad		resource allocation graph, exclusive access	
+b7f1de1e-a1ea-4bb5-9459-de401bd7f1ab	ee4280e5-f868-4704-b9fa-17edb7b6550f		resource allocation graph, counting semaphore, exclusive access	
+34a28852-0928-4275-9d51-ae6393b84ed4	ce3ec985-5690-49aa-bedb-2e0791fa5847		exclusive access, cpu time	
+714fd6aa-ef81-4bbb-bc38-fac32ba091c6	4ecf5383-deaa-4de6-9819-f507c45d1250		resource allocation graph, exclusive access	
+491a80ef-eda8-4e66-a332-f2dd12cb7ebe	3725746a-27dd-438a-a95a-ef491ccdf65a		memory location, c code, c string, memory address, main method	
+b876ebf8-b1c2-4187-bfab-f4c2fa732965	421cc036-ba96-45c2-b994-d272a211cb75		c code, heat memory, standard error	
+aaed71d6-01a3-42f8-b99e-ca3a84253b58	a354e1c2-b97f-431a-bb14-eb1027614085		c code, main method, standard error	
+4aa29e14-ce85-47a2-a685-4c0979a6c56b	5efe301e-89c5-4f68-94e3-d412a7af6811		c code	
+633f10ed-2038-4da2-9855-c3cad245559f	0e3d3363-d133-4ce1-9365-48e4963a144e		p thread exit, thread exit, c code, main method, memory address, void pointer	
+f2346ed4-1e17-412e-91f1-e269250987e5	ed2f8480-b0b0-4337-9c88-34e6f4533ac9		c code, memory address, address space	
+1950b119-9d1c-4760-aafa-f10604e9d6cd	50b7541d-9c81-4d02-a350-64c807fdc67e		c code, virtual memory	
+22302903-5bcb-4262-bd2c-179cf2135ab9	ddef51d2-a4a3-4c93-8e6f-a14ca5b77949		c code, tcp connection, web page, write code	
+38d669a5-394b-4826-bb65-0090a3444b01	ddef51d2-a4a3-4c93-8e6f-a14ca5b77949		c code, tcp connection, web page, write code	
+a60784ac-5129-4d35-8feb-23e8aa752f87	ddef51d2-a4a3-4c93-8e6f-a14ca5b77949		c code, tcp connection, web page, write code	
+400997f2-57b2-4cbf-8257-c43a761b7df6	e4e323dd-48e8-4a71-93a4-c943cd572cd4		c code	
+9c4b2de5-a3dd-4f12-99ed-f3bf1b2ee816	1841e798-4ab0-43c0-84ae-b3f5fa363611		c code	
+0e904504-e9c5-4ef5-9739-b762f6053521	fc065bf3-777d-4690-b217-f9568d4bec9e		operating system, child process	
+b4efecab-e0c0-41b8-b21e-6ccca0ed2893	c74e53e3-7589-4a9d-aed5-967e3f8d0b53		child process, memory location, cpu time	
+0f5acc21-05fe-4694-921a-f38f2fb0134e	04d3804c-0524-4363-805c-25db542ebd2b		child process, memory location	
+5e598bf6-90ab-4adf-86a5-0f9204ac0b6f	6fb65074-b3c4-4e0d-8702-f8107dbe99f5		cpu time	
+eb60661b-5d09-4877-bb19-11bf0d303584	dfb22d54-dcf6-4c08-a06d-80be727e0d64		operating system, cpu time	
+efd565c9-78d8-4cd0-8d76-4beb5b405651	f93f8a48-1812-45d8-a7b6-fe43db5d4e32		wait time, cpu time	
+34b3522d-04fe-4f64-bfd8-427941a01fb5	c063fce0-dfd9-4091-9489-b8f2ef6521f5		virtual memory, page table, main memory, memory address, cpu time	
+3b653f0c-c210-4f13-a615-5d87a823e96e	38d1bed1-cb70-4f20-8e6a-2a695284903b		memory address, virtual memory, address space	
+04149e23-3b12-41fe-bb0f-f717c1d17865	da715266-4369-44da-a599-e738118868ce		memory address, virtual memory, address space	
+4a691a02-f191-450e-8b66-639b515b068e	bbe174df-8355-4ea3-bb50-7e4359d81c14		main memory, memory address, virtual memory, page table	
+5d08e5da-dc37-4280-b939-3b84bb917113	3dc63f04-f79f-4669-b736-b9aafd2b6c83		virtual memory, page table, main memory, memory address, write code, address space	
+ef84d9c3-5b70-4f68-aa5f-bdd541a475e6	3a4c24ba-4dde-49a3-9c9a-c8105ea0fe29		six bytes, virtual memory, page table	
+3d0ca20e-770a-4185-b85c-16363e80fe82	d2a6cc99-7562-437a-b2f1-6db450342a64		six bytes, virtual memory, disk block	
+708df333-e9ad-4b1c-8f24-df23dcfb4811	bae6396d-ab93-4979-9008-adfcc0c55624		operating system, main memory, virtual memory, address space	
+e8fc277c-1bd5-4c49-99df-f1b1b017da12	9155bb35-d1ed-4dba-a8b9-f002f267c3aa		symbolic link	
+3b9f5713-ca11-400c-bd6f-428347679520	ecd57995-053a-4096-8fb4-22cca3173286		memory location, memory address, void pointer	
+23d922a6-680c-4d83-887e-43c407779538	52da1e85-c6e2-4d52-9668-23bd8143ab0b		memory location, void pointer	
+98759da5-160f-4e80-9141-033193a74769	883efff4-c062-4a5a-8acf-1b9deb063fcc		void pointer, main method, race condition	
+e12861bf-8be8-4e4d-a2d8-c07e5d79f3dd	883efff4-c062-4a5a-8acf-1b9deb063fcc		void pointer, main method, race condition	
+e574f9c9-dc9b-4dd2-b746-c100de94ae3b	883efff4-c062-4a5a-8acf-1b9deb063fcc		void pointer, main method, race condition	
+d8c34ce3-8698-443a-b044-40b8ce707888	fbe48bca-5211-4361-a1c3-cef1e2db25af		void pointer, c string, race condition	
+31222488-6252-419c-9c31-9ff072cffeee	127c32dc-236a-439c-8408-fdbd8c633b59		c string, void pointer	
+5f3d6627-e0d7-473c-920e-5f3d6584e568	127c32dc-236a-439c-8408-fdbd8c633b59		c string, void pointer	
+78b23023-0958-47d0-90f2-41607cd135b3	127c32dc-236a-439c-8408-fdbd8c633b59		c string, void pointer	
+84c32d4e-7aac-462f-b6e7-5a15921bfb97	127c32dc-236a-439c-8408-fdbd8c633b59		c string, void pointer	
+aa979b80-c6f3-4eca-aaf9-1b888ebea383	127c32dc-236a-439c-8408-fdbd8c633b59		c string, void pointer	
+8eabf8ac-475f-41e0-83f4-7e1e117f86f0	a1afe3ea-ce51-4ca8-a612-de21539aa6c8		void pointer	
+f6868da9-5be3-472a-ac74-0889cc0d698a	735b2e81-3634-4198-8712-ac53348660ef		main method, memory address, c string	
+6294f981-6e83-4197-a055-9b34816b1257	9e1a28f7-56a3-4258-9288-af5e2beb45a1		main method	
+aa01a980-f756-4c1c-87f6-abf1aed24f98	7f79555d-ac03-4207-b683-158e6666b554		p thread exit, thread exit, main method	
+d80efb9d-96a2-4cc0-ad4f-a9049155313e	7f79555d-ac03-4207-b683-158e6666b554		p thread exit, thread exit, main method	
+a9f8e960-2caa-4eb8-b9a8-108fee71d968	542c379f-129e-4b8f-96f4-9f5db53a648a		main method	
+2a7b5c6d-c236-498b-8c94-c4baac66feaf	189d8d6a-9f93-4adf-acb7-ccb2f4ad19d3		counting semaphores, counting semaphore, pizza slice	
+6500319c-14b4-4a6e-a714-3cf7e49e96a9	4be9a555-5ad0-43e4-9083-639d50451759		memory location, memory address	
+83c8c367-376a-4574-bc73-6b7b742d1b47	5b14ee59-1f8a-4391-a9a8-b92f70cdc73a		memory location, memory address	
+2ce0c44c-c7e2-4bab-becf-4f3ab3af2d11	fc1e6e9e-bb82-4f05-b87b-4b6a64218ee2		memory location, memory address	
+95b8a0e0-2c36-49bf-aa43-15733ee06e86	ab6cb7b8-03b1-42c9-a610-62498fa0491a		memory address	
+37245daa-183e-43b4-9765-a5d9bc2a6ac6	c153e6f7-146a-4bc8-9e61-f8c4977ae247		memory address	
+8078f738-b531-4bab-83c7-0facaf3ee1bf	3261dd09-3d7a-41cb-a224-f0db78763d7c		operating system, memory address, thread exit	
+ca760730-bb8f-426f-8d87-931bf10baf4e	035133fa-5852-46ad-af67-00990d2c128c		heat memory, memory address	
+5e4db746-ae92-4bc8-ba83-cf475b89a78c	1a6b6594-28c1-46c5-969a-fa158ff4fe35		heat memory, memory address, six bytes, page table	
+1ea99e17-8bc6-433e-90ce-9d051362f24b	1309d1ec-2a82-48b5-984f-8f2a11d6965a		memory location, six bytes, dot text, whole lot, c string, memory address, address space	
+f4854068-5be5-4c56-b771-fcf375c9a2d2	6e63064e-0830-44c5-98a6-818bbccf0d21		whole lot, dot text	
+3c6b2669-f4b1-4b5e-ad45-a0b90bff5373	82031c83-6aa4-4d38-9fe6-fcaff20ea00e		whole lot	
+111f8779-d189-4a26-9857-42833718e44a	6a5a9638-5648-414c-8285-ddbed63a6bbc		whole lot	
+b93caeac-d529-4079-99f4-28d2f8c07db2	74340630-c4ab-4ab8-979e-e61fa3b1af87		whole lot	
+f11d312f-2dc3-4d38-893d-f28714ba089d	7eccf12c-bf4c-4851-8859-afc073ee089f		whole lot, web page, web browser, tcp connection	
+7dec3665-e1bb-4bf2-a909-d43c2937b24b	9369b6a0-7973-460d-a7da-c1fd0df2e175		whole lot, web page, web browser, tcp connection	
+2635d0a3-9614-4aa7-9bdc-dca870b27eec	d0ad3e2f-5de1-4928-8b1e-d906c2a50bd3		web browser, web page, tcp connection	
+cfb03b59-dbf5-447a-880e-0633fd40a533	b31bae82-28ef-472d-ae5a-af460469f995		web page, write code	
+a855d876-1b55-4c60-aedf-e70a95f03847	a575d7d3-6f44-4d8c-ad29-b65cd0732053		six bytes	
+3645730a-4aa1-43d8-be7d-16db4e0c5df3	ef085c9c-bb05-469c-bb13-9f2c3cd0a7fa		heat memory, c string	
+32897e63-cb36-4269-8874-4059caa719c9	faa099f8-befc-437e-b827-e656bc2710b0		write code	
+662ac3ea-798b-43f9-bf91-290620d22337	a4d368e1-6b28-4551-bcb9-49f0b94806f8		p thread exit, thread exit	
+83887d4e-f5b2-4f94-9e3f-4d3c19d88dd9	111c55f3-f935-47fe-9971-29f6adbefd01		p thread exit, thread exit	
+203bde9a-6185-4ffa-94f2-2c4b061612e8	d673e26e-4e84-4449-ad87-8159583f2cf9		memory location	
+578e3a53-f9ab-41fa-bf8f-4907d8f5ebbe	6f21cbd4-06bf-42e8-b43e-acbb13f15f7f		heat memory, main memory	
+983b6f0c-8731-4f16-a4a4-67e9285836e5	fc9d2135-48a9-4326-be54-0cbd00a5b432		dot text	
+46d738b3-f1ab-4400-a64d-55474f51875f	0c10662e-ca5f-40f8-99b0-827839695cb1		heat memory	
+6ad1ba5c-6f3e-4ca6-b80b-2f7d444e23ef	d0fac423-5932-4bca-9577-be11f43cc970		heat memory	
+cfcca673-a18d-4f07-9473-13b87f7c5ef5	d0fac423-5932-4bca-9577-be11f43cc970		heat memory	
+7fdcfa9d-8d8a-4615-9be7-3c2492321893	dbb8e662-a66f-4536-a816-52ca51b6fa98		resource allocation graph	
+bfc28ac1-7f97-42f4-ae46-fb91930b68f6	dbb8e662-a66f-4536-a816-52ca51b6fa98		resource allocation graph	
