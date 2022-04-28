@@ -222,7 +222,7 @@ def main():
         model_args.tokenizer_name if model_args.tokenizer_name else model_args.model_name_or_path,
         cache_dir=model_args.cache_dir,
     )
-    special_tokens = ["[MASK]"]
+    special_tokens = ["[BLANK]"]
     tokenizer.add_tokens(special_tokens)
 
     model = T5ForConditionalGeneration.from_pretrained(

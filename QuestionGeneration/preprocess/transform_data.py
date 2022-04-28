@@ -17,7 +17,7 @@ targets = []
 for d in data:
     source = ""
     question = d["question"]
-    question = question.replace("_____", "[MASK]")
+    question = question.replace("_____", "[BLANK]")
     answer = d["answers"][0][3:]
     distractors = []
     for c in d["candidates"]:
