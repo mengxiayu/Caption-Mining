@@ -110,12 +110,32 @@ input.largerCheckbox {
 /* video player css */
 .videoHolder {
   position: relative;
-  overflow: hidden;
-  left: 50%;
-  transform: translateX(-50%);
+  margin-left: 10px;
+  /* overflow: hidden; */
+  /* left: 50%;
+  transform: translateX(-50%); */
   width: 60%;
   height: 60%;
   /* background: #000; */
+  
+}
+
+.flex-row {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  /* justify-content: space-between; */
   margin-top: 1rem;
 }
 
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  min-width: 100px;
+}
+
+
+.dropdown-menu {
+  max-height: 500px;
+  overflow-y: scroll;
+}
