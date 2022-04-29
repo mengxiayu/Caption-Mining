@@ -75,7 +75,7 @@ def extract_ngrams():
         for k,v in concept_list:
             f.write(f"{k} {v}\n")
             
-extract_ngrams()
+# extract_ngrams()
 
 
 def find_contexts(text, target, window=400):
@@ -100,6 +100,7 @@ def curate_meta_data_for_course():
             data.append(line)
     fr.close()
     fw = open(f"data/transcriptions2courses_{dept}_{cn}.txt", 'w', encoding='utf-8')
+    fw.write("transcriptionid\tvideoid\tDomain\ttermname\tvideoname\tdeptname\tdeptacronym\tCourseNumber\tCourseName\tSectionName\n")
     for line in data:
         fw.write(line)
     fw.close()
