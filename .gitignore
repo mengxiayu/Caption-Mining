@@ -16,3 +16,4 @@ package-lock.json
 .ipynb_checkpoints
 
 *.png
+*.mp4
