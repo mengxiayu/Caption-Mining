@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Concept Timeline Demo",
+    "version": "1.0",
+    "description": "Concept timeline for ClassTranscribe",
+    "icons": {},
+    "permissions": [],
+    "content_scripts": [
+        {
+            "js": [
+                "third-party/jquery-3.6.0.js",
+                "content.js"
+            ],
+            "css": [
+                "content.css"
+            ],
+            "matches": [
+                "https://classtranscribe.illinois.edu/video?id=ea7ac542-45a9-4077-aff9-96ef4eb71bcb"
+            ]
+        }
+    ]
+}
