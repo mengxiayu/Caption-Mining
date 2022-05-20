@@ -1,0 +1,84 @@
+What is the purpose of this section? <sep> What do you need to know about system architecture? <sep>
+Hyperthreading is a new technology and is in no way what type of multithreading? <sep>
+valgrind is a suite of tools designed to provide what? <sep>
+What is valgrind a good tool to check for? <sep>
+What is threadsanitizer? <sep>
+What is gdb? <sep>
+Setting breakpoints programmatically a breakpoint is a line of code where you want the execution to stop and give control back to who? <sep>
+a shell is a programming language that is running inside what? <sep>
+What is a wonderful tool provided by the llvm project? <sep>
+What is preprocessing? <sep> What does the compiler do before compiling the program? <sep>
+What type of operand is the left operand? <sep> What is the right operand type? <sep>
+What is an operation that the kernel carries out? <sep>
+What is the first parameter of the format string? <sep>
+The buffering semantics of printf are a little what? <sep>
+A c-string is a series of bytes delimited by what? <sep> What character is equal to the byte 0x00? <sep>
+In low-level terms, what is a struct? <sep>
+A void pointer is a pointer without what? <sep>
+What is a rapid fire section? <sep>
+What is a program that provides an interface between hardware and user software? <sep>
+What is an instance of a computer program that is running? <sep>
+What is a contiguous, expanding region of memory? <sep>
+What is a powerful and dangerous tool? <sep>
+What is a snippet of how to use system? <sep>
+What does this also mean that system is a blocking call? <sep>
+What is an unwanted complexity? <sep>
+What does the survey make sure to note about memory allocation? <sep>
+What is a list of blocks in our heap memory? <sep>
+What is a worst-case linear time operation? <sep> Search linked lists for a sufficiently large free block? <sep>
+What is the slub allocator? <sep>
+What is the slub allocator? <sep> What is minimal splitting and coalescing? <sep>
+What is a process? <sep> What is the difference between creating a thread and fork? <sep>
+What is a common way for simple programs to ensure that all threads finish? <sep>
+When compiled with -o2, assembly output is a single instruction? <sep>
+What is a critical section of code that can only be executed by one thread at a time if the program is to function correctly? <sep>
+How many threads can a memory location be accessed by? <sep> What is the sum variable? <sep>
+What is a mutex? <sep>
+What is an instruction supported by most modern architectures? <sep> What is atomic compare and exchange? <sep>
+A mutex is a semaphore that always waits before what? <sep>
+Push (and pop) is executing in what state? <sep> What may not have been written to so it may still contain the original value? <sep>
+What is the other is the loop is a busy loop? <sep>
+What is a ring buffer? <sep> How many index counters keep track of the current beginning and end of the queue? <sep>
+The following code is an incorrect implementation of what? <sep>
+The following code is an incorrect implementation of what? <sep>
+The dining philosophers problem is a classic synchronization problem. <sep>
+What is a block of virtual memory? <sep>
+A page table is a map from a number to what? <sep>
+What is a list of pointers that point to the next level of tables? <sep> What may be omitted from each table? <sep>
+What does mmap do instead of tying each virtual address to a physical frame? <sep>
+What is mmap a trick of? <sep> What can a frame be backed by instead of mapping a page to? <sep>
+What is one of the big optimizations? <sep>
+What is an efficient form of inter-process communication because there is no copying, system call or disk-access overhead? <sep>
+fseek and ftell are a simple way to accomplish what? <sep>
+What is a great example where processes will write to append-only tables and then other processes will read from those tables? <sep>
+What is one advantage of fcfs? <sep> What is a fifo? <sep>
+How many bytes is a kilobyte? <sep> How many megabytes is it? <sep>
+What is a set of specifications put forward by the internet engineering task force that govern how implementers of a protocol have their program or circuit behave under specific circumstances? <sep>
+What does tcp stand for? <sep> What is the name of the protocol that is built on top of ipv4? <sep>
+What is af_inet for ipv4? <sep> What is socket_type? <sep>
+What does void send_request do? <sep> What is a little overkill here? <sep>
+Google protocol buffers is an open-source efficient binary protocol that places a strong emphasis on high throughput with low cpu overhead and what? <sep>
+What is the last piece of background important for? <sep>
+What is an implementation of the file interface? <sep>
+What is a block that stores pointers to more data blocks? <sep>
+What is a common c programming bug? <sep> There is no support in the c language to ensure resources are always released with what? <sep>
+What assumes the directory structure is an acyclic tree that is reachable from the root directory? <sep>
+What is the name of the read-only filesystem? <sep> What type of storage media was the iso9660 originally designed for? <sep>
+What is a per-process attribute that determines how a signal is handled after it is delivered? <sep>
+How many dots does a program print every second? <sep>
+What is a temporary signal mask used during? <sep>
+Spectre is a bug where instructions that otherwise wouldn’t be executed are speculatively executed due to what? <sep>
+What is the name of the high-level proof of concept? <sep>
+Openbsd is an arguably better system for what? <sep>
+What does a container share with a host machine while isolating itself from other containers or processes on the host? <sep>
+What is an application that displays the output from the shell? <sep>
+What is the other type of library? <sep>
+What is the sentence that sets the expectation? <sep> What is defined elsewhere in this volume of posix.1-2008? <sep>
+What is openmp an alternative to? <sep>
+storemi is a hardware microcontroller that analyzes how the operating system accesses files and moves files/blocks around to speed up what? <sep>
+What can be included to augment the path that is taken or other instructions? <sep>
+What is the name of the system call that is exclusive the bsds and macos? <sep>
+How is each arena allocated by the system? <sep> What is managed with its own mutexes? <sep>
+What is a bad idea for someone who dreams of using sleepsort? <sep>
+What was the big problem with rootkit? <sep> What is a backdoor for everyone's systems if programmed incorrectly? <sep>
+What is a rootkit? <sep> What keeps track of almost anything that a user does? <sep>

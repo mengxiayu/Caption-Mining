@@ -1,161 +1,85 @@
-sentence	source	arget	relation
-this section is a short review of system architecture topics that you’ll need for system programming.	programming	programming	is
-an interrupt is internally an electrical signal that is delivered to the processor when something happens – this is a hardware interrupt [3].	when  hardware	processor	is
-this is an oversimplification because there are certain hardware faults that can’t be ignored or masked away, but this class isn’t about teaching you to build an operating system.	system	system	is
-there is a well-established set of registers that the arguments go in according to the kernel as well as a system call “number” again defined by the kernel.	again  kernel	kernel	is
-hyperthreading is a new technology and is in no way shape or form multithreading.	form	shape	is
-it is a network protocol that allows you to spawn a shell on a remote machine.	remote  machine	machine	is
-so what do you need to know is a few things.	few  things	so  what	is
-git is a decentralized version control system, meaning that you’ll need to get a repository onto your vm.	repository	vm	is
-here is a list of commands you probably won’t need to fix your repo 1.	probably  repo	1	is
-here is a quick example with an assert.	assert	assert	is
-valgrind is a suite of tools designed to provide debugging and profiling tools to make your programs more correct and detect some runtime issues [4].	issues	4	is
-valgrind is a effective tool to check for errors at runtime.	runtime	runtime	is
-threadsanitizer is a tool from google, built into clang and gcc, to help you detect race conditions in your code [5].	code	code	is
-gdb is a program that helps you track down errors by interactively debugging them [6].	errors	interactively  them	is
-setting breakpoints programmatically a breakpoint is a line of code where you want the execution to stop and give control back to the debugger.	back  debugger	debugger	is
-a shell is a programming language that is running inside your terminal.	terminal	terminal	is
-the undefined behavior sanitizer is a wonderful tool provided by the llvm project.	llvm  project	project	is
-if you want to see if there is an error that may cause a race condition, casting error, etc, all you need to do is the following.	following	error	is
-puts(" work things out on your own."); fprintf(stdout,"this homework is a stepping stone to all future assignments.\n"); char p[] = "so, you will want to clear up any confusions or misconceptions.\n"; write(1, p, strlen(p) ); char buffer[1024]; sprintf(buffer,"for grading purposes, this homework 0 will be graded as part of your lab %d work.\n", 1); write(1, buffer, strlen(buffer)); printf("press return to continue\n"); read(0, buffer, sizeof(buffer)); return 0; }	buffer	continue\n	is
-this is a handy guide that’ll help you move away from the latter and towards the former.	handy  guide	away  former	is
-preprocessing is a copy and paste operation that the compiler performs before actually compiling the program.	actually  program	program	is
-if the left operand is a pointer and the right operand is an integer type, then only plus or minus may be used and the rules for pointer arithmetic are invoked.	arithmetic	arithmetic	is
-what this statement means is that everything is a file descriptor, which is an integer.	integer	what	is
-for example, here is a file object, a network socket, and a kernel object.	kernel object	example	is
-a system call is an operation that the kernel carries out.	kernel	that	is
-there is a shortcut function perror that prints the english description of errno.	errno	errno	is
-the first parameter is a format string that includes placeholders for the data to be printed.	data	placeholders	is
-here is an example of printing things out.	things	things	is
-; printf("hello %s, your result is %d\n", name, score); printf("debug: the string and int are stored at: %p and %p\n", name, &score ); // name already is a char pointer and points to the start of the array.	array	array	is
-the buffering semantics of printf is a little complicated.	printf	printf	is
-there is a printf equivalent that works with file descriptors, called dprintf.	descriptors	descriptors	is
-here is a quick example of reading at most 10 characters from standard input.	standard  input	input	is
-it is a good idea to check if the number is equal to the amount expected.	amount	amount	is
-a c-string is a series of bytes delimited by a nul character which is equal to the byte 0x00.	byte	byte	is
-in low-level terms, a struct is a piece of contiguous memory, nothing more.	contiguous  memory	memory	is
-a void pointer is a pointer without a type.	type	type	is
-secondly, it is a good habit to set pointers to null, once the memory has been freed.	memory	null	is
-after the function returns, it is an error to continue to use the memory.	memory	memory	is
-it is an error to assume that it will always be initialized to zero.	error	always  zero	is
-an operating system is a program that provides an interface between hardware and user software as well as providing a set of tools that the software can use.	software	that	is
-this is a standard (or many standards now) that an operating system must implement to be posix compatible – most systems that we’ll be studying are almost posix compatible due more to political reasons.	political  reasons	reasons	is
-kernel space is a power operating mode that allows the system to interact with the hardware and has the potential to destroy your machine.	machine	machine	is
-this is where there is a central clock on a standard laptop or desktop.	desktop	laptop	is
-a process is an instance of a computer program that may be running.	program	program	is
-• a heap the heap is a contiguous, expanding region of memory [5].	memory	memory	is
-here is a simple example of this address space cloning.	cloning	cloning	is
-here is a summary of what is relevant: 1. fork will return a non-negative integer on success.	success	success	is
-wait is a simpler version of waitpid.	waitpid	waitpid	is
-this is a high-level overview of how information is stored inside the status variables.	variables	variables	is
-there is a convention about exit codes.	codes	codes	is
-this is a problem because usually the child doesn’t know about those file descriptors.	descriptors	descriptors	is
-the following is a snippet of how to use system.	how  system	system	is
-passing something along the lines of argv[1] = "; sudo su" is a huge security risk called privilege escalation.	escalation	=	is
-• malloc(size_t bytes) is a c library call and is used to reserve a contiguous block of memory that may be uninitialized [4, p. 348].	p.  p.	memory	is
-our heap memory is a list of blocks where each block is either allocated or unallocated.	where  block	blocks	is
-after setting up your fields then it becomes simply looping through each of the blocks and checking the appropriate fields here is a visual representation of what happens.	visual  representation	fields	is
-there is a lot of overhead for that allocation which is what we are trying to avoid.	allocation	what	is
-allocating memory is a worst-case linear time operation – search linked lists for a sufficiently large free block.	free  block	block	is
-the slub allocator is a slab allocator that serves different needs for the linux kernel slub.	different  needs	linux kernel slub	is
-the slub allocator is a segregated list allocator with minimal splitting and coalescing.	coalescing	splitting	is
-almost weirdly, a thread is a process, meaning that creating a thread is similar to fork, except there is no copying meaning no copy on write.	write	write	is
-• the first is a pointer to a variable that will hold the id of the newly created thread.	created  thread	thread	is
-• the second is a pointer to attributes that we can use to tweak and tune some of the advanced features of pthreads.	pthreads	pthreads	is
-calling pthread_exit in the main thread is a common way for simple programs to ensure that all threads finish.	threads	thread	is
-but when compiled with -o2, assembly output is a single instruction.	single  instruction	-o2	is
-first, there is a decent bit of boilerplate code.	code	code	is
-a critical section is a section of code that can only be executed by one thread at a time if the program is to function correctly.	program	time	is
-if the memory location is only accessible by one thread, for example the automatic variable i below, then there is no possibility of a race condition and no critical section associated with i. however, the sum variable is a global variable and accessed by two threads.	two  threads	threads	is
-a typical output of the above code is argggh sum is <some number less than expected> because there is a race condition.	condition	code	is
-here is a complete example in the spirit of the earlier piece of code.	code	code	is
-atomic compare and exchange is an instruction supported by most modern architectures (on x86 it’s lock cmpxchg).	cmpxchg	cmpxchg	is
-while push (and pop) is executing, the data structure is an inconsistent state, for example the count may not have been written to, so it may still contain the original value.	original  value	value	is
-though, it was in an unpublished paper, so it was not discovered until later [1] (this is an english transcribed version released in 1965).	transcribed  version	1965	was in
-that is a complete implementation of a counting semaphore notice that we are calling sem_post every single time.	time  time	sem_post	is
-here is a sample program using barriers.	barriers	barriers	is
-this is an example of the reader writer problem.	problem	problem	is
-a ring buffer is a simple, usually fixed-sized, storage mechanism where contiguous memory is treated as if it is circular, and two index counters keep track of the current beginning and end of the queue.	queue	queue	is
-even though it is a common statistical phrase that all models are wrong, the more accurate the model is to the system the higher the chance the method will work.	method	system	is to
-there are four necessary and sufficient conditions for deadlock – meaning if these conditions hold then there is a non-zero probability that the system will deadlock at any given iteration.	given  iteration	iteration	are
-what the algorithm refers to is that if there is an adversary that specifically crafts a program – or equivalently a user who poorly writes a program – that the os deadlocks.	os  deadlocks	program	is
-why this is a popular choice in this realm is that there is no way of knowing which resources a program will select without running the program.	program	program	is
-this is an extension of rice’s theorem [3] that says that we cannot know any semantic feature without running the program (semantic meaning like what files it tries to open).	files	files	is
-here is a visualization of the worst-case.	worst  case	case	is
-a page is a block of virtual memory.	virtual  memory	memory	is
-a page table is a map from a number to a particular frame.	particular  frame	frame	is
-each table is a list of pointers that point to the next level of tables, som sub-tables may be omitted.	tables	tables	is
-accesses of most programs, there is a significant chance that the tlb has cached the results.	results	results	is
-there is a sort of pseudocode associated with the mmu.	mmu	mmu	is
-mmap is an interesting call because instead of tying each virtual address to a physical frame, it ties it to something else.	physical  frame	something	is
-it is an important distinction that we are talking about mmap and not memory-mapped io in general.	mapped  io	mmap	is
-one of the big optimizations is a file may be lazily allocated to memory.	lazily  memory	memory	is
-below is an annotated walkthrough of the example code in the man pages.	pages	pages	is
-this is an imperfect way to protect against data races.	races	races	is
-sharing anonymous memory is an efficient form of inter-process communication because there is no copying, system call, or disk-access overhead - the two processes share the same physical frame of main memory.	main  memory	memory	is
-a named pipe mkfifo is a pipe that a program calls open(2) on with read and/or write permissions.	permissions	permissions	is
-but here is an invalid series of operations that cause a race condition.	condition	condition	is
-for files less than the size of a long, using fseek and ftell is a simple way to accomplish this.	simple  way	this	is
-as you might have observed with using fork, there is a quirk of the implementation of files and their caches on ubuntu that will rewind a file descriptor once a file has been closed.	file	descriptor	is
-hadoop is a great example where processes will write to append-only tables and then other processes will read from those tables.	tables	tables	is
-one is a linear or near-linear read through of the file.	file	file	is
-one advantage of fcfs is that scheduling algorithm is simple the ready queue is a fifo (first in first out) queue.	out  queue	first  first	is
-as for another definition, a protocol is a set of specifications put forward by the internet engineering task force that govern how implementers of a protocol have their program or circuit behave under specific circumstances.	specific  circumstances	circumstances	is
-as such, now there is a key exchange similar to tls in higher layers that allows you to encrypt communication.	communication	communication	is
-tcp or transport control protocol is a connection-based protocol that is built on top of ipv4 and ipv6 and therefore can be described as “tcp/ip” or “tcp over ip”.	ip	ip	is
-error handling with getaddrinfo is a little different.	handling	getaddrinfo	is
-sockets are created with a domain af_inet for ipv4 or af_inet6 for ipv6, socket_type is whether to use udp, tcp, or other some other socket type, the protocol is an optional choice of protocol configuration for our examples this we can leave this as 0 for default.	default	default	is
-in essence, there is a hierarchy of dns servers.	servers	servers	is
-there is a limit on how many subdomains you can have, but this is often used to route requests to different servers to avoid having to buy many high performant servers to route requests.	requests	requests	is
-there is a version in c as well if you want to check that out.	c	well  that	is
-google protocol buffers is an open-source efficient binary protocol that places a strong emphasis on high throughput with low cpu overhead and minimal memory copying.	copying	overhead	is
-the last piece of background is an important one.	important  one	background	is
-confusingly in the real world, there is a different convention.	different  convention	world	is
-this is a historical quirk was brought by a clash between network developers and memory/hard storage developers.	developers	developers	is
-you may have encountered the old unix adage, "everything is a file".	file	adage	is
-a filesystem is an implementation of the file interface.	interface	interface	is
-a single indirect block is a block that stores pointers to more data blocks.	blocks	blocks	is
-forgetting to release resources is a common c programming bug because there is no support in the c language to ensure resources are always released with all code paths.	paths	paths	is
-there is a c library call to create symlinks which is similar to link.	symlinks	symlinks	is
-below is an example that illustrates the simplification of the a/b/../c/.	b/	b/	is
-lstat() is identical to stat(), except that if pathname is a symbolic link, then it returns information about the link itself, not the file that it refers to.	file	that	is identical
-to change the permission bits, there is a system call, int chmod(const char *path, mode_t mode);.	mode	bits	is
-similar, there is a setgid bit which sets the gid of the executor to the gid of the owner.	owner	owner	is
-there is a window of opportunity between when the directory is created and when it’s permissions are changed.	permissions	opportunity	is
-the iso9660 filesystem is a read-only filesystem originally designed for optical storage media (i.e. cdroms).	i.e.  cdroms	media	is
-note, this is a simplified description because solid state drives (ssds) can be used as a secondary write-back cache.	cache	cache	is
-this is a way to salvage hard disks in cases there is critical data and there is no apparent backup.	apparent  backup	cases	is
-if two disks from opposing raid partitions fail, there is a chance that you can recover though we don’t could on it most of the time.	most  time	time	is
-mttf = mean time to failure mttr = mean time to repair n = number of original disks p = mttr / (mttf-one-disk / (n-1)) using typical numbers (mttr=1day, mttf=1000days, n-1 = 9, p=0.009) there is a 1% chance that another drive will fail during the rebuild process (at that point you had better hope you still have an accessible backup of your original data.	original  data	data	is
-a signal disposition is a per-process attribute that determines how a signal is handled after it is delivered.	how  signal	process	is
-for example, the following is a program that slowly prints a dot every second, up to 59 dots.	59  dots	dots	is
-ps is an important utility that can help you find the pid of a process.	process	process	is
-the mask is a temporary signal mask used during the signal handler execution.	execution	execution	is
-it is a common error to forget to initialize the signal set before adding to the set.	set	set	is
-a common practice is to have one thread that can receive all signals or if there is a certain signal that requires special logic, have multiple threads for multiple signals.	multiple  signals	signals	is
-spectre is a bug where instructions that otherwise wouldn’t be executed are speculatively executed due to out-of-order instruction execution.	execution	execution	is
-the following snippet is a high-level proof of concept.	concept	concept	is
-this is a value that resides in the stack and must remain constant for the duration of the function call.	call	call	is
-openbsd is an arguably better system for security.	security	security	is
-pledge is a powerful command that restricts system calls.	calls	calls	is
-chroot is a contrived way of creating a virtualization environment.	environment	environment	is
-a container is a lightweight environment that shares resources and a kernel with a host machine, while isolating itself from other containers or processes on the host.	host	host	is
-the shell only looks through a special variable called path which contains a list of colon separated paths to search for an executable with your name, here is an example path.	path	name	is
-a terminal is an application that displays the output from the shell.	shell	shell	is
-further classes will teach you about parsing and assembly – preprocessing is an extension of parsing.	extension	parsing	is
-a static library is literally is an archive of object files.	files	files	is
-this is useful when you don’t know how long the scheduling will take • guided scheduling this is a mix of the above with a mix of the benefits and tradeoffs.	tradeoffs	benefits	is useful
-openmp is a standard that is an alternative to pthreads.	pthreads	pthreads	is
-journalling is a simple invention where the file system writes an operation in a journal.	journal	journal	is
-storemi is a hardware microcontroller that analyzes how the operating system accesses files and moves files/blocks around to speed up the load time.	time	time	is
-• if a group of processes is running on non-adjacent cores then there is a bug.	then  bug	cores	is
-for the curious, here is a longer, historical discussion.	historical  discussion	curious	is
-this is a pretty naive example, but it shows that we can tell threads to wake up in a standardized manner.	standardized  manner	manner	is
-internally, it is a worker pool of threads that executes instructions of all the running goroutines.	running  goroutines	goroutines	is
-kqueue is a system call that is exclusive the bsds and macos.	bsds	bsds	is
-reallocarray() is a nonstandard extension that first appeared in openbsd 5.6 and freebsd 11.0.	5.6  freebsd	openbsd	is
-each arena is a large region of memory that is internally allocated by the system (using brk(2) or mmap(2)), and managed with its own mutexes.	own  mutexes	mutexes	is
-someone who knows sleepsort is a bad idea but still dreams of an excuse to use it.	excuse	it	is
-for example the above is a problem insofar as getting information back to the attackers if it is allowed to communicate with them.	back  attackers	them	is
-privacy concerns aside, and believe me there are a lot of them, the big problem was that this rootkit is a backdoor for everyone’s systems if programmed incorrectly.	systems	systems	was
-a rootkit is a piece of code usually installed kernel-side that keeps track of almost anything that a user does.	almost  user	almost  that	is
+sentence	source	start
+this section is a short review of system architecture topics that you’ll need for system programming.	this section	0
+hyperthreading is a new technology and is in no way shape or form multithreading.	hyperthreading	0
+valgrind is a suite of tools designed to provide debugging and profiling tools to make your programs more correct and detect some runtime issues [4].	valgrind	0
+valgrind is a effective tool to check for errors at runtime.	valgrind	0
+threadsanitizer is a tool from google, built into clang and gcc, to help you detect race conditions in your code [5].	threadsanitizer	0
+gdb is a program that helps you track down errors by interactively debugging them [6].	gdb	0
+setting breakpoints programmatically a breakpoint is a line of code where you want the execution to stop and give control back to the debugger.	a breakpoint	37
+a shell is a programming language that is running inside your terminal.	a shell	0
+the undefined behavior sanitizer is a wonderful tool provided by the llvm project.	behavior sanitizer	14
+preprocessing is a copy and paste operation that the compiler performs before actually compiling the program.	preprocessing	0
+if the left operand is a pointer and the right operand is an integer type, then only plus or minus may be used and the rules for pointer arithmetic are invoked.	operand	12
+a system call is an operation that the kernel carries out.	a system call	0
+the first parameter is a format string that includes placeholders for the data to be printed.	parameter	10
+the buffering semantics of printf is a little complicated.	printf	27
+a c-string is a series of bytes delimited by a nul character which is equal to the byte 0x00.	string	4
+in low-level terms, a struct is a piece of contiguous memory, nothing more.	a struct	20
+a void pointer is a pointer without a type.	pointer	7
+the following is a rapid fire section.	the following	0
+an operating system is a program that provides an interface between hardware and user software as well as providing a set of tools that the software can use.	system	13
+a process is an instance of a computer program that may be running.	a process	0
+the heap is a contiguous, expanding region of memory.	the heap	8
+process forking is a powerful and dangerous tool.	process forking	0
+the following is a snippet of how to use system.	the following	0
+this also means that system is a blocking call.	system	21
+however, this detail is an unwanted complexity.	this detail	9
+the survey makes sure to note that memory allocation is a moving target.	memory allocation	35
+our heap memory is a list of blocks where each block is either allocated or unallocated.	heap memory	4
+allocating memory is a worst-case linear time operation – search linked lists for a sufficiently large free block.	memory	11
+the slub allocator is a slab allocator that serves different needs for the linux kernel slub.	the slub allocator	0
+the slub allocator is a segregated list allocator with minimal splitting and coalescing.	the slub allocator	0
+almost weirdly, a thread is a process, meaning that creating a thread is similar to fork, except there is no copying meaning no copy on write.	a thread	16
+calling pthread_exit in the main thread is a common way for simple programs to ensure that all threads finish.	thread	9
+but when compiled with -o2, assembly output is a single instruction.	assembly output	28
+a critical section is a section of code that can only be executed by one thread at a time if the program is to function correctly.	section	11
+if the memory location is only accessible by one thread, for example the automatic variable i below, then there is no possibility of a race condition and no critical section associated with i. however, the sum variable is a global variable and accessed by two threads.	the sum variable	202
+a mutex is a simple data structure.	a mutex	0
+atomic compare and exchange is an instruction supported by most modern architectures (on x86 it’s lock cmpxchg).	exchange	19
+a mutex is a semaphore that always waits before it posts.	a mutex	0
+while push (and pop) is executing, the data structure is an inconsistent state, for example the count may not have been written to, so it may still contain the original value.	the data structure	35
+the other is the loop is a busy loop.	the loop	13
+a ring buffer is a simple, usually fixed-sized, storage mechanism where contiguous memory is treated as if it is circular, and two index counters keep track of the current beginning and end of the queue.	a ring buffer	0
+the following code is an incorrect implementation.	code	14
+the following code is an incorrect implementation.	code	14
+the dining philosophers problem is a classic synchronization problem.	the dining philosophers problem	0
+a page is a block of virtual memory.	a page	0
+a page table is a map from a number to a particular frame.	a page table	0
+each table is a list of pointers that point to the next level of tables, som sub-tables may be omitted.	each table	0
+mmap is an interesting call because instead of tying each virtual address to a physical frame, it ties it to something else.	mmap	0
+mmap is a trick of virtual memory of instead of mapping a page to a frame, that frame can be backed by a file on disk, or the frame can be shared among processes.	mmap	0
+one of the big optimizations is a file may be lazily allocated to memory.	optimizations	15
+sharing anonymous memory is an efficient form of inter-process communication because there is no copying, system call, or disk-access overhead - the two processes share the same physical frame of main memory.	memory	18
+for files less than the size of a long, using fseek and ftell is a simple way to accomplish this.	ftell	56
+hadoop is a great example where processes will write to append-only tables and then other processes will read from those tables.	hadoop	0
+one advantage of fcfs is that scheduling algorithm is simple the ready queue is a fifo (first in first out) queue.	fcfs	17
+a kilobyte is one thousand bytes, a megabyte is a thousand kilobytes and so on.	a megabyte	34
+as for another definition, a protocol is a set of specifications put forward by the internet engineering task force that govern how implementers of a protocol have their program or circuit behave under specific circumstances.	a protocol	27
+tcp or transport control protocol is a connection-based protocol that is built on top of ipv4 and ipv6 and therefore can be described as “tcp/ip” or “tcp over ip”.	transport control protocol	7
+sockets are created with a domain af_inet for ipv4 or af_inet6 for ipv6, socket_type is whether to use udp, tcp, or other some other socket type, the protocol is an optional choice of protocol configuration for our examples this we can leave this as 0 for default.	the protocol	146
+void send_request(host_info *info) { int sock_fd = socket(af_inet, sock_stream, 0); // re-use address is a little overkill here because we are making a // listen only server and we don’t expect spoofed requests.	address	94
+google protocol buffers is an open-source efficient binary protocol that places a strong emphasis on high throughput with low cpu overhead and minimal memory copying.	protocol buffers	7
+the last piece of background is an important one.	background	18
+a filesystem is an implementation of the file interface.	a filesystem	0
+a single indirect block is a block that stores pointers to more data blocks.	block	18
+forgetting to release resources is a common c programming bug because there is no support in the c language to ensure resources are always released with all code paths.	resources	22
+the integrity of the file system assumes the directory structure is an acyclic tree that is reachable from the root directory.	the directory structure	41
+the iso9660 filesystem is a read-only filesystem originally designed for optical storage media (i.e. cdroms).	the iso9660 filesystem	0
+a signal disposition is a per-process attribute that determines how a signal is handled after it is delivered.	disposition	9
+for example, the following is a program that slowly prints a dot every second, up to 59 dots.	the following	13
+the mask is a temporary signal mask used during the signal handler execution.	the mask	0
+spectre is a bug where instructions that otherwise wouldn’t be executed are speculatively executed due to out-of-order instruction execution.	spectre	0
+the following snippet is a high-level proof of concept.	snippet	14
+openbsd is an arguably better system for security.	openbsd	0
+a container is a lightweight environment that shares resources and a kernel with a host machine, while isolating itself from other containers or processes on the host.	a container	0
+a terminal is an application that displays the output from the shell.	a terminal	0
+the other type is a dynamic library.	type	10
+the sentence that sets the expectation is the following the result of function calls involving any one handle (the "active handle") is defined elsewhere in this volume of posix.1-2008, but if two or more handles are used, and any one of them is a stream, the application shall ensure that their actions are coordinated as described below.	the expectation	23
+openmp is a standard that is an alternative to pthreads.	openmp	0
+storemi is a hardware microcontroller that analyzes how the operating system accesses files and moves files/blocks around to speed up the load time.	storemi	0
+although it may seem that the header is a constant size, you can include optional parameters to augment the path that is taken or other instructions.	the header	26
+kqueue is a system call that is exclusive the bsds and macos.	kqueue	0
+each arena is a large region of memory that is internally allocated by the system (using brk(2) or mmap(2)), and managed with its own mutexes.	each arena	0
+someone who knows sleepsort is a bad idea but still dreams of an excuse to use it.	sleepsort	18
+privacy concerns aside, and believe me there are a lot of them, the big problem was that this rootkit is a backdoor for everyone’s systems if programmed incorrectly.	this rootkit	89
+a rootkit is a piece of code usually installed kernel-side that keeps track of almost anything that a user does.	a rootkit	0

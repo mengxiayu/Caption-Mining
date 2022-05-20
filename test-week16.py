@@ -102,7 +102,6 @@ def get_relation(sent):
     return(span.text)
 
 
-
 def match_patterns(text):
     patterns = [
         r"[A-Z].*?(is|are) called (a|an|the).*?\.", 
@@ -116,128 +115,166 @@ def match_patterns(text):
     for pattern in patterns:
         if re.search(pattern, text):
             return True
-    # doc = nlp(sent)
-
-    # # Matcher class object 
-    # matcher = Matcher(nlp.vocab)
-    # pattern = [
-    #     {"IS_ALPHA": True, "POS": "NOUN"},
-    #     {"POS":"AUX",}
-    # ] 
-
-
-    # matcher.add("matching_1", [pattern]) 
-
-    # matches = matcher(doc)
-    # k = len(matches) - 1
-    # span = doc[matches[k][1]:matches[k][2]]
 from collections import Counter     
 
-entity_pairs = []
-relations = []
+def clean_text(text):
+    # if text.startswith("//"):
+    #     return ""
+    if "//" in text:
+        return ""
+    text = text.strip().lower()
+    text = text.replace("•", "")
+    text = " ".join(text.split(' '))
+    return text
+
 def sentence_selection():
     texts = []
     with open("data/QG-CS241/CS241_textbook_clean.txt") as f:
         for line in f:
-            texts.append(line.strip().lower())
+            text = clean_text(line)
+            if text != "":
+                texts.append(text)
 
-    # word2freq = Counter()
-    # noun2freq = Counter()
-    # for line in texts:
-    #     doc = nlp(line)
-    #     words = [token.text
-    #             for token in doc
-    #             if not token.is_stop and not token.is_punct]
-    #     nouns = [token.text
-    #             for token in doc
-    #             if (not token.is_stop and
-    #                 not token.is_punct and
-    #                 token.pos_ == "NOUN")]
-    #     word2freq.update(words)
-    #     noun2freq.update(nouns)
-    # with open("week16/cs241_textbook_wordfreq.txt", 'w') as f:
-    #     for k,v in word2freq.most_common():
-    #         f.write(f"{k} {v}\n")
-    # with open("week16/cs241_textbook_nounfreq.txt", 'w') as f:
-    #     for k,v in noun2freq.most_common():
-    #         f.write(f"{k} {v}\n")
     matched_sentences = []
-
-    sources = []
+    matcher = Matcher(nlp.vocab)
+    pattern = [{"POS": "DET", "OP":"?"}, {"POS": "NOUN", "OP": "+"}, {"POS": "AUX"}, {"POS": "DET"}]
+    matcher.add("definition", [pattern])
+    sources = [] # concept spans
     start_indexes = []
+    
+    matched_concepts = Counter()
     for line in texts:
         if line[0].isdigit():
             continue
         sentences = [i.text for i in nlp(line).sents]
         for sent in sentences:
             if match_patterns(sent):
-                for pt in ["is an", "is a"]:
-                    
+                # print(sent)
+                s = nlp(sent)
+                matches = matcher(s)
+                if len(matches) == 0:
+                    break
+                noun_spans = []
+                max_noun_span_len = 0
+                for match_id, start, end in matches:
+                    # string_id = nlp.vocab.strings[match_id]  # Get string representation
+                    # span = s[start:end]  # The matched span
+                    # print(span.text)
+                    if end - start > max_noun_span_len:
+                        max_noun_span_len = end - start
+                        noun_span = s[start:end-2].text
+                noun_spans.append(noun_span)
+                matched_concepts[noun_span] += 1
+
+                for pt in noun_spans:
                     start = sent.find(pt)
                     if start==-1:
                         continue
-                    front_text = sent[:start]
-                    if front_text.split()[-1] in ["this", "that", "here", "here", "it","there","where","below"]:
-                        continue
-                    sources.append(front_text)
+                    sources.append(noun_span)
                     matched_sentences.append(sent)
                     start_indexes.append(start)
                     break
-        
-    with open("week16/extracted_sentences_1.txt",'w') as f:
+    for k,v in matched_concepts.most_common():
+        print(k,v)
+    with open("week16/extracted_sentences.txt",'w') as f:
         f.write("sentence\tsource\tstart\n")
         for i in range(len(sources)):
             f.write(f"{matched_sentences[i]}\t{sources[i]}\t{start_indexes[i]}\n")
 
+# sentence_selection()
 
-                # rel = get_relation(sent)
-                # ent1, ent2 = get_entities(sent)
-                # if rel != "" and ent1 !="" and ent2 != "":
-                #     entity_pairs.append([ent1, ent2])
-                #     relations.append(rel)
-                #     matched_sentences.append(sent)
+def convert_dataset():
+    fr = open("week16/extracted_sentences.txt", 'r')
+    lines = fr.readlines()[1:]
+    fr.close()
 
-    # print(len(matched_sentences))
-    # # for s in matched_sentences:
-    # #     print(s)
+    fw = open("week16/cs241_tb_for_e2e_qg.source", 'w')
 
-    # source = [i[0] for i in entity_pairs]
-    # # extract object
-    # target = [i[1] for i in entity_pairs]
-    # with open("week16/extracted_sentences.txt",'w') as f:
-    #     f.write("sentence\tsource\target\trelation\n")
-    #     for i in range(len(source)):
-    #         f.write(f"{matched_sentences[i]}\t{source[i]}\t{target[i]}\t{relations[i]}\n")
-
-    # kg_df = pd.DataFrame({'source':source, 'target':target, 'edge':relations})
-
-    # # create a directed-graph from a dataframe
-    # G=nx.from_pandas_edgelist(
-    #         kg_df[kg_df['edge']=="is"], "source", "target", 
-    #         edge_attr=True, create_using=nx.MultiDiGraph())
-    # plt.figure(figsize=(12,12))
-
-    # pos = nx.spring_layout(G, k=0.5)
-    # nx.draw(G, with_labels=True, node_color='skyblue', edge_cmap=plt.cm.Blues, pos = pos)
-    # plt.show()
+    for line in lines:
+        arr = line.strip().split('\t')
+        start = int(arr[2])
+        end = int(arr[2]) + len(arr[1])
+        # text = f"generate question: {arr[0][:start]} <hl> {arr[1]} <hl> {arr[0][end:]}\n"
+        text = arr[0] + '\n'
+        fw.write(text)
+    fw.close()
+# convert_dataset()
 
 
-sentence_selection()
+def match_captions():
+    fr = open("week16/extracted_sentences.txt", 'r')
+    lines = fr.readlines()[1:]
+    fr.close()
+    concepts = [line.split('\t')[1] for line in lines]
+    concepts = set(concepts)
+    print(len(concepts))
+    # load caption corpus
+    texts = []
+    with open("week12/combined_captions_CS_241.csv", 'r') as f:
+        for line in f:
+            arr = line.strip().split('\t')
+            text = clean_text(arr[5])
+            texts.append(text)
+    # # match occurences
+    # contexts = []
+    # for line in texts:
+    #     for c in concepts:
+    #         if c in line:
+    #             start = line.find(c)
+    #             contexts.append(line)
+    #             break
+
+    # with open("week16/cs241_ct_for_e2e_qg.source",'w') as f:
+    #     for line in contexts:
+    #         f.write(f"{line}\n")
+
+    # print(len(contexts))
+
+    # contexts = []
+    # for line in texts:
+    #     for c in concepts:
+    #         if c in line:
+    #             start = line.find(c)
+    #             contexts.append([line, c, start])
+
+    # with open("week16/extracted_sentences_captions.txt",'w') as f:
+    #     f.write("sentence\tsource\tstart\n")
+    #     for arr in contexts:
+    #         f.write(f"{arr[0]}\t{arr[1]}\t{arr[2]}\n")
+    # print(len(contexts))
+match_captions()
 
 
+def expand_contexts():
+    fr = open("week16/extracted_sentences.txt", 'r')
+    lines = fr.readlines()[1:]
+    fr.close()
+    concepts = [line.split('\t')[1] for line in lines]
+    concepts = set(concepts)
+    
+    # load textbook corpus
+    texts = []
+    with open("data/QG-CS241/CS241_textbook_clean.txt") as f:
+        for line in f:
+            text = clean_text(line)
+            if text != "":
+                texts.append(text)
+    
 
+    # match occurences
+    contexts = []
+    for line in texts:
+        for c in concepts:
+            if c in line:
+                start = line.find(c)
+                contexts.append([line, c, start])
 
-# with open("data/transcriptions2courses_CS_241.txt") as f:
-#     videos = set()
-#     captionids = set()
-#     for line in f:
-#         arr = line.strip().split('\t')
-#         if arr[1] not in videos:    
-#             videos.add(arr[1])
-#             captionids.add(arr[0])
-#     print(len(videos))
+    with open("week16/extracted_sentences_expanded.txt",'w') as f:
+        f.write("sentence\tsource\tstart\n")
+        for arr in contexts:
+            f.write(f"{arr[0]}\t{arr[1]}\t{arr[2]}\n")
 
-# with open("data/allcaptions_CS_241.csv") as f:
-#     for line in f:
-#         arr = line.strip()
-        
+    print(len(contexts))
+
+# expand_contexts()
+    

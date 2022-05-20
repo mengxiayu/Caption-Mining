@@ -1,0 +1,84 @@
+What section is a short review of system architecture topics that you’ll need for system programming?
+What is a new technology?
+What is a suite of tools designed to make your programs more correct?
+What is an effective tool to check for errors at runtime?
+What is a tool from google that helps you detect race conditions in your code?
+What program helps you track down errors by interactively debugging them?
+What is a line of code where you want the execution to stop and give control back to the debugger?
+What is a programming language that is running inside your terminal?
+What is a wonderful tool provided by the llvm project?
+What is a copy and paste operation that the compiler performs before compiling a program?
+What is a pointer?
+What is an operation that the kernel carries out?
+What is the first parameter of a format string?
+What is a little complicated in terms of buffering semantics?
+What is a series of bytes delimited by a nul character?
+What is a piece of contiguous memory?
+What is a void?
+What is a rapid fire section?
+What is an operating system?
+What is an instance of a computer program that may be running?
+What is the ntiguous, expanding region of memory?
+What is a powerful and dangerous tool?
+What is a snippet of how to use system?
+What is a blocking call?
+What is an unwanted complexity?
+What is a moving target in the survey?
+What is a list of blocks where each block is either allocated or unallocated?
+What is a worst-case linear time operation?
+What is a slab allocator that serves different needs for the kernel slub?
+What is a segregated list allocator with minimal splitting and coalescing?
+What is a process?
+What is the name of the thread that is called _exit?
+What is a single instruction when compiled with -o2?
+What section of code can only be executed by one thread at a time if the program is to function correctly?
+What is a global variable and accessed by two threads?
+What is a simple data structure?
+What is an instruction supported by most modern architectures?
+What is a semaphore that always waits before it posts?
+What is inconsistent while push (and pop) is executing?
+What is a busy loop?
+What is a storage mechanism where contiguous memory is treated as if it is circular?
+What is an incorrect implementation?
+What is an incorrect implementation?
+What is a classic synchronization problem?
+What is a block of virtual memory?
+What is a map from a number to a particular frame called?
+What is a list of pointers that point to the next level of tables?
+What is an interesting call because instead of tying each virtual address to a physical frame, it ties it to something else?
+What is a trick of virtual memory of instead of mapping a page to a frame?
+What is one of the big things that a file may be lazily allocated to memory?
+What is shared anonymously?
+What is a simple way to accomplish this?
+What is a great example of a process that writes to append-only tables?
+What is the scheduling algorithm called?
+What is a thousand kilobytes?
+What is a set of specifications put forward by the internet engineering task force that govern how implementers of a protocol have their program or circuit behave under specific circumstances?
+What is tcp?
+What is the socket_type?
+What is a little overkill here?
+What is google's binary protocol?
+What is the last piece of important information?
+What is an implementation of the file interface?
+What is a block that stores pointers to more data blocks?
+What is a common c programming bug?
+What does the integrity of the file system assume?
+What is the name of the read-only filesystem originally designed for optical storage media?
+What is a per-process attribute that determines how a signal is handled after it is delivered?
+What is a program that slowly prints a dot every second?
+What is a temporary signal mask used during the execution of a signal handler?
+What is a bug where instructions that otherwise wouldn’t be executed are speculatively executed?
+What is a high-level proof of concept?
+What is a better system for security?
+What is a lightweight environment that shares resources and a kernel with a host machine?
+What is an application that displays the output from the shell?
+What is the other type of library?
+What does the sentence set?
+What is the name of the standard that is an alternative to pthreads?
+What is a hardware microcontroller that analyzes how the operating system accesses files?
+What is a constant size?
+What is a system call that is exclusive the bsds and macos?
+What is a large region of memory that is allocated by the system?
+What is a bad idea for someone who dreams of using it?
+What is a backdoor for everyone’s systems if programmed incorrectly?
+What is a piece of code usually installed kernel-side that keeps track of almost anything that a user does?

@@ -1,0 +1,84 @@
+generate question:  <hl> this section <hl>  is a short review of system architecture topics that you’ll need for system programming.
+generate question:  <hl> hyperthreading <hl>  is a new technology and is in no way shape or form multithreading.
+generate question:  <hl> valgrind <hl>  is a suite of tools designed to provide debugging and profiling tools to make your programs more correct and detect some runtime issues [4].
+generate question:  <hl> valgrind <hl>  is a effective tool to check for errors at runtime.
+generate question:  <hl> threadsanitizer <hl>  is a tool from google, built into clang and gcc, to help you detect race conditions in your code [5].
+generate question:  <hl> gdb <hl>  is a program that helps you track down errors by interactively debugging them [6].
+generate question: setting breakpoints programmatically  <hl> a breakpoint <hl>  is a line of code where you want the execution to stop and give control back to the debugger.
+generate question:  <hl> a shell <hl>  is a programming language that is running inside your terminal.
+generate question: the undefined  <hl> behavior sanitizer <hl>  is a wonderful tool provided by the llvm project.
+generate question:  <hl> preprocessing <hl>  is a copy and paste operation that the compiler performs before actually compiling the program.
+generate question: if the left  <hl> operand <hl>  is a pointer and the right operand is an integer type, then only plus or minus may be used and the rules for pointer arithmetic are invoked.
+generate question:  <hl> a system call <hl>  is an operation that the kernel carries out.
+generate question: the first  <hl> parameter <hl>  is a format string that includes placeholders for the data to be printed.
+generate question: the buffering semantics of  <hl> printf <hl>  is a little complicated.
+generate question: a c- <hl> string <hl>  is a series of bytes delimited by a nul character which is equal to the byte 0x00.
+generate question: in low-level terms,  <hl> a struct <hl>  is a piece of contiguous memory, nothing more.
+generate question: a void  <hl> pointer <hl>  is a pointer without a type.
+generate question:  <hl> the following <hl>  is a rapid fire section.
+generate question: an operating  <hl> system <hl>  is a program that provides an interface between hardware and user software as well as providing a set of tools that the software can use.
+generate question:  <hl> a process <hl>  is an instance of a computer program that may be running.
+generate question: the heap <hl> the heap <hl> ntiguous, expanding region of memory.
+generate question:  <hl> process forking <hl>  is a powerful and dangerous tool.
+generate question:  <hl> the following <hl>  is a snippet of how to use system.
+generate question: this also means that  <hl> system <hl>  is a blocking call.
+generate question: however,  <hl> this detail <hl>  is an unwanted complexity.
+generate question: the survey makes sure to note that  <hl> memory allocation <hl>  is a moving target.
+generate question: our  <hl> heap memory <hl>  is a list of blocks where each block is either allocated or unallocated.
+generate question: allocating  <hl> memory <hl>  is a worst-case linear time operation – search linked lists for a sufficiently large free block.
+generate question:  <hl> the slub allocator <hl>  is a slab allocator that serves different needs for the linux kernel slub.
+generate question:  <hl> the slub allocator <hl>  is a segregated list allocator with minimal splitting and coalescing.
+generate question: almost weirdly,  <hl> a thread <hl>  is a process, meaning that creating a thread is similar to fork, except there is no copying meaning no copy on write.
+generate question: calling p <hl> thread <hl> _exit in the main thread is a common way for simple programs to ensure that all threads finish.
+generate question: but when compiled with -o2,  <hl> assembly output <hl>  is a single instruction.
+generate question: a critical  <hl> section <hl>  is a section of code that can only be executed by one thread at a time if the program is to function correctly.
+generate question: if the memory location is only accessible by one thread, for example the automatic variable i below, then there is no possibility of a race condition and no critical section associated with i. however,  <hl> the sum variable <hl>  is a global variable and accessed by two threads.
+generate question:  <hl> a mutex <hl>  is a simple data structure.
+generate question: atomic compare and  <hl> exchange <hl>  is an instruction supported by most modern architectures (on x86 it’s lock cmpxchg).
+generate question:  <hl> a mutex <hl>  is a semaphore that always waits before it posts.
+generate question: while push (and pop) is executing,  <hl> the data structure <hl>  is an inconsistent state, for example the count may not have been written to, so it may still contain the original value.
+generate question: the other is  <hl> the loop <hl>  is a busy loop.
+generate question:  <hl> a ring buffer <hl>  is a simple, usually fixed-sized, storage mechanism where contiguous memory is treated as if it is circular, and two index counters keep track of the current beginning and end of the queue.
+generate question: the following  <hl> code <hl>  is an incorrect implementation.
+generate question: the following  <hl> code <hl>  is an incorrect implementation.
+generate question:  <hl> the dining philosophers problem <hl>  is a classic synchronization problem.
+generate question:  <hl> a page <hl>  is a block of virtual memory.
+generate question:  <hl> a page table <hl>  is a map from a number to a particular frame.
+generate question:  <hl> each table <hl>  is a list of pointers that point to the next level of tables, som sub-tables may be omitted.
+generate question:  <hl> mmap <hl>  is an interesting call because instead of tying each virtual address to a physical frame, it ties it to something else.
+generate question:  <hl> mmap <hl>  is a trick of virtual memory of instead of mapping a page to a frame, that frame can be backed by a file on disk, or the frame can be shared among processes.
+generate question: one of the big  <hl> optimizations <hl>  is a file may be lazily allocated to memory.
+generate question: sharing anonymous  <hl> memory <hl>  is an efficient form of inter-process communication because there is no copying, system call, or disk-access overhead - the two processes share the same physical frame of main memory.
+generate question: for files less than the size of a long, using fseek and  <hl> ftell <hl>  is a simple way to accomplish this.
+generate question:  <hl> hadoop <hl>  is a great example where processes will write to append-only tables and then other processes will read from those tables.
+generate question: one advantage of  <hl> fcfs <hl>  is that scheduling algorithm is simple the ready queue is a fifo (first in first out) queue.
+generate question: a kilobyte is one thousand bytes,  <hl> a megabyte <hl>  is a thousand kilobytes and so on.
+generate question: as for another definition,  <hl> a protocol <hl>  is a set of specifications put forward by the internet engineering task force that govern how implementers of a protocol have their program or circuit behave under specific circumstances.
+generate question: tcp or  <hl> transport control protocol <hl>  is a connection-based protocol that is built on top of ipv4 and ipv6 and therefore can be described as “tcp/ip” or “tcp over ip”.
+generate question: sockets are created with a domain af_inet for ipv4 or af_inet6 for ipv6, socket_type is whether to use udp, tcp, or other some other socket type,  <hl> the protocol <hl>  is an optional choice of protocol configuration for our examples this we can leave this as 0 for default.
+generate question: void send_request(host_info *info) { int sock_fd = socket(af_inet, sock_stream, 0); // re-use  <hl> address <hl>  is a little overkill here because we are making a // listen only server and we don’t expect spoofed requests.
+generate question: google  <hl> protocol buffers <hl>  is an open-source efficient binary protocol that places a strong emphasis on high throughput with low cpu overhead and minimal memory copying.
+generate question: the last piece of  <hl> background <hl>  is an important one.
+generate question:  <hl> a filesystem <hl>  is an implementation of the file interface.
+generate question: a single indirect  <hl> block <hl>  is a block that stores pointers to more data blocks.
+generate question: forgetting to release  <hl> resources <hl>  is a common c programming bug because there is no support in the c language to ensure resources are always released with all code paths.
+generate question: the integrity of the file system assumes  <hl> the directory structure <hl>  is an acyclic tree that is reachable from the root directory.
+generate question:  <hl> the iso9660 filesystem <hl>  is a read-only filesystem originally designed for optical storage media (i.e. cdroms).
+generate question: a signal  <hl> disposition <hl>  is a per-process attribute that determines how a signal is handled after it is delivered.
+generate question: for example,  <hl> the following <hl>  is a program that slowly prints a dot every second, up to 59 dots.
+generate question:  <hl> the mask <hl>  is a temporary signal mask used during the signal handler execution.
+generate question:  <hl> spectre <hl>  is a bug where instructions that otherwise wouldn’t be executed are speculatively executed due to out-of-order instruction execution.
+generate question: the following  <hl> snippet <hl>  is a high-level proof of concept.
+generate question:  <hl> openbsd <hl>  is an arguably better system for security.
+generate question:  <hl> a container <hl>  is a lightweight environment that shares resources and a kernel with a host machine, while isolating itself from other containers or processes on the host.
+generate question:  <hl> a terminal <hl>  is an application that displays the output from the shell.
+generate question: the other  <hl> type <hl>  is a dynamic library.
+generate question: the sentence that sets  <hl> the expectation <hl>  is the following the result of function calls involving any one handle (the "active handle") is defined elsewhere in this volume of posix.1-2008, but if two or more handles are used, and any one of them is a stream, the application shall ensure that their actions are coordinated as described below.
+generate question:  <hl> openmp <hl>  is a standard that is an alternative to pthreads.
+generate question:  <hl> storemi <hl>  is a hardware microcontroller that analyzes how the operating system accesses files and moves files/blocks around to speed up the load time.
+generate question: although it may seem that  <hl> the header <hl>  is a constant size, you can include optional parameters to augment the path that is taken or other instructions.
+generate question:  <hl> kqueue <hl>  is a system call that is exclusive the bsds and macos.
+generate question:  <hl> each arena <hl>  is a large region of memory that is internally allocated by the system (using brk(2) or mmap(2)), and managed with its own mutexes.
+generate question: someone who knows  <hl> sleepsort <hl>  is a bad idea but still dreams of an excuse to use it.
+generate question: privacy concerns aside, and believe me there are a lot of them, the big problem was that  <hl> this rootkit <hl>  is a backdoor for everyone’s systems if programmed incorrectly.
+generate question:  <hl> a rootkit <hl>  is a piece of code usually installed kernel-side that keeps track of almost anything that a user does.
