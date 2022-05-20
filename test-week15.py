@@ -1,9 +1,9 @@
 '''
-TODO clean data for CS241 question generation
+clean data for CS241 question generation
 - textbook data
 - quiz data
 '''
-
+import re
 def parse_question_data(idx, lines):
     question_data = {}
     question_data["chapter"] = ""
@@ -74,7 +74,7 @@ def organize_cs241_question_data():
 
 
         
-organize_cs241_question_data()
+# organize_cs241_question_data()
     
 
 
@@ -84,7 +84,6 @@ def clean_textbook():
         all_lines = [x.strip() for x in f.readlines()]
     print("original lines number", len(all_lines))
     # concatenate lines which should be continuous. blank lines reserved.
-    # TODO should replace some characters, such as \u2019
     new_lines = [] # 
     tmp_line = all_lines[0]
     for line in all_lines[1:]:
@@ -96,7 +95,7 @@ def clean_textbook():
             new_lines.append(tmp_line)
             tmp_line = line
             continue
-        if not tmp_line.strip().endswith(('.','?',"!")):
+        if not (re.match(r"[0-9]\.[0-9]", tmp_line) or tmp_line.strip().endswith(('.','?',"!"))):
             tmp_line += " " + line
             continue
         new_lines.append(tmp_line)
@@ -112,4 +111,20 @@ def clean_textbook():
             f.write(line+'\n')
     print("clean textbook saved")
 # clean_textbook()
+
+def preprocess_textbook():
+    fn_textbook = "data/QG-CS241/CS241_textbook.txt"
+    with open(fn_textbook, 'r', encoding='utf-8') as f:
+        all_lines = [x.strip() for x in f.readlines()]
+    for line in all_lines:
+        # remove http
+        words = line.split()
+        new_line = ""
+        for w in words:
+            if w.startswith('http'):
+                continue
+            new_line += f"{w} "
+        # split puncuation
+        
+        
 

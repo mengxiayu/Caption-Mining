@@ -1,9 +1,11 @@
 # process captions with timestamps
-# get a subset of allcaptions of cs410
+# get a subset of allcaptions of cs410 /cs241
 import pandas as pd
 
 def extract_course_allcaptions():
-    df = pd.read_csv("data/transcriptions2courses-410-c5.txt", sep='\t')
+    # df = pd.read_csv("data/transcriptions2courses-410-c5.txt", sep='\t')
+    df = pd.read_csv("data/transcriptions2courses_CS_241.txt", sep='\t')
+
     all_tid = df["transcriptionid"].tolist()
     print(f"all: {len(all_tid)}, unique: {len(set(all_tid))}")
     course_tid = set(all_tid)
@@ -15,7 +17,8 @@ def extract_course_allcaptions():
             if arr[0] in course_tid:
                 course_data.append(line)
     print(f"course data size: {len(course_data)}")
-    with open("data/allcaptions_410-c5.csv", 'w', encoding='utf-8') as f:
+    # with open("data/allcaptions_410-c5.csv", 'w', encoding='utf-8') as f:
+    with open("data/allcaptions_CS_241.csv", 'w', encoding='utf-8') as f:
         for line in course_data:
             f.write(line)
 
@@ -28,11 +31,15 @@ import datetime
 import spacy
 nlp = spacy.load("en_core_web_sm")
 def combine_captions():
+    '''
+    combine continuous segments which should be in one sentences into one piece.
+    '''
     def str2date(s):
         y,m,d = [int(x) for x in s.split('-')] 
         return datetime.date(y,m,d)
     tid2segid2data = {}
-    with open ("data/allcaptions_410-c5.csv", 'r', encoding='utf-8') as f:
+    # with open ("data/allcaptions_410-c5.csv", 'r', encoding='utf-8') as f:
+    with open ("data/allcaptions_CS_241.csv", 'r', encoding='utf-8') as f:
         for line in f:
             arr = line.strip().split('\t')
             tid = arr[0]
@@ -66,21 +73,29 @@ def combine_captions():
             if tmp_data == []:
                 tmp_data = data
                 continue
-            if (data[3].split('.')[0] == tmp_data[4].split('.')[0]) or (tmp_data[5][-1] not in ['.', '?'] and data[5][0].islower()): # continuous in time or continuous in text
+            # this rule works for CS 410
+            # if (data[3].split('.')[0] == tmp_data[4].split('.')[0]) or (tmp_data[5][-1] not in ['.', '?'] and data[5][0].islower()): # continuous in time or continuous in text #
+            
+            # in CS 241 there are a lot of missing punctuations. So we only consider "continuous time"
+            if (data[3].split('.')[0] == tmp_data[4].split('.')[0]): # continuous in time or continuous in text #
                 tmp_data = combine_continuous_data(tmp_data, data)
                 continue
             tmp_new_all_data.append(tmp_data)
             tmp_data = data
+        tmp_new_all_data.append(tmp_data)
         new_all_data.extend(tmp_new_all_data)
         print("new data size", len(tmp_new_all_data))
-    with open("week12/combined_captions_410_c5.csv", 'w', encoding='utf-8') as f:
+
+        
+    # with open("week12/combined_captions_410_c5.csv", 'w', encoding='utf-8') as f:
+    with open("week12/combined_captions_CS_241.csv", 'w', encoding='utf-8') as f:
         for data in new_all_data:
             text = data[5]
             lemmatized_text = " ".join([t.lemma_ for t in nlp(text)])
             data.append(lemmatized_text)
             f.write("\t".join(data)+'\n')
 
-# combine_captions()
+combine_captions()
 
 from datetime import datetime
 from datetime import timedelta
@@ -180,7 +195,7 @@ def phrase_density():
             if at_least_one:
                 fw.write(f"{phrase}\t{tmp}\n")
     fw.close()
-phrase_density()
+# phrase_density()
                 
             
 

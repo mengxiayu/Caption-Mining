@@ -92,19 +92,23 @@ def find_contexts(text, target, window=400):
 def curate_meta_data_for_course():
     dept = "CS"
     cn = "241"
+    print("curate meta data for course", dept, cn)
     fr = open("data/transcriptions2courses-2021-09-24.csv", 'r', encoding='utf-8')
     data = []
     for line in fr:
         arr = line.strip().split('\t')
         if arr[6] == dept and arr[7] == cn and arr[4].startswith("CS241-Lec"): # only for CS 241
             data.append(line)
+    print(data[0])
+    data = sorted(data, key=lambda x:x.split('\t')[4])
+    print(data[0])
     fr.close()
     fw = open(f"data/transcriptions2courses_{dept}_{cn}.txt", 'w', encoding='utf-8')
     fw.write("transcriptionid\tvideoid\tDomain\ttermname\tvideoname\tdeptname\tdeptacronym\tCourseNumber\tCourseName\tSectionName\n")
     for line in data:
         fw.write(line)
     fw.close()
-# curate_meta_data_for_course()
+curate_meta_data_for_course()
 
 
 import json
