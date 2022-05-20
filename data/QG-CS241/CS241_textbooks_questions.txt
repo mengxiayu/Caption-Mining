@@ -1,0 +1,96 @@
+Chapter 3
+• What is a string in C?
+• What is malloc? How is it different from calloc. Once memory is allocated how can we use realloc?
+• What is the & operator? How about *?
+• How do we prevent double free errors?
+• What is the printf specifier to print a string, int, or char?
+• Is the following code valid? Why? Where is output located?
+• What are some differences between the POSIX file descriptor model and C’s FILE* (i.e. what function calls are used and which is buffered)? Does POSIX use C’s FILE* internally or vice versa?
+
+Chapter 4
+• What is the difference between execs with a p and without a p? What does the operating system
+• How does a program pass in command line arguments to execl*? How about execv*? What should be the first command line argument by convention?
+• How does a program know if exec or fork failed?
+• What is the int *status pointer passed into wait? When does wait fail?
+• What are some differences between SIGKILL, SIGSTOP, SIGCONT, SIGINT? What are the default behaviors? Which ones can a program set up a signal handler for?
+• What signal is sent when you press CTRL-C?
+• My terminal is anchored to PID = 1337 and has become unresponsive. Write me the terminal command
+and the C code to send SIGQUIT to it.
+• Can one process alter another processes memory through normal means? Why?
+• Where is the heap, stack, data, and text segment? Which segments can a program write to? What are invalid memory addresses?
+• Code up a fork bomb in C (please don’t run it).
+• What is an orphan? How does it become a zombie? What should a parent do to avoid this?
+• Don’t you hate it when your parents tell you that you can’t do something? Write a program that sends SIGSTOP to a parent process.
+• Write a function that fork exec waits an executable, and using the wait macros tells me if the process exited normally or if it was signaled. If the process exited normally, then print that with the return value. If not, then print the signal number that caused the process to terminate.
+
+Chapter 5
+• What is Internal Fragmentation? When does it become an issue?
+• What is External Fragmentation? When does it become an issue?
+• What is a Best Fit placement strategy? How is it with External Fragmentation? Time Complexity?
+• What is a Worst Fit placement strategy? Is it any better with External Fragmentation? Time Complexity?
+• What is the First Fit Placement strategy? It’s a little bit better with Fragmentation, right? Expected Time Complexity?
+• Let’s say that we are using a buddy allocator with a new slab of 64kb. How does it go about allocating 1.5kb?
+• When does the 5 line sbrk implementation of malloc have a use?
+• What is natural alignment?
+• What is Coalescing/Splitting? How do they increase/decrease fragmentation? When can you coalesce or split?
+• How do boundary tags work? How can they be used to coalesce or split?
+
+Chapter 6
+• What happens when a pthread gets created?
+• Where is each thread’s stack?
+• How does a program get a return value given a pthread_t? What are the ways a thread can set that return value? What happens if a program discards the return value?
+• Why is pthread_join important (think stack space, registers, return values)?
+• What does pthread_exit do if it is not the last thread? What other functions are called when after calling
+pthread_exit?
+• Give me three conditions under which a multi-threaded process will exit. Are there any more?
+• What is an embarrassingly parallel problem?
+
+Chapter 7
+• What is atomic operation?
+• What are some downsides to atomic operations? What would be faster: keeping a local variable or many atomic operations?
+• What is the critical section?
+• Once you have identified a critical section, what is one way of assuring that only one thread will be in the section at a time?
+• How tight can you make the critical section?
+• What is a producer consumer problem? How might the above be a producer consumer problem be used in the above section? How is a producer consumer problem related to a reader writer problem?
+• What is a condition variable? Why is there an advantage to using one over a while loop?
+• What is a counting semaphore? Give me an analogy to a cookie jar/pizza box/limited food item.
+• What is a thread barrier?
+• How many of the following statements are true?
+  – There can be multiple active readers
+  – There can be multiple active writers
+  – When there is an active writer the number of active readers must be zero – If there is an active reader the number of active writers must be zero
+  – A writer must wait until the current active readers have finished
+
+Chapter 8
+• What are the Coffman conditions?
+• What does each of the Coffman conditions mean? Define each one.
+• Give a real-life example of breaking each Coffman condition in turn. A situation to consider: Painters, Paint, Paint Brushes etc. How would you assure that work would get done?
+
+Chapter 9
+• What is virtual memory? 
+• What are the following and what is their purpose? 
+  (a) Translation Lookaside Buffer
+  (b) Physical Address
+  (c) Memory Management Unit. Multilevel page table. Frame number. Page number and page offset. (d) The dirty bit
+  (e) The NX Bit 
+• What is a page table? How about a physical frame? Does a page always need to point to a physical frame? 
+• What is a page fault? What are the types? When does it result in a SEGFAULT? 
+• What are the advantages to a single-level page table? Disadvantages? How about a multi-level table? 
+• What does a multi-leveled table look like in memory? 
+• How do you determine how many bits are used in the page offset? 
+• Given a 64-bit address space, 4kb pages and frames, and a 3 level page table, how many bits are the Virtual page number 1, VPN2, VPN3 and the offset? 
+• What is a pipe? How do we create pipes? 
+• When is SIGPIPE delivered to a process? 
+• Under what conditions will calling read() on a pipe block? Under what conditions will read() immediately return 0 
+• What is the difference between a named pipe and an unnamed pipe? 
+• Is a pipe thread-safe? 
+• What happens when you mmap a file? 
+• Why is getting the file size with ftell not recommended? How should you do it instead? 
+
+Chapter 10
+• What is scheduling?
+• What is queueing? What are some different queueing methods?
+• What is Turnaround Time? Response Time? Wait Time?
+• What is the convoy effect?
+• Which algorithms have the best turnaround/response/wait time on average?
+• Do preemptive algorithms do better on average response time compared to non preemptive? How about turnaround/wait time?

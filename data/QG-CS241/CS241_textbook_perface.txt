@@ -1,0 +1,514 @@
+Coursebook
+B. Venkatesh, L. Angrave, et Al.
+Contents 1 Introduction 1.1 Authors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 Background 2.1 Systems Architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.2 Atomic Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.3 Caching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.4 Interrupts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.5 Optional: Hyperthreading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2 Debugging and Environments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 ssh . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.2 git . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.3 Editors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.4 Clean Code . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.5 Asserts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3 Valgrind . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3.1 TSAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4 GDB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.1 Involved gdb example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.2 Shell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.3 Undefined Behavior Sanitizer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.4 Clang Static Build Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.5 strace and ltrace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.6 printfs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5 Homework 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.1 So you want to master System Programming? And get a better grade than B?
+2.5.2 Watch the videos and write up your answers to the following questions . . . .
+2.5.3 Chapter 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.4 Chapter 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.5 Chapter 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.6 Chapter 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.7 Chapter 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.8 C Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.9 Optional: Just for fun . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.6 UIUC Specific Guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.6.1 Piazza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3 The C Programming Language
+1 1 7 7 7 7 8 8 9 9 9 10 12 13 14 14 16 17 19 21 21 21 21 23 25 25 26 26 27 27 28 29 29 30 30 30 33
+ii
+CONTENTS 3.1 3.2 3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10 3.11 3.12
+CONTENTS
+History of C . . . . . . . . . . . . . . . . . . . . . . . . .
+3.1.1 Features . . . . . . . . . . . . . . . . . . . . . . . .
+Crash course introduction to C . . . . . . . . . . . . .
+3.2.1 Preprocessor . . . . . . . . . . . . . . . . . . . . .
+Language Facilities . . . . . . . . . . . . . . . . . . . . .
+3.3.1 Keywords . . . . . . . . . . . . . . . . . . . . . . .
+3.3.2 C data types . . . . . . . . . . . . . . . . . . . . . .
+3.3.3 Operators . . . . . . . . . . . . . . . . . . . . . . .
+The C and Linux . . . . . . . . . . . . . . . . . . . . . .
+3.4.1 Everything is a file . . . . . . . . . . . . . . . . . .
+3.4.2 System Calls . . . . . . . . . . . . . . . . . . . . . .
+3.4.3 C System Calls . . . . . . . . . . . . . . . . . . . .
+Common C Functions . . . . . . . . . . . . . . . . . . .
+3.5.1 Handling Errors . . . . . . . . . . . . . . . . . . .
+3.5.2 Input / Output . . . . . . . . . . . . . . . . . . . .
+3.5.3 stdin oriented functions . . . . . . . . . . . . . . .
+3.5.4 string.h . . . . . . . . . . . . . . . . . . . . . . . . .
+C Memory Model . . . . . . . . . . . . . . . . . . . . . .
+3.6.1 Structs . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.2 Strings in C . . . . . . . . . . . . . . . . . . . . . .
+3.6.3 Places for strings . . . . . . . . . . . . . . . . . . .
+Pointers . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.1 Pointer Basics . . . . . . . . . . . . . . . . . . . . .
+3.7.2 Pointer Arithmetic . . . . . . . . . . . . . . . . . .
+3.7.3 So what is a void pointer? . . . . . . . . . . . . .
+Common Bugs . . . . . . . . . . . . . . . . . . . . . . .
+3.8.1 Nul Bytes . . . . . . . . . . . . . . . . . . . . . . .
+3.8.2 Double Frees . . . . . . . . . . . . . . . . . . . . .
+3.8.3 Returning pointers to automatic variables . . .
+3.8.4 Insufficient memory allocation . . . . . . . . . .
+3.8.5 Buffer overflow/ underflow . . . . . . . . . . . .
+3.8.6 Strings require strlen(s)+1 bytes . . . . . . . . .
+3.8.7 Using uninitialized variables . . . . . . . . . . . .
+3.8.8 Assuming Uninitialized memory will be zeroed Logic and Program flow mistakes . . . . . . . . . . . .
+3.9.1 Equal vs. Equality . . . . . . . . . . . . . . . . . .
+3.9.2 Undeclared or incorrectly prototyped functions 3.9.3 Extra Semicolons . . . . . . . . . . . . . . . . . . .
+Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Questions/Exercises . . . . . . . . . . . . . . . . . . . .
+Rapid Fire: Pointer Arithmetic . . . . . . . . . . . . . .
+3.12.1 Rapid Fire Solutions . . . . . . . . . . . . . . . . .
+4 Processes 4.1 File Descriptors . . . .
+4.2 Processes . . . . . . . .
+4.3 Process Contents . . .
+4.3.1 Memory Layout .
+iii
+33 34 34 35 36 36 48 49 50 50 51 51 51 51 52 54 56 58 58 61 61 63 63 64 65 66 66 66 67 67 68 68 68 69 69 69 70 70 70 71 73 73
+75 76 76 77 77
+CONTENTS
+4.4
+4.5
+4.6
+4.7 4.8 4.9
+CONTENTS
+4.3.2 Other Contents . . . . . . . . . . . . .
+Intro to Fork . . . . . . . . . . . . . . . . . .
+4.4.1 A word of warning . . . . . . . . . . .
+4.4.2 Fork Functionality . . . . . . . . . . .
+4.4.3 Fork Bomb . . . . . . . . . . . . . . . .
+4.4.4 Signals . . . . . . . . . . . . . . . . . .
+4.4.5 POSIX Fork Details . . . . . . . . . . .
+4.4.6 Fork and FILEs . . . . . . . . . . . . .
+Waiting and Executing . . . . . . . . . . .
+4.5.1 Exit statuses . . . . . . . . . . . . . . .
+4.5.2 Zombies and Orphans . . . . . . . . .
+4.5.3 Advanced: Asynchronously Waiting exec . . . . . . . . . . . . . . . . . . . . . . .
+4.6.1 POSIX Exec Details . . . . . . . . . .
+4.6.2 Shortcuts . . . . . . . . . . . . . . . . .
+The fork-exec-wait Pattern . . . . . . . . .
+4.7.1 Environment Variables . . . . . . . .
+Further Reading . . . . . . . . . . . . . . .
+4.8.1 Topics . . . . . . . . . . . . . . . . . . .
+Questions/Exercises . . . . . . . . . . . . .
+5 Memory Allocators 5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2 C Memory Allocation API . . . . . . . . . . . . . . . . . . . . . . .
+5.2.1 Heaps and sbrk . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3 Intro to Allocating . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3.1 Placement Strategies . . . . . . . . . . . . . . . . . . . . . .
+5.3.2 Placement Strategy Pros and Cons . . . . . . . . . . . . . .
+5.4 Memory Allocator Tutorial . . . . . . . . . . . . . . . . . . . . . .
+5.4.1 Implementing a Memory Allocator . . . . . . . . . . . . . .
+5.4.2 Alignment and rounding up considerations . . . . . . . . .
+5.4.3 Implementing free . . . . . . . . . . . . . . . . . . . . . . . .
+5.4.4 Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.4.5 Explicit Free Lists Allocators . . . . . . . . . . . . . . . . . .
+5.5 Case Study: Buddy Allocator, an example of a segregated list .
+5.6 Case Study: SLUB Allocator, Slab allocation . . . . . . . . . . .
+5.7 Further Reading . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.8 Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.9 Questions/Exercises . . . . . . . . . . . . . . . . . . . . . . . . . .
+6 Threads 6.1 Processes vs threads . . . . . . . . . . . .
+6.2 Thread Internals . . . . . . . . . . . . . .
+6.3 Simple Usage . . . . . . . . . . . . . . . .
+6.4 Pthread Functions . . . . . . . . . . . . .
+6.5 Race Conditions . . . . . . . . . . . . . .
+6.5.1 Don’t Cross the Streams . . . . . .
+6.5.2 Embarrassingly Parallel Problems .
+6.5.3 Other Problems . . . . . . . . . . . .
+iv
+79 80 80 80 83 84 85 86 88 89 90 91 92 93 94 94 95 96 96 97
+99 99 99 101 102 103 104 106 108 109 110 111 111 112 113 113 114 114
+117 117 118 119 120 122 125 127 127
+CONTENTS 6.5.4 Advanced: Lightweight Processes?
+6.5.5 Further Reading . . . . . . . . . . .
+6.6 Topics . . . . . . . . . . . . . . . . . . . . .
+6.7 Questions . . . . . . . . . . . . . . . . . .
+CONTENTS .
+128 129 130 130
+7 Synchronization 7.1 Mutex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.1.1 Mutex Lifetime . . . . . . . . . . . . . . . . . . . . . .
+7.1.2 Mutex Usages . . . . . . . . . . . . . . . . . . . . . . .
+7.1.3 Mutex Implementation . . . . . . . . . . . . . . . . .
+7.1.4 Advanced: Implementing a Mutex with hardware 7.1.5 Semaphore . . . . . . . . . . . . . . . . . . . . . . . .
+7.2 Condition Variables . . . . . . . . . . . . . . . . . . . . . .
+7.3 Thread-Safe Data Structures . . . . . . . . . . . . . . . . .
+7.3.1 Using Semaphores . . . . . . . . . . . . . . . . . . . .
+7.4 Software Solutions to the Critical Section . . . . . . . . .
+7.4.1 Naive Solutions . . . . . . . . . . . . . . . . . . . . . .
+7.4.2 Turn-based solutions . . . . . . . . . . . . . . . . . . .
+7.4.3 Turn and Flag solutions . . . . . . . . . . . . . . . . .
+7.5 Working Solutions . . . . . . . . . . . . . . . . . . . . . . .
+7.5.1 Peterson’s Solution . . . . . . . . . . . . . . . . . . . .
+7.6 Implementing Counting Semaphore . . . . . . . . . . . .
+7.6.1 Other semaphore considerations . . . . . . . . . . .
+7.7 Barriers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.7.1 Reader Writer Problem . . . . . . . . . . . . . . . . .
+7.7.2 Attempt #1 . . . . . . . . . . . . . . . . . . . . . . . .
+7.7.3 Attempt #2: . . . . . . . . . . . . . . . . . . . . . . . .
+7.7.4 Attempt #3 . . . . . . . . . . . . . . . . . . . . . . . .
+7.7.5 Starving writers . . . . . . . . . . . . . . . . . . . . .
+7.7.6 Attempt #4 . . . . . . . . . . . . . . . . . . . . . . . .
+7.8 Ring Buffer . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.8.1 Ring Buffer Gotchas . . . . . . . . . . . . . . . . . . .
+7.8.2 Multithreaded Correctness . . . . . . . . . . . . . . .
+7.8.3 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.8.4 Another Analysis . . . . . . . . . . . . . . . . . . . . .
+7.8.5 Correct implementation of a ring buffer . . . . . . .
+7.9 Extra: Process Synchronization . . . . . . . . . . . . . . .
+7.9.1 Interruption . . . . . . . . . . . . . . . . . . . . . . . .
+7.9.2 Solution . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.10 External Resources . . . . . . . . . . . . . . . . . . . . . . .
+7.11 Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.12 Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+131 133 133 134 136 137 139 142 142 147 150 151 152 153 153 154 155 157 157 162 162 162 163 164 165 167 168 168 169 169 170 172 173 173 174 175 175
+8 Deadlock 8.1 Resource Allocation Graphs . . . . . . . . . . .
+8.2 Coffman Conditions . . . . . . . . . . . . . . . .
+8.3 Approaches to Solving Livelock and Deadlock 8.4 Dining Philosophers . . . . . . . . . . . . . . . .
+8.4.1 Failed Solutions . . . . . . . . . . . . . . . .
+181 182 183 185 186 186
+v
+CONTENTS 8.5
+CONTENTS
+Viable Solutions . . . . . . . . . . . . . . . . .
+8.5.1 Leaving the Table (Stallings’ Solution) .
+8.5.2 Partial Ordering (Dijkstra’s Solution) .
+8.6 Topics . . . . . . . . . . . . . . . . . . . . . . . .
+8.7 Questions . . . . . . . . . . . . . . . . . . . . .
+188 189 190 191 192
+9 Virtual Memory and Interprocess Communication 9.1 Translating Addresses . . . . . . . . . . . . . . .
+9.1.1 Terminology . . . . . . . . . . . . . . . . . .
+9.1.2 Multi-level page tables . . . . . . . . . . .
+9.1.3 Page Table Disadvantages . . . . . . . . .
+9.1.4 MMU Algorithm . . . . . . . . . . . . . . .
+9.1.5 Frames and Page Protections . . . . . . .
+9.1.6 Page Faults . . . . . . . . . . . . . . . . . .
+9.1.7 Link Back to IPC . . . . . . . . . . . . . . .
+9.2 mmap . . . . . . . . . . . . . . . . . . . . . . . . .
+9.2.1 mmap Definitions . . . . . . . . . . . . . .
+9.2.2 Annotated mmap Walkthrough . . . . . .
+9.2.3 MMAP Communication . . . . . . . . . . .
+9.3 Pipes . . . . . . . . . . . . . . . . . . . . . . . . .
+9.3.1 Pipe Gotchas . . . . . . . . . . . . . . . . .
+9.3.2 Other pipe facts . . . . . . . . . . . . . . .
+9.3.3 Pipes and Dup . . . . . . . . . . . . . . . .
+9.3.4 Pipe Conveniences . . . . . . . . . . . . . .
+9.4 Named Pipes . . . . . . . . . . . . . . . . . . . .
+9.4.1 Hanging Named Pipes . . . . . . . . . . . .
+9.4.2 Race condition with named pipes . . . . .
+9.5 Files . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.5.1 Determining File Length . . . . . . . . . .
+9.5.2 Use stat instead . . . . . . . . . . . . . . . .
+9.5.3 Gotchas with files . . . . . . . . . . . . . .
+9.6 IPC Alternatives . . . . . . . . . . . . . . . . . . .
+9.7 Topics . . . . . . . . . . . . . . . . . . . . . . . . .
+9.8 Questions . . . . . . . . . . . . . . . . . . . . . .
+195 196 196 198 200 201 201 202 202 203 203 204 205 206 209 211 211 212 214 214 214 215 217 217 217 218 218 219
+221 222 222 223 223 223 224 224 225 226 227 228 229 229
+10 Scheduling 10.1 High Level Scheduler Overview . . . . . . . . . . . . . . . . . . . . . . . .
+10.2 Measurements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.2.1 What is preemption? . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.2.2 Why might a process (or thread) be placed on the ready queue?
+10.3 Measures of Efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.3.1 Convoy Effect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.4 Scheduling Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.4.1 Shortest Job First (SJF) . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.4.2 Preemptive Shortest Job First (PSJF) . . . . . . . . . . . . . . . . .
+10.4.3 First Come First Served (FCFS) . . . . . . . . . . . . . . . . . . . . .
+10.4.4 Round Robin (RR) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.4.5 Priority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.5 Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+vi
+CONTENTS 10.6
+CONTENTS
+Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+11 Networking 11.1 The OSI Model . . . . . . . . . . . . .
+11.2 Layer 3: The Internet Protocol . . . .
+11.2.1 What’s the deal with IPv6? . . .
+11.2.2 What’s My Address? . . . . . . .
+11.3 Layer 4: TCP and Client . . . . . . .
+11.3.1 Note on network orders . . . . .
+11.3.2 TCP Client . . . . . . . . . . . . .
+11.3.3 Sending some data . . . . . . . .
+11.4 Layer 4: TCP Server . . . . . . . . . .
+11.4.1 Example Server . . . . . . . . . .
+11.4.2 Sorry To Interrupt . . . . . . . .
+11.5 Layer 4: UDP . . . . . . . . . . . . . .
+11.5.1 UDP Attributes . . . . . . . . . .
+11.5.2 UDP Client . . . . . . . . . . . . .
+11.5.3 UDP Server . . . . . . . . . . . .
+11.6 Layer 7: HTTP . . . . . . . . . . . . .
+11.6.1 What’s my name? . . . . . . . .
+11.7 Non-Blocking IO . . . . . . . . . . . .
+11.7.1 epoll . . . . . . . . . . . . . . . .
+11.7.2 Epoll Example . . . . . . . . . .
+11.7.3 Assorted Epoll Gotchas . . . . .
+11.8 Remote Procedure Calls . . . . . . . .
+11.8.1 Privilege Separation . . . . . . .
+11.8.2 Stub Code and Marshaling . . .
+11.8.3 Interface Description Language 11.8.4 Transferring Structured Data .
+11.9 Topics . . . . . . . . . . . . . . . . . . .
+11.10 Questions . . . . . . . . . . . . . . . .
+231 231 232 233 234 237 238 239 240 243 246 247 248 248 248 250 252 252 253 255 256 257 258 258 258 260 260 260 261
+12 Filesystems 12.1 What is a filesystem? . . . . . . . . . . . .
+12.1.1 The File API . . . . . . . . . . . . . . .
+12.2 Storing data on disk . . . . . . . . . . . . .
+12.2.1 File Contents . . . . . . . . . . . . . .
+12.2.2 Directory Implementation . . . . . .
+12.2.3 UNIX Directory Conventions . . . . .
+12.2.4 Directory API . . . . . . . . . . . . . .
+12.2.5 Linking . . . . . . . . . . . . . . . . . .
+12.2.6 Pathing . . . . . . . . . . . . . . . . . .
+12.2.7 Metadata . . . . . . . . . . . . . . . . .
+12.3 Permissions and bits . . . . . . . . . . . . .
+12.3.1 User ID / Group ID . . . . . . . . . .
+12.3.2 Reading / Changing file permissions 12.3.3 Understanding the ‘umask’ . . . . . .
+12.3.4 The ‘setuid’ bit . . . . . . . . . . . . .
+12.3.5 The ‘sticky’ bit . . . . . . . . . . . . .
+263 264 265 265 266 267 268 268 270 272 272 274 275 275 276 277 277
+vii
+CONTENTS 12.4
+12.5 12.6
+12.7
+12.8 12.9
+CONTENTS
+Virtual filesystems and other filesystems . . . . . . .
+12.4.1 Managing files and filesystems . . . . . . . . .
+12.4.2 Obtaining Random Data . . . . . . . . . . . . .
+12.4.3 Copying Files . . . . . . . . . . . . . . . . . . . .
+12.4.4 Updating Modification Time . . . . . . . . . . .
+12.4.5 Managing Filesystems . . . . . . . . . . . . . . .
+Memory Mapped IO . . . . . . . . . . . . . . . . . . .
+Reliable Single Disk Filesystems . . . . . . . . . . . .
+12.6.1 RAID - Redundant Array of Inexpensive Disks 12.6.2 Higher Levels of RAID . . . . . . . . . . . . . . .
+12.6.3 Solutions . . . . . . . . . . . . . . . . . . . . . . .
+Simple Filesystem Model . . . . . . . . . . . . . . . .
+12.7.1 File Size vs Space on Disk . . . . . . . . . . . .
+12.7.2 Performing Reads . . . . . . . . . . . . . . . . .
+12.7.3 Performing Writes . . . . . . . . . . . . . . . . .
+12.7.4 Adding Deletes . . . . . . . . . . . . . . . . . . .
+Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Questions . . . . . . . . . . . . . . . . . . . . . . . . .
+13 Signals 13.1 The Deep Dive of Signals . . . . . . . . .
+13.2 Sending Signals . . . . . . . . . . . . . . .
+13.3 Handling Signals . . . . . . . . . . . . . .
+13.3.1 Sigaction . . . . . . . . . . . . . . . .
+13.4 Blocking Signals . . . . . . . . . . . . . .
+13.4.1 Sigwait . . . . . . . . . . . . . . . . .
+13.5 Signals in Child Processes and Threads 13.6 Topics . . . . . . . . . . . . . . . . . . . . .
+13.7 Questions . . . . . . . . . . . . . . . . . .
+278 278 279 279 280 280 282 284 284 285 285 286 287 287 288 289 289 289
+291 291 293 295 297 298 299 300 301 301
+14 Security 14.1 Security Terminology and Ethics . . . . .
+14.1.1 CIA Triad . . . . . . . . . . . . . . . . .
+14.2 Security in C Programs . . . . . . . . . . .
+14.2.1 Stack Smashing . . . . . . . . . . . . .
+14.2.2 Buffer Overflow . . . . . . . . . . . .
+14.2.3 Out of order instructions & Spectre 14.2.4 Operating Systems Security . . . . .
+14.2.5 Virtualization Security . . . . . . . .
+14.3 Cyber Security . . . . . . . . . . . . . . . .
+14.3.1 Security at the TCP Level . . . . . . .
+14.3.2 Security at the DNS Level . . . . . .
+14.4 Topics . . . . . . . . . . . . . . . . . . . . . .
+14.5 Review . . . . . . . . . . . . . . . . . . . . .
+303 303 304 305 305 306 307 308 309 310 310 310 311 311
+15 Review 313 15.1 C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313 15.1.1 Memory and Strings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313 15.1.2 Printing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315 viii
+CONTENTS 15.1.3 Input parsing . . . . . . . .
+15.2 Processes . . . . . . . . . . . . . .
+15.3 Memory . . . . . . . . . . . . . .
+15.4 Threading and Synchronization 15.5 Deadlock . . . . . . . . . . . . . .
+15.6 IPC . . . . . . . . . . . . . . . . .
+15.7 Filesystems . . . . . . . . . . . .
+15.8 Networking . . . . . . . . . . . .
+15.9 Security . . . . . . . . . . . . . .
+15.10 Signals . . . . . . . . . . . . . . .
+CONTENTS .
+316 316 317 317 321 322 324 324 327 327
+16 Honors topics 16.1 The Linux Kernel . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16.1.1 What kinds of kernels are there? . . . . . . . . . . . . . .
+16.1.2 System Calls Demystified . . . . . . . . . . . . . . . . . . .
+16.2 Containerization . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16.2.1 What is a container? . . . . . . . . . . . . . . . . . . . . . .
+16.2.2 Linux Namespaces . . . . . . . . . . . . . . . . . . . . . . .
+16.2.3 Building a container from scratch . . . . . . . . . . . . . .
+16.2.4 Containers in the wild: Software distribution is a Snap
+329 329 329 330 331 331 331 331 331
+333 333 334 334 334 335 336 338 339 342 343 343 343 344 345 346 347 347 348 348 349 350 353 354 354 354 354 354
+17 Appendix 17.1 Shell . . . . . . . . . . . . . . . . . . . . . . . .
+17.1.1 Shell tricks and tips . . . . . . . . . . . .
+17.1.2 What’s a terminal? . . . . . . . . . . . . .
+17.1.3 Common Utilities . . . . . . . . . . . . . .
+17.1.4 Syntactic . . . . . . . . . . . . . . . . . . .
+17.1.5 What are environment variables? . . . .
+17.2 Stack Smashing . . . . . . . . . . . . . . . . . .
+17.3 Compiling and Linking . . . . . . . . . . . . .
+17.4 Banker’s Algorithm . . . . . . . . . . . . . . . .
+17.5 Clean/Dirty Forks (Chandy/Misra Solution) 17.6 Actor Model . . . . . . . . . . . . . . . . . . . .
+17.7 Includes and conditionals . . . . . . . . . . . .
+17.7.1 Thread Scheduling . . . . . . . . . . . . .
+17.8 threads.h . . . . . . . . . . . . . . . . . . . . . .
+17.9 Modern Filesystems . . . . . . . . . . . . . . .
+17.9.1 Cutting Edge File systems . . . . . . . .
+17.10 Linux Scheduling . . . . . . . . . . . . . . . . .
+17.10.1Implementing Software Mutex . . . . .
+17.11 The Curious Case of Spurious Wakeups . . .
+17.12 Condition Wait Example . . . . . . . . . . . .
+17.13 Implementing CVs with Mutexes Alone . . .
+17.14 Higher Order Models of Synchronization . .
+17.14.1Sequentially Consistent . . . . . . . . . .
+17.14.2Relaxed . . . . . . . . . . . . . . . . . . .
+17.14.3Acquire/Release . . . . . . . . . . . . . .
+17.14.4Consume . . . . . . . . . . . . . . . . . . .
+17.15 Actor Model and Goroutines . . . . . . . . . .
+ix
+CONTENTS
+CONTENTS
+17.16 Scheduling Conceptually . . . . . . . . .
+17.16.1First Come First Served . . . . . . .
+17.16.2Round Robin or Processor Sharing 17.16.3Non Preemptive Priority . . . . . .
+17.16.4Shortest Job First . . . . . . . . . . .
+17.16.5Preemptive Priority . . . . . . . . .
+17.16.6Preemptive Shortest Job First . . .
+17.17 Networking Extra . . . . . . . . . . . . .
+17.17.1In-depth IPv4 Specification . . . . .
+17.17.2Routing . . . . . . . . . . . . . . . . .
+17.17.3Fragmentation/Reassembly . . . .
+17.17.4IP Multicast . . . . . . . . . . . . . .
+17.17.5kqueue . . . . . . . . . . . . . . . . .
+17.18 Assorted Man Pages . . . . . . . . . . . .
+17.18.1Malloc . . . . . . . . . . . . . . . . .
+17.19 System Programming Jokes . . . . . . .
+17.19.1Light bulb jokes . . . . . . . . . . . .
+17.19.2Groaners . . . . . . . . . . . . . . . .
+17.19.3System Programmer (Definition) .
+18 Post Mortems 18.1 Shell Shock . . . . . . . . . . . .
+18.2 Heartbleed . . . . . . . . . . . . .
+18.3 Dirty Cow . . . . . . . . . . . . .
+18.4 Meltdown . . . . . . . . . . . . .
+18.5 Spectre . . . . . . . . . . . . . . .
+18.6 Mars Pathfinder . . . . . . . . . .
+18.7 Mars Again . . . . . . . . . . . .
+18.8 Year 2038 . . . . . . . . . . . . .
+18.9 Northeast Blackout of 2003 . .
+18.10 Apple IOS Unicode Handling .
+18.11 Apple SSL Verification . . . . . .
+18.12 Sony Rootkit Installation . . . .
+18.13 Civilization and Ghandi . . . . .
+18.14 The Woes of Shell Scripting . .
+18.15 Appnexus Double Free . . . . .
+18.16 ATT Cascading Failures - 1990 .
+357 358 358 359 361 361 363 363 363 364 365 365 365 366 366 369 369 369 369
+371 371 372 372 372 372 372 373 373 373 374 374 374 375 375 375 376
+x
+List of Figures 3.1 Struct pointing to 11 empty boxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.2 Struct pointing to 11 boxes, 4 filled with 0006, 7 junk . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.3 Struct pointing to 11 boxes, 4 filled with 0006, 7 the stirng “person” . . . . . . . . . . . . . . . . . .
+59 60 60
+4.1 Process address space . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2 Timing of sorting 1, 3, 2, 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.3 Fork, exec, wait diagram . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+79 83 95
+5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9 5.10
+Empty heap blocks . . . . . . . .
+Best fit finds an exact match . .
+Worst fit finds the worst match .
+First fit finds the first match . . .
+3 Adjacent Memory blocks . . .
+Malloc addition . . . . . . . . . .
+Malloc split . . . . . . . . . . . . .
+Free double coalesce . . . . . . .
+Free list . . . . . . . . . . . . . . .
+Free list good and bad coalesce .
+103 103 104 104 106 107 109 110 111 112
+6.1 6.2 6.3 6.4
+Thread stack visualization . . . . . . . . . . . . . .
+Threads pointing to the same place in the heap .
+Thread access - not a race condition . . . . . . . .
+Thread access - race condition . . . . . . . . . . .
+118 119 123 123
+7.1 Ring Buffer Visualization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167 8.1 8.2 8.3 8.4 8.5 8.6 8.7 8.8
+Resource allocation graph . . . . . .
+Graph based Deadlock . . . . . . . .
+Dining Philosophers . . . . . . . . .
+Left right dining philosopher cycle .
+Livelock Failure . . . . . . . . . . . .
+Arbitrator Diagram . . . . . . . . . .
+Stalling solution almost deadlock .
+Stalling solution partial deadlock .
+182 183 186 187 188 189 190 191
+9.1 9.2 9.3 9.4 9.5 9.6
+Explicit Frame Table . . . . . .
+Splitting Address . . . . . . . .
+One level dereference . . . . .
+One level dereference example Three Way Address Split . . . .
+Full page table dereference . .
+196 197 197 198 198 199
+xi
+LIST OF FIGURES
+LIST OF FIGURES
+9.7 Full page example dereference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 9.8 Pipe Process Filedescriptor redirection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207 10.1 10.2 10.3 10.4
+Shortest job first scheduling . . . . . . . . .
+Preemptive Shortest Job First scheduling .
+First come first serve scheduling . . . . . .
+Round Robin Scheduling . . . . . . . . . . .
+225 226 227 228
+11.1 IPv6 Datagram divisibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233 11.2 Extra: TCP Header Specification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237 12.1 Sample file filling up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 286 13.1 Signal lifecycle diagram . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 292 17.1 Six box struct . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 337 17.2 Eight box struct, two boxes of slop . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338 17.3 IP Datagram divisibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 363
+xii
+List of Tables 7.1 7.2 7.3 7.4 7.5
+Good Thread Access Pattern . .
+Bad Thread Access Pattern . . .
+Horrible Thread Access Pattern .
+Candidate Solution #2 Analysis Candidate Solution #4 . . . . . .
+132 132 132 152 153
+9.1 Fine Pipe Access Pattern . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215 9.2 Pipe Race Condition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215 12.1 12.2 12.3 12.4
+Kibibyte Values . . . . .
+Kilobyte Values . . . . .
+Permissions Table . . .
+Virtual Filesystem list .
+263 264 274 278
+13.1 POSIX Signals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293 17.1 Signaling without Mutex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349 17.2 Scheduling Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357 17.3 Scheduling Measures of Efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357
+xiii
+1 Introduction
+To thy happy children of the future, those of the past send greetings.
+Alma Mater
+At the University of Illinois at Urbana-Champaign, We fundamentally believe that we have a right to make the university better for all future students. It is a message etched into our Alma Mater and makes up the DNA of our course staff. As such, we created the coursebook. The coursebook is a free and open systems programming textbook that anyone can read, contribute to, and modify for now and forever. We don’t think information should be behind a walled garden, and we truly believe that complex concepts can be explained simply and fully, for anyone to understand. The goal of this book is to teach you the basics and give you some intuition into the complexities of systems programming.
+Like any good book, it isn’t complete. We still have plenty of examples, ideas, typos, and chapters to work on.
+If you find any issues, please file an issue or email a list of typos to CS 241 course staff, and we’ll be happy to work on it. We are constantly trying to make the book better for students a year and ten years from now.
+This work is based on the original coursebook located at at this url. All these peoples’ hard work is included in the section below.
+Oh and the duck? Keep reading until synchronization :).
+Thanks again and happy reading!
+– Bhuvy
+1.1 Authors
+Bhuvan Venkatesh <bhuvan.venkatesh21@gmail.com> Lawrence Angrave <angrave@illinois.edu> joebenassi <joebenassi@gmail.com> jakebailey <zikaeroh@gmail.com> Ebrahim Byagowi <ebrahim@gnu.org> Alex Kizer <the.alex.kizer@gmail.com> dimyr7 <dimyr7.puma@gmail.com> Ed K <ed.karrels@gmail.com> ace-n <nassri2@illinois.edu> 1
+josephmilla <jjtmilla@gmail.com> Thomas Liu <thomasliu02@gmail.com> Johnny Chang <johnny@johnnychang.com> goldcase <johnny@johnnychang.com> vassimladenov <vassi1995@icloud.com> SurtaiHan <surtai.han@gmail.com> Brandon Chong <bchong95@users.noreply.github.com> Ben Kurtovic <ben.kurtovic@gmail.com> dprorok2 <dprorok2@illinois.edu> anchal-agrawal <aagrawa4@illinois.edu> Lawrence Angrave <angrave@illinois.eduuutoomanyu> daeyun <daeyunshin@gmail.com> bchong95 <bschong2@illinois.edu> rushingseas8 <georgealeks@hotmail.com> lukspdev <lllluuukke@gmail.com> hilalh <habashi2@illinois.edu> dimyr7 <dimyr7@hotmail.com> Azrakal <genxswordsman@hotmail.com> G. Carl Evans <gcevans@gmail.com> Cornel Punga <cornel.punga@gmail.com> vikasagartha <vikasagartha@gmail.com> dyarbrough93 <dyarbrough93@yahoo.com> berwin7996 <berwin7996@gmail.com> Sudarshan Govindaprasad <SudarshanGp@users.noreply.github.com> NMyren <ntmyren@gmail.com> Ankit Gohel <ankitgohel1996@gmail.com> vha-weh-shh <bhaweshchhetri1@gmail.com> sasankc <sasank.chundi@gmail.com> rishabhjain2795 <rishabhjain2795@gmail.com> nickgarfield <nickgarfield@icloud.com> by700git <aaabox@yeah.net> bw-vbnm <bwang19@illinois.edu> Navneeth Jayendran <jayndrn2@illinois.edu> Joe Benassi <joebenassi@gmail.com> Harpreet Singh <hshssingh4@gmail.com> FenixFeather <thomasliu02@gmail.com> EntangledLight <bdelapor@illinois.edu> Bliss Chapman <bliss.chapman@gmail.com> zikaeroh <zikaeroh@gmail.com> time bandit <radicalrafi@gmail.com> paultgibbons <paultgibbons@gmail.com> kevinwang <kevin@kevinwang.com> cPolaris <cPolaris@users.noreply.github.com> Zecheng () <zzhan147@illinois.edu> Wieschie <supernova190@gmail.com> WeiL <z920631580@gmail.com> Graham Dyer <gdyer2@illinois.edu> Arun Prakash Jana <engineerarun@gmail.com>
+Ankit Goel <ankitgoel616@gmail.com> Allen Kleiner <akleiner24@gmail.com> Abhishek Deep Nigam <adn5327@users.noreply.github.com> zmmille2 <zmmille2@gmail.com> sidewallme <sidewallme@gmail.com> raych05 <raymondcheng05@gmail.com> mmahes <malinixmahes@gmail.com> mass <amass1212@gmail.com> kovaka <jakelagrou@gmail.com> gmag23 <gmag23@gmail.com> ejian2 <ejian2@illinois.edu> cerutii <marc.ceruti@gmail.com> briantruong777 <briantruong777@gmail.com> adevar <adevar2@illinois.edu> Yuxuan Zou (Sean) <yzouac@connect.ust.hk> Xikun Zhang <xikunz2@illinois.edu> Vishal Disawar <disawar2@illinois.edu> Taemin Shin <cprayer@naver.com> Sujay Patwardhan <sujay.patwardhan@gmail.com> SufeiZ <sufeizhang92@gmail.com> Sufei Zhang <sufeizhang92@gmail.com> Steven Shang <sstevenshang@users.noreply.github.com> Steve Zhu <st.zhu1@gmail.com> Sibo Wang <sibowsb@gmail.com> Shane Ryan <shane1027@users.noreply.github.com> Scott Bigelow <epheph@gmail.com> Riyad Shauk <riyadshauk@users.noreply.github.com> Nathan Somers <nsomers2@illinois.edu> LieutenantChips <vkaraku2@illinois.edu> Jacob K LaGrou <jakelagrou@gmail.com> George <ruan3@illinois.edu> David Levering <dmlevering@gmail.com> Bernard Lim <bernlim93@users.noreply.github.com> zwang180 <zshwang0809@gmail.com> xuanwang91 <LilyBiology2010@gmail.com> xin-0 <xintong2@illinois.edu> wchill <wchill1337@gmail.com> vishnui <vishnui@gmail.com> tvarun2013 <tvarun2013@gmail.com> sstevenshang <sstevenshang@users.noreply.github.com> ssquirrel <lxl_zhang@Hotmail.com> smeenai <shoaib.meenai@gmail.com> shrujancheruku <shrujancheruku@gmail.com> ruiqili2 <ruiqili2@users.noreply.github.com> rchwlsk2 <rchwlsk2@illinois.edu> ralphchung <ralphchung2005@gmail.com> nikioftime <ncwells2@illinois.edu> mosaic0123 <truffer@live.com>
+majiasheng <jiasheng.ma@yahoo.com> m <cheonghiuwaa@gmail.com> li820970 <li820970@gmail.com> kuck1 <kuck1@illinois.edu> kkgomez2 <kkgomez2@users.noreply.github.com> jjames34 <James_Jerry1@yahoo.com> jargals2 <jargals2@ilinois.edu> hzding621 <hzding621@users.noreply.github.com> hzding621 <hzding621@gmail.com> hsingh23 <hisingh1@gmail.com> denisdemaisbr <denis@roo.com.br> daishengliang <daishengliang@gmail.com> cucumbur <bomblolism@gmail.com> codechao999 <brianweis@comcast.net> chrisshroba <chrisshroba@gmail.com> cesarcastmore <cesar.cast.more@gmail.com> briantruong777 <briantruong777@users.noreply.github.com> botengHY <tengbo1992@gmail.com> blapalp <pzkmmmh@gmail.com> bchhetri1 <bhaweshchhetri1@gmail.com> anadella96 <aisha.nadella@gmail.com> akleiner2 <akleiner24@gmail.com> aRatnam12 <ansh.ratnam@gmail.com> Yash Sharma <yashosharma@gmail.com> Xiangbin Hu <xhu27@illinois.edu> WininWin <ezoneid@gmail.com> William Klock <william.klock@gmail.com> WenhanZ <marinebluee@hotmail.com> Vivek Pandya <vivekvpandya@gmail.com> Vineeth Puli <vpuli98@gmail.com> Vangelis Tsiatsianas <vangelists@users.noreply.github.com> Vadiml1024 <vadim@mbdsys.com> Utsav2 <ukshah2@illinois.edu> Thirumal Venkat <zapstar@users.noreply.github.com> TheEntangledLight <bdelapor@illinois.edu> SudarshanGp <SudarshanGp@users.noreply.github.com> Sudarshan Konge <6025419+sudk1896@users.noreply.github.com> Slix <slixpk@gmail.com> Sasank Chundi <sasank.chundi@gmail.com> SachinRaghunathan <srghnth2@illinois.edu> Rémy Léone <remy.leone@gmail.com> RusselLuo <russelluo@gmail.com> Roman Vaivod <littlewhywhat@gmail.com> Rohit Sarathy <rohit@sarathy.org> Rick Sheahan <bomblolism@gmail.com> Rakhim Davletkaliyev <freetonik@gmail.com> Punitvara <punitvara@gmail.com> Phillip Quy Le <pitlv2109@gmail.com>
+Pavle Simonovic <simonov2@illinois.edu> Paul Hindt <phindt@gmail.com> Nishant Maniam <nishant.maniam@gmail.com> Mustafa Altun <gmail@mustafaaltun.com> Mohammed Sadik P. K <sadiqpkp@gmail.com> Mingchao Zhang <43462732+mingchao-zhang@users.noreply.github.com> Michael Vanderwater <vndrwtr2@users.noreply.github.com> Maxiwell Luo <maxluoXIII@gmail.com> LunaMystic <suxianghan@outlook.com> Liam Monahan <liam@liammonahan.com> Joshua Wertheim <joshwertheim@gmail.com> John Pham <newhope11134@gmail.com> Johannes Scheuermann <johscheuer@users.noreply.github.com> Joey Bloom <15joeybloom@users.noreply.github.com> Jimmy Zhang <midnight.vivian@gmail.com> Jeffrey Foster <jmfoste2@illinois.edu> James Daniel <james-daniel@users.noreply.github.com> Jake Bailey <zikaeroh@gmail.com> JACKHAHA363 <luyuchen.paul@gmail.com> Hydrosis <badda2k@gmail.com> Hong <plantvsbird@gmail.com> Grant Wu <grantwu2@gmail.com> EvanFabry <Evan.Fabry@gmail.com> EddieVilla <EddieVilla@users.noreply.github.com> Deepak Nagaraj <n.deepak@gmail.com> Daniel Meir Doron <danielmeirdoron@gmail.com> Daniel Le <GreenRecycleBin@gmail.com> Daniel Jamrozik <djamro2@illinois.edu> Daniel Carballal <danielenriquecarballal@gmail.com> Daniel <DTV96Calibre@users.noreply.github.com> Daeyun Shin <daeyun@daeyunshin.com> Creyslz <creyslz@gmail.com> Christian Cygnus <gamer00@att.net> CharlieMartell <charliecmartell@gmail.com> Caleb Bassi <calebjbassi@gmail.com> Brian Kurek <brkurek@gmail.com> Brendan Wilson <brendan.x.wilson@gmail.com> Bo Liu <boliu1@illinois.edu> Ayush Ranjan <ayushr2@illinois.edu> Atul kumar Agrawal <ms.atul1303@gmail.com> Artur Sak <artursak1981@gmail.com> Ankush Agarwal <ankushagarwal@users.noreply.github.com> Angelino <angelino_m@outlook.com> Andrey Zaytsev <andzaytsev@gmail.com> Alex Yang <alyx.yang@gmail.com> Alex Cusack <cusackalex@gmail.com> Aidan Epstein <aidan@jmad.org> Ace Nassri <ace.nassri@gmail.com>
+Abdullahi Abdalla <abdalla6@illinois.edu> Aneesh Durg <durg2@illinois.edu> Assassin Eclipse <hungwoei96@hotmail.com> Eric Cao <eric7252000@gmail.com> Raphael Long <rafilong42@gmail.com> WeiL <z920631580@gmail.com> williamsentosa95 <38774380+williamsentosa95@users.noreply.github.com> Pradyumna Shome <pradyumna.shome@gmail.com> Benjamin West Pollak <benjaminwpollak@gmail.com> Pengyue Jiang <pengyue3@illinois.edu>

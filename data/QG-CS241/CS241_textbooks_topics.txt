@@ -1,0 +1,95 @@
+Chapter 3
+• C-strings representation
+• C-strings as pointers
+• char p[]vs char* p
+• Simple C string functions (strcmp, strcat, strcpy)
+• sizeof char
+• sizeof x vs x*
+• Heap memory lifetime
+• Calls to heap allocation
+• Dereferencing pointers
+• Address-of operator
+• Pointer arithmetic
+• String duplication
+• String truncation
+• double-free error
+• String literals
+• Print formatting
+• memory out of bounds errors
+• static memory
+• file input / output. POSIX vs. C library • C input output: fprintf and printf
+• POSIX file IO (read, write, open)
+• Buffering of stdout
+
+Chapter 4
+• Correct use of fork, exec and waitpid
+• Using exec with a path
+• Understanding what fork and exec and waitpid do. E.g. how to use their return values. • SIGKILL vs SIGSTOP vs SIGINT.
+• What signal is sent when press CTRL-C at a terminal?
+• Using kill from the shell or the kill POSIX call.
+• Process memory isolation.
+• Process memory layout (where is the heap, stack etc; invalid memory addresses). • What is a fork bomb, zombie and orphan? How to create/remove them.
+• getpid vs getppid
+• How to use the WAIT exit status macros WIFEXITED etc.
+
+Chapter 5
+• Best Fit
+• Worst Fit
+• First Fit
+• Buddy Allocator
+• Internal Fragmentation
+• External Fragmentation
+• sbrk
+• Natural Alignment
+• Boundary Tag
+• Coalescing
+• Splitting
+• Slab Allocation/Memory Pool
+
+Chapter 6
+• pthread life-cycle
+• Each thread has a stack
+• Capturing return values from a thread
+• Using pthread_join
+• Using pthread_create
+• Using pthread_exit
+• Under what conditions will a process exit
+
+Chapter 7
+• Atomic operations
+• Critical Section
+• Producer Consumer Problem
+• Using Condition Variables
+• Using Counting Semaphore
+• Implementing a barrier
+• Implementing a ring buffer
+• Using pthread_mutex
+• Implementing producer consumer • Analyzing multi-threaded coded
+
+Chapter 8
+• Coffman Conditions
+• Resource Allocation Graphs
+• Dining Philosophers
+• Failed DP Solutions
+• Livelocking DP Solutions
+• Working DP Solutions: Benefits/Drawbacks • Ron Swanson Deadlock
+
+Chapter 9
+• Virtual Memory
+• Page Table
+• MMU/TLB
+• Address Translation 5. Page Faults 
+• Frames/Pages
+• Single-level vs multi-level page table
+• Calculating offsets for multi-level page table 9. Pipes 
+• Pipe read write ends
+• Writing to a zero reader pipe
+• Reading from a zero writer pipe 
+• Named pipe and Unnamed Pipes
+• Buffer Size/Atomicity
+• Scheduling Algorithms
+• Measures of Efficiency
+
+Chapter 10
+• Scheduling Algorithms 
+• Measures of Efficiency
