@@ -1,0 +1,300 @@
+2022-05-26 16:43:32,178 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:43:32,211 [run_qg] [INFO] Loading data...
+2022-05-26 16:44:11,753 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:44:11,802 [run_qg] [INFO] Loading data...
+2022-05-26 16:45:08,609 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:45:08,644 [run_qg] [INFO] Loading data...
+2022-05-26 16:46:09,549 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:46:09,585 [run_qg] [INFO] Loading data...
+2022-05-26 16:47:16,560 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:47:16,615 [run_qg] [INFO] Loading data...
+2022-05-26 16:47:43,276 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:47:43,321 [run_qg] [INFO] Loading data...
+2022-05-26 16:48:57,668 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 16:48:57,710 [run_qg] [INFO] Loading data...
+2022-05-26 17:03:50,748 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 17:03:50,785 [run_qg] [INFO] Loading data...
+2022-05-26 17:03:50,819 [run_qg] [INFO] Querying model...
+2022-05-26 17:04:08,409 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 3
+}
+2022-05-26 17:04:08,444 [run_qg] [INFO] Loading data...
+2022-05-26 17:04:08,457 [run_qg] [INFO] Querying model...
+2022-05-26 17:05:55,792 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.0,
+    "max_tokens": 256
+}
+2022-05-26 17:05:55,834 [run_qg] [INFO] Loading data...
+2022-05-26 17:05:55,859 [run_qg] [INFO] Querying model...
+2022-05-26 17:06:43,887 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:06:43,919 [run_qg] [INFO] Loading data...
+2022-05-26 17:06:43,936 [run_qg] [INFO] Querying model...
+2022-05-26 17:12:21,744 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:12:21,774 [run_qg] [INFO] Loading data...
+2022-05-26 17:12:21,798 [run_qg] [INFO] Querying model...
+2022-05-26 17:13:00,011 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:13:00,043 [run_qg] [INFO] Loading data...
+2022-05-26 17:13:00,059 [run_qg] [INFO] Querying model...
+2022-05-26 17:13:39,595 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:13:39,628 [run_qg] [INFO] Loading data...
+2022-05-26 17:13:39,642 [run_qg] [INFO] Querying model...
+2022-05-26 17:14:55,884 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 2,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:14:55,909 [run_qg] [INFO] Loading data...
+2022-05-26 17:14:55,927 [run_qg] [INFO] Querying model...
+2022-05-26 17:15:01,654 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 100,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:15:01,679 [run_qg] [INFO] Loading data...
+2022-05-26 17:15:01,687 [run_qg] [INFO] Querying model...
+2022-05-26 17:15:16,540 [openai_client] [ERROR] Rate limit reached for default-text-davinci-002. Limit: 20.000000 / min. Current: 24.000000 / min. Contact support@openai.com if you continue to have issues. Please add a payment method to your account to increase your rate limit. Visit https://beta.openai.com/account/billing to add a payment method.
+2022-05-26 17:18:25,723 [run_qg] [INFO] {
+    "data_dir": "D:\\DATA\\NSF_learning\\Caption-Mining\\QuestionGeneration\\models\\GPT-3\\data\\CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 100,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-05-26 17:18:25,753 [run_qg] [INFO] Loading data...
+2022-05-26 17:18:25,763 [run_qg] [INFO] Querying model...
