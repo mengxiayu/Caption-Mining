@@ -18,3 +18,6 @@ QuestionGeneration/models/GPT-3/api_key.json
 syllabus/data/*
 
 concept_graph_react/concept-graph/src/videos/*
+week01/corpus_corrected.txt
+week01/corpus_original.txt
+week01/nounchunks.txt
