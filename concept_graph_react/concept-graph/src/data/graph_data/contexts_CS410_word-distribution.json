@@ -1,0 +1,725 @@
+{
+  "concept": "word distribution",
+  "contexts": [
+    {
+      "course": "410",
+      "transcription": "9a443634-7f2e-4d3a-9ccd-0f1b6604c939",
+      "lecture": "Lecture 9 \u2014 Paradigmatic Relation Discovery - Part 2 | UIUC",
+      "lecture_num": 9,
+      "context": "is would be very similar to what we had before in that this vector is actually something similar to word distribution or the exercise with sum to one. now the weight of bm25 for each word is defined here. and if you c",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": " lectures to talk about this topic. so the basic idea here is improved representation of topic as a word distribution. so what you see now is the old representation, where we represent each topic with just one word or",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": " we represent each topic with just one word or one term or one phrase. but now we're going to use a word distribution to describe the topic. so here you see that for sports, we're going to use a word distribution over",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "se a word distribution to describe the topic. so here you see that for sports, we're going to use a word distribution over theoretical speaking all the words in our vocabulary. so for example, the high probability wor",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": " have seen before, except that we have added refinement for what the topic is. so now each topic is word distribution. and for each word distribution, we know that all the probabilities should sum to one over all the ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "e have added refinement for what the topic is. so now each topic is word distribution. and for each word distribution, we know that all the probabilities should sum to one over all the words in the vocabulary. so you ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "now the output would consist of as first a set of topics represented by theta i's each theta_i is a word distribution. and we also want to know the coverage of topics in each document so that that's the same pi_ij's t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "recisely topic mining problem, we have the following parameters. first, we have theta_i's each is a word distribution and then we have a set of pi's for each document. and since we have n documents so we have n sets o",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "set of the pi values will sum to one. so this is to say that we first pretend we already have these word distributions and coverage numbers, and then we're going to see how we can generate data by using such distribut",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": " knowledge. so to summarize, we introduced a new way of representing a topic, namely represented as word distribution, and this has advantage of using multiple words to describe a complicated topic. it also allows us ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "f text articles. the number of topics and vocabulary set and the output is a set of topics. each is word distribution. and also the coverage of all the topics in each document and these are formally represented by the",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6a9537c1-62fc-4f31-a8a7-bdfcad2f50eb",
+      "lecture": "Lecture 16 \u2014 Topic Mining and Analysis  Probabilistic Topic Models | UIUC",
+      "lecture_num": 16,
+      "context": "nd pi_i's and we have two constraints here for these parameters. the first is the constraint on the word distributions. in each world distribution, the probabilities on all the words must sum to one over all the words",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "54ab232c-85cb-4829-abd0-6cbaed5f3fc8",
+      "lecture": "Lecture 17 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC",
+      "lecture_num": 17,
+      "context": "r each word, and they sum to one. so now we can assume our text is a sample drawn according to this word distribution. that just means we're gonna draw a word each time and then eventually we'll get a text. so for exa",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "54ab232c-85cb-4829-abd0-6cbaed5f3fc8",
+      "lecture": "Lecture 17 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC",
+      "lecture_num": 17,
+      "context": "to talk about that in a moment. let's first talk about the sampling. so here i show two examples of word distributions or unigram language models. the first one has higher probabilities for words,\u00a0 text, mining, assoc",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "rative model for text data. the simplest language model is unigram language model. it's basically a word distribution. we introduced the concept of likelihood function which is the probability of data given some model",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a",
+      "lecture": "Lecture 19 \u2014 Probabilistic Topic Models  Mining One Topic | UIUC",
+      "lecture_num": 19,
+      "context": "a sequence of words. each word here is denoted by x sub i. our model is a unigram language model, a word distribution that we hope to denote a topic and that's our goal. so we will have as many parameters as many word",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": " theta sub d and probability of theta sub b here. so this is the probability of selecting the topic word distribution. this is the probability of selecting the background word distribution denoted by theta sub b. now ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "ility of selecting the topic word distribution. this is the probability of selecting the background word distribution denoted by theta sub b. now in this case i just give example where we can set both to .5. so if you",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "ng each model and if. let's say the coin shows up as head, which means we're going to use the topic word distribution. then we're going to use this word distribution to generate a word. otherwise we might be going thr",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "p as head, which means we're going to use the topic word distribution. then we're going to use this word distribution to generate a word. otherwise we might be going through this path. and we're going to use the backg",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "nerate a word. otherwise we might be going through this path. and we're going to use the background word distribution to generate the word. so in such a case we have a model that has some uncertainty associated with t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": " the word. so in such a case we have a model that has some uncertainty associated with the use of a word distribution. but we can still think of this as a model for generating text data and such a model is called a mi",
+      "label": "Intro"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": " to consider 2 cases. therefore it's a sum over these two cases. the first case is to use the topic word distribution to generate the word, and in such a case, then the probability would be the probability of theta su",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "two ways of generating text, and each case is a product of the probability of choosing a particular word distribution multiplied by the probability of observing the word from that distribution. now later you will see ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": " well, these are represented by our parameters, and we have two kinds of parameters. one is the two word distributions. those are two topics and the other is the coverage of each topic in each. the coverage of each to",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": " motivation for using a mixture model and we hope to factor out the background words from the topic word distribution. so the idea is to assume that the text data actually contain two kinds of words. one kind is from ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "ords. one kind is from the background here. so the is away etc and the other kind is from our topic word distribution that we're interested in. so in order to solve this problem of factoring out background words, we c",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "dy know the parameters of all the values for all the parameters in the mixture model except for the word distribution of theta sub d, which is our target. so this is the case of customizing a probalistic model so that",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "a particular need. now you can imagine we could have assumed that we also don't know the background word distribution, but in this case our goal is factor out precisely those high probability background words. so we a",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "the probalistic model in\u00a0 this way when we use maximum likelihood estimator we will end up having a word distribution that where the common words will be factored out via the use of the background distribution. so to ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "e probability of text is basically the sum over 2 cases, where each case corresponds to each of the word distribution. and it accounts for the two ways of generating text. an inside each case we have the probability o",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5350ccd0-beab-48fc-8484-d8e6a38c4cbf",
+      "lecture": "Lecture 22 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 2 | UIUC",
+      "lecture_num": 22,
+      "context": "data point in the data. we also talk about the special case of fixing one component to a background word distribution, and this distribution can be estimated by using a collection of documents. a large collection of e",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "rio of using a two component mixture model to try to factor out the background words from one topic word distribution here. so we are interested in computing this estimate. and we're going to try to adjust these proba",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "would be explained by the background model, the other group would be explained by the unknown topic word distribution after all, this is the basic idea of mixture model. but suppose we actually know which word is from",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "on, so that would mean, for example these words: the is and we are known to be from this background word distribution. on the other hand, the other words, text, mining, clustering, etc are known to be from the topic w",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "n. on the other hand, the other words, text, mining, clustering, etc are known to be from the topic word distribution. if you can see the color, then these are shown in blue. these blue words are then assumed to be fr",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "see the color, then these are shown in blue. these blue words are then assumed to be from the topic word distribution. if we already know how to separate these words, then the problem of estimating the world distribut",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "r a moment, you realize that well we can simply take all these words that are known to be from this word distribution theta sub d and normalize them. so indeed this problem will be very easy to solve. if we had known ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "distribution has been used to generate which part of the data, so we actually go back to the single word distribution problem, and in this case let's call these words that are known to be from theta d pseudo document ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": " used to generate the text would depend on how high the probability of the data the text is in each word distribution. we are going do tend to guess the distribution that gives the word higher probability and this is ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5",
+      "lecture": "Lecture 24 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC",
+      "lecture_num": 24,
+      "context": "t's why we call these hidden variables. now the idea that we talked about before for predicting the word distribution that has been used with the general the world is it'll predict this. the value of this hidden varia",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5",
+      "lecture": "Lecture 24 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC",
+      "lecture_num": 24,
+      "context": "en variables, and then that would lead to another generation of re estimate the parameters. for the word distribution that we're interested in. ok, so as i said, the bridge between the two is really variable z hidden ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5",
+      "lecture": "Lecture 24 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC",
+      "lecture_num": 24,
+      "context": "e two is really variable z hidden variable, which indicates how likely this world is from the topic word distributions theta sub d. so this slide has a lot of content and you may need to pause the video to digest it, ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4c3d9363-8e43-44fe-ab21-8740cfd1a8c5",
+      "lecture": "Lecture 24 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 2 | UIUC",
+      "lecture_num": 24,
+      "context": ", and you might wonder whether this would be also useful because our main goal is to estimate these word distribution right? so this is our primary goal. we hope to have a more discriminating world distribution. but t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "1cc2d7fa-3d11-49fa-b979-ef5e9442466f",
+      "lecture": "Lecture 26 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 1 | UIUC",
+      "lecture_num": 26,
+      "context": "are asked, so one is pies and these are the coverage of topic in the document. and the other is the word distributions that characterize all the topics. so the next line then is simply to plug this in to calculate the",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": "topic theta sub-j. but the normalization is different because in this case we are interested in the word distribution. so we simply normalize this over all the words. this is different. in contrast, here we normalized",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": "nown parameters randomly. in our case we are interested in all those coverage parameters-- pis--and word distributions, thetas. and we just randomly normalize them. this is the initialization step, and then we will re",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": "ction of word from topic theta sub-j is based on the probability of selecting that theta sub-j as a word distribution to begin to generate the world multiplied by the probability of observing the word from that distri",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": " of pi the coverage. or we can renormalize based on the. for all the words and that would give us a word distribution. so it's useful to think of the algorithm in this way, because when you implement, you can just use",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": "over topical knowledge from text data. in this case plsa allows us to discover two things. one is k-word distributions, each representing a topic and the other is the proportion of each topic in each document. and suc",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5190e288-54f7-4021-9083-8e8ceac11345",
+      "lecture": "Lecture 28 \u2014 Latent Dirichlet Allocation LDA - Part 1 | UIUC",
+      "lecture_num": 28,
+      "context": "this preference, then the only difference in the em algorithm is in the m step. when we re estimate word distributions, we are going to add. additional counts to reflect our prior right? so here you can see the pseudo",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": "achieve the same goal as plsa for text mining. it means it can compute the topic coverage and topic word distributions as in plsa. however, there is no free launch while the parameters for plsa\u00a0 is much fewer, there w",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": "for plsa\u00a0 is much fewer, there were fewer parameters and in order to compute the topic coverage and word distributions, we again face the problem of influence of these variables because they're not the parameters of t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": "now in this model, all these parameters are free to change and we do not impose any prior, so these word distributions are now represented as theta i vectors. so these word distributions. so here and the other set of ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": " not impose any prior, so these word distributions are now represented as theta i vectors. so these word distributions. so here and the other set of parameters are pis and we present as a vector also. and this is for ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": " generating skewed coverage of topics, and this is controlled by alpha. and similar here. the topic word distributions are drawn from another dirichlet distribution with beta parameters and note that here alpha has k ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": "rst equation is essentially the same and this is the probability of generating a word from multiple word distributions. and this formula is a sum of all the possibilities of generating the word inside the sum is a pro",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": " take tax data as input, and we're going to output the key topics. each topic is characterized by a word distribution, and we're going to also output proportions of these topics covered in each document. and plsa is t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568",
+      "lecture": "Lecture 31 \u2014 Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+      "lecture_num": 31,
+      "context": "nd we hope to generate as output two things. one is a set of topics denoted by theta i's. each is a word distribution and the other is a pi ij's and these are the probabilities that each document covers each topic. so",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568",
+      "lecture": "Lecture 31 \u2014 Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+      "lecture_num": 31,
+      "context": "so here again it's a slide that you have seen before. and here we hope to estimate a topic model or word distribution based on precisely one document, and that's when we assume that this document covers precisely one ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568",
+      "lecture": "Lecture 31 \u2014 Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+      "lecture_num": 31,
+      "context": "se to generate document, because the document that could potentially be generated from any of the k word distributions that we have. but this time, once we have made the decision to choose one of the topics, we're goi",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568",
+      "lecture": "Lecture 31 \u2014 Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+      "lecture_num": 31,
+      "context": "odel, whereas in the topic model it's made multiple times. four different words. the second is that word distribution here is going to be used to generate all the words for a document. but in the case of topic modelin",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8717e27a-33fb-4d06-ae68-2e0d915b1568",
+      "lecture": "Lecture 31 \u2014 Text Clustering Generative Probabilistic Models - Part 1 | UIUC",
+      "lecture_num": 31,
+      "context": " of the distributions for generating a document, and we're going back to the case of estimating one word distribution based on one document. so that's the connection that we discussed earlier. but now you can see more",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "f64adab4-578a-4868-8b2c-03fdd4ddf55d",
+      "lecture": "Lecture 32 \u2014 Text Clustering Generative Probabilistic Models - Part 2 | UIUC",
+      "lecture_num": 32,
+      "context": "fferent from the topic model. but we have similar parameters. we have a set of theta i's denote the word distributions corresponding to the k unigram language models. we have p of each theta i as the probability of se",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "f64adab4-578a-4868-8b2c-03fdd4ddf55d",
+      "lecture": "Lecture 32 \u2014 Text Clustering Generative Probabilistic Models - Part 2 | UIUC",
+      "lecture_num": 32,
+      "context": "t. it helps summarize what the cluster is about to look at the top terms in this cluster or in this word distribution. and they will tell us what the cluster is about. an p of theta i can be interpreted as. indicating",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "dccc8a84-66da-47ce-ab88-28e8acf192b9",
+      "lecture": "Lecture 33 \u2014 Text Clustering Generative Probabilistic Models - Part 3 | UIUC",
+      "lecture_num": 33,
+      "context": "zer. so basically this normalizes the probability of generating this document by using this average word distribution. so you can see the normalizer here. and since we have used exact the same normalizer for the numer",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "dccc8a84-66da-47ce-ab88-28e8acf192b9",
+      "lecture": "Lecture 33 \u2014 Text Clustering Generative Probabilistic Models - Part 3 | UIUC",
+      "lecture_num": 33,
+      "context": "rent patterns in text data. so in this case, each class is represented by unigram language model or word distribution, and that's similar to topic model. so here you can see the word distribution actually generates a ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "dccc8a84-66da-47ce-ab88-28e8acf192b9",
+      "lecture": "Lecture 33 \u2014 Text Clustering Generative Probabilistic Models - Part 3 | UIUC",
+      "lecture_num": 33,
+      "context": "ram language model or word distribution, and that's similar to topic model. so here you can see the word distribution actually generates a term cluster as a byproduct. a document that is generated by first choosing a ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "talked about before about text clustering, where we assume there are multiple topics represented by word distributions. each topic is 1 cluster. so once we estimate such model, we faced the problem of deciding which c",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "ords represent represent as xi here. now, how can you compute the probability that particular topic word distributions theta i has been used to generate this document? in general, we use bayes rule to make this infere",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "uster. the other is a likelihood part, that is this part. and this has to do with whether the topic word distribution can explain the content of this document well. and we want to pick a topic that's high by both valu",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": " prior here is related to the posterior on the left hand side. and this is related to how well this word distribution explains the document here, and the two are related in this way. so to find the topic that has the ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "we now can see clearly how we can assign a documentary to a category based on the information about word distributions for these categories and the prior on these categories. so this idea can be directly adapted to do",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "orization problem now, so we assume that if theta i represents category i accurately that means the word distribution characterizes the content of documents in category i accurately. then what we can do is precisely l",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "eta i actually represents category i accurate? now, in clustering we learned this category i or the word distributions for category i from the data. but in our case what can we do to make sure this theta i represents ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "h category is or how likely we would have observed the document in that category. the other kind is word distributions and we want to know what words have high probabilities for each category. so the idea then is to j",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "em. so let me state the problem again, so let's just think about category one. we know there is one word distribution that has been used to generate documents. and we generated each word in the document independently ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "documents have been all generated from category one, namely have been all generated using this same word distribution. now the question is what will be your guess or estimate of the probability of each word in this di",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": " size of training dataset in each category. that's the size of the set t sub i. now, what about the word distribution? well, we do the same again. this time we can do this for each category. so let's say we are consid",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "observed training data to estimate the probability of each category. now we can do the same for the word distribution, but in this case we sometimes we find it useful to use a non-uniform pseudo counts for the words. ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "aller pseudocounts. now, this addition of background model would cause nonuniform smoothing of this word distributions we are going to bring the probability of those common words, or to a higher level because of the b",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "o the background language model will tend to the background language model, so we would bring every word distribution to the same background language model. and that essentially removes the difference between these ca",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "ee41ce3a-6c8d-4c3b-90fd-79f3e9190402",
+      "lecture": "Lecture 47 \u2014 Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 2 | UIUC",
+      "lecture_num": 47,
+      "context": "ld be to use topic model. so given an entity, we can assume there are aspects that are described by word distributions. topics and then we can use a topic model to model the generation of the review text. our assumed ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": "different locations, we assume that there are different views of the topic or different versions of word distributions that characterize a topic, and this assumption allows us to discover different variations of the s",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": "opics. and these are shown as view one, view two and view three each view is a different version of word distributions. and these views are tide to some context variables. for example, type to the location texas or th",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": " have taken this view. that depends on the time in the middle. so now we have a specific version of word distributions. now you can see some probabilities of words for each topic. now, once we have chosen a view, now ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": ", now the situation will be very similar to what happened in standard plsa. we assume we have got a word distribution associated with each topic, right? and then next to the view we choose a coverage from the bottom. ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": " this case. we pick we've picked the document specifically coverage now with the coverage and these word distributions, we can generate the document in exactly the same way as in plsa. so what it means we're going to ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": "lly the same process as in plsa. now, so the main difference is when we obtain the coverage and the word distributions, we let the context influence our choice. so in other words, we have extra switches that are tied ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "3103be2f-681e-41cf-b0f7-21cf6ba56616",
+      "lecture": "Lecture 50 \u2014 Contextual Text Mining  Contextual Probabilistic Latent Semantic Analysis | UIUC",
+      "lecture_num": 50,
+      "context": "o both wars. if you look at the column further and what's interesting is that the next two cells of word distributions actually tell us collection specific variations of the topic of united nations. so it indicates th",
+      "label": "Use"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "text": "maximum likelihood",
+  "contexts": [
+    {
+      "course": "410",
+      "transcription": "44df41bc-04d3-41ca-ac51-dbd22dc98305",
+      "lecture": "Lecture 13 \u2014 Syntagmatic Relation Discovery  Mutual Information - Part 2 | UIUC",
+      "lecture_num": 13,
+      "context": "of events in the observed data to estimate probabilities. and a commonly used technique is called a maximum likelihood estimate, where we simply normalize the observed accounts. so if we do that, we can see we can comp",
+      "label": "Intro"
+    },
+    {
+      "course": "410",
+      "transcription": "54ab232c-85cb-4829-abd0-6cbaed5f3fc8",
+      "lecture": "Lecture 17 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC",
+      "lecture_num": 17,
+      "context": ". in this case, it turns out that our guesses are indeed the best in some sense, and this is called maximum likelihood estimate. and it's the best in that it would give our observed data the maximum probability. meanin",
+      "label": "Intro"
+    },
+    {
+      "course": "410",
+      "transcription": "54ab232c-85cb-4829-abd0-6cbaed5f3fc8",
+      "lecture": "Lecture 17 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 1 | UIUC",
+      "lecture_num": 17,
+      "context": "htly, then the probability of the observed text data will be somewhat smaller. and this is called a maximum likelihood estimate.",
+      "label": "Intro"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "e and specifically, let's talk about the two different ways of estimating parameters. one is called maximum likelihood estimate that i already just mentioned. the other is bayesian estimation. so in maximum likelihood ",
+      "label": "Intro"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": " maximum likelihood estimate that i already just mentioned. the other is bayesian estimation. so in maximum likelihood estimation, we define best as meaning the data likelihood has reached the maximum, so formally it's",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "ata, let's say our observed 100 words did not contain another word related to text mining, then our maximum likelihood estimator would give that word zero probability. because giving a non zero probability would take a",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "led the maximum a posteriori or map estimate. and this estimate is a more general estimate than the maximum likelihood estimate. because once if we define our prior as a noninformative prior meaning that it's uniform o",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "that it's uniform over all the theta values, no preference, then, we basically would go back to the maximum likelihood estimator because in such a case it's mainly going to be determined by this likelihood value here. ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "ledge ideally should be reliable. otherwise your estimate may not necessarily be more accurate than maximum likelihood estimate. now let's look at the bayesian estimation in more detail. ok, so i show the theta values ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "he most likely parameter value according to our prior before we observe any data. this point is the maximum likelihood estimate that represents the theta that gives the data the maximum probability. now this point is i",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "48b37a2f-5ca3-4b7b-9bfc-d841da37c566",
+      "lecture": "Lecture 18 \u2014 Probabilistic Topic Models  Overview of Statistical Language Models - Part 2 | UIUC",
+      "lecture_num": 18,
+      "context": "termine which parameter values would maximize the probability of the observed data, and this is the maximum likelihood estimate. we also talked about the bayesian estimation or influence. in this case we must define a ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a",
+      "lecture": "Lecture 19 \u2014 Probabilistic Topic Models  Mining One Topic | UIUC",
+      "lecture_num": 19,
+      "context": "rested in estimating those parameters, for example by maximizing the likelihood which would lead to maximum likelihood estimator and these estimated parameters would then become the output of the mining algorithm. whic",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a",
+      "lecture": "Lecture 19 \u2014 Probabilistic Topic Models  Mining One Topic | UIUC",
+      "lecture_num": 19,
+      "context": "lities of these words that would maximize this likelihood function. so now let's take a look at the maximum likelihood estimate problem more closely. this line is copied from the previous slide. it's just our likelihoo",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a",
+      "lecture": "Lecture 19 \u2014 Probabilistic Topic Models  Mining One Topic | UIUC",
+      "lecture_num": 19,
+      "context": "ssible to all the observed words here. and you might also notice that this is the general result of maximum likelihood estimator. in general, the estimate would be to normalize count and it's just sometimes the counts ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "e6c92e3a-0169-4af1-96d7-3fe4a5303e3a",
+      "lecture": "Lecture 19 \u2014 Probabilistic Topic Models  Mining One Topic | UIUC",
+      "lecture_num": 19,
+      "context": " and we're going to see such cases later also. so if you imagine what would we get if we use such a maximum likelihood estimator to estimate one topic for a single document d here, let's imagine this document is a text",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "oblem. well, this is obviously because these words are very frequent in our data and we are using a maximum likelihood estimate and then the estimator obviously would have to assign high probabilities for these words i",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "cument and this form where we look at different unique words is a convenient form for computing the maximum likelihood estimator later. and the maximum likelihood estimator\u00a0 is, as usual, just to find the parameters th",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "8eaf2971-31ff-40b7-9fc6-b91c7637f916",
+      "lecture": "Lecture 20 \u2014 Probabilistic Topic Models  Mixture of Unigram Language Models | UIUC",
+      "lecture_num": 20,
+      "context": "ent unique words is a convenient form for computing the maximum likelihood estimator later. and the maximum likelihood estimator\u00a0 is, as usual, just to find the parameters that would maximize this likelihood function a",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": " the model heuristically to try to factor out this background words. it's unclear whether if we use maximum likelihood estimator we will actually end up having order distribution where the common words like the will be",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "turns out that the answer is yes, and when we set up the probalistic model in\u00a0 this way when we use maximum likelihood estimator we will end up having a word distribution that where the common words will be factored ou",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "27d06808-2624-4922-a079-04dccb301dde",
+      "lecture": "Lecture 21 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 1 | UIUC",
+      "lecture_num": 21,
+      "context": "hey will be collaborating to maximize the probability of the observed data which is dictated by the maximum likelihood estimator. but there are also competing in someway an in particular they will be competing on the w",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5350ccd0-beab-48fc-8484-d8e6a38c4cbf",
+      "lecture": "Lecture 22 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 2 | UIUC",
+      "lecture_num": 22,
+      "context": "cause this has to do with understanding of important behavior of a mixture model and indeed all the maximum likelihood estimator. now if you look at the formula for a moment then you will see. it seems that now the obj",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5350ccd0-beab-48fc-8484-d8e6a38c4cbf",
+      "lecture": "Lecture 22 \u2014 Probabilistic Topic Models  Mixture Model Estimation - Part 2 | UIUC",
+      "lecture_num": 22,
+      "context": "pact would be more on the likelihood function. this is in fact a very general phenomenon of all the maximum likelihood estimator, but in this case we can see as we see more occurrences of term. it also encourages the u",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "we're going to introduce the em algorithm, which is a family of useful algorithms for computing the maximum likelihood estimate of mixture models. so this is now familiar scenario of using a two component mixture model",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "es are given by theta sub d update. and in this lecture were going to look into how to compute this maximum likelihood\u00a0 estimator. now let's start with the idea of separating the words in the text data into two groups.",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "93efd70b-16b1-45f1-9c81-c0f2aeb7c9ee",
+      "lecture": "Lecture 23 \u2014 Probabilistic Topic Models  Expectation Maximization Algorithm - Part 1 | UIUC",
+      "lecture_num": 23,
+      "context": "word counts for each word w sub i. and that's fairly straightforward, and it's just dictated by the maximum likelihood estimate now. this idea, however, doesn't work, because we in practice don't really know which word",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "1cc2d7fa-3d11-49fa-b979-ef5e9442466f",
+      "lecture": "Lecture 26 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 1 | UIUC",
+      "lecture_num": 26,
+      "context": "unction shown here, the next is to worry about parameter estimation. and we can do the usual thing. maximum likelihood estimator. so again, it's a constrained optimization problem like what we have seen before, only th",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": " tells us how to improve the parameters? and as i just explained in both e step formulas, we have a maximum likelihood estimator based on the allocated word \"counts to \"topic theta sub-j. now this phenomena is actually",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4453a049-7597-4df4-9b9b-67c2d124a116",
+      "lecture": "Lecture 27 \u2014 Probabilistic Latent Semantic Analysis PLSA - Part 2 | UIUC",
+      "lecture_num": 27,
+      "context": "s. because this background language model can help attract the common terms. and, we show that with maximum likelihood estimator we can discover topical knowledge from text data. in this case plsa allows us to discover",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5190e288-54f7-4021-9083-8e8ceac11345",
+      "lecture": "Lecture 28 \u2014 Latent Dirichlet Allocation LDA - Part 1 | UIUC",
+      "lecture_num": 28,
+      "context": " to inject to guide the analysis. the standard plsa is going to blindly listen to the data by using maximum likelihood estimator. we are going to just fit data as much as we can and get some insight about data. this is",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "5190e288-54f7-4021-9083-8e8ceac11345",
+      "lecture": "Lecture 28 \u2014 Latent Dirichlet Allocation LDA - Part 1 | UIUC",
+      "lecture_num": 28,
+      "context": "ll see example later. the map can be computed using a similar em algorithm as we have used for that maximum likelihood estimator with just some modification to smallest parameters reflect the prior preferences. and in ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": "r is making an inference is now the parameters can be now estimated using exactly the same approach maximum likelihood estimator for lda. now you might think about how many parameters are there in lda versus plsa. you ",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "d857a66b-1018-4ffb-821a-9d8acc6f5012",
+      "lecture": "Lecture 29 \u2014 Latent Dirichlet Allocation LDA - Part 2 | UIUC",
+      "lecture_num": 29,
+      "context": " parameters in lda because in this case the only parameters are alphas and betas. so we can use the maximum likelihood estimated to compute that. of course it's more complicated because the form of likelihood functions",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "f64adab4-578a-4868-8b2c-03fdd4ddf55d",
+      "lecture": "Lecture 32 \u2014 Text Clustering Generative Probabilistic Models - Part 2 | UIUC",
+      "lecture_num": 32,
+      "context": "ck of functioning. now we can talk about how to do parameter estimation. here we can simply use the maximum likelihood estimator, so that's just a standard way of doing things, so all should be familiar to you now, it'",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "dccc8a84-66da-47ce-ab88-28e8acf192b9",
+      "lecture": "Lecture 33 \u2014 Text Clustering Generative Probabilistic Models - Part 3 | UIUC",
+      "lecture_num": 33,
+      "context": " parameters. in this lecture, we're going to talk more about how exactly we're going to compute the maximum likelihood estimator. now, as in most cases, the em algorithm can be used to solve this problem for mixture mo",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "are known to be generated from a category. will likely have higher probability, and that's just the maximum likelihood estimator indeed, and that's what we could do. so to estimate the probability of each category. and",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "6962b043-7dd8-4050-bad0-bbdb13e2c302",
+      "lecture": "Lecture 38 \u2014 Text Categorization Generative Probabilistic Models | UIUC",
+      "lecture_num": 38,
+      "context": "a sparseness. in our case the training data set can be small and one data set is small. when we use maximum likelihood estimator we often face the problem of zero probability. that means if the event is not observed. t",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "4da6283d-6903-4be9-8bfc-ad5d330343c6",
+      "lecture": "Lecture 39 \u2014 Text Categorization  Discriminative Classifier - Part 1 | UIUC",
+      "lecture_num": 39,
+      "context": "he prediction on the training data as accurate as possible. so, as in other cases, when compute the maximum likelihood estimator basically lets go find a beta value, a set of beta values that will maximize this conditi",
+      "label": "Use"
+    },
+    {
+      "course": "410",
+      "transcription": "b1854d1c-3199-4c42-ab7d-f219f70259a3",
+      "lecture": "Lecture 46 \u2014 Opinion Mining and Sentiment Analysis  Latent Aspect Rating Analysis - Part 1 | UIUC",
+      "lecture_num": 46,
+      "context": "ters and so we collectively denote all the parameters by lambda here. now we can, as usual, use the maximum likelihood is made and this will give us the settings of this premise that with the maximizer observed. observ",
+      "label": "Use"
+    }
+  ]
+}

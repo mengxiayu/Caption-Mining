@@ -1,0 +1,6 @@
+sentence	source	start
+so we're going to make a new kernel object today it's called a pipe and a pipe is a stream and we can use it to communicate between two processes.	a pipe	61
+memory is a very precious resource on systems, and also allocating memory is a slow slow process.	memory	0
+src source is a pointer to a constant character.	source	4
+and my clue is that p is a character pointer and it initialized to point to the following.	p	20
+providing we pass strlen a valid memory location, so in other words, if p is a valid pointer to a string.	p	0

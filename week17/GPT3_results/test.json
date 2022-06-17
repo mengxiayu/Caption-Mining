@@ -1,0 +1,77 @@
+// CONTEXT
+"hyperthreading is a new technology and is in no way shape or form multithreading."
+
+// FROM GPT3
+[
+    {
+        "answer": "Hyperthreading is a new technology that 
+        allows multiple threads to run on a single processor.",
+        "question": "What is hyperthreading?"
+    },
+    {
+        "answer": "Multithreading is a process of running multiple threads 
+        on multiple processors. Hyperthreading is a process of 
+        running multiple threads on a single processor.",
+        "question": "How is hyperthreading different from multithreading?"
+    }
+]
+
+// FROM T5-QAQG
+[
+    {
+        "answer": "Hyperthreading",
+        "question": "What is a new technology that is in no way multithreading?"
+    },
+]
+
+
+
+
+// CONTEXT
+"setting breakpoints programmatically a breakpoint is a line of code 
+where you want the execution to stop and give control back to the debugger."
+
+// FROM GPT3
+[
+    {
+        "answer": "A breakpoint is a line of code where you 
+        want the execution to stop and give control back to the debugger.",
+        "question": "What is a breakpoint?"
+    },
+]
+
+// FROM T5-QAQG
+[
+    {
+        "answer": "a breakpoint",
+        "question": "What is a line of code where you want the execution to stop 
+        and give control back to the debugger?"
+    }
+]
+
+
+
+
+
+// CONTEXT
+"privacy concerns aside, and believe me there are a lot of them, 
+the big problem was that this rootkit is a backdoor for everyone's 
+systems if programmed incorrectly."
+
+// FROM GPT3
+[
+    {
+        "answer": "Some of the privacy concerns associated with the rootkit include the fact 
+        that it can be used to gain access to a person's system without their permission, 
+        and that it can be used to track a person's activity or collect their personal data.",
+        "question": "What are some of the privacy concerns associated with the rootkit?"
+    },
+]
+
+// FROM T5-QAQG
+[
+    {
+        "answer": "a backdoor",
+        "question": "What is a rootkit?"
+    }
+]

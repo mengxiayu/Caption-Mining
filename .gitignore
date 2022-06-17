@@ -15,3 +15,6 @@ data/*
 package-lock.json
 QuestionGeneration/models/GPT-3/api_key.json
 *.pyc
+syllabus/data/*
+
+concept_graph_react/concept-graph/src/videos/*
