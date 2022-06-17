@@ -1,0 +1,7017 @@
+text data	208
+relevant documents	117
+vector space model	107
+search engine	81
+inverted index	80
+different ways	78
+text retrieval	65
+training data	62
+language model	61
+query words	54
+mixture model	54
+ranking function	53
+common words	52
+likelihood function	50
+text mining	47
+basic idea	46
+web search	46
+word distribution	46
+query vector	46
+search engines	44
+ranked list	43
+scoring function	42
+topic model	39
+background model	38
+mutual information	37
+conditional entropy	36
+total number	35
+similarity function	34
+natural language processing	33
+EM algorithm	32
+conditional probability	32
+text categorization	32
+collaborative filtering	32
+background language model	31
+text clustering	31
+zero probability	30
+retrieval function	30
+non text data	30
+maximum likelihood estimator	29
+general idea	28
+natural language	28
+relevant document	27
+time series	27
+collection language model	26
+document vector	26
+long document	26
+information retrieval	26
+special case	25
+high probabilities	25
+dot product	24
+previous lecture	24
+query term	24
+search results	23
+word distributions	23
+different methods	22
+probabilistic model	22
+TF IDF weighting	21
+beta values	21
+map function	21
+vector space	20
+page rank	20
+IDF weighting	19
+maximum likelihood estimate	19
+document frequency	19
+additional readings	19
+average precision	19
+system B	19
+relevance judgments	19
+machine learning	19
+document language model	18
+main topic	18
+non zero probability	18
+parameter values	18
+main idea	18
+topic mining	18
+term frequency	17
+length normalization	17
+document ID	17
+general way	17
+topic models	17
+E step	17
+random variable	17
+small probability	17
+data mining	17
+reduce function	17
+query likelihood	16
+probability mass	16
+unseen words	16
+previous slide	16
+M step	16
+linear combination	16
+generative model	16
+anchor text	16
+different aspects	16
+document length	15
+long documents	15
+particular document	15
+syntagmatic relations	15
+objective function	15
+theta sub	15
+feature values	15
+contextual text mining	15
+additional information	15
+actionable knowledge	15
+query terms	14
+web pages	14
+paradigmatic relation	14
+document IDs	14
+real world	14
+recommender systems	14
+similar users	14
+utility function	14
+random surfer	14
+higher probability	13
+linear interpolation	13
+relevance feedback	13
+information access	13
+unary code	13
+retrieval model	13
+different kinds	13
+different categories	13
+random variables	13
+multiple topics	13
+K topics	13
+probability distribution	13
+high probability	13
+text objects	13
+unigram language model	13
+overall rating	13
+language models	12
+score accumulator	12
+related words	12
+optimization problem	12
+topic coverage	12
+special cases	12
+simple example	12
+different words	12
+text object	12
+best way	12
+vector representation	12
+user similarity	12
+data points	12
+text retrieval systems	12
+aspect ratings	12
+different form	11
+Y axis	11
+different algorithms	11
+original query	11
+relevant information	11
+large number	11
+probabilistic models	11
+non relevant documents	11
+speech tagging	11
+semantic analysis	11
+social network	11
+Bayes rule	11
+posterior probability	11
+negative documents	11
+random fluctuation	11
+logarithm function	10
+document length normalization	10
+specific example	10
+retrieval functions	10
+ranking algorithms	10
+sub linear transformation	10
+syntagmatic relation	10
+information space	10
+basic measures	10
+feedback information	10
+high level strategies	10
+push mode	10
+retrieval models	10
+background words	10
+probabilistic topic models	10
+sentiment analysis	10
+multiple levels	10
+different context	10
+programming language	10
+query model	10
+higher probabilities	10
+pull mode	10
+data point	10
+different way	10
+query word	10
+actual ratings	10
+generative models	10
+clustering bias	10
+high score	10
+transition matrix	10
+overall ratings	10
+smoothing parameter	9
+document D	9
+general form	9
+larger value	9
+TF transformation	9
+word associations	9
+paradigmatic relations	9
+little bit	9
+news articles	9
+modern search engines	9
+uniform code	9
+natural question	9
+research papers	9
+topic theta	9
+topic word distribution	9
+logistic regression	9
+particular topic	9
+high probability words	9
+feedback documents	9
+product reviews	9
+particular query	9
+text representation	9
+link information	9
+current search engines	9
+reciprocal rank	9
+prior knowledge	9
+Bayesian inference	9
+search engine system	9
+unique query terms	9
+random server	9
+document clustering	9
+opinion mining	9
+cumulative gain	9
+probabilistic modeling	8
+reference language model	8
+probabilistic retrieval model	8
+actual count	8
+important role	8
+ranking problem	8
+good knowledge	8
+small numbers	8
+large numbers	8
+unary coding	8
+hidden variable	8
+observed data	8
+major topics	8
+categorization problem	8
+second problem	8
+non-text data	8
+training examples	8
+previous lectures	8
+common sense knowledge	8
+different queries	8
+F measure	8
+average position	8
+large values	8
+item similarity	8
+active research area	8
+random documents	8
+N words	8
+corresponding elements	8
+small probabilities	8
+key value pair	8
+generating model	8
+new pages	8
+K documents	8
+statistical significance test	8
+opinion Holder	8
+program language	7
+pseudo counts	7
+zero count	7
+IDF value	7
+parallel processing	7
+word frequencies	7
+extreme case	7
+Syntagmatic relations	7
+particular way	7
+implicit feedback	7
+important technique	7
+poor mode	7
+multiple features	7
+gamma code	7
+presidential campaign	7
+frequency count	7
+different topics	7
+water distribution	7
+information theory	7
+generated model	7
+different locations	7
+world distribution	7
+maximum probability	7
+particular application	7
+different features	7
+retrieval accuracy	7
+subtle differences	7
+complete understanding	7
+retrieval techniques	7
+updating formula	7
+opinion holder	7
+speech tags	7
+users query	7
+rare words	7
+human effort	7
+discriminative classifiers	7
+text mining paper	7
+particular distribution	7
+transformation function	7
+simple way	7
+continued discussion	7
+high values	7
+particular page	7
+generative probabilistic models	7
+inverse document frequency	7
+second line	7
+zero probabilities	7
+text retrieval system	7
+ideal DCG	7
+matched query terms	6
+specific way	6
+specific form	6
+smoothing method	6
+pseudo count	6
+system implementation	6
+common term	6
+multiple machines	6
+tool kit	6
+good support	6
+fast search	6
+higher chance	6
+cosine measure	6
+second reason	6
+somewhat different form	6
+standard IDF	6
+precision recall numbers	6
+X axis	6
+different levels	6
+high recall	6
+text retrieval evaluation	6
+text access	6
+specific application	6
+right keywords	6
+fastest way	6
+binary random variable	6
+good ranking function	6
+interesting ways	6
+text documents	6
+Hurricane Katrina	6
+large collection	6
+difficult problem	6
+entropy function	6
+simple case	6
+logistical regression	6
+sample results	6
+United Nations	6
+original query model	6
+feedback model	6
+positive documents	6
+test collection	6
+classification accuracy	6
+N documents	6
+specific examples	6
+small number	6
+text analysis	6
+higher weight	6
+natural languages	6
+news data	6
+search problem	6
+term vector	6
+different terms	6
+particular term	6
+mean average precision	6
+new algorithms	6
+rank position	6
+big difference	6
+ranking methods	6
+Bayesian estimation	6
+theta values	6
+opinion target	6
+domain knowledge	6
+effective features	6
+feedback mechanism	6
+long time	6
+Z values	6
+high level	6
+naive Bayes classifier	6
+active user	6
+average rating	6
+different users	6
+new approaches	6
+practical issues	6
+missing values	6
+retrieval documents	6
+natural way	6
+statistical language model	6
+independence assumption	6
+unigram language models	6
+best guess	6
+similarity based approaches	6
+smoothing methods	6
+linear transformation	6
+highest score	6
+general framework	6
+simplest vector space model	6
+different dimensions	6
+random surfing model	6
+page rank score	6
+training documents	6
+following lectures	6
+vertical search engines	6
+task support	6
+decision making	6
+important applications	6
+filtering system	6
+binary classifier	6
+retrieval system	6
+information filtering	6
+new challenges	6
+file system	6
+key value pairs	6
+different parts	6
+new techniques	6
+zero point	6
+real world variables	6
+rare term	6
+precisely one topic	6
+causal topics	6
+stock prices	6
+text retrieval problem	6
+SQL query	6
+probability ranking principle	6
+negative examples	6
+frequent term	6
+common word	6
+raw count	6
+average document length	6
+aspect rating	6
+binary judgments	6
+non zero probabilities	5
+word frequency	5
+nice property	5
+particular form	5
+unseen world	5
+unseen word	5
+faster search	5
+general algorithm	5
+text mining algorithms	5
+disk space	5
+short documents	5
+word boundaries	5
+general ideas	5
+second kind	5
+query expansion	5
+similar context	5
+different perspectives	5
+search result	5
+easy way	5
+retrieval methods	5
+relative comparison	5
+different positions	5
+precision recall curve	5
+System B	5
+new algorithm	5
+10 documents	5
+meaningful measure	5
+user's perspective	5
+text retrieval methods	5
+recommender system	5
+retrieval systems	5
+binary code	5
+ranking functions	5
+retrieval method	5
+obvious choice	5
+vocabulary set	5
+mixture models	5
+multiple times	5
+hidden variables	5
+syntagmatic relation discovery	5
+prediction problem	5
+interesting question	5
+fair coin	5
+theta sub D	5
+background word distribution	5
+maximum value	5
+syntactic structures	5
+multiple ways	5
+ordinal logistic regression	5
+context variables	5
+conditional likelihood	5
+generation process	5
+context information	5
+time period	5
+language modeling approach	5
+suggested readings	5
+small value	5
+high value	5
+better understanding	5
+arithmetic mean	5
+opinion mining and sentiment analysis	5
+text data mining	5
+text categorisation	5
+big text data	5
+good authorities	5
+good hubs	5
+hub scores	5
+general algorithms	5
+artificial intelligence	5
+individual words	5
+N dimensions	5
+different conclusions	5
+average precisions	5
+relevant item	5
+recommended systems	5
+pseudo segments	5
+candidate word	5
+posterior distribution	5
+simplest language model	5
+future data	5
+data structure	5
+new generation	5
+initial values	5
+discriminative approaches	5
+Naive Bayes	5
+memory based approach	5
+content based filtering	5
+different strategy	5
+SIGIR papers	5
+formal way	5
+battery life	5
+perfect recall	5
+original entropy	5
+model parameters	5
+speech recognition	5
+unseen documents	5
+big table	5
+different kind	5
+similar objects	5
+K clusters	5
+extra occurrence	5
+logarithm transformation	5
+retrieval problem	5
+average probability	5
+right hand	5
+random jumping	5
+potential problem	5
+social networks	5
+highest probability	5
+human experts	5
+Theta I.	5
+similar topics	5
+different types	5
+decision support	5
+big picture	5
+web search engines	5
+absolute relevance	5
+major conference	5
+relevant data	5
+search engine application	5
+advanced algorithms	5
+second step	5
+presidential election	5
+external time series	5
+text based prediction	5
+word text	5
+rock hill	5
+second word	5
+expected count	5
+social media	5
+second case	5
+sentiment weights	5
+user studies	5
+Dirichlet distribution	5
+baseline system	5
+similar factor	4
+estimated probability	4
+popular term	4
+probability rules	4
+simple formula	4
+query Q	4
+raw counts	4
+query time	4
+popular queries	4
+general techniques	4
+large data	4
+user 's query	4
+global statistics	4
+research paper	4
+shorter documents	4
+space model	4
+double logarithm	4
+root form	4
+thought product	4
+research article	4
+based model	4
+noun phrase	4
+general problem	4
+Co occurrences	4
+second position	4
+new idea	4
+real decision	4
+single number	4
+good measure	4
+pseudo relevance feedback	4
+ranked documents	4
+related terms	4
+robust manner	4
+main question	4
+exact address	4
+interesting research question	4
+useful knowledge	4
+inverted index construction	4
+small set	4
+temporary file	4
+single inverted index	4
+term IDs	4
+computational definition	4
+overall score	4
+main points	4
+accurate representation	4
+different probability	4
+extra terms	4
+different forms	4
+government response	4
+component mixture model	4
+world W	4
+local maximum	4
+starting point	4
+possible values	4
+particular word	4
+function form	4
+different distributions	4
+completely biased coin	4
+background distribution	4
+component models	4
+major complaints	4
+email messages	4
+good example	4
+K categories	4
+different approaches	4
+binary categorization	4
+different views	4
+conditional probabilities	4
+New Orleans	4
+different topic	4
+main difference	4
+common topics	4
+text articles	4
+block articles	4
+research articles	4
+cross entropy	4
+relative frequency	4
+big question	4
+categorisation results	4
+plus sign	4
+multiple perspectives	4
+parameter beta	4
+overall plan	4
+predefined categories	4
+known categories	4
+simplest case	4
+second equation	4
+authoritie vector	4
+additional scores	4
+main technique	4
+simple sentence	4
+knowledge base	4
+different meanings	4
+different syntactic categories	4
+partial understanding	4
+duplicated occurrences	4
+search tasks	4
+additional words	4
+deeper natural language processing techniques	4
+future search engines	4
+vector space retrieval model	4
+brief introduction	4
+high dimensional space	4
+following assumptions	4
+basic concepts	4
+similarity measure	4
+difficult queries	4
+known item search	4
+actual utility	4
+filtering task	4
+binary decision	4
+cold start problem	4
+user information	4
+bayes rule	4
+general phenomenon	4
+term clusters	4
+different pairs	4
+interesting variations	4
+sentiment classification	4
+additional features	4
+test data	4
+feature design	4
+error analysis	4
+good idea	4
+single term query	4
+second document	4
+position information	4
+common phenomenon	4
+data structures	4
+vocabulary size	4
+different probabilities	4
+main goal	4
+high quality information	4
+different results	4
+different angles	4
+particular problem	4
+original text data	4
+subjective sensors	4
+mining text data	4
+feature vector	4
+K nearest neighbors	4
+particular user	4
+average ratings	4
+W function	4
+similar items	4
+predicted values	4
+similarity functions	4
+similar ratings	4
+similar preferences	4
+certain kind	4
+interesting way	4
+simple arithmetic	4
+new function	4
+statistical language models	4
+user's mind	4
+different groups	4
+different model	4
+text content	4
+expected account	4
+probabilistic reasoning	4
+heuristic design	4
+second assumption	4
+high count	4
+multiple occurrences	4
+high weight	4
+particular approach	4
+simplest instantiation	4
+overall precision	4
+geometric mean	4
+search engine evaluation	4
+users perspective	4
+actual links	4
+left hand	4
+transition probability	4
+time index	4
+different pages	4
+virtual links	4
+collaboration network	4
+clustering results	4
+text collection	4
+different modes	4
+literature information	4
+large scale	4
+inference rules	4
+text information	4
+initialization module	4
+learning module	4
+big award	4
+good document	4
+filtering decision	4
+1 / N	4
+large cluster	4
+map functions	4
+output values	4
+minimum work	4
+natural thought	4
+interesting challenges	4
+historical data	4
+random sample	4
+maximum utility	4
+safe point	4
+optimal utility point	4
+optimal threshold	4
+higher value	4
+training errors	4
+general method	4
+possible uses	4
+computer science research papers	4
+score accumulators	4
+time series data	4
+New York Times	4
+document selection	4
+companion text data	4
+important difference	4
+database search	4
+right answers	4
+document ranking	4
+effective ranking function	4
+early days	4
+positive examples	4
+new terms	4
+original query vector	4
+new query vector	4
+original query terms	4
+general challenges	4
+major challenge	4
+parallel indexing	4
+particular server	4
+old page	4
+additional data	4
+rare word	4
+TF-IDF weighting	4
+predictive model	4
+effective predictors	4
+observed world	4
+term frequency vectors	4
+latent aspect rating analysis	4
+detailed understanding	4
+R sub	4
+multiple level	4
+useful documents	4
+normalized DCG	4
+ideal ranked list	4
+DCG values	4
+different scales	4
+total utility	4
+web page	4
+feedback techniques	4
+K topical terms	4
+user interface	4
+fair comparison	4
+actual users	4
+real queries	4
+diverse set	4
+new system	4
+inferred weights	4
+expensive hotels	4
+cheaper hotels	4
+query likelihood retrieval function	3
+vector element	3
+collection probability	3
+specific smoothing methods	3
+fixed form	3
+fixed coefficient	3
+word network	3
+parameter mu	3
+total counts	3
+sub D	3
+general scoring function	3
+adjustment function	3
+term information	3
+highest value	3
+web scale	3
+special techniques	3
+complete list	3
+nice support	3
+wide range	3
+non documents	3
+document becaus	3
+average documents	3
+parameter B	3
+major search engines	3
+effective formulas	3
+small constant	3
+small modification	3
+nice interpretation	3
+thorough discussion	3
+valid sentence	3
+topic map	3
+left context	3
+general context	3
+important question	3
+paradigmatically related words	3
+10 relevant documents	3
+old algorithm	3
+literature survey	3
+overall picture	3
+different points	3
+ranked lists	3
+document collection	3
+extra effort	3
+water computer	3
+pseudo feedback	3
+art natural language processing techniques	3
+news stream	3
+recommended system	3
+information system	3
+excellent discussion	3
+optimization objective function	3
+ranking results	3
+active research topic	3
+skewed distributions	3
+fewer bits	3
+Zipf's law	3
+Unary code	3
+binary coding	3
+big loss	3
+gamma coding	3
+invert index	3
+main problem	3
+presidential campaign news	3
+entire collection	3
+art retrieval models	3
+broad review	3
+simple word	3
+natural choice	3
+smoothing formula	3
+topic analysis	3
+useful applications	3
+like hold	3
+second topic	3
+important formula	3
+important parameters	3
+unknown parameters	3
+parameter estimation	3
+current gas	3
+negative sign	3
+unknown variables	3
+smaller probabilities	3
+content words	3
+interesting applications	3
+customer service people	3
+word based representation	3
+major takeaway points	3
+basic units	3
+M features	3
+feature value	3
+text document	3
+linear function	3
+K - 1 classifiers	3
+interesting exercise	3
+better values	3
+beta parameter	3
+PLSA model	3
+different variations	3
+standard PLSA	3
+Iraq war	3
+Afghanistan war	3
+conditional distribution	3
+total count	3
+digital library	3
+people's opinions	3
+text article	3
+useful techniques	3
+language modeling approaches	3
+Rock Hill	3
+probability distributions	3
+mathematical problem	3
+airport security	3
+relevant words	3
+empirical tasks	3
+effective method	3
+legitimate email	3
+standard measure	3
+particular category	3
+harmonic mean	3
+sentiment categories	3
+literature articles	3
+right person	3
+particular person	3
+adjacency matrix	3
+authority scores	3
+hub vector	3
+hub score vector	3
+page rank scores	3
+natural language content analysis	3
+syntactic categories	3
+syntactic analysis	3
+ambiguous word	3
+common sense reasoning	3
+word level ambiguity	3
+multiple meanings	3
+square root	3
+natural language text	3
+limited domains	3
+deep understanding	3
+NLP techniques	3
+Knowledge Graph	3
+knowledge graph	3
+ranking documents	3
+dimensional space	3
+corresponding term	3
+good performance	3
+precisely one relevant document	3
+target page	3
+single topic	3
+multiple choices	3
+useful information	3
+K unigram language models	3
+different contexts	3
+data likelihood	3
+observed words	3
+prior belief	3
+observed evidence	3
+interesting variable	3
+opinion sentiment	3
+sophisticated features	3
+robust way	3
+parse tree	3
+main challenge	3
+similar process	3
+ranking accuracy	3
+Boolean query	3
+intermediate frequency words	3
+frequent words	3
+highest frequency words	3
+theta sub d.	3
+topic word distributions	3
+uniform distribution	3
+Text mining	3
+essential component	3
+text retrieval and search engines	3
+relevant text data	3
+video data	3
+computer vision	3
+particular kind	3
+X sub	3
+probability ratio	3
+potential problems	3
+parameter K	3
+user UI	3
+higher ratings	3
+simple solution	3
+interesting knowledge	3
+basic question	3
+special conferences	3
+particular words	3
+total sum	3
+precision recall	3
+later lecture	3
+candidate words	3
+conditional entropies	3
+optimal solution	3
+high frequency words	3
+estimation problem	3
+word sequences	3
+probabilistic mechanism	3
+probability values	3
+second distribution	3
+relatively small probability	3
+best estimate	3
+query likelihood retrieval model	3
+randomness model	3
+relevance values	3
+unseen queries	3
+user types	3
+following assumption	3
+imaginary relevant document	3
+following question	3
+lower weight	3
+vectors space model	3
+function value	3
+main point	3
+specific ranking function	3
+Vector space model	3
+document vectors	3
+zero entries	3
+distinct query words	3
+different values	3
+natural language processing techniques	3
+random sofa	3
+nice way	3
+P vector	3
+boolean query	3
+underflow problem	3
+beta sub	3
+network context	3
+meta data	3
+adjacent nodes	3
+coherent topics	3
+complicated topics	3
+probabilistic topic model	3
+new way	3
+clustering problem	3
+text clusters	3
+keyword queries	3
+current system	3
+knowledge representation	3
+item X	3
+recommended item	3
+good articles	3
+score threshold	3
+new component	3
+practical applications	3
+Pagerank score	3
+Pagerank scores	3
+p vector	3
+Google File System	3
+specific locations	3
+application client	3
+fire system	3
+input data	3
+Reduce function	3
+multiple reduce functions	3
+key value	3
+label data	3
+relevant status	3
+zero utility threshold	3
+threshold mechanism	3
+long-term feedback	3
+linear separator	3
+support vectors	3
+linear constraints	3
+standard algorithms	3
+empirical data	3
+deep learning	3
+human labor	3
+negative opinions	3
+unlabeled data	3
+news article	3
+word computer	3
+relevance status	3
+art retrieval functions	3
+possible words	3
+different ranking function	3
+topic modeling	3
+sudden drop	3
+general topics	3
+commonly used measure	3
+causal relation	3
+important issues	3
+component model	3
+database system	3
+empirical evaluation	3
+important topic	3
+non relevant ones	3
+centroid vector	3
+highest weights	3
+specific applications	3
+link analysis	3
+open research question	3
+user 's interest	3
+high frequency terms	3
+normalized count	3
+pseudo document	3
+Cranfield evaluation methodology	3
+10 results	3
+simplest vectors	3
+older algorithm	3
+shallow analysis	3
+term weight	3
+joint mining	3
+linear panelization	3
+new documents	3
+new problem	3
+aspect weights	3
+advanced topics	3
+unified model	3
+weighted average	3
+normal distribution	3
+today's wednesday	3
+10 papers	3
+google file system	3
+discounted cumulative gain	3
+database retrieval	3
+fewer parameters	3
+indirect evaluation	3
+gold standard	3
+clicked documents	3
+difficult challenge	3
+likely relevant documents	3
+document IDS	3
+review text	3
+opinion content	3
+second benefit	2
+new form	2
+matched query term	2
+TF weighting	2
+smaller weight	2
+similar fact	2
+interesting observation	2
+TF weight	2
+general ranking formula	2
+actual ranking function	2
+simple linear interpolation	2
+word counts	2
+observed text	2
+smooth probability	2
+dynamic coefficient	2
+somewhat different ways	2
+fixed number	2
+smaller coefficient	2
+longer length	2
+non zero count	2
+original count	2
+Alpha sub D	2
+adjustment factors	2
+scoring factors	2
+edge function	2
+document level or query level factors	2
+query level and document level factors	2
+indexing time	2
+example document length	2
+aggregation function	2
+particular match	2
+TF IDF weights	2
+weighted contribution	2
+query account	2
+right side information	2
+matching information	2
+existing value	2
+final scores	2
+simple sum	2
+TF values	2
+query term information	2
+good order	2
+score contribution	2
+promising documents	2
+non promising ones	2
+high quality subset	2
+web data	2
+text retrieval tool kits	2
+advanced search algorithms	2
+application capability	2
+programming assignment	2
+new tool kit	2
+text retrieval algorithms	2
+text analysis algorithms	2
+zipf 's law	2
+basic techniques	2
+great potential	2
+compression techniques	2
+efficient search engine	2
+nice discussion	2
+IDF inverse document frequency	2
+example documents	2
+scattered manner	2
+better chances	2
+different reasons	2
+corresponding abstract	2
+short abstract	2
+long papers	2
+different papers	2
+right degree	2
+research results	2
+pivotal length normalization	2
+average document lens	2
+reference point	2
+interesting property	2
+following formulas	2
+TF IDF weighting model	2
+query term frequency component	2
+length normalization factor	2
+basically the state	2
+latent semantic analysis	2
+smaller units	2
+N characters	2
+popular dimension instantiation method	2
+best and one reason	2
+normalized vectors	2
+text fields	2
+different fields	2
+frequency counts	2
+large weight	2
+extra occurrences	2
+TF normalization formula	2
+new formula	2
+similarity notion relevance	2
+high dimensional vector space	2
+major heuristics	2
+important heuristics	2
+general ranking function	2
+effective retrieval function	2
+heuristic modification	2
+excellent example	2
+empirical data analysis	2
+length normalization formula	2
+original paper	2
+similar locations	2
+negative reviews	2
+detailed opinions	2
+small sample	2
+context similarity	2
+important cut	2
+pessimistic assumption	2
+actual precision	2
+actual measure	2
+particular retrieval method	2
+important point	2
+precision levels	2
+different amounts	2
+2 ranked lists	2
+PR curves	2
+2 cases	2
+recall points	2
+ideal system	2
+real problem	2
+red curve	2
+new method	2
+system method	2
+low level	2
+higher precision	2
+high recall reading system	2
+system A.	2
+practical decision	2
+different recall point	2
+different recall	2
+different recall level	2
+zero precisions	2
+common mistake	2
+standard method	2
+precision numbers	2
+small change	2
+random document	2
+small differences	2
+better measure	2
+different difference	2
+subtle ways	2
+retrieval process	2
+retrieval engine	2
+relevance judgment	2
+feedback module	2
+blind feedback	2
+called implicit feedback	2
+actual document	2
+user activities	2
+explicit judgments	2
+user effort	2
+content analysis	2
+unrestricted text data	2
+important step	2
+small relevant data	2
+text information system	2
+complementary strategies	2
+right information	2
+right time	2
+information access process	2
+temporary information need	2
+related products	2
+temporary information	2
+stable information	2
+research interest	2
+information stream	2
+news filter	2
+news recommender system	2
+interesting news	2
+search context	2
+related information	2
+search page	2
+key words	2
+topic area	2
+cell phone	2
+nearby place	2
+exact keywords	2
+related pages	2
+interesting attractions	2
+interesting browsing experience	2
+information recommendation	2
+regression based approaches	2
+retrieval measure	2
+retrieval perspective	2
+better result	2
+ranking problems	2
+machine learning approach	2
+machine learning techniques	2
+major feature	2
+commercial engines	2
+new results	2
+advanced methods	2
+retrieval applications	2
+integer representations	2
+sequential order	2
+temporary files	2
+variable length encoding	2
+longer bits	2
+term frequencies	2
+small but highly frequent integers	2
+large integers	2
+small values	2
+long list	2
+previous document ID	2
+sequential access	2
+programming languages	2
+Gamma code	2
+randomly distributed values	2
+variable length encoding methods	2
+rewarding small numbers	2
+big number	2
+2 bits	2
+error code	2
+unary prefix	2
+small integers	2
+different degrees	2
+actual distribution	2
+inverted index compression	2
+encode integers	2
+second ID	2
+decoder value	2
+previous position	2
+non random ones	2
+similarity idea	2
+known example	2
+random variable R	2
+different cases	2
+good retrieval function	2
+different models	2
+different thinking	2
+similar variables	2
+common form	2
+common ideas	2
+main representation	2
+different components	2
+presidential occurs	2
+main ideas	2
+major models	2
+P L	2
+single winner	2
+following ideas	2
+overall contribution	2
+additional ratings	2
+detailed discussion	2
+multiple state	2
+art models	2
+different retrieval models	2
+main task	2
+different retrieval functions	2
+step function	2
+nonzero probabilities	2
+actual topic	2
+tricky problem	2
+key question	2
+common way	2
+original sum	2
+interesting formula	2
+unseen worlds	2
+probabilistic latent semantic analysis	2
+basic topic model	2
+sample topics	2
+earlier lecture	2
+Lambda sub B	2
+K distributions	2
+analytical solution	2
+parameter value	2
+current generation	2
+augmented data	2
+word Association mining	2
+text segment	2
+coin tossing	2
+probalistic model	2
+observed document	2
+words text	2
+sum over 2 cases	2
+smaller probability	2
+general behavior	2
+winning features	2
+level representation	2
+logical representation	2
+mining algorithms	2
+manual effort	2
+rating prediction	2
+positive words	2
+higher rating	2
+category categorization problem	2
+binary response variable	2
+logistical function	2
+direct application	2
+multiple categories	2
+logistical regression classifier	2
+beta parameters	2
+contextual probabilistic latent semantic analysis	2
+different time periods	2
+high level ideas	2
+different version	2
+particular coverage	2
+exactly the same way	2
+common theme	2
+temporal chains	2
+oil price	2
+information retrieval research	2
+model method	2
+maximum micro estimator	2
+task definition	2
+different granularities	2
+research topics	2
+query likelihood ranking function	2
+kind of a natural	2
+hold function	2
+care divergent function	2
+query language model	2
+care divergent model	2
+special forms	2
+update model	2
+principled approach	2
+source controller	2
+random manner	2
+feedback document	2
+simplest unigram language model	2
+theater values	2
+defined math problem	2
+web database	2
+language model approach	2
+major feedback scenarios	2
+principle feedback	2
+relevance model	2
+effective model	2
+systematic review	2
+important research paper	2
+effective way	2
+computing query model	2
+information retrieval researchers	2
+ground truth	2
+different systems	2
+spam filtering	2
+1 type	2
+true positives	2
+detailed view	2
+based prediction	2
+training set	2
+problem formulation	2
+search engine applications	2
+topical categorisation	2
+joint categorization	2
+binary categorization problem	2
+text processing tasks	2
+concise way	2
+text categorization problem	2
+interesting idea	2
+reinforcement mechanism	2
+kind of help	2
+good hub scores	2
+authority score	2
+good authority pages	2
+hub score	2
+good hub score	2
+good hub	2
+matrix form	2
+authority equation	2
+hits algorithm	2
+major link analysis algorithms	2
+single ranking function	2
+link based approaches	2
+ranking web pages	2
+optimal ranking function	2
+query document	2
+content based features	2
+final relevance	2
+real judgments	2
+NDC G	2
+foreign language	2
+lexical analysis	2
+intermediate components	2
+verbal phrases	2
+relation chasing	2
+extra knowledge	2
+speech actor	2
+possible intent	2
+large knowledge base	2
+fundamental reason	2
+main difficulty	2
+math sense	2
+syntactical ambiguities	2
+syntactic ambiguity	2
+different structures	2
+common example	2
+ambiguous sentence	2
+prepositional phrase attachment	2
+PP attachment ambiguity	2
+large knowledge knowledge base	2
+slide sort	2
+simplified view	2
+certain data	2
+noun phrase structures	2
+evaluation results	2
+partial parsing	2
+existing work	2
+social media data	2
+entity extraction	2
+different meaning	2
+weather sentence	2
+review analysis	2
+general difficulty	2
+Speech Act analysis	2
+simple task	2
+prepositional phrases	2
+exactly the word	2
+robust and general natural language processing techniques	2
+shallow way	2
+superficial analysis	2
+exact meaning	2
+text domain	2
+complete view	2
+big field	2
+certain domain	2
+simplest representation	2
+simply a bag	2
+search task	2
+example machine translation	2
+sophisticated NLP techniques	2
+word sense disambiguation	2
+original query words	2
+long run	2
+complex search tasks	2
+simple bag	2
+search engine utility	2
+open topic	2
+art techniques	2
+deeper NLP	2
+good starting point	2
+similarity based models	2
+roughly similarity	2
+vague notion	2
+precise definition	2
+best definition	2
+software library	2
+basic concept	2
+particular ranking function	2
+different concepts	2
+semantic concept	2
+exactly should the vector	2
+particular document point	2
+element values	2
+operational function	2
+alternative ways	2
+overall performance	2
+different situation	2
+particular answer	2
+single relevant document	2
+popular value	2
+little effort	2
+ranking system	2
+mean reciprocal rank	2
+lowly ranked results	2
+lower portion	2
+user 's perspective	2
+highly ranked documents	2
+overall accuracy	2
+random results	2
+harder task	2
+news filtering	2
+accurate recommendation	2
+relevant news	2
+learning problem	2
+past ratings	2
+different strategies	2
+practical system	2
+hybrid strategy	2
+multiple mode information access	2
+rich context	2
+specific approaches	2
+Document D	2
+different documents	2
+coverage probability	2
+discounted count	2
+EM algorithms	2
+likelihood converges	2
+hidden variable values	2
+common terms	2
+topic cluster	2
+entropy reduction	2
+paradigmatically relation discovery	2
+unified way	2
+arg max	2
+Bayes Rule	2
+X values	2
+posterior mode	2
+interesting quantities	2
+expected value	2
+higher likelihood	2
+opinion representation	2
+polarity analysis	2
+emotion analysis	2
+categorisation task	2
+ordinal regression	2
+different lengths	2
+1 character	2
+speech tag	2
+N grams	2
+possible features	2
+complex features	2
+designing features	2
+text retrieval method	2
+typical text retrieval system architecture	2
+tokenized units	2
+example words	2
+queries representation	2
+interaction signals	2
+offline manner	2
+collected data	2
+online module	2
+semantically similar words	2
+inflectional forms	2
+computer computation	2
+root form compute	2
+special challenges	2
+commonly used indexes	2
+feedback methods	2
+basic statistics	2
+store information	2
+term news	2
+small window	2
+multiple term	2
+basically boolean expression	2
+conjunctive query	2
+multi term keyword query	2
+aggregated term weights	2
+similar way	2
+term weights	2
+obvious approach	2
+following pattern	2
+mathematical term	2
+empirical observations	2
+sorted order	2
+world rank	2
+posting entries	2
+fast random access	2
+hash table	2
+direct access	2
+specific entry	2
+store postings	2
+expectation maximization	2
+binary variable	2
+4 words	2
+log likelihood	2
+text mining and text analytics	2
+raw text data	2
+Text retrieval	2
+knowledge provenance	2
+physical sensors	2
+human sensors	2
+data mining problem	2
+Naive Bayes classifier	2
+weighted combination	2
+feature weights	2
+naive bayes	2
+X vector	2
+functional form	2
+machine learning programs	2
+known label	2
+discriminative classifier	2
+current object	2
+closest neighbor	2
+different category	2
+cross validation	2
+key assumption	2
+data instances	2
+P sub	2
+non 0 count	2
+basic strategy	2
+relevant users	2
+user case	2
+high ratings	2
+normalized ratings	2
+possible users	2
+normalization strategy	2
+memory based approaches	2
+mean rating	2
+predicted value	2
+relatively high rating	2
+popular approach	2
+lower ratings	2
+rating vectors	2
+content information	2
+actual filtering system	2
+interesting approaches	2
+obvious ways	2
+user similarity measure	2
+iterative approach	2
+inverse user frequency	2
+popular item	2
+rare item	2
+syntactical categories	2
+natural language sentence	2
+additional knowledge	2
+pragmatic analysis	2
+mathematical sense	2
+better accuracy	2
+text mining problem	2
+filtering decisions	2
+individual user	2
+user preferences	2
+common set	2
+exact content	2
+simple examples	2
+collaborative filtering problem	2
+unknown values	2
+central question	2
+unknown function	2
+function approximation	2
+observed ratings	2
+prior preferences	2
+particular choice	2
+certain number	2
+map estimator	2
+high pseudocounts	2
+cranfield evaluation methodology	2
+better becaus	2
+recall system B	2
+task evaluation problems	2
+retrieved documents	2
+useful document	2
+retrieval relevant documents	2
+different denominators	2
+ideal case	2
+high record	2
+low precision	2
+fundamental measures	2
+basically measures	2
+building blocks	2
+popular measure	2
+larger precision	2
+larger recall	2
+multiple terms	2
+total value	2
+high P	2
+extremely high value	2
+important methodology	2
+multiple variants	2
+best solution	2
+good way	2
+retrieval results	2
+users search tasks	2
+word association	2
+different scenarios	2
+minimum possible value	2
+smaller entropy	2
+second term	2
+strongly correlated words	2
+different upper bounds	2
+additional terms	2
+larger probability	2
+  text	2
+100 words	2
+observed text data	2
+different variants	2
+classical problem	2
+modeling approaches	2
+effective models	2
+effective state	2
+following probability	2
+relevance value	2
+probabilistic retrieval models	2
+different user	2
+different times	2
+particular Q	2
+interesting assumption	2
+new conditional probability	2
+similar problems	2
+general model	2
+query likelihood probabilities	2
+modern relevance	2
+Language model	2
+following conditional probability	2
+similarity based clustering	2
+hierarchical clustering	2
+highest similarity	2
+group similarity	2
+average link	2
+single link	2
+high similarity	2
+individual decision	2
+cluster sum	2
+local minimum	2
+clustering result	2
+2 steps	2
+clustering structure	2
+1 cluster	2
+exact form	2
+negative log	2
+interesting interpretation	2
+following function	2
+simple dot product	2
+longer document	2
+formal model	2
+subjective machine	2
+better model	2
+open question	2
+adaptive interpolation	2
+major advantage	2
+precisely one smoothing parameter	2
+TF idea	2
+simple TF IDF	2
+particular weight	2
+previous ranking functions	2
+researcher transformation function	2
+zero weight	2
+term count	2
+small counts	2
+linear form	2
+special transformation	2
+different transformation functions	2
+zero one bit transformation	2
+linear transformation function	2
+particular time	2
+single term	2
+following ranking function	2
+simplest strategy	2
+bit vector	2
+corresponding word	2
+general question	2
+5 documents	2
+ideal ranking	2
+words news	2
+simple vector space model	2
+macro average	2
+low values	2
+F score	2
+different cost	2
+macro averaging	2
+misleading results	2
+commonly used measures	2
+machine learning methods	2
+good authoritie pages	2
+water sense disambiguation	2
+small graph	2
+complicated web	2
+random walker	2
+indirect and direct links	2
+starting page	2
+surf model	2
+time point	2
+random surfing	2
+possible pages	2
+N pages	2
+similar sound	2
+uniform transition probability	2
+uniform matrix	2
+zero entry	2
+time dependent calculation	2
+linear equations	2
+vector P	2
+linear algebra	2
+iterative algorithm	2
+iterative approach or power approach	2
+original transition matrix	2
+updated score	2
+new set	2
+zero values	2
+zero out link problem	2
+basically the probability	2
+possible solution	2
+topic specific page rank	2
+query information	2
+sports page	2
+current query	2
+network analysis	2
+friendship relation	2
+meaningful scores	2
+basically statistics	2
+frequent awards	2
+document d.	2
+text categorization tasks	2
+observed training data	2
+good exercise	2
+data sparseness	2
+Theta sub	2
+joint analysis	2
+topic distributions	2
+text collection C	2
+additional constraints	2
+meaningful topics	2
+related data	2
+suggested reading	2
+expressive power	2
+semantically related words	2
+sports-related terms	2
+topic representation	2
+multiple words	2
+problem definition	2
+topics K	2
+Lambda star	2
+natural structures	2
+concrete example	2
+best clustering result	2
+useful technique	2
+future value	2
+specific ones	2
+user 's mind	2
+possible future trends	2
+particular trend	2
+special group	2
+Search engines	2
+fledged information management system	2
+good product	2
+good task support	2
+relevant literature	2
+specific ideas	2
+new application possibilities	2
+intelligent system	2
+data user service triangle	2
+different service functions	2
+enterprise documents	2
+enterprise search	2
+research trends	2
+literature assistant	2
+online shoppers	2
+shopping experience	2
+customer email	2
+positive message	2
+promotion information	2
+generic response	2
+search support	2
+simple approximation	2
+actual information	2
+user node	2
+user search history	2
+users task	2
+major direction	2
+intelligent information systems	2
+entity relation representation	2
+today's natural language processing technique	2
+good step	2
+better service	2
+large scale semantic analysis	2
+particular domain	2
+combined intelligence	2
+human user	2
+future intelligent information systems	2
+interesting becaus	2
+TF IDF weighting and documents normalization	2
+useful tools	2
+main systems	2
+useful items	2
+dynamic source	2
+information items	2
+filtering question	2
+recommending text objects	2
+second strategy	2
+content based filtering system	2
+user interest profile	2
+initial user profile	2
+feedback overtime	2
+users interest	2
+ranking evaluation measures	2
+real time	2
+commonly used strategies	2
+linear utility function	2
+good items	2
+gambling game	2
+good item	2
+reasonable choice	2
+extreme cases	2
+small penalty	2
+big price	2
+basic problems	2
+binary decision maker	2
+decision module	2
+limited text description	2
+entire history	2
+traditional feedback techniques	2
+scoring improvement	2
+threshold overtime	2
+filtering problems	2
+scoring module	2
+filtering results	2
+vector learning	2
+query modification	2
+time t	2
+average probabilities	2
+N equations	2
+vector p	2
+matrix multiplication	2
+web indexing	2
+web scale index	2
+standard information retrieval techniques	2
+web scale indexing	2
+main challenges	2
+single machine	2
+single disk	2
+general distributed file system	2
+general software framework	2
+known open source implementation	2
+specific information	2
+specific servers	2
+data files	2
+application perspective	2
+normal file	2
+chunk servers	2
+parallel programming	2
+building inverted index	2
+low level features	2
+minimum effort	2
+low level details	2
+specific network communications	2
+fairly general framework	2
+new key	2
+old key	2
+unique key	2
+key values	2
+final output	2
+MapReduce framework	2
+multiple parts	2
+reduce stage	2
+different keys	2
+word account	2
+precisely the idea	2
+input file	2
+line number	2
+collect function	2
+different map function	2
+similar output	2
+internal grouping	2
+different lines	2
+new pair	2
+total occurrences	2
+sorting mechanism	2
+inverted index entry	2
+continuous chunk	2
+associative array	2
+single entry	2
+different machines	2
+index construction	2
+standard traditional indexing techniques	2
+distributed file system	2
+filtering problem	2
+machine learning approaches	2
+exploitation tradeoff	2
+document space	2
+user interests	2
+near misses	2
+extra document	2
+empirical utility optimization strategy	2
+different scoring threshold point	2
+bias training sample	2
+discarded item	2
+cut off position	2
+optimal utility	2
+multiple factors	2
+adjustment factor	2
+gamma parameter	2
+evaluation studies	2
+arbitrary utility	2
+zero utility point	2
+conservative strategy	2
+zero utility	2
+advanced machine learning approaches	2
+filtering systems	2
+content based filtering approach	2
+adaptive learning algorithm	2
+support vector machine	2
+F value	2
+training error	2
+mathematical convenience	2
+quadratic program	2
+large value	2
+feature representation	2
+feature selection	2
+star reviews	2
+useful model	2
+ordinary conversation	2
+simple sequence	2
+interesting application	2
+similar acoustical sound acoustic signals	2
+simplicity language model	2
+today's Wednesday	2
+models behavior	2
+particular text	2
+actual text mining paper	2
+estimation question	2
+mathematical derivation	2
+parameter settings	2
+best model	2
+particular data	2
+example computer	2
+corresponding tents	2
+smaller text	2
+relatively high probabilities	2
+topic language model	2
+software program	2
+simple language models	2
+limited analysis	2
+statistical natural language processing	2
+document d	2
+document lengths	2
+inverted list	2
+Inverted index	2
+user's query	2
+actually simple formula	2
+different query	2
+presidential campaign update	2
+document model	2
+fixed document	2
+possible language models	2
+data mining algorithms	2
+different ranking functions	2
+U M	2
+companion news stream	2
+September 11 attack	2
+Iowa electronic market	2
+text stream	2
+quotation marks	2
+original topic	2
+topical coherence	2
+Pearson correlation	2
+Granger causality test	2
+history information	2
+American Airlines	2
+big data applications	2
+pattern annotation	2
+open challenges	2
+theta sub B	2
+background topic	2
+unique words	2
+word probabilities	2
+main tools	2
+non textual information	2
+text retrieval and database retrieval	2
+important differences	2
+structured data	2
+unstructured text	2
+text queries	2
+natural language queries	2
+computer specification	2
+match records	2
+important consequences	2
+empirically defined problem	2
+actually more than one lectures	2
+better algorithm	2
+formal formulation	2
+multiple natural languages	2
+multiple languages	2
+complete knowledge	2
+binary classification function	2
+real value function	2
+relative relevance	2
+absolute relevance becaus	2
+true relevant documents	2
+descending order	2
+lower position	2
+specific vocabulary	2
+distraction documents	2
+similar words	2
+right position	2
+right level	2
+user general	2
+theoretical justification	2
+optimal strategy	2
+following two assumptions	2
+ranking strategy	2
+identical documents	2
+similar content	2
+exactly the same content	2
+particular documents	2
+entire list	2
+complicated interface	2
+restrictive assumption	2
+primary task	2
+post processing	2
+empirical defined problem	2
+main technical challenge	2
+document pair	2
+excellent coverage	2
+ranking principle and probabilistic retrieval models	2
+better position	2
+vector elements	2
+similar documents	2
+Rocchio feedback	2
+relevant centroid vector	2
+actual documents	2
+term vectors	2
+zero weights	2
+corresponding element	2
+average vector	2
+parameter alpha	2
+negative weight	2
+red documents	2
+black documents	2
+nonzero weights	2
+non relevant examples	2
+relatively high weight	2
+relatively small sample	2
+feedback examples	2
+original terms	2
+smaller value	2
+relevant examples	2
+popular method	2
+information retrieval algorithms	2
+best opportunity	2
+classical search algorithms	2
+high quality web search engine	2
+interesting opportunities	2
+additional heuristics	2
+search applications	2
+special characteristics	2
+spam pages	2
+robust ranking	2
+particular trick	2
+extra information	2
+web information	2
+users browser	2
+spider or software robot	2
+crawling pages	2
+new links	2
+priority queue	2
+additional links	2
+real crawler	2
+complicated issues	2
+dynamically generated web pages	2
+dynamically generated pages	2
+robot exclusion protocol	2
+CGI script	2
+internal references	2
+redundant pages	2
+shorter path	2
+additional pages	2
+server load	2
+major search engine	2
+web search engine	2
+minimum resources	2
+past experience	2
+major factors	2
+static page	2
+sports score page	2
+maybe even multiple times	2
+high utility page	2
+quality information	2
+new opportunities	2
+web search applications	2
+initial crawling	2
+certain type	2
+incremental updating	2
+minimum resource	2
+direct context	2
+additional context	2
+partition text data	2
+different years	2
+interesting questions	2
+paradigmatic relation discovery	2
+expected overlap	2
+DOT product	2
+distinct terms	2
+high counts	2
+BM25 transformation	2
+popular terms	2
+Document frequency	2
+low IDF	2
+context documents	2
+higher weights	2
+lower weights	2
+text retrieval techniques	2
+4 cases	2
+Mutual information	2
+vector repetition	2
+statistical analysis	2
+statistical methods	2
+parameter b	2
+original BM25	2
+weighting function	2
+alpha sub	2
+sub-linear transformation	2
+useful data	2
+opinion analysis	2
+large body	2
+manual work	2
+soft rules	2
+generative classifiers	2
+base rule	2
+raw big text data	2
+ad hoc information	2
+stable information need	2
+human sensor	2
+different time	2
+particular aspect	2
+interesting angles	2
+simple scoring function	2
+following heuristics	2
+simplest model	2
+actual number	2
+new score	2
+different interpretation	2
+identical scores	2
+statistical approaches	2
+higher frequency	2
+statistical counts	2
+particular idea	2
+modern retrieval functions	2
+high IDF	2
+minimum value	2
+specific function	2
+particular function form	2
+better form	2
+standard idea	2
+new vectors	2
+new weighting method	2
+new scoring function	2
+new ranking function	2
+best ranking function	2
+additional ideas	2
+improvement model	2
+additional problems	2
+simplest methods	2
+linear manner	2
+linear regression	2
+real values	2
+arbitrary features	2
+probability function	2
+general page rank	2
+training instance	2
+specific values	2
+different feature values	2
+non relevance	2
+new query	2
+similar contexts	2
+important building blocks	2
+review data	2
+decomposed ratings	2
+text mining applications	2
+text based applications	2
+advanced techniques	2
+statistical learning	2
+different hotels	2
+seed words	2
+review documents	2
+maximum likelihood	2
+relevance levels	2
+total game	2
+small possibility	2
+highly ranked document	2
+rank systems	2
+N normalization	2
+9 documents	2
+ideal rank	2
+best value	2
+easy queries	2
+multiple level relevance judgments	2
+following reasons	2
+entry page	2
+particular target page	2
+web web pages	2
+extra context information	2
+information quality	2
+ranking algorithm	2
+major extensions	2
+click throughs	2
+standard visual models	2
+content matching	2
+extra description	2
+biggest online bookstore	2
+query box	2
+ranking pages	2
+online bookstore	2
+fixed online bookstore	2
+good evidence	2
+directory page	2
+case authority page	2
+page popularity	2
+good intuition	2
+citation counting	2
+simple idea	2
+workshop papers	2
+pseudo citations	2
+total account	2
+candidate terms	2
+highest scored terms	2
+title words	2
+word sports	2
+word cat	2
+world cat	2
+possible approach	2
+principle approach	2
+key high level takeaway messages	2
+main method	2
+complex such tasks	2
+important evaluation methodology	2
+major evaluation measures	2
+important measures	2
+scalability issue	2
+major algorithms	2
+major directions	2
+important component	2
+short course	2
+main source	2
+synthesis digital library	2
+short textbook	2
+information concepts retrieval	2
+major journals	2
+text mining course	2
+data mining specialization series	2
+original data	2
+application system	2
+natural step	2
+future opportunity	2
+highly relevant documents	2
+01 bit transformation	2
+TF IDF	2
+3 dimensional space	2
+real application	2
+real search engine	2
+major aspects	2
+systems capability	2
+computing resources	2
+real user tasks	2
+efficiency and usability dimensions	2
+software systems	2
+good coverage	2
+text retrieval algorithm	2
+laboratory test	2
+system components	2
+virtually all kinds	2
+reusable test collections	2
+real document collection	2
+search application	2
+sample set	2
+exactly what documents	2
+users relevance judgments	2
+computing approximation	2
+multiple measures	2
+LDA formula	2
+key topics	2
+intended application	2
+clustering system	2
+second application	2
+optimal number	2
+interesting analysis	2
+clicks rules	2
+1 hidden variable	2
+generating models	2
+probabilistic assignment	2
+actual evaluation	2
+complete judgments	2
+perceived utility	2
+right thing	2
+observed difference	2
+particular queries	2
+different experiments	2
+mean average precisions	2
+better performance	2
+detail results	2
+big variance	2
+minus sign	2
+seven cases	2
+seven coins	2
+P value	2
+similar conclusion	2
+random fluctuations	2
+actual difference	2
+observed values	2
+takeaway message	2
+small data	2
+K sets	2
+duplicate documents	2
+possible relevant documents	2
+unjudged documents	2
+main methodology	2
+main paradigm	2
+main measures	2
+evaluation strategy	2
+AB test	2
+real users	2
+natural language processing lecture	2
+r prime	2
+estimated parameters	2
+W sub	2
+Lagrange function	2
+functional words	2
+possible becaus	2
+unified generative model	2
+different reviewers	2
+average price	2
+average weights	2
+subjective statement	2
+objective statement	2
+basic opinion representation	2
+product review	2
+indirect opinions	2
+peoples opinions	2
+voluntary survey	2
+extra data	2
+7 coins	2
+A-B Test	2
+main takeaway	2
+text mining calls	2
+big text	2
+BM25 score	2
+TF IDF weighting and length normalization	1
+particular alpha sub	1
+long documenting	1
+long documents effect	1
+TF "IDF weighting  normalization formulas	1
+TF and IDF weighting	1
+probably one work	1
+collection language Model	1
+match query terms	1
+particularly the query likelihood retrieval method	1
+specifics smoothing methods	1
+matched The query terms	1
+TF IDF weight	1
+  methods	1
+Jelinek-Mercer smoothing	1
+larger lambda	1
+the  Alpha sub D	1
+Maximum likelihood estimate	1
+JM smoothing method	1
+non-negative value	1
+fixed coefficient smoothing	1
+dynamic coefficient interpolation	1
+pseudo data	1
+zero account	1
+mercury index	1
+NF subq	1
+example document	1
+aggregate function	1
+magical query term	1
+H function	1
+documents model addition	1
+large real functions	1
+inverter list	1
+D one F one anthro D N F N	1
+tour accumulator	1
+function edge	1
+inverted index note	1
+F subway	1
+TF or document length normalization	1
+security error code	1
+score communicators	1
+inventory list	1
+score accumulate	1
+order inverted index entries	1
+seven ford E	1
+D two score	1
+process security	1
+rail term	1
+metra fewer documents	1
+improving accuracy	1
+fast research	1
+general general form	1
+art and retrieval functions	1
+general mac technique techniques	1
+store results	1
+promising accumulate yrs	1
+popular tool kit	1
+builder search	1
+advanced the algorithms lima	1
+useful tool kit metal	1
+major takeaway	1
+fast response	1
+process preprocess data	1
+inverted index accumulator scores	1
+matching operator	1
+distributed file system parallel processing	1
+classical textbook efficiency	1
+newer xbox	1
+throne frequency	1
+document lance	1
+thousand words	1
+document lancer imitation	1
+thirds article	1
+average lens	1
+axis X axis	1
+immense normalization formula	1
+document lens controller	1
+non zero value	1
+average document lines	1
+BB cause	1
+lens normalization factor	1
+vertical space model ranking functions	1
+vector space model formulas	1
+pivotal lance normalization	1
+normalizer TF	1
+lens normalizer	1
+base model	1
+stem rewards	1
+water removal	1
+character engrams	1
+segmenting text	1
+characters award	1
+separate the words	1
+euclidean distance measure	1
+line work people	1
+PM twenty five F	1
+VM twenty five and four documents	1
+title field	1
+proper weights	1
+basically the idea	1
+BM twenty five F	1
+fresh first recurrences	1
+scoring structure	1
+line riches	1
+original BM	1
+anna nicholas	1
+TF wedding	1
+effective formula	1
+special waiting function	1
+original VM	1
+baptist based model	1
+men summarization	1
+particularly BM twenty five F	1
+finally the last paper	1
+Word Association mining	1
+word Association	1
+word relations	1
+semantic class or syntactic class	1
+basic relations	1
+arbitrary sequences	1
+complex phrases	1
+sequence mining	1
+sequence data	1
+data elements	1
+Syntagmatic relation	1
+co-occurring elements	1
+basically relations	1
+world relations	1
+NLP tasks	1
+grammar learning	1
+Syntactic classes	1
+larger expression	1
+component expressions	1
+Word relations	1
+additional related words	1
+related queries	1
+positive and negative opinions	1
+feature word	1
+simple sentences	1
+corresponding sentences	1
+similar left context	1
+right context	1
+following questions	1
+similarity value	1
+paradigmatic relationship	1
+correlated occurrences	1
+paradigmatically relation	1
+high context similarity	1
+times two words	1
+individual occurrences	1
+high co	1
+relatively low individual occurrences	1
+tax retrieval problem	1
+different cut offs	1
+- 100%	1
+additional relevant document	1
+random number	1
+exactly the Precision	1
+case D5	1
+true number	1
+high level records	1
+actual curve	1
+precision point	1
+ideal search system	1
+perfect precision	1
+older method	1
+method B	1
+low recall	1
+high Precision	1
+precisely user's task	1
+Average Precision	1
+recall level	1
+mini random documents	1
+retrieved relevant documents	1
+catcher retrieval	1
+relevance feedback becaus	1
+extra fault	1
+water association	1
+world computer	1
+end results	1
+religious terms	1
+user view	1
+judgment information	1
+crystal feedback	1
+result bag	1
+roar big text data	1
+eric information	1
+airplane information	1
+airport information	1
+google properties	1
+direct meant information	1
+example advertisement	1
+poor mold	1
+keyword query and search engine system	1
+site singing	1
+final information	1
+topical map	1
+information filtering and information retrieval here information filtering	1
+monster learning algorithms	1
+optimizer retrieval machine	1
+new more advanced approaches	1
+rank approaches	1
+example recommender systems computation	1
+advertise E	1
+machine learning information retrieval	1
+special methods	1
+data set	1
+sorting based method	1
+local term ID	1
+frequency tuples	1
+local partial inverted index	1
+pair-wise merging	1
+Term Lexicon	1
+DocumentID Lexicon	1
+stream-based representations	1
+stream representation	1
+  IDs	1
+merge sort	1
+old entries	1
+term ID1	1
+fixed length encoding	1
+program languages	1
+frequently awards	1
+rare values	1
+TF (term frequency	1
+skewed way	1
+skewed distribution	1
+previous document IDs	1
+current document ID	1
+commonly used code	1
+basically fixed length encoding	1
+Delta code	1
+Binary coding	1
+equal length encoding	1
+variable length encoding method	1
+4 ones	1
+exactly the full number	1
+100 bits	1
+1000 bits	1
+8 bits	1
+32 bits	1
+variable lengths	1
+other, less aggressive method	1
+Gamma coding	1
+transformed form	1
+original X.	1
+X bits	1
+higher floor	1
+2 digits	1
+10 encodes	1
+level floor	1
+odd number	1
+delta code	1
+certain distribution	1
+sequential decoding	1
+encoded ID list	1
+ID ID1	1
+texture retrieval methods	1
+designer ranking function	1
+function F	1
+main channel	1
+code breaking function	1
+query kill	1
+different a strategy	1
+classical probability model	1
+letter lecture	1
+probability inference	1
+actual medical thinking	1
+sick a good ranking function	1
+natural language processing laptop bag	1
+intent itching	1
+individual war	1
+document ann	1
+talking the length	1
+shop document becaus	1
+general matching array item	1
+larger retrieval models	1
+virtually order search engines	1
+method data	1
+property retrieval model	1
+mini models	1
+actually optimal mitchell model	1
+finally the state	1
+generating chick	1
+query awards	1
+estimator probability	1
+probably the mass	1
+extra problem	1
+maximum micro resonator	1
+mother language model	1
+observe award	1
+discounted the maximum like roller estimated peace	1
+coefficient alpha	1
+query lighter running function	1
+probability becaus	1
+order query	1
+current words	1
+reversed process	1
+P LSA	1
+useful topic models	1
+basic topic models	1
+little more detail	1
+sample article	1
+blog article	1
+new orlean's donation	1
+topical model	1
+formal definition	1
+topic category characterization	1
+Seedies HCI	1
+background topical	1
+multiway switch	1
+way switch	1
+non background	1
+Lambda B	1
+background help	1
+key way	1
+different design	1
+different possibilities	1
+topical theta	1
+sub K	1
+similarly, the probability	1
+complete likelihood function	1
+closer look	1
+Lambda sub b	1
+unknown value	1
+interesting kinds	1
+familiar form	1
+like holder	1
+unknown primers	1
+useful exercise	1
+usual thing	1
+Maximum likelihood estimator	1
+constrained optimization problem	1
+different constraint	1
+141 distribution	1
+topic coverage distribution	1
+Anna Document	1
+precisely these K topics	1
+applied math problem	1
+detailed explanation	1
+X dimension	1
+roller function	1
+numerical algorithm	1
+Hill climb	1
+random guess	1
+higher like recorder	1
+Hill climbing	1
+original like role function	1
+original lighter Holder curve	1
+record function	1
+latent variable values	1
+new point	1
+little converge	1
+local Maxima	1
+actual global maximum	1
+numerical optimization	1
+good initial starting point	1
+simple mixture model	1
+initial points	1
+useful hidden variables	1
+end step	1
+stable converged parameter values	1
+stable value	1
+data augmentation	1
+w denotes	1
+precisely one word	1
+multiple values	1
+0 log	1
+different value	1
+lower value	1
+exactly the same curve	1
+higher entropy	1
+random experiment	1
+random variable X sub coin	1
+head hotel	1
+fair coin corresponds	1
+middle point	1
+completely biased coin corresponds	1
+end point	1
+word prediction	1
+high entropy words	1
+quantitative way	1
+high entropy	1
+completed biased coin	1
+mixture model estimation	1
+powerful way	1
+particular need	1
+precisely those high probability background words	1
+order distribution	1
+very, very simple case	1
+interesting behaviors	1
+observed patterns	1
+precisely two words	1
+naive oversimplification	1
+actual text	1
+text point	1
+different exact probabilities	1
+precisely the two probabilities	1
+theta sub D.	1
+simple algebra question	1
+simple expression	1
+simple algebra problems	1
+interesting behavior	1
+mathematical fact	1
+low probability	1
+, then the other distribution	1
+unknown topic world distribution	1
+different textual representation	1
+different analysis	1
+deeper analysis results	1
+interesting representation opportunities	1
+analysis capacities	1
+text recognition	1
+enabled analysis techniques	1
+final column	1
+string text	1
+stream processing algorithms	1
+knowing word boundaries	1
+Word based representation	1
+important level	1
+analysis techniques	1
+word relation analysis	1
+Thesaurus discovery	1
+opinion related applications	1
+research literature	1
+important research topics	1
+business intelligence people	1
+additional representations	1
+syntactic graph analysis	1
+graph mining algorithms	1
+Syntactic graphs	1
+stylistic analysis	1
+syntactical representation	1
+Syntactical structure representation	1
+based feature features	1
+different authors	1
+K authors	1
+analysis or information network analysis	1
+real world energy entity	1
+scattered sources	1
+logic predicates	1
+logic inference	1
+integrative analysis	1
+scattered knowledge	1
+extracted information	1
+intelligent knowledge assistant	1
+intended program	1
+relevant knowledge	1
+research problem	1
+understanding functions	1
+certain function	1
+intelligent program	1
+relevant facts	1
+information extraction	1
+logical system	1
+virtually all the text mining applications	1
+sophisticated applications	1
+Text representation	1
+text - strings	1
+relation graphs	1
+logical predicates	1
+different representations	1
+real applications	1
+partial structures	1
+richer analysis	1
+powerful analysis	1
+big advantage	1
+fragile natural language processing techniques	1
+important benefit	1
+finally such a word based representation	1
+sophisticated approaches	1
+typical sentiment classification problem	1
+opinionated text document D	1
+discrete rating	1
+regular text	1
+categorization technique	1
+categorisation program	1
+binary setting categorization problem	1
+real number	1
+standard two category categorization problem	1
+binary logistic regression program	1
+multi level rating prediction	1
+multiple binary classifiers	1
+logistical regression program	1
+different set	1
+logistic regression classifiers	1
+reading level	1
+basically K - 1 regular logistic regression classifiers	1
+K - 1 logistic regression classifiers	1
+new instance	1
+class file	1
+optimal way	1
++ 1 parameters	1
+alot alot	1
+optimal parameters	1
+complex model	1
+key idea	1
+K -1 independent logistical regression classifiers	1
+Beta parameters	1
+K - 1 premise	1
+positive benefit	1
+different classifiers	1
+optimal value	1
+good beta value	1
+distinct Alpha value	1
+Alpha parameter	1
+apha subject	1
+J. Different J	1
+different alpha	1
+far fewer parameters	1
+simpler way	1
+predicted probabilities	1
+General Decision rule	1
+particular range	1
+corresponding rating	1
+specific technique	1
+appropriate context	1
+interesting context variables	1
+tight little context	1
+context influence	1
+contextualized topics	1
+particular context	1
+following changes	1
+2 specific assumptions	1
+different versions	1
+specific context	1
+estimate premise	1
+particular a lot	1
+certain context	1
+government response donation	1
+contact information	1
+topic content	1
+world distributions	1
+theme coverage	1
+red topics	1
+new audience	1
+certain time period	1
+maybe particular topic	1
+specific version	1
+coverage distribution	1
+specifically coverage	1
+yellow topic	1
+extra switches	1
+specific views	1
+specific coverages	1
+exactly the same model	1
+similar models	1
+30 articles	1
+26 articles	1
+topical collection	1
+common topic	1
+collection specific variations	1
+weapon inspections	1
+maybe aid	1
+Northern Alliance	1
+different variation	1
+different wars	1
+different collections	1
+topic variations	1
+second cluster	1
+text collections	1
+multiple sets	1
+different different contexts	1
+the. trends	1
+topics overtime	1
+General curves	1
+Hurricane Hurricane Rita	1
+additional result	1
+special patterns	1
+slow response	1
+different weeks	1
+victim states	1
+hurricane Rita	1
+spatial temporal patterns	1
+event impact analysis	1
+particularly SIGIR papers	1
+text retrieval conference	1
+major evaluation effort	1
+research information retrieval	1
+Seminal paper	1
+high impact	1
+time periods	1
+Boolean model	1
+different retrieval tasks	1
+enterprise search tasks	1
+subtropical retrieval	1
+language model paper	1
+classical probabilistic model logic model	1
+clear dominance	1
+simple extension	1
+collection comparison	1
+comparative text mining	1
+multiple collections	1
+main paper	1
+CPLSA model	1
+special temporal patterns	1
+specific a smoothing methods	1
+rover retrieval method	1
+specific a small the methods	1
+holder ranking	1
+magic query terms	1
+tearful idea	1
+jelinek immersive smoothie	1
+ward accounts	1
+maximum like harassment	1
+larger lemme lisa	1
+larger probabilities	1
+night network	1
+maximum micro S	1
+zero four network	1
+sub T	1
+clashing language model	1
+dynamical coefficient	1
+original apply	1
+bayesian smoothie	1
+james multimethod	1
+non negative value	1
+coefficient smoothie	1
+dynamical coefficient interpolation	1
+word award	1
+result evening	1
+zero counter	1
+non zero account cause	1
+  associations	1
+paradigmatic relations relations	1
+content mining	1
+main topics	1
+article topic	1
+different applications	1
+Twitter users	1
+NBA sports	1
+international events	1
+current research topics	1
+today's literature	1
+positive opinions	1
+2012 presidential election	1
+meta data or context variables	1
+trending topic	1
+mining topics	1
+topic k	1
+small portion	1
+covered topic	1
+topic K	1
+different tasks	1
+OK, major topics	1
+second task	1
+N text documents	1
+text connection	1
+theater sub	1
+π sub	1
+basic retrieval function	1
+query likelihood method	1
+callback labeler divergance retrieval model	1
+simple query model estimation	1
+KL Divergence retrieval model	1
+Retrieval function	1
+Whichever model	1
+KL divergence	1
+care divergent	1
+overall the match query words	1
+query name model	1
+KL diversions	1
+Sorry, mostly positive documents	1
+computing central	1
+4 feedback	1
+single F	1
+language Model	1
+ranked words	1
+Topic model	1
+model mixture model	1
+data becauses	1
+locali code	1
+serial F	1
+Web document collection	1
+Document set	1
+highest probability words	1
+sooner feedback	1
+relevance based language models	1
+taxable categorization	1
+taxi categorisation	1
+Cranfield Evaluation Methodology	1
+desired categories	1
+ground truth test collection	1
+controlled experiments	1
+empirically defined problems	1
+systems categorization results	1
+categorisation ground truth	1
+systems decisions	1
+system output	1
+ideal output	1
+higher similarity	1
+different measures	1
+general, different categorization mistakes	1
+different costs	1
+texture catalyzation	1
+simplified measure	1
+cost variation	1
+relative difference	1
+particular method	1
+corrective decisions	1
+humans decision	1
+characters decisions	1
+N minus	1
+convenient measure	1
+decision errors	1
+detailed evaluation	1
+APA category	1
+document basis	1
+desicion errors	1
+different causes	1
+high cost	1
+classification error classification accuracy	1
+imbalanced tests	1
+simple baseline	1
+major category	1
+98% accuracy	1
+good result	1
+equal number	1
+minority categories	1
+document perspective	1
+general cases	1
+human system	1
+false positive FP	1
+false negative	1
+true negatives	1
+phone numbers	1
+2 popular measures	1
+searching results	1
+correct decisions	1
+false negatives	1
+old categories	1
+certain characteristic	1
+popular category valuation	1
+previous case	1
+different perspective	1
+weather precision	1
+equal weight	1
+Undesirable property	1
+reasonable FF1	1
+041 value	1
+topic mining analysis	1
+predefined topics	1
+text categorization techniques	1
+texture categorisation	1
+labeled text objects	1
+tax object	1
+categorisation system	1
+general assign categories	1
+new tax objects	1
+internal categories	1
+tax objects	1
+direct Characterization	1
+external categories	1
+author attribution	1
+meaningful categories	1
+meaningful connection	1
+entity and text data	1
+categorize products	1
+corresponding reviews	1
+external category	1
+News categorization	1
+News agencies	1
+literature article	1
+important task	1
+biomedical domain	1
+mesh annotations	1
+medical subject heading	1
+application spam	1
+email detection	1
+spam filter	1
+legitimate emails	1
+binary classification problem	1
+Sentiment categorization	1
+different folders	1
+important kind	1
+helpdesk email messages	1
+different people	1
+right people	1
+automatic text categorization system	1
+incoming request	1
+finally, author Attribution	1
+Spam filter	1
+non spam	1
+general case	1
+K-category categorization	1
+Email routing	1
+multiple folders	1
+multiple people	1
+hierarchical categorization	1
+topical hierarchy	1
+multiple categorization tasks	1
+individual task	1
+categorization tasks	1
+K category categorisation task	1
+hierarchical category categorisation	1
+flat categorisation	1
+high level categories	1
+sub categories	1
+text categories	1
+text Categorization	1
+keyword bag	1
+2 levels	1
+Semantic categories	1
+semantic categories	1
+tax content	1
+overall opinions	1
+individual review	1
+coding text	1
+text coding encoding	1
+controller vocabulary	1
+corresponding entities	1
+information network	1
+obvious entities	1
+authors affiliations	1
+authors ages	1
+text mining tool	1
+Sorry, text categorization	1
+extra sensor data	1
+certain desicion factors	1
+inferring properties	1
+non native speakers	1
+party affiliation	1
+political speech	1
+similarly good hubs	1
+Hub score	1
+good authoritie	1
+matrix format	1
+authority vector	1
+Hub score vector	1
+computing hubs	1
+exactly the similar page rank	1
+basis course	1
+potential million other features	1
+pair Q M D	1
+door pivot condense formalization	1
+home page	1
+engine page	1
+generated ranking function	1
+potentially more powerful ranking function more robust ranking function	1
+low weight	1
+hypothesized ranking function	1
+natural language processing and text retrieval	1
+noun chasing	1
+noun phrases	1
+computer program	1
+symbol D1	1
+, playground	1
+Pragmatic analysis	1
+word root	1
+language processes	1
+anaphora resolution	1
+art technologies	1
+97% accuracy	1
+verbal phrases structures	1
+90% accuracy	1
+data sets	1
+current natural language processing techniques	1
+certain meaning	1
+complete semantic representation	1
+complete parsing	1
+precise deep semantic analysis	1
+deeper understanding techniques	1
+unrestricted text	1
+multiple courses	1
+fairly shallow and NLP techniques	1
+Java applet	1
+Java Means program language	1
+technical code feedback	1
+technical code	1
+Semantic matching	1
+dominant representation	1
+different the ranking function	1
+words programming library	1
+vector D	1
+press agent library	1
+vector space recommendation week	1
+presidential program	1
+battle space model	1
+divine N dimensional space	1
+different line messages	1
+tool dimensions	1
+term weather	1
+terrorist metheny	1
+joe match	1
+average G map	1
+map orgy map	1
+different rankings	1
+average positions	1
+important right	1
+LG magic value	1
+hyper average position	1
+jim abbott	1
+little values	1
+G map	1
+particularly popular queries	1
+perfect and maybe map	1
+item search	1
+amazon home page	1
+precise the one relevant document	1
+average casino reciprocal rank	1
+mean receiver core rank	1
+random problem	1
+presumably one hundred documents	1
+imagine fewer designer measure	1
+average prison	1
+recommending task	1
+users expectations	1
+1 item	1
+certain users	1
+Recommender Systems	1
+topic indicator	1
+K+1 distributions	1
+predicted probability	1
+potentially different pis	1
+different guess	1
+inferred Z values	1
+right counts	1
+topic's theta	1
+exactly the same count	1
+E step formulas	1
+computed expected count	1
+E step result	1
+relevant counts	1
+particular parameter	1
+coverage parameters-- pis	1
+initialization step	1
+current likelihood	1
+previous likelihood	1
+hidden variable Z sub	1
+count counter	1
+Allocated counts	1
+slightly different form	1
+predetermined background language model	1
+discriminating topics	1
+topical knowledge	1
+k-word distributions	1
+detailed characterization	1
+particular time period	1
+particular author	1
+cluster documents	1
+higher probability words	1
+highest pi	1
+empirical counts	1
+commonly used technique	1
+observed accounts	1
+second counter	1
+second column	1
+small problem	1
+zero counts	1
+maybe a small sample	1
+additional counts	1
+zero probability probability	1
+different combinations	1
+non zero counter	1
+pseudo segment	1
+actual segments	1
+single pseudo segment	1
+cinematic relation	1
+random variable X conditional entropy	1
+principled way	1
+strongest cinematical relationship	1
+syntactic medical relation discovery	1
+medical relations	1
+computer similarity	1
+relation discovery	1
+basic associations	1
+Paradigmatic and Syntagmatic relations	1
+multiple statistical approaches	1
+pure statistical approaches	1
+helmet human effort	1
+interesting relations	1
+maybe paragraphs	1
+different flavors	1
+text window	1
+longer text article	1
+discovery associations	1
+recommended readings	1
+statistical measures	1
+lexical atoms	1
+hot dog	1
+Blue chip	1
+new paper	1
+relation and select medical relations	1
+random walks	1
+world graphs	1
+Maximum likelihood estimation	1
+  arg max	1
+function maximum value	1
+given Theta	1
+observed 100 words	1
+certain Thetas	1
+Bayesian reasoning	1
+general knowledge	1
+X encodes	1
+posterior belief	1
+particular X.	1
+Posteriori or MAP estimate	1
+general estimate	1
+noninformative prior meaning	1
+likelihood value	1
+certain values	1
+, then MAP estimate	1
+free lunch	1
+dimension value	1
+interesting point estimates	1
+likely parameter value	1
+likely value	1
+good compromise	1
+prior mode	1
+maximum likehood estimate	1
+Theta values	1
+uncertain variable	1
+general illustration	1
+particular set	1
+data sample X	1
+derived values	1
+maybe just the sentiment classification	1
+understanding opinion	1
+Sentiment classification	1
+opinionated text object	1
+sentiment label	1
+sentiment tag	1
+numerical ratings	1
+discrete categories	1
+frequently used categories	1
+classification task	1
+text categorization method	1
+regular text categorization technique	1
+simple text categorization technique	1
+sentiment tagging	1
+especially polarity analysis	1
+different n(s	1
+recognition errors	1
+misspelled word	1
+correct form	1
+common n	1
+Uni Grams	1
+designed features	1
+machine learning program	1
+unique features	1
+obviously that kind	1
+discriminating features	1
+hybrid feature	1
+word classes	1
+word net	1
+named entities	1
+word clusters	1
+mining associations	1
+sementically related words	1
+based representation	1
+frequent pattern syntax	1
+discriminative features	1
+regular n	1
+parse tree based features	1
+frequent subtrees	1
+Patton discovery algorithms	1
+feature construction	1
+larger space	1
+simple world n-grams representations	1
+character n	1
+enriched information	1
+, more complex features	1
+mixed grams	1
+categorization accuracy	1
+machine learning application	1
+seed features	1
+basic feature space	1
+Machine learning program	1
+new features	1
+categorization errors	1
+feature validation	1
+different feature space	1
+NLP enriches text representation	1
+feature space	1
+larger search space	1
+meaningful features	1
+complicated features	1
+common challenge	1
+high coverage	1
+infrequent features	1
+skiped ones	1
+3 parts	1
+algorithm specific way	1
+lexical units	1
+language specific natural language processing techniques	1
+basically search algorithms	1
+document index	1
+inverted indexes	1
+  frequency	1
+example news	1
+Inverse document frequency	1
+document account	1
+word news	1
+5 words	1
+10 words	1
+single word query	1
+disjunctive query	1
+term B	1
+query A&B	1
+document generated score	1
+disjunctive Boolean query	1
+straight forward method	1
+language independent patterns	1
+large percent	1
+frequently words	1
+exact words	1
+parameter Alpha	1
+high TF IDF weights	1
+the, a,	1
+high IDFs	1
+modest size	1
+  entries	1
+term positions	1
+posting files	1
+Super B.	1
+Z value	1
+social values	1
+random values	1
+status update	1
+initialization stage	1
+E Step 2 gas	1
+spec step	1
+inferred values	1
+group words	1
+Cedar sub D	1
+text mining algorithm	1
+somewhat improved estimate	1
+soft split	1
+initial estimate	1
+data accounts	1
+right data counts	1
+variable Z hidden variable	1
+improved setting	1
+specific case	1
+EM formulas	1
+equal probabilities	1
+relevant statistics	1
+background world distribution	1
+different guest probabilities	1
+allocated counts	1
+practice mate	1
+latent variable	1
+negative value	1
+inferred word split	1
+primary goal	1
+discriminating world distribution	1
+term text mining	1
+term text analytics	1
+Text Mining	1
+subtle difference	1
+algorithmic view	1
+concise information	1
+concise form	1
+concise summary	1
+major opinions	1
+decision problem	1
+better choice	1
+shopping decision	1
+optimal decision making	1
+text mining systems	1
+separate MOOC	1
+context mining	1
+key concepts	1
+relatively small	1
+text retrieval support	1
+high level introduction	1
+special kind	1
+network sensor	1
+particular format	1
+geo sensor	1
+location specification	1
+longitude value	1
+lattitude value	1
+Network sensor	1
+network traffic	1
+digital format	1
+subjective sensor	1
+data mining problems	1
+different formats	1
+numerical data	1
+semantic content	1
+especially preferences	1
+data mining module	1
+video content	1
+effective mining	1
+special algorithms	1
+specialized algorithms	1
+word count	1
+probability ratios	1
+binary response variable Y	1
+Y value	1
+documents first class theta	1
+1 minus probability	1
+log odds ratio	1
+possible ways	1
+nice properties	1
+useful classifier	1
+classification tasks	1
+X Y	1
+condition likelihood	1
+observed X.	1
+modeling X	1
+training cases	1
+modeled probability	1
+particular training case	1
+particular XI	1
+corresponding Y	1
+logistical regression function	1
+minus the probability	1
+key point	1
+beta value	1
+standard optimization problem	1
+Newtons method	1
+popular way	1
+defined scoring function	1
+thorough introduction	1
+machine learning course	1
+basic introduction	1
+commonly used classifiers	1
+second classifier	1
+k nearest neighbors	1
+K examples	1
+close neighbor	1
+weighted sum	1
+naive base classifier	1
+good opportunity	1
+distinguishing objects	1
+training instances	1
+new object	1
+larger neighborhood	1
+solid field boxes	1
+K nearest neighbor	1
+important parameter	1
+actually important assumption	1
+similar distributions	1
+entire region	1
+additional data points	1
+precise idea	1
+region R	1
+category Theta I.	1
+rough estimate	1
+popular category	1
+data objective	1
+query likelihood retrieval method	1
+document or document language model	1
+identical probability	1
+frequent account	1
+extra probability mass	1
+smoother language model	1
+likely higher probability	1
+coefficient Alpha	1
+query likelihood running function	1
+non-zero probability	1
+seen words	1
+second sum	1
+the  query words	1
+reverse process	1
+object user	1
+Weight Controls	1
+meaningful rating	1
+Basically the normalized rating	1
+collaborative filtering approaches	1
+Predicted ratings	1
+system's predictions	1
+systems prediction	1
+Pearson correlation coefficient	1
+commonly rated items	1
+standard Pearson correlation coefficient formula	1
+practical application	1
+advanced approaches	1
+preliminary prediction	1
+Text research	1
+natural language content analysis	1
+Natural language content analysis	1
+particular, natural language processing	1
+a  prepositional phrase	1
+certain way	1
+syntactic parsing	1
+syntactical analysis	1
+real world entities	1
+boy b1	1
+chasing action	1
+formal representation	1
+inferred meaning	1
+SPEECH Act analysis	1
+main reason	1
+human communications	1
+possibly different things	1
+main killer	1
+right choice	1
+Syntactic ambiguity	1
+different interpretations	1
+ordinary meaning	1
+possible interpretation	1
+language processing	1
+classic example	1
+prepositional phrase attachment ambiguity	1
+prepositional phrase	1
+modifying saw	1
+Anaphora resolution	1
+Pre supposition	1
+particular datasets	1
+complete parse tree	1
+particularly extraction	1
+the  location	1
+sense disambiguation	1
+Sentiment analysis	1
+big domain	1
+limited domain	1
+generally difficult problem	1
+specialized cases	1
+mechanical approaces	1
+computational methods	1
+particular statistical machine learning methods	1
+Statistical analysis methods	1
+natural language sentences	1
+user U	1
+item X.	1
+content-based filtering	1
+individual's interest	1
+sufficiently large number	1
+M users	1
+N objects	1
+sparse matrix	1
+training data sets	1
+major conference devotes	1
+latent Dirichlet allocation	1
+Dirichlet allocation	1
+user controlled PLSA	1
+generative model fully generated model	1
+Latent Dirichlet Allocation	1
+certain aspects	1
+topic tags	1
+assigned tags	1
+a. A very elegant way	1
+posteriori estimate	1
+map estimate	1
+posterior distribution probability	1
+precisely 1 background	1
+model setting	1
+generated document	1
+Pi value	1
+favor set	1
+similar EM algorithm	1
+smallest parameters	1
+special form	1
+prior called conjugate	1
+additional pseudo data	1
+functional forms	1
+Dirichlet prior Dirichlet distribution	1
+Additional counts	1
+similar life	1
+0 pseudocounts	1
+prior distribution	1
+connected counts	1
+intuitively very reasonable way	1
+specific extreme cases	1
+practice mu	1
+basic a measures	1
+regional systems	1
+queries documents	1
+order retrieval results	1
+percent precision	1
+total recall	1
+retriever result	1
+similar records	1
+meaningful measure becaus	1
+F measure anne	1
+interesting combination	1
+little combined precision	1
+F magic	1
+desirable becaus	1
+perfect the recall	1
+FY encodes	1
+F mash	1
+different scenario	1
+corresponding conditional probabilities	1
+complete definition	1
+particular scenario	1
+following equation	1
+discrete random variables	1
+variable X	1
+knowing eats	1
+knowing presence	1
+wether meat	1
+stronger association	1
+entropy conditional entropy	1
+overall other words W2	1
+small entropy	1
+target word W1	1
+potential syntagmatic relations	1
+absolute value	1
+particular word W1	1
+strongest K syntagmatic relations	1
+target word	1
+  W3	1
+upper bounds	1
+data frequencies	1
+word document	1
+Well, picture	1
+additional occurrences	1
+D prime	1
+original solution	1
+probability mess	1
+added the probability mass	1
+reduced the probability	1
+important behavior	1
+positive impact	1
+relatively small impact	1
+unknown distribution theta	1
+somewhat higher probability	1
+B. The probability	1
+overall result	1
+higher values	1
+component component model attempts	1
+different component models	1
+English documents	1
+specialized mixture model	1
+discovered  topic	1
+zero prior probability	1
+general models	1
+" a probability	1
+non" grammatical sentence	1
+very, very small probability	1
+similarly another sentence	1
+The" "eigenvalue	1
+a" probability	1
+model generative model	1
+relatively high probability	1
+smaller" probability	1
+different sequences	1
+possible sequences	1
+fake numbers	1
+N probabilities	1
+simple model	1
+word order	1
+sampling process	1
+estimation process	1
+text mining context	1
+text mining paper publishing	1
+meaningful text documents	1
+food nutrition paper	1
+different text	1
+likely language model	1
+estimated probabilities	1
+relatively large probability	1
+reasonable guess	1
+tax retrieval methods	1
+variable R	1
+BM 25 retrieval function	1
+objectives space model	1
+Big class	1
+PL-2 function	1
+travel functions	1
+intuitively this probability	1
+document D.	1
+status values	1
+then  D5	1
+Maybe data	1
+relevant, ET cetera	1
+particular D	1
+particular case code query	1
+user formula	1
+specific Iranian function	1
+binary random variable R	1
+2:00 text objects	1
+particular objective function	1
+particular view	1
+clustering program	1
+intragroup similarity	1
+intergroup similarity	1
+general goals	1
+individual objects	1
+larger and larger clusters	1
+smaller and smaller clusters	1
+general strategy	1
+initial tentative clustering	1
+flat clustering	1
+K means	1
+different clustering methods	1
+custom methods	1
+representative methods	1
+hierarchical agglomerative clustering	1
+agglomerative hierarchical clustering	1
+larger and larger groups	1
+computer group similarity	1
+individual object similarity	1
+provider similarity function	1
+highest similarity similarity pairs	1
+binary tree	1
+popular methods	1
+single link complete link	1
+closest repair	1
+Complete Link	1
+father sister pair	1
+Average link	1
+groups G1	1
+general basis	1
+closest pair	1
+pairs objects	1
+close orders	1
+optimistic view	1
+complete link	1
+computing group similarities	1
+different clustering algorithms	1
+loose clusters	1
+good relationship	1
+complete linker	1
+opposite situation	1
+loose classes	1
+cluster objects	1
+maybe simple English good	1
+tight clusters	1
+similarity based classroom	1
+means clustering	1
+tentative clustering result	1
+initial tentative classroom	1
+Central Eastside	1
+cluster hosts entry	1
+current vector	1
+tentative clustering centroids	1
+allocated objects	1
+random inner inner initialization	1
+primary destinations	1
+tentative clustering	1
+precisely one cluster	1
+probabilistic location	1
+exactly which distribution	1
+better estimate	1
+better clustering result	1
+probabilistic allocations	1
+defined objective function	1
+clustering methods	1
+model based approaches	1
+mainly the mixture model	1
+explicit definer similarity function	1
+different instruction	1
+Complex generative models	1
+complex clustering structures	1
+hierarchical clusters	1
+multiple clusters	1
+explicit definition	1
+potential disadvantage	1
+object function	1
+clearly defined the objective function	1
+model based approach	1
+document clusters	1
+paradigmatic relation learning	1
+tax representations	1
+sorry general ranking function	1
+specific and smoothing method	1
+james move method	1
+lamp anne	1
+precisely vector space model becaus	1
+matched queried homes	1
+lemme biased parameter	1
+document lance normalization	1
+waiting function	1
+heuristic a design	1
+document total number	1
+award W	1
+expected counter	1
+TF IDF weighting and document instrumentation	1
+dealership price mosey	1
+mule words	1
+collection water probability	1
+document lanthier	1
+james morning	1
+document lens	1
+documents formalisation becaus	1
+james smooth	1
+roles disadvantages	1
+material function	1
+richard applier	1
+heuristic experiment results	1
+compara bulto BM	1
+advance normalization	1
+holder problems	1
+model anne	1
+query michael	1
+maddie 's query words	1
+classy language model	1
+authorship rise	1
+weighting formula	1
+high school	1
+metric query term	1
+query tom W	1
+highest score isba	1
+accidental managing	1
+tearful transformation	1
+X access roll count	1
+um frequence	1
+zero one bit vector representation	1
+exactly the same weight	1
+BM twenty five transformation VM	1
+nonnegative number	1
+furthermore one interesting property	1
+linear T hop	1
+higher term	1
+transmission transformation	1
+TF IDF weighting vectors	1
+VM twenty five TF component	1
+Vector Space model	1
+exactly Xi	1
+defined space	1
+defined the ranking function	1
+simplest ways	1
+element Xi	1
+commonly used similarity measure	1
+X2 * Y2	1
+finally XN	1
+bit vector represntation dot product similarity	1
+actually particular retrieval function	1
+specific retrieval function	1
+users' queries	1
+sample documents	1
+simple query	1
+2 documents	1
+0/1 bit vectors	1
+2 ones	1
+presidential, campaign	1
+documents D2	1
+D3 presidential	1
+extended matching	1
+matching presidential	1
+particularly the query vector	1
+user 0/1 bit vector	1
+word presence	1
+textual categorisation	1
+category C	1
+precision  P1	1
+F value F1	1
+precision values	1
+different behavior	1
+exactly the same situation	1
+computer precision	1
+, how many cases	1
+contingency table	1
+specific decision	1
+general macro average	1
+micro averaging	1
+ranking perspective	1
+Categorisation results	1
+human editors	1
+help desk	1
+particular customer service person	1
+categorisation decision	1
+spam emails	1
+ranking emails	1
+spam category	1
+ranking evaluation	1
+intended use	1
+news categorization results	1
+difference and design measures	1
+multiple aspects	1
+important or high precision	1
+different decision error	1
+following classification accuracy	1
+especially balanced tester set	1
+F scores	1
+document based evaluation	1
+category evaluation	1
+categorization methods	1
+ranking task	1
+ranking measures	1
+evaluation measures	1
+wider site	1
+good apps	1
+help score	1
+graphene network analysis	1
+adjacent symmetrics	1
+authorities scores	1
+authorities' score	1
+good authors	1
+good house	1
+similar the second question	1
+metrics form	1
+limited authoritie raptor	1
+computing haxan authorities' week	1
+end page ranger	1
+exactly the same debate rank	1
+texture retrieval	1
+code lexical analysis	1
+anna dog	1
+dogan ease	1
+non phrases	1
+pazer computer program	1
+symbol T	1
+becaus natural language	1
+example programming languages	1
+common sense knowledge becaus	1
+good ambiguous word	1
+natural language processing difficulty	1
+B guild	1
+example design	1
+war route	1
+lecture natural language processing cap	1
+background knowledge	1
+finally presupposition	1
+large technologies	1
+ninety seven percent accuracy	1
+verbal phrases structure	1
+ninety percent accuracy	1
+partial pausing	1
+tax articles	1
+people locations organisations	1
+today's so many days	1
+general challenger	1
+complete semantical representation	1
+reliable speech act analysis	1
+deep semantic analysis	1
+sentence journal	1
+deep understanding techniques	1
+unrestricted a text ann	1
+multiple causes	1
+natural language processing topic	1
+fairly shallow NLP techniques	1
+current text data	1
+repent nation	1
+sentence becaus	1
+search taskbar	1
+comparison search task	1
+java applet	1
+program language becaus	1
+means coffee	1
+technique technique	1
+extent semantic matching	1
+becaus knowledge graph	1
+NLP ann	1
+white bag	1
+dominant replantation	1
+T one T two T	1
+random suffer	1
+precisely what page ranger computes	1
+following link	1
+interacting links	1
+D Y	1
+metrics M sub idea	1
+visiting page DJ	1
+time T	1
+page D	1
+subscript index T	1
+probability one minus R file	1
+P sub T	1
+DJ page	1
+time team	1
+target page DJ	1
+second pod	1
+random jumpy	1
+uniform metrics	1
+parts becaus	1
+different metrics	1
+sense page rank	1
+computer average probabilities	1
+steps file	1
+PG rating scores	1
+transition matrix uniform transition matrix	1
+metrics multiplication	1
+metrics model multiplication	1
+individual questions	1
+pagerank score	1
+actually efficient becaus	1
+link follow	1
+PP specific attempting factor	1
+point zero four page	1
+page rank query	1
+topic line sports	1
+generic page rank	1
+particular example	1
+main channing	1
+similar process step	1
+scorer two processor users query	1
+night position	1
+normalized lexical units	1
+english stemming	1
+water boundaries	1
+specifically natural language processing techniques	1
+random list	1
+older documents	1
+total frequency	1
+idea right inverse document frequency	1
+document ID document	1
+world news	1
+document document	1
+frequency com	1
+disadvantage query	1
+vert index	1
+N B	1
+generative score	1
+disjunctive pony	1
+sequential register	1
+straightforward method	1
+large extent	1
+frequent the words	1
+coppers layer	1
+exactly words	1
+W D	1
+W and Y axis	1
+high TF IDF whites	1
+intermediate frequently words	1
+left path	1
+awards removal	1
+counter words	1
+heister frequency words	1
+unnecessary interest	1
+high ID FS	1
+directly access data structures	1
+P G	1
+document IDS tone frequencies	1
+large compression	1
+occupied that much space	1
+pulsing files	1
+safe distance space	1
+number three index	1
+Main difference	1
+document clustering models	1
+cluster document	1
+D. Suppose D	1
+L words	1
+Prior information	1
+highest product	1
+highest posterior probability	1
+Naiyes Bayes classifier	1
+keyword Bayes	1
+naive assumption	1
+actual generative model	1
+simplified unigram language model	1
+specific category	1
+statistical estimation problem	1
+  naive Bayes classifier	1
+prior probability	1
+second probability	1
+following few slides	1
+following intuition	1
+medical science	1
+sports category	1
+set T sub i.	1
+theta i.	1
+T sub	1
+probability estimate	1
+discriminative weighting	1
+mining word relations	1
+possible way	1
+small nonnegative constant Delta	1
+extra number	1
+Delta K Times	1
+total pseudo counts	1
+Obvious Delta	1
+larger delta	1
+actual counts	1
+positive Infinity	1
+sorry, not every word	1
+original estimate	1
+non-uniform pseudo counts	1
+larger text data	1
+smaller pseudocounts	1
+nonuniform smoothing	1
+higher level	1
+smoothing parameter mu	1
+interesting special cases	1
+constant pseudo count	1
+naive Bayes scoring function	1
+prior probability ratio	1
+category bias	1
+negative evidence	1
+feature support category	1
+naive Bayes	1
+feature vector F	1
+font size	1
+corresponding weight beta	1
+appropriate settings	1
+general classifier	1
+conditional approaches	1
+strong connection close connection	1
+social media content	1
+geographical network	1
+social network context	1
+topics text	1
+supervised topic model	1
+frontier topics	1
+regular topic models	1
+incorporating network	1
+similar topic distributions	1
+common distribution	1
+slight variations	1
+likelihood objective function	1
+regularizer function	1
+network constraint perspective	1
+single objective function	1
+current topic models	1
+different heuristics	1
+Office general approach	1
+single optimization framework	1
+particular instantiation	1
+simple constraints	1
+similar topic distribution	1
+similar ways	1
+modified object function	1
+precisely the PLSA log likelihood	1
+node U	1
+PLSA log likelihood	1
+active sign	1
+strong collaborators	1
+topic coverages	1
+new parameter	1
+network constraints	1
+estimate models	1
+regular results	1
+DBLP data	1
+bibliographic data	1
+IR information retrieval	1
+collaboration network information	1
+Co occurring words	1
+general the topics	1
+coherent results	1
+similar model	1
+general view	1
+rich information network environment	1
+big network	1
+sub networks	1
+big environment	1
+general analysis	1
+entire network	1
+fuzzy manner	1
+word ambiguity	1
+improved representation	1
+old representation	1
+simple representation	1
+respective distributions	1
+"attraction, trip	1
+new" science-related terms	1
+probability threshold	1
+travel topic	1
+reasonably high probabilities	1
+fairly complicated topics	1
+underlying topic	1
+computation problem	1
+text data C	1
+exact topics	1
+heuristic program	1
+  generative model	1
+principle way	1
+statistical modeling	1
+text mining problems	1
+actual data	1
+particular model	1
+capital lambda	1
+tax mining problem	1
+precisely topic mining problem	1
+following parameters	1
+N sets	1
+pi values	1
+coverage numbers	1
+N * K parameters	1
+K theta_i	1
+exactly how many parameters	1
+dimensional variable	1
+actually the outcome	1
+specific parameter values	1
+discovered knowledge	1
+different knowledge	1
+complicated topic	1
+subtle variations	1
+second constraint	1
+likely parameter values	1
+particular data set	1
+lecture organ	1
+basic questions	1
+general technique	1
+texture objects	1
+similar texture objects	1
+denote objects	1
+natural groups	1
+2 dimensional space	1
+different clusters	1
+defined clustering problem	1
+Physical properties	1
+transportation tool	1
+group objects	1
+1st slide	1
+different clustering results	1
+texts segments	1
+large text objects	1
+text segments	1
+interesting clusters	1
+flexible way	1
+sophisticated mining	1
+fairly large text law	1
+multiple documents	1
+particularly exploratory text analysis	1
+typical scenario	1
+overall content	1
+typical or representative document	1
+similar text objects	1
+duplicated documents	1
+complete coverage	1
+additional discrimination	1
+texture classification	1
+general many applications	1
+cluster search results	1
+overall structure	1
+Becausw clusters	1
+different senses	1
+major clusters	1
+mod retrieval	1
+BM twenty five retrieval function	1
+affective space model	1
+big class	1
+P L two function	1
+relevance status values	1
+voiced non	1
+user type thing	1
+D wines	1
+particular T	1
+estimated power penalty	1
+case size	1
+probabilistically retrieval model	1
+material model	1
+answering queries	1
+particular case	1
+imaginary realm	1
+dick table	1
+specific training function	1
+imagine relevant document	1
+query ann	1
+intelligent information retrieval systems	1
+specialized and customized search engines	1
+current general search engines	1
+common information need	1
+lifetime learning	1
+lifelong learning	1
+multi modes	1
+multi mode	1
+user tasks	1
+shopping site	1
+following a few slides	1
+especially intended information system	1
+support search	1
+UIUC employees	1
+organization documents	1
+new relevant documents	1
+automatically generating related work section	1
+blog articles	1
+data mining capabilities	1
+Compare products	1
+compare sentiment	1
+detailed response	1
+intelligent information system	1
+basic search function	1
+advanced function	1
+user modeling	1
+Google's recent initiative	1
+Recommender systems	1
+Intelligent Information systems	1
+intelligent and interactive task support	1
+intelligent way	1
+efficient way	1
+user's overall effort	1
+mutual function	1
+small thing	1
+TF IDF weighting and thence normalization	1
+matching query terms	1
+engin becaus	1
+magical query	1
+piece obscene	1
+S major probability	1
+TF way	1
+precisely what idea	1
+log logarithm	1
+related documents	1
+document lands	1
+particular offers	1
+document land length	1
+mosey becaus	1
+office update	1
+specifically smoothing methods	1
+TF IDF weighting and documents normalization formulas	1
+heuristic lee	1
+lower note	1
+fixed reform	1
+collecting language model	1
+cruel power	1
+match query times	1
+maximum micro S maiden	1
+ranking implementation	1
+a<br> search engine	1
+big raw text data	1
+text access - pull	1
+relatively stable information need	1
+useless articles	1
+user's interest	1
+delivery decision	1
+accepted document	1
+users input	1
+typical users information	1
+long term feedback	1
+user utility function	1
+bad items	1
+bad articles	1
+possible coefficients	1
+system's threshold decision	1
+Text document and profile description	1
+limited relevance judgments	1
+delivered documents	1
+profile text	1
+profile vector	1
+threshold module	1
+memory based approach becaus	1
+old subjects	1
+predicted rating	1
+app object user	1
+normalized the ratings	1
+ratings weather	1
+user use	1
+basically the normalized rating	1
+collaborative filtering approach	1
+predictor ratings	1
+systems predictions	1
+weight W and specific approaches	1
+pearson correlation coefficient	1
+common rated items	1
+standard a pearson correlation coefficient formula	1
+tax documents	1
+content ann	1
+monster approaches	1
+pre memory prediction	1
+predictor values	1
+text research	1
+d1 d2 d3	1
+4 pages	1
+non zero entries	1
+2 columns	1
+M sub	1
+visiting page d	1
+Page d	1
+subscript index t	1
+1 minus alpha	1
+possible N pages	1
+sub t	1
+j page	1
+different matrix	1
+precisely N variables	1
+N variables	1
+item vector	1
+smoothing transition matrix uniform transition matrix	1
+Pagerank algorithm	1
+matrix model multiplication	1
+just, individual equations	1
+particular pages	1
+1 / N.	1
+1 /4	1
+page specific damping factor	1
+specific Pagerank	1
+Pagerank query	1
+topic specific Pagerank	1
+specialized Pagerank score	1
+generic Pagerank score	1
+Google file system	1
+parallel computation	1
+simple centralized management mechanism	1
+GFS master	1
+GFS client	1
+fixed size	1
+64 MB	1
+large data processing	1
+high level operators	1
+data transfers	1
+nice feature	1
+built-in fault tolerance	1
+different  key	1
+Map function	1
+associated values	1
+IDF weiging	1
+""Hello World	1
+"Bye World	1
+different Map functions	1
+multiple pairs	1
+partial accounts	1
+specific frequency counts	1
+word count example	1
+document D2	1
+"a key	1
+the" documents	1
+Procedure Map	1
+procedure Reduce	1
+old accounts	1
+simple MapReduce function	1
+GFS and MapReduce frameworks	1
+Mean Average Precision	1
+average gMAP map	1
+large menu value	1
+high average precision	1
+lower values	1
+particular popular queries	1
+user's tasks	1
+Amazon home page	1
+Mean Reciprocal Rank	1
+presumably 100 documents	1
+larger R	1
+Precision recall curve	1
+ranking list	1
+relevant the document	1
+little label data	1
+system dear	1
+users interests	1
+tradeoff becaus	1
+non relevant information	1
+true optimal thresh code	1
+particular protein	1
+better gamma threshold	1
+rent list	1
+optimal point theater	1
+thrash code	1
+zero threshold O utilities rush code	1
+thresh code	1
+thresholding mechanism	1
+formula game isaac	1
+dynamical strategy	1
+approach obvious approach	1
+exploration exploitation	1
+O utility threshold point	1
+safe square root	1
+collaborative filtering income hand	1
+basically filtering system	1
+filtering decisioning	1
+system character	1
+Discriminative classifiers	1
+popular classification method	1
+public categories	1
+feature vector X	1
+0 value	1
+decision boundary	1
+different signs	1
+particular point	1
+linear classifier	1
+vector beta	1
+different coefficient	1
+different line	1
+bad lines	1
+multiple lines	1
+classification error	1
+daughter lines	1
+closest points	1
+vector form	1
+W vector	1
+similarly the data instance	1
+center separate line	1
+support vector machines	1
+linear osfm	1
+simple optimization problem	1
+training points	1
+corresponding label	1
+instance XI	1
+classify value	1
+different class	1
+different instances	1
+classifier value	1
+convenient way	1
+second goal	1
+largest margin	1
+W transpose	1
+quadratic function	1
+defined the classifier	1
+new texture objects	1
+previous formulation	1
+soft margin	1
+completely separate bowl	1
+extra variables	1
+data instance	1
+original constraint	1
+original object function	1
+non 0 value	1
+positive value	1
+, very large value	1
+secondary role	1
+generalization capacity	1
+parameter C	1
+nearest neighbor way	1
+new objects	1
+text categorisation methods	1
+discriminative methods	1
+clear winner	1
+different problems	1
+Ann One reason	1
+effective feature representation	1
+new machine learning methods	1
+common scene	1
+different mistakes	1
+multiple methods	1
+symbol approaches	1
+different objects	1
+general rule	1
+specific classifiers	1
+specific classifier	1
+general thing	1
+design features	1
+confusion matrix	1
+specific instances	1
+design new features	1
+specific problem	1
+useful features	1
+dimension reduction	1
+high dimensional feature space	1
+lower dimensional space	1
+Typical biclustering	1
+metrics factorization	1
+original feature representation	1
+topic space representation	1
+justice K values	1
+K dimensional space	1
+original high dimensional space	1
+factor features	1
+low dimensional structures	1
+original word features	1
+latent dimension features	1
+low dimensional space features	1
+multiresolution representation	1
+Deep learning	1
+new technique	1
+different learning	1
+deep neural network	1
+intermediate features	1
+highly non linear classifier	1
+reason advance	1
+complex network	1
+important advantage	1
+intermediate representations	1
+compound features	1
+effective representation	1
+text localization	1
+Texas domain	1
+excellent representation	1
+new representation	1
+new words	1
+new World	1
+text processing	1
+aren't corresponding wedding design	1
+complicated tasks	1
+low quality training examples	1
+pseudo training examples	1
+sentiment categorizer	1
+categorize reviews	1
+positive training examples	1
+rain example	1
+high quality	1
+unable data	1
+semi supervised machine	1
+unable text data	1
+useful words	1
+unlabeled text documents	1
+high confidence classification results	1
+category ones	1
+label examples	1
+true training examples	1
+categorization method	1
+enable data and training data	1
+advanced machine	1
+domain adaptation	1
+transfer learning	1
+related problem	1
+training domain	1
+related training data	1
+training categorisation	1
+immediately effective classifier	1
+applied math	1
+Mortal Council	1
+stochastic system	1
+basically a sample	1
+Sports News	1
+previous matching	1
+N-1 parameters	1
+general words	1
+little computer	1
+  N parameters	1
+simple words	1
+Well, maybe text	1
+maybe mining	1
+general, high probability words	1
+attacks paper text mining paper	1
+folder nutrition paper	1
+given distribution	1
+text reminding payroll	1
+total 100 words	1
+particular text data	1
+Normalized frequency	1
+ovbserved words	1
+particular observer text data	1
+second thought	1
+query likelihood retrieval model model	1
+general English background text	1
+maximum microarrays	1
+computer science	1
+computer software	1
+General English	1
+text mining Association clustering	1
+Relatively higher probabilities	1
+different attacks	1
+collection language model	1
+langage model	1
+water associations	1
+threshold learning	1
+censored data	1
+general very little labeled data	1
+users' interests	1
+non-relevant information	1
+  score threshold	1
+true optimal threshold	1
+better gamma threshold learning	1
+optimal point theta	1
+zero threshold	1
+interest space	1
+optimal utility threshold	1
+  gamma	1
+dynamic strategy	1
+exploration- exploitation tradeoff	1
+zero utility threshold point	1
+exploration and exploitation tradeoff	1
+safe strategy	1
+content-based filtering system	1
+query q	1
+f sub d	1
+f sub	1
+aggregate functioning	1
+match query term	1
+h function	1
+entry dj	1
+particular document dj	1
+function g.	1
+raw TF	1
+  normalization	1
+document d1	1
+inverted index entries	1
+score accumulator d2	1
+d2 score	1
+promising score accumulators	1
+fewer documents	1
+stored results	1
+promising accumulators	1
+highest value accumulators	1
+popular toolkits	1
+useful tool kit	1
+basic search algorithms	1
+primary data structure	1
+faster response	1
+classic textbook	1
+newer textbook	1
+query likelihood probabilistic retrieval model	1
+second query word	1
+Maybe a different question	1
+derive retrieval function	1
+et cetera	1
+  likelihood	1
+independent assumptions	1
+likelihood retrieval function	1
+N query words	1
+different estimation methods	1
+different  ranking function	1
+topic mining problem	1
+vocabulary V	1
+pi ij	1
+text clustering problem	1
+general document	1
+topic definition	1
+detailed coverage distributions pi ij	1
+cluster assignment decisions	1
+document i.	1
+c sub	1
+document Di	1
+precisely one document	1
+fewer topics	1
+share k topics	1
+precisely the document clustering problem	1
+probabilistic generating model	1
+main requirement	1
+K components	1
+multiple distributions	1
+precisely one distribution	1
+alternative mixture model	1
+K word distributions	1
+entire document	1
+potential different decision	1
+key difference	1
+different distribution	1
+cluster identity	1
+document clustering model	1
+Multiple distribution	1
+particular data point	1
+simplified situation	1
+X sub i.	1
+based filtering	1
+predictor use preferences	1
+interesting information retrieval researcher	1
+probably all failures	1
+collaborative filtering work	1
+cigar papers	1
+user preference	1
+rated those movies	1
+general smalls	1
+likely whole probabilistic retrieval model	1
+holder retrieval function	1
+token net basis	1
+query ward	1
+second query ward	1
+maybe a different question	1
+deriver retrieval function	1
+query water	1
+query world	1
+view query word	1
+retrieval right	1
+model walk	1
+examples documents	1
+presidential times web scene campaign	1
+zero property	1
+automatic update	1
+query warden	1
+reasonable becaus	1
+example drive	1
+independence assumptions	1
+boats documents	1
+scoring function ranking function	1
+probability error	1
+query mike code	1
+signal line	1
+flow problem	1
+sum value	1
+query becaus	1
+end words	1
+query award	1
+estimation methods	1
+different noise estimate	1
+Dow Jones industrial average and stock price curves	1
+stock market crash	1
+sudden rise	1
+presidential prediction market	1
+candi date	1
+social science study	1
+tax cut	1
+companion text stream	1
+standard talking models	1
+strong correlations	1
+""causal" "topics	1
+true causal relationship	1
+regular topics	1
+texts semantically coherent topics	1
+regular topic model	1
+CPLSA or contextual PLSA	1
+coverage overtime	1
+strongest correlation	1
+light role	1
+causal perspective	1
+work site	1
+better approach	1
+Iterative causal topic model	1
+iterative adjustment	1
+regular topic	1
+simple approaches	1
+best topics	1
+word level	1
+ranked word list	1
+different correlations	1
+red words	1
+positive correlation	1
+W1and W3	1
+negatively correlated words W2	1
+correlation analysis	1
+original topic topic	1
+time series information	1
+mixed words	1
+coherent semantically	1
+correlated topics	1
+highly correlated topics	1
+component words	1
+word level correlation	1
+correlated subtopics	1
+topic model discovery	1
+heuristic way	1
+ultimate goal	1
+pure topic models	1
+causality test	1
+correlation measure	1
+causal topic	1
+alternate way	1
+topic model words	1
+causal dimension	1
+causal scoring	1
+selected words	1
+little bit discussion	1
+topic overtime	1
+given a time series	1
+external information	1
+non text time series	1
+  Yt	1
+causality relation	1
+somewhat past data	1
+correlation measures	1
+auto regressive model	1
+statistically significant difference	1
+causal influence	1
+cited reference	1
+frequently used measure	1
+time series bias	1
+news event	1
+underlined words	1
+computer technology	1
+Internet, com	1
+true causal relations	1
+presidential election Time series	1
+prediction market	1
+2000 presidential campaign election	1
+3 words	1
+insignificant topics	1
+candidate names	1
+previous experiment	1
+tax cut, oil, energy, abortion and gun control	1
+political science	1
+iterative topic	1
+time series feedback	1
+Text based prediction	1
+new knowledge	1
+widespread applications	1
+Text data	1
+prediction purpose	1
+non text	1
+new papers	1
+estimated language model	1
+background topic model	1
+specific word	1
+Theta sub D	1
+the" distribution	1
+similarly the second	1
+particular word distribution	1
+observing text	1
+complicated mixture model	1
+Sorry, more complicated model	1
+generation model	1
+mathematically, this model	1
+following generative model	1
+simple w	1
+inside sum	1
+Theta sub D. Second	1
+general description	1
+Theta sub D.	1
+Theta sub B. Note	1
+previous model	1
+1 document	1
+Specifically, Theta sub D	1
+sub B	1
+model index	1
+mixed model	1
+particular component distribution	1
+different unique words	1
+convenient form	1
+feedback impacts retrieval	1
+relevant judgment	1
+automatic feedback	1
+N results	1
+relavance feedback	1
+Relevance feedback	1
+top-ranked documents	1
+click clues	1
+explicit effort	1
+define text	1
+related task database retrieval	1
+clashing off text documents	1
+audio video	1
+current images search engines	1
+search technology industry	1
+elevated system	1
+intex retrieval	1
+free tax	1
+clear defined schema	1
+text becaus	1
+natural language processing lab	1
+defined think	1
+semantics keyword queries	1
+Q sub	1
+twitter search write tweets	1
+general documents	1
+Q becaus	1
+best search system	1
+Q approximation	1
+weather document	1
+set becaus	1
+relevant relative relevance	1
+exactly weather document	1
+selection function	1
+unlikely accurate whi becaus	1
+random documents becaus	1
+overly constrained query	1
+watt vocabularies	1
+equally relevant relevance	1
+important becaus	1
+ranking strategy becaus	1
+user 's question	1
+collective redness	1
+documents sequencer	1
+ramp list	1
+dimensional interface	1
+sequential browsing	1
+research work information retrieval	1
+following first text retrieval	1
+second document ranking	1
+classical paper	1
+research information	1
+classical IR book	1
+main researcher results	1
+useful algorithms	1
+familiar scenario	1
+d update	1
+maximum likelihood  estimator	1
+Unknown topic word distribution	1
+blue words	1
+word distribution theta	1
+longer mixture model	1
+Single word distribution problem	1
+theta d pseudo document	1
+w sub	1
+tentative probabilities	1
+sub D.	1
+inference process	1
+typical Bayesian inference situation	1
+flipping a coin	1
+high the probability	1
+bayes formula	1
+solid and principled way	1
+selection probability	1
+generating text	1
+similar form	1
+latent variable Z	1
+background theta	1
+theta sub b.	1
+initialized parameter values	1
+complete specification	1
+Text Retrieval system	1
+Walker feedback	1
+2 dimensional display	1
+positive vectors	1
+relevant locking vectors	1
+movie vector	1
+average non relevant document vectors	1
+alpha beta	1
+newer query vector	1
+non relevant centroid vector	1
+relevant the documents	1
+A  lot	1
+Rocchio method	1
+centroid vectors	1
+average right	1
+Rocchio Feedback Method	1
+original period	1
+  weight	1
+positive centroid weight	1
+negative centroid	1
+efficiency concern	1
+consistent direction	1
+negative feedback factor	1
+pretty high weight	1
+root Rocchio	1
+major application problem	1
+scalability challenge	1
+ensure completeness	1
+Web pages	1
+Googles's imagine	1
+basic search engine technology	1
+second component	1
+toy crawler	1
+seed pages	1
+crawling requests	1
+PDF files	1
+discover hidden urls	1
+major crawling strategies	1
+common becauses	1
+parallel crawling	1
+crawling task	1
+interesting variation	1
+focused crawling	1
+incremental crawling	1
+repeated crawling	1
+updated pages	1
+frequently accessed page	1
+particularly scalability	1
+particularly rich link information	1
+complete crowding	1
+general search engine	1
+needed fresh information	1
+Contextual text mining	1
+multiple kinds	1
+sophisticated predictors	1
+rich context information	1
+indirect context	1
+Indirect text context	1
+author's age	1
+context data	1
+text context	1
+arbitrary ways	1
+interesting comparative analysis	1
+discovery topics	1
+different venues	1
+conference venues	1
+separate unit	1
+paper ID	1
+KDD papers	1
+ACL papers	1
+complicated partitions	1
+increasing attention	1
+data mining research	1
+different regions	1
+broad analysis question	1
+common research interests	1
+sudden changes	1
+2012 presidential campaign	1
+basically contextual text mining	1
+ranking problem different methods	1
+angee implementation	1
+positive cause	1
+important application	1
+big raw test data	1
+user order	1
+relatively stable information data	1
+deliberate decision	1
+accepted documents	1
+redmond item	1
+absolutely relevance	1
+data items	1
+better articles	1
+obvious now interesting question	1
+systems threshold decision	1
+encourages system	1
+big los	1
+text text document	1
+profile description	1
+relevance judgments becaus	1
+delivery documents	1
+search engines becaus	1
+etc measure similarity	1
+profile text description	1
+filter indecision	1
+fact space model	1
+content word	1
+retrieval heuristics	1
+raw frequency count	1
+raw frequency	1
+rare terms	1
+IDF term	1
+important this word	1
+non zero counts	1
+mapping function	1
+flat line	1
+frequent word	1
+expected overlap account approach	1
+interesting transformations	1
+high frequency counts	1
+sub linear curve	1
+interesting transformation	1
+* X	1
+strict constraint	1
+01 vector	1
+effective transformation function	1
+frequently frequent term	1
+the  IDF weighting	1
+IDF measure	1
+IDF function	1
+lower K	1
+rarest term	1
+lowest value	1
+low value	1
+context vectors	1
+original data set	1
+collected context documents	1
+reasonable way	1
+BM25 retrieval model	1
+paradigmatic relation mining	1
+normalized BM 25 values	1
+normalization function	1
+old definition	1
+context document	1
+BM 25 transformation	1
+sub linear normalization	1
+non negetive number	1
+1 parameter	1
+  length normalization	1
+normalizing formula	1
+given collection	1
+stabilized interpretation	1
+length formalization	1
+parameter B.	1
+vector D2	1
+somewhat lower weights	1
+Xi and Yi probabilities	1
+normalized weight	1
+highest weighted terms	1
+lower IDFs	1
+highly weighted terms	1
+joint manner	1
+  paradigmatic relations	1
+corresponding context documents	1
+highly similar word pairs	1
+text retrieval models	1
+effective similarity function	1
+the  BM25 and IDF weighting	1
+5 results	1
+100% precision	1
+2 out of 10 Whereas System B	1
+relevant retrieved documents	1
+A&C. sum	1
+ideal result	1
+single nonrelevant document	1
+little combine precision	1
+F1 encodes	1
+1 solution	1
+strong syntagmatic relations	1
+particular, mutual information	1
+specifically the question	1
+X. Normally	1
+interesting properties	1
+possibly reduced conditional entropy	1
+second property	1
+syntagmatic relation mining	1
+syntactic relation mining	1
+mutual information question	1
+higher mutual information	1
+high mutual information	1
+lower mutual information	1
+major information	1
+Similarly knowing eats	1
+mutual info	1
+callback labeler divergance	1
+2 joint distributions	1
+expected joint distribution	1
+actual joint distribution	1
+expected distribution	1
+larger this divergence	1
+2 probabilities	1
+joint probabilities	1
+possible scenarios	1
+marginal probabilities	1
+exactly the probability	1
+weather second word	1
+signal word	1
+second scenario	1
+seond word	1
+absence probability	1
+joint distribution	1
+available probability	1
+Co occurrence	1
+specifical ranking function	1
+previous lecture vector space model	1
+simple ways	1
+diviner dimension	1
+RN dimensions	1
+N Y	1
+corresponding world	1
+vector general	1
+large many words	1
+Y N	1
+bit vector recommendation dot product similarity	1
+particular retrieval function	1
+specifically retrieval functioning	1
+sample documents anna sample query	1
+lap gym	1
+news press value	1
+D one D	1
+simplicity vectors	1
+school documents	1
+end dimensions	1
+query note	1
+zero one bit vectors	1
+zeros becaus	1
+distinct query	1
+news presidential campaign	1
+correct becaus	1
+document note	1
+problem becaus	1
+default messaging data	1
+news presidential	1
+better becaus matching presidential	1
+baptist space	1
+particularly the query	1
+end document map	1
+final dimension	1
+zero one bit vector	1
+texture retrieval problem	1
+different cut offs becaus	1
+sequentially flowers	1
+recall well note	1
+additional random	1
+exactly the position	1
+metric called average precision	1
+richard methods	1
+rule number	1
+accurate detail	1
+Y access	1
+point one point	1
+points performer curve	1
+actual curve problem	1
+red system	1
+precision point buy system	1
+searching system	1
+old method	1
+region system bees	1
+lower recall	1
+high position	1
+clearly system bees	1
+precisely users task	1
+record level	1
+irrelevant document	1
+collection note	1
+ranked list note	1
+O scale	1
+easy becaus	1
+noise items	1
+useless documents	1
+useful information users	1
+pool mode	1
+the" "highway	1
+" somewhat different syntactic categories	1
+a" "telescope	1
+Precise deep semantic analysis	1
+a" "sentence	1
+Robust and general NLP	1
+shallow techniques	1
+deeper understanding	1
+deeper natural language analysis techniques	1
+supervised machine	1
+important tasks	1
+general statistical approaches	1
+deeper analysis techniques	1
+Deeper NLP	1
+large scale text mining	1
+Shallow NLP	1
+statistical NLP	1
+document Length normalization	1
+2 example documents	1
+5000 words	1
+penalize long documents	1
+Long documents	1
+matching query words	1
+  pivotal length normalization	1
+average length documents	1
+pivoted length normalization formula	1
+normalized document length	1
+a. Benefits	1
+no  normalization	1
+  value	1
+Length normalization	1
+vector space model ranking functions	1
+art vector space model formulas	1
+pivoted length Normalization vector space model	1
+normalized TF	1
+larger the denominator	1
+smaller TF weighting	1
+effective vector space model formulas	1
+query TF component	1
+word removal	1
+latent concept	1
+language-specific and domain-specific tokenization	1
+segmenting Text	1
+3 characters	1
+Euclidean distance measure	1
+line work	1
+Title Field	1
+appropriate weights	1
+fresh first occurrences	1
+scoring structure documents	1
+BM25 and pivoted normalization	1
+special weighting function	1
+pivoted length normalization	1
+3rd paper	1
+Particularly BM25F.	1
+general smoothing... sorry, general ranking function	1
+specific smoothing method	1
+alpha sub D	1
+precisely a vector space model	1
+non-negative  log	1
+explicit assumptions	1
+Dirichlet Prior Smoothing	1
+Mu words	1
+matched query words	1
+query term frequency	1
+interesting open question	1
+fixed coefficient linear interpolation	1
+Experiment results	1
+query likelihood problems	1
+Dirichlet smoothing	1
+basic model	1
+opinion mining or sentiment analysis	1
+limited view	1
+sophisticated patterns	1
+this data mining loop	1
+multiple sensors	1
+important real world variables	1
+non text and text data	1
+multiple predictors	1
+general process	1
+general human	1
+predictive model building	1
+predictive values	1
+data mining loop	1
+new data	1
+prediction accuracy	1
+active learning	1
+data acquisition	1
+data analysis	1
+prediction errors	1
+big data	1
+text mining techniques	1
+text mining perspective	1
+human behavior	1
+human preferences	1
+general text data	1
+topic based indicators	1
+intermediate representation	1
+high level features	1
+better representation	1
+data mining or text mining algorithms	1
+enriched features	1
+text based prediction character	1
+unified framework	1
+text mining and analysis techniques	1
+content mining techniques	1
+sub tasks	1
+sub task	1
+join analysis	1
+2 perspectives	1
+non text data mining	1
+frequent patterns	1
+Qiaozhu Mei dissertation	1
+contextual text mining techniques	1
+category A document	1
+following conditions	1
+clear rules	1
+surface features	1
+superficial features	1
+special vocabulary	1
+sufficient knowledge	1
+categorization problems	1
+different problem	1
+becauses different rules	1
+category labels	1
+basic features	1
+common choice	1
+policy feature tags	1
+game sports	1
+multiple evidences	1
+learning process	1
+train classifier	1
+new text object	1
+likely category	1
+general setting	1
+supervised learning	1
+right category	1
+general goal	1
+supervised learning problems	1
+future access	1
+weighted matter	1
+learning processes optimization problem	1
+Different methods	1
+different object function	1
+loss function	1
+cost function	1
+non linear combination	1
+nonlinear models	1
+learning methods	1
+model distribution	1
+particular label	1
+label distribution	1
+important thing	1
+separate categories	1
+vector machines	1
+Ad hoc information	1
+hoc information	1
+relevant items	1
+Typical keyword query	1
+relevant page	1
+good spot	1
+sophisticated intelligent information system	1
+information filtering and information retrieval	1
+general data mining	1
+(the) real world	1
+real world problems	1
+general picture	1
+text mining analytics	1
+human observer	1
+Different people	1
+different things	1
+observable world	1
+entity relation graphs	1
+knowledge representation language	1
+different language	1
+mixed languages	1
+different languages	1
+mining problems	1
+""Observed" "World	1
+particular entity	1
+mining content	1
+person's mind	1
+observed the world	1
+objective way	1
+factual descriptions	1
+subjective comments	1
+predictive analytics	1
+certain interesting variables	1
+multiple types	1
+intermediate results	1
+mining tasks	1
+text data and mining knowledge	1
+general, non-text data	1
+prediction tasks	1
+Stock prices	1
+historical stock price data	1
+useful context information	1
+interesting comparison scenarios	1
+context sensitive analysis	1
+language usage	1
+fairly general landscape	1
+useful lexical knowledge	1
+useful way	1
+mining knowledge	1
+text based prediction problems	1
+real world variable	1
+road map	1
+simple same instantiations	1
+3 unique query words	1
+queries vector and document vector	1
+simplest VSM	1
+001 vector	1
+document factor	1
+/ K	1
+low DF word	1
+turning point	1
+Low DF words	1
+empirical created dataset	1
+IDF  value	1
+D2 becauses	1
+obvious documents	1
+new scores	1
+4 documents	1
+open research questions	1
+specific method	1
+Q M D	1
+parizer parameter	1
+waiting parameter	1
+highway tan	1
+function character	1
+data values	1
+topic sensitive page brand	1
+P M twenty five score	1
+particular top document query pair	1
+simplified case	1
+small becaus	1
+quick question	1
+best file	1
+ranking scope	1
+topic syntax	1
+additional predictors	1
+key high-level takeaway messages	1
+text applications	1
+better text representation	1
+accurate knowledge discovery	1
+deeper knowledge	1
+current state	1
+robust text mining technologies	1
+word representation	1
+word based representations	1
+statistical techniques	1
+statistical learning techniques	1
+Word Association Mining	1
+important points	1
+basic plan complementary relations	1
+paradigmatic and syntagmatic relations	1
+general relations	1
+text similarity	1
+co- occurrence analysis	1
+information theory concepts	1
+important concept	1
+basic topic model PLSA	1
+theoretically more appealing model	1
+general concepts	1
+text mining application systems	1
+practical, useful technique	1
+particularly logistical regression K nearest neighbor	1
+specific measures	1
+sentiment classification problem	1
+text categorisation method	1
+ordinal logistical regression	1
+unsupervised way	1
+text reviews	1
+text data analysis	1
+contextual PLSA	1
+generalized model	1
+interesting topical patterns	1
+net PLSA	1
+series data	1
+potentially causal topics	1
+important direction	1
+practical text mining systems	1
+understanding and interpreting patterns	1
+key takeaway messages	1
+good basis	1
+Frontier Research papers	1
+short period	1
+basic principles	1
+practical, useful algorithms	1
+second area	1
+statistical machine learning	1
+backbone techniques	1
+text analysis applications	1
+supervised machine learning	1
+advanced NLP techniques	1
+particularly interesting area	1
+Deep Learning	1
+application areas	1
+vector representations	1
+promising technique	1
+practical use	1
+current technologies	1
+practical value	1
+word similarity	1
+based evaluation	1
+Statistical learning	1
+predictive modeling	1
+predictive modeling component	1
+categorization techniques	1
+general data mining algorithms	1
+general data	1
+data mining techniques	1
+pattern discovery	1
+interesting features	1
+information network mining techniques	1
+text information network	1
+effective text analysis techniques	1
+text retrieval information retrieval	1
+practical text data application systems	1
+essential system component	1
+best position	1
+big text data applications	1
+data size	1
+small collection	1
+original text	1
+Moreover, some techniques	1
+vector space and language models	1
+indexing technique	1
+quick response	1
+efficient text mining systems	1
+big text data application system	1
+knowledge prominence	1
+companion course	1
+text application system	1
+complete set	1
+practical skills	1
+application opportunities	1
+research community	1
+rating analysis	1
+detailed analysis	1
+First, motivation	1
+reviewers opinions	1
+valuable rooms	1
+weight distribution	1
+cheaper prices	1
+review articles	1
+major aspects comment	1
+relative weights	1
+aspect level opinion summary	1
+reviewers preferences	1
+press basic introduction	1
+overall reading	1
+room conditioning	1
+aspect segments	1
+C supply	1
+correlated words	1
+segmentation stage	1
+latent rating regression	1
+second stage	1
+observed word frequencies	1
+observed information	1
+typical case	1
+interesting variables	1
+generation probability	1
+rs, alpha i.	1
+observed rating	1
+decomposer ratings	1
+sub ID	1
+bi product	1
+beta vector	1
+specifica sentiment	1
+R sub D	1
+C sub W	1
+aspect segment	1
+R sub T	1
+actual reading	1
+alpha Values	1
+document specific weights	1
+multivariate Gaussian distribution	1
+mule vector	1
+covariance matrix	1
+Gaussian prior distribution	1
+alpha values	1
+different segment	1
+positive sentiment	1
+negative sentiment	1
+aspect specific sentiment	1
+Observer ratings condition	1
+respective reviews	1
+useful variables	1
+abstract rating	1
+sentiment weight	1
+04 words	1
+2 computer	1
+alpha value	1
+assumed market	1
+Gaussian distribution	1
+observed overall rating	1
+particular Alpha value	1
+high relative documents	1
+moderately relevant documents	1
+Average precision	1
+reading levels	1
+nDCG(Normalized Discounted Cumulative Gain	1
+non random document	1
+moderately relevant or marginal relevant documents	1
+total gain	1
+Cumulative gain	1
+highly relevant document	1
+marginally relevant document	1
+lower rank document	1
+Overall these 10 documents	1
+normalizer DCG	1
+actual DCG	1
+best DCG	1
+ideal list	1
+9 highly relevant documents	1
+highest DCG	1
+lower ranked document	1
+problems models	1
+water sequences	1
+zero zero	1
+visualizer hands	1
+basically a sample observer	1
+wizzy john	1
+possible habit	1
+categorisation and information retrieval	1
+sports news	1
+previous raptor	1
+simplified model	1
+precisely N parameters	1
+minus one primers	1
+high probability awards	1
+maybe another war	1
+general high probability	1
+text paper text mind	1
+non zero public	1
+signal topic	1
+text mining distribution	1
+key point distribution	1
+particular a document	1
+best gas	1
+total one hundred words	1
+maximum likelihood basement	1
+particular task data	1
+normalized frequency	1
+observer ward	1
+particular observer text	1
+general english background text	1
+maximum micro arrays matter	1
+computer science computer software attacks	1
+general image	1
+text mining association	1
+different the text	1
+damage model	1
+conditional probability overseeing award	1
+relatively higher probabilities	1
+rediscovered associations	1
+standard IR models	1
+traditional library search	1
+navigational queries	1
+large scale implicit feedback information	1
+additional scoring	1
+description text	1
+Amazon entry page	1
+second case hub page	1
+extra text	1
+Google's Pagerank	1
+link counting	1
+indirect citations	1
+indirected citation	1
+indirect links	1
+non zero pseudo citation count	1
+Linear algebra technique	1
+google fire system	1
+program 's manage files	1
+parallel computation paducah	1
+simple centralized management	1
+filename space	1
+specifica locations	1
+GF 's kind	1
+fire zone machines	1
+fixed sizes	1
+exact rates	1
+data transfer	1
+right map function	1
+mac function	1
+different each different key	1
+right the map function	1
+mapreduce framework	1
+hello word	1
+pseudo code	1
+different functions	1
+programmer specifies	1
+board pairs	1
+partial counts	1
+reduced function	1
+water company example	1
+similarly another document	1
+functions procedure map	1
+simple map	1
+web scaling	1
+mapreduce framework note	1
+mapreduce frameworks	1
+initial idea	1
+simplest solution	1
+candidate topics	1
+pure statistics	1
+representative terms	1
+general terms	1
+functional terms	1
+favor terms	1
+  IDF	1
+domain specific heuristics	1
+denote topics	1
+good candidates	1
+K terms	1
+highest scores	1
+greedy algorithm	1
+maximal marginal relevance ranking	1
+gradually take terms	1
+candidate term	1
+redundancy removal	1
+actual datasets	1
+NBA basketball game	1
+term science	1
+term travel	1
+topic travel	1
+non-zero count	1
+estimated coverage	1
+  basketball	1
+basketball star	1
+main restriction	1
+specialized topic	1
+general problems	1
+symbol general topics	1
+vocabulary coverage	1
+word sense ambiguation	1
+topical term	1
+related term	1
+2 words	1
+similar positions	1
+word Cat	1
+remaining words	1
+imaginary document	1
+context left1 context	1
+cat big cat	1
+context right1	1
+right1 context	1
+strict criteria	1
+adjacent words	1
+non-adjacent words	1
+similarity similarity	1
+general content	1
+loosely related paradigmatic relations	1
+general combination	1
+different similarities	1
+frequency vector	1
+word dog	1
+paradigmatic relations discovery	1
+award vector	1
+randomly picked word	1
+vector d2	1
+  infact	1
+identical words	1
+exact formulas	1
+randomly picked words	1
+  yi	1
+identical  pick	1
+real data	1
+higher score	1
+overall sum	1
+relatively low frequency	1
+strong evidence	1
+advanced learning algorithms	1
+optimizer retrieval measure	1
+new, more advanced approaches	1
+computational advertising	1
+recent use	1
+relevance and machine learning methods	1
+Modern search engines	1
+IR models	1
+different information	1
+traditional library search people	1
+N S member	1
+active people	1
+largest scale implicit affair back information	1
+click throats	1
+additional scoring signals	1
+useful becaus	1
+amazon dot com front page	1
+amazon entry page	1
+english alarm	1
+hub page	1
+google 's page rank	1
+direct citations	1
+directive citation	1
+direct links	1
+pager anger	1
+small citations	1
+non zero zero citation count	1
+linear algebra technique	1
+main takeaway message	1
+current NLP	1
+multiple information access	1
+vector Space Model	1
+main takeaway messages	1
+important ones	1
+sublinear Transformation function	1
+main techniques	1
+Cranefield evaluation methodology	1
+map(mean average precision	1
+Web search	1
+obvious missing piece	1
+current searching interface	1
+excellent book	1
+search interface	1
+basic topics	1
+thorough treatment	1
+long tutorials	1
+multiple serieses	1
+Human language technology	1
+small relevant text data	1
+becausw text data	1
+text mining system	1
+text mining analytics course	1
+found information	1
+natural next step	1
+continual discussion	1
+basically account	1
+score becaus	1
+unique query words	1
+D four becaus	1
+role problems	1
+practice space	1
+V S M	1
+access based model	1
+vector appendage	1
+zero zero one vector	1
+T three R steer	1
+impressed angel	1
+D tool	1
+sensory Y	1
+modding retrieval functions	1
+previous vector	1
+inverse document frequency becaus	1
+corresponding word assume	1
+lower idea	1
+rail words	1
+K wear	1
+collection K	1
+TF or document frequency	1
+low D F word	1
+rare work	1
+popular times	1
+important match	1
+low weights	1
+linear penalization	1
+low D F words	1
+empirically created data	1
+T F weight	1
+newest scores	1
+new problem becaus	1
+highest scope	1
+open research question researchers	1
+urban doors	1
+nonrandom documents	1
+rating levels	1
+non random document user	1
+relevant or marginal relevant document	1
+cumulative day	1
+low gain	1
+highly random document	1
+marginally raring document	1
+lower rear end document	1
+normalized disease	1
+ideal rank list	1
+normalizer TCG	1
+actual dizzy	1
+best DVD	1
+idea list	1
+topics becaus	1
+avoided the problem	1
+judgment ann	1
+lower rank	1
+TF IDF weighting formula	1
+matching query term	1
+term Term	1
+2nd occurrence	1
+accidental matching	1
+term frequency weight	1
+01 bit vector representation	1
+best matching	1
+x / x	1
+negative number	1
+1 interesting property	1
+nice block	1
+computer score	1
+linear TV TF transformation	1
+higher term counts	1
+BM25  transformation	1
+best performing TF transformation formulas	1
+BM 25 TF component	1
+art ranking function	1
+feedback task	1
+documents known vinaigrette	1
+bad news	1
+dimensional display	1
+bakhtaran user similarity function	1
+LA kings	1
+ritual accuracy	1
+query graph	1
+positive factors	1
+relevant document vectors	1
+original query vector anne	1
+awful beta	1
+rock hill feedback	1
+rock hill method	1
+added the corresponding elements	1
+central area	1
+rock hill feedback method	1
+original query term	1
+positive centroid vector way	1
+right so this girls	1
+new vector	1
+right becaus	1
+heist awaits	1
+central factor	1
+programming results	1
+negative negative feedback factor	1
+fitting or drifting topics	1
+prevent talk	1
+pseudorandomness feedback	1
+root rock	1
+information retrieval systems	1
+customized search engines	1
+current general search engines becaus	1
+common implementing need	1
+search users	1
+restricting the domain	1
+multi models	1
+search navigation	1
+surgical support user tasks	1
+code or shopping	1
+technical information system	1
+UI UC employees	1
+organizacion documents	1
+search end drowsy	1
+search browsing	1
+new randomly documents	1
+related work section	1
+mining capabilities	1
+detail response	1
+activity days	1
+invented information system	1
+search function	1
+mission documents	1
+advanced functions	1
+user 's task environment task	1
+context other information	1
+personal ization	1
+user model	1
+relations locations	1
+google 's reason	1
+larger scale	1
+support information access	1
+information recommender systems	1
+port lights	1
+furthermore the knowledge	1
+decisionmaking task	1
+vanity information systems	1
+combined the intelligence	1
+impending way inefficient way	1
+overall effort	1
+text retrieval web search engines	1
+AC unit	1
+application problem	1
+low quality information	1
+web search web pages	1
+particular googles	1
+map reduce	1
+spam detection	1
+basic search engine technologies	1
+hookah taxes	1
+user inverted index	1
+toy roller	1
+hidden urls	1
+major crowding strategies	1
+general breakfast	1
+common becauses natural advantages	1
+crowding task	1
+update pages	1
+opa research question	1
+fresh compare	1
+frequently access page	1
+complete crawling	1
+general search	1
+crowd data	1
+fresh information	1
+different a ranking function	1
+presidential library	1
+different vector D2	1
+vector space representation	1
+N terms	1
+N dimensional space	1
+N elements	1
+old idea	1
+challenging problem	1
+exact utility	1
+accurate the other search results	1
+obviously interfaces	1
+effectiveness and accuracy measures	1
+search engines quality	1
+Big Data Challenge	1
+sample collection	1
+retrieval algorithms	1
+tested connection	1
+two, Q1	1
+A's approximation	1
+R sub B	1
+system B's approximation	1
+both  results	1
+segment category	1
+new document	1
+future document	1
+"local  overfitting	1
+good local maximum	1
+global maximum	1
+necessary problem	1
+special distribution	1
+Bayesian version	1
+free launch	1
+local Maxima problem	1
+elegant way	1
+topic modeling problem	1
+brief idea	1
+2 Dirichlet distributions	1
+The  vectors	1
+certain choices	1
+relatively uniform distribution	1
+skewed coverage	1
+K parameters	1
+k values	1
+close connection	1
+Likelihood function	1
+LDA formulas	1
+similar things	1
+multiple word distributions	1
+core assumption	1
+PLSA component	1
+possible pi	1
+the  govern	1
+exactly the same approach maximum likelihood estimator	1
+likelihood functions	1
+posterior inference	1
+different toolkits	1
+different extensions	1
+general principal way	1
+best basis test setup	1
+tax data	1
+output proportions	1
+theoretically more appealing models	1
+similar performance	1
+nice review	1
+2nd paper	1
+empirical comparison	1
+text cluster	1
+perspective or clustering bias	1
+direct evaluation	1
+directl valuation	1
+ideal clusters	1
+multiple angles	1
+performance figures	1
+general procedure	1
+test set	1
+ideal clustering result	1
+best clustering results	1
+human generated results	1
+gold standard clusters	1
+cluster clustering result	1
+system-generated results	1
+cluster labels	1
+normalized mutual information	1
+evaluation purpose	1
+possible measure	1
+2nd way	1
+intended applications	1
+application specific question	1
+different clustering method	1
+better idea	1
+clustering algorithm	1
+performance measure	1
+explicit assessment	1
+useful unsupervised general text mining technique	1
+interesting clustering structures	1
+Model based approaches	1
+strong clusters	1
+desired clustering bias	1
+right generative model	1
+model design	1
+right similarity function	1
+classroom methods	1
+unsupervised algorithm	1
+best number	1
+implied application	1
+100 clusters	1
+interface design	1
+good number	1
+right number	1
+finally, evaluation	1
+good sense	1
+example sentence	1
+ASCII symbols	1
+frequent character	1
+English text	1
+little bit more natural language processing	1
+word segmentation	1
+a, dog	1
+human communication	1
+interesting analysis possibilities	1
+segmenting words	1
+frequent nouns	1
+little bit more interesting opportunities	1
+original word sequence representation	1
+additional way	1
+syntactic structure	1
+grammar mistakes	1
+entity-relation recognition	1
+interesting things	1
+frequent person	1
+useful representation	1
+semantic way	1
+right types	1
+interesting, derived facts	1
+added yet another level	1
+more, even more interesting things	1
+observer order	1
+sophisticated natural language processing techniques	1
+, deeper analysis	1
+deep analysis	1
+arrow points	1
+deeper analysis	1
+direct knowledge	1
+necessary deeper representation	1
+text data analysis text mining	1
+completely accurate representation	1
+accurate analysis	1
+perform feedback	1
+hold method	1
+vertice based model	1
+throw simple query model estimation	1
+care divergent switcher model	1
+care divergens	1
+lambda model	1
+care divergent becaus	1
+KL divergent SOV	1
+number zero probability	1
+match query words	1
+query length	1
+care divergent 's model	1
+KL divergent	1
+inactive sorry mostly positive documents	1
+language model code feedback language model	1
+computing century	1
+generator mixture ball	1
+ranked document	1
+ascentia weight	1
+water frequency	1
+rated words	1
+words words	1
+maximum likely resume	1
+goal becaus	1
+unknown topic model	1
+mixture model becaus	1
+lambda becaus	1
+data becaus	1
+high probability days	1
+parameter lambda	1
+example noise	1
+N parameters	1
+likelihood function dog	1
+uh function	1
+web document collection	1
+beverage alcohol bomb terrorists	1
+general feedback	1
+user interactions	1
+feedback pseudo feedback	1
+damage models	1
+maximum liklihood estimate	1
+new mixture model	1
+hidden variable ZD	1
+value variable	1
+K representing K different distributions	1
+distribution P	1
+E Step	1
+Z sub DJ	1
+K probabilities	1
+initializer values	1
+theater subway	1
+01 second	1
+numerical values	1
+original numerator	1
+average district	1
+Theater Bar	1
+average distribution	1
+average word distribution	1
+overall value	1
+Z probability Z probabilities	1
+E Steps	1
+world probabilities	1
+fractional counts	1
+slight variation	1
+generation assumption	1
+different goals	1
+different patterns	1
+term cluster	1
+single language model	1
+multiple unigram language models	1
+estimated model pamateter	1
+topic capitalization	1
+harder clusters	1
+disjoint clusters	1
+maximum lag	1
+special normalization technique	1
+content based scores	1
+potential many other features	1
+based score	1
+text descriptions	1
+homepage or engine page	1
+potentially more powerful ranking function	1
+robust ranking function	1
+skiped documents	1
+anril documents	1
+human fault	1
+giant data	1
+micro the web	1
+meaning average precision	1
+point four four system V	1
+exact average positions	1
+case system	1
+average system bees	1
+C high variance	1
+cases system	1
+dinner detail	1
+wilcoxon test nonparametric test	1
+allow distribution	1
+there's no difference	1
+likely observation becaus	1
+ninety five percent	1
+random fact eration	1
+statistical signaling task	1
+relevant logins	1
+humor assessors	1
+mini systems	1
+unique document	1
+completely judgments	1
+empirical define	1
+property experiment design	1
+empirical evaluation task	1
+search engine marriage map	1
+mixer results	1
+commercial search engines	1
+IR or text retrieval	1
+broader review	1
+information retrieval evaluation	1
+related task	1
+maybe all the text files	1
+information need	1
+Relevant documents	1
+Current image search engines	1
+search technology	1
+unstructured free text	1
+clear definer schema	1
+texy retrieval	1
+tax retrieval	1
+The. Query	1
+sub ij	1
+Twitter search right tweets	1
+expected relevant documents	1
+search system	1
+Relevant relative relevance	1
+overly constraint query	1
+sufficient discriminating words	1
+rankings strategy	1
+collective relevance	1
+Sequential browse	1
+2 dimensional interface	1
+solid foundation	1
+research work	1
+designing search engine	1
+suggested additional readings	1
+classic paper	1
+research information travel	1
+classic IR book	1
+main research results	1
+depth discussion	1
+simple setup	1
+data or data representation	1
+specific model	1
+particular angle	1
+right parameters	1
+library function	1
+mining algorithm	1
+complicated cases	1
+previous line	1
+count function	1
+useful form	1
+maximum likelihood estimate problem	1
+original likelihood	1
+general topic models	1
+constrained maximization problem	1
+Lagrange multiplier approach	1
+useful approach	1
+additional parameter	1
+constrained optimization	1
+optimal point	1
+necessary condition	1
+partial derivative	1
+negative sum	1
+optimal setting	1
+Theta Sub I.	1
+general result	1
+closed form formula	1
+numerical algorithms	1
+single document D	1
+special method	1
+based method	1
+local term	1
+ID document ID	1
+frequency tables	1
+local a partial inverted index	1
+pairwise merging	1
+stream based repetitions	1
+screen rotation	1
+becaus integers	1
+simple look	1
+document IDS becaus	1
+document IDS tool tools	1
+natural resource	1
+term items	1
+extra batch	1
+blue merge assault	1
+basically window	1
+term IDS	1
+order entries	1
+term ID	1
+leverage skewer distributions	1
+fixed lens encoding	1
+rail values	1
+TF term frequency	1
+adjacent document	1
+security distribution	1
+sequential process	1
+exactly document ID	1
+previous document	1
+current document	1
+binary cold	1
+common user	1
+basically fixed lens	1
+gamma gold	1
+yellow gold	1
+awful spinedace	1
+equal lansing coding	1
+variable lansing calling method	1
+exactly four number	1
+thousand bits	1
+variable length	1
+universe coding	1
+aggressive method	1
+demarco ding	1
+transform form	1
+original X	1
+precisely X	1
+higher flow	1
+unary coder	1
+unary code encodes	1
+bits becaus	1
+level flow	1
+terrible code	1
+comma code	1
+rewarding small integers	1
+short faring small integers	1
+union recording	1
+camera coding	1
+encoded idealist	1
+decode X	1
+X two two ID	1
+Binary Random variable	1
+classic probabilistic model	1
+probabilistic influence	1
+axiomatic thinking	1
+desired constraints	1
+individual word	1
+Function G	1
+short document	1
+Pivoted length normalization	1
+virtually all the search engines	1
+appropriate retrieval model	1
+truly optimal retrieval model	1
+art ranking functions	1
+little regression model	1
+natural solution	1
+latent regression model	1
+Overall rating	1
+overall rating condition	1
+cutting edge topics	1
+reference site	1
+simple results	1
+rating decomposition	1
+aspect level	1
+2nd result	1
+decompose ratings	1
+high level overall ratings	1
+high scores	1
+sentiment waits	1
+highly weighted words	1
+negatively lower weighted words	1
+sentiment information	1
+useful becausw	1
+different the sentiment polarities	1
+rebooting time	1
+product laptop	1
+tag comments	1
+potentially a large	1
+sentiment lexicon	1
+preference weights	1
+different cities	1
+highest inferred value	1
+aspect ratio	1
+location value	1
+highest ratios	1
+lowest ratio	1
+average prices	1
+Indirect way	1
+room condition	1
+higher prices	1
+positive sentence	1
+negative sentences	1
+original review	1
+overall rating and review test	1
+mother results	1
+low ratings	1
+MP3 three reviews	1
+interesting aspects	1
+low overall ratings	1
+high overall ratings	1
+large screens	1
+cell phones	1
+interesting results	1
+users rating behavior	1
+good service	1
+room cleanliness	1
+interesting patterns	1
+different consumer groups	1
+personalized ranking	1
+cheap hotel	1
+value dimension	1
+similar preference	1
+personalized or rather query specific recommendation	1
+non personalized recommendation results	1
+higher price	1
+low Group	1
+low price hotels	1
+task sentiment analysis	1
+standard techniques	1
+enriched feature representation	1
+mining latent user preferences	1
+rating regression	1
+interesting preference information	1
+opinion holders	1
+opinion targets	1
+small books	1
+excellent reviews	1
+problem and techniques proposal	1
+regression model	1
+video recorder	1
+rich and rich opinions	1
+actually unique advantage	1
+great opportunity	1
+people's preferences	1
+analyze opinions	1
+factual statement	1
+key differentiating factor	1
+best battery	1
+nice screen	1
+keyword person	1
+different background	1
+multiple elements	1
+basic understanding	1
+opinion holder's feeling	1
+explicit target	1
+additional understanding	1
+implicit holder	1
+implicit target	1
+Hurricane Sandy	1
+Well, this negative sentiment	1
+New England	1
+deeper natural language processing	1
+Opinion Target	1
+1 entity	1
+particular product	1
+particular policy	1
+persons opinion	1
+sentence opinion	1
+phrase opinion	1
+longer text	1
+emotion dimension	1
+opinion context	1
+simple context	1
+complex text	1
+particular discourse context	1
+entire discourse context	1
+computational perspective	1
+computation perspective	1
+author's opinion	1
+person's opinion	1
+inferred opinions	1
+factual sentences	1
+practical viewpoint	1
+subjective sentences	1
+opinion representations	1
+target content	1
+simplest opinion mining tasks	1
+opinion mining techniques	1
+major reasons	1
+3 broad reasons	1
+reader reviews	1
+new policy	1
+general kind	1
+peoples preferences	1
+product search engine	1
+manual surveys	1
+general opinion	1
+business intelligence	1
+product manufacturers	1
+competitive products	1
+Market research	1
+consumers opinions	1
+Data Driven social science research	1
+public information	1
+prediction task	1
+text based prediction techniques	1
+real documents	1
+biased conclusions	1
+giant dataset	1
+exact average precisions	1
+high variance	1
+3 cases System	1
+random result	1
+Wilcoxon test	1
+null distribution	1
+random observation	1
+likely observation	1
+human assessors	1
+relevamnt documents	1
+unique documents	1
+Human assistance	1
+completely judgment	1
+inappropriate experiment design	1
+wrong conclusions	1
+empirical evaluation tasks	1
+mixed results	1
+the, clicked documents	1
+Commercial search engines	1
+IR or Text retrieval	1
+mini books	1
+tax capture text clustering	1
+general presentation	1
+similar parameters	1
+general notion	1
+distributed generator	1
+unique word	1
+particular position	1
+X sub J	1
+topic model presentation	1
+standard way	1
+class I.	1
+likely cluster	1
+likely a cluster	1
+cluster size	1
+topic choice	1
+potentially different choice	1
+generic choice probability	1
+document dependent probability	1
+key problem	1
+C sub	1
+D highest probability	1
+better way	1
+base formula	1
+following formula	1
+large P	1
+small cluster	1
+metro media content analysis	1
+push pull	1
+multi bold information access	1
+vector space model impacts	1
+heuristics most important ones	1
+TF IDF weighting document length normalization	1
+seven linear transformation function	1
+text retrieval system main	1
+cran field evaluation methodology	1
+search engine map	1
+language modeling approach feedback	1
+linked information	1
+currently generation	1
+obvious listen tastes	1
+X men	1
+little cover	1
+basically topics	1
+search endings	1
+feral treatment	1
+multiple series	1
+human language technology	1
+small relevant the text data	1
+specific application human	1
+becaus text data	1
+essentially text mining system	1
+texture data mining	1
+analytics course	1
+founding formation	1
+cattle retrieval methods	1
+text refillable	1
+challenging problem becaus	1
+attacks retrieval system	1
+signal case	1
+mesh shoes	1
+exactly utility	1
+accuracy measures	1
+quality accuracy	1
+attests attitude	1
+ninety six days	1
+big data challenge	1
+nineteen sixties	1
+test class	1
+sample clashing	1
+ideal rent list	1
+retrieval algorithms becaus	1
+Q R D	1
+system bees approximation	1
+user 's task	1
+system way	1
+second category	1
+becaus users	1
+specific  Method	1
+weighting parameter	1
+1 range	1
+best hypothesis	1
+combination function	1
+3 features	1
+sensitive Pagerank	1
+particular Doc document query pair	1
+overly simplified case	1
+non relevant document	1
+1 minus	1
+Relevance values	1
+likelihood expression	1
+ranking score	1

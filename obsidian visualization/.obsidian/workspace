@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "2ed30def59dd5f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d651e58dc2dc510",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS_241/Lec-14.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9a9c2b6a02cb335",
+    "type": "split",
+    "children": [
+      {
+        "id": "c935ea7d08107db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3dc51f397b32e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a91b52a54493bdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333
+  },
+  "right": {
+    "id": "e94e646e151004b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9175ece65e7abc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c49deebdf523654",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS_241/Lec-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d651e58dc2dc510",
+  "lastOpenFiles": [
+    "CS_241/Lec-14.md",
+    "CS_241/Lec-11.md",
+    "CS_241/Lec-8.md",
+    "CS_241/Lec-6.md",
+    "CS_241/Lec-4.md",
+    "CS_241/Lec-3.md",
+    "CS_241/Lec-2.md",
+    "README.md",
+    "20220225133933.png",
+    "20220225134136.png"
+  ]
+}
