@@ -409,18 +409,15 @@ def main():
         context_column: str,
         answwer_column: str,
     ):
-    # input: context
-    # target: question
-    # {
-    # "context": "",
-    # "question": [""]
-    # }
+
+        def append_answer(context, answer):
+            return f"answer: {answer} context: {context}"
         questions = examples[question_column]
         contexts = examples[context_column]
         answers = examples[answer_column]  
-        inputs = contexts[]
-        inputs = []
-        targets = [answer["text"][0] if len(answer["text"]) > 0 else "" for answer in answers]
+        
+        inputs = [append_answer(context, answer) for context, answer in zip(contexts, answers)]
+        targets = question
         return inputs, targets
 
 
@@ -554,10 +551,15 @@ def main():
         pad_to_multiple_of=8 if training_args.fp16 else None,
     )
 
-    metric = load_metric("squad_v2" if data_args.version_2_with_negative else "squad")
-
+    metric = load_metric("rouge")
+    # the evaluation script is
+    # https://github.com/huggingface/datasets/blob/2.3.2/metrics/rouge/rouge.py
     def compute_metrics(p: EvalPrediction):
-        return metric.compute(predictions=p.predictions, references=p.label_ids)
+        predictions = [x["prediction_text"] for x in p.predictions]
+        references = [x["question"] for x in p.label_ids]
+        for x in p:
+            predictions.append(x.)
+        return metric.compute(predictions=predictions, references=references)
 
     # Post-processing:
     def post_processing_function(
@@ -587,7 +589,7 @@ def main():
         else:
             formatted_predictions = [{"id": k, "prediction_text": v} for k, v in predictions.items()]
 
-        references = [{"id": ex["id"], "answers": ex[answer_column]} for ex in examples]
+        references = [{"id": ex["id"], "question": ex[question_column]} for ex in examples]
         return EvalPrediction(predictions=formatted_predictions, label_ids=references)
 
     # Initialize our Trainer
