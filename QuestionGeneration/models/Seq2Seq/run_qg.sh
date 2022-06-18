@@ -1,15 +1,19 @@
-python run_seq2seq_qa.py \
-  --model_name_or_path t5-small \
-  --train_file <TODO>\
-  --validataion_file <TODO> \
-  --test_file <TODO> \
+python run_seq2seq_qg.py \
+  --model_name_or_path t5-base \
+  --train_file /Users/mengxiayu/Documents/Research/CaptionMining/QuestionGeneration/data/squad/squad_val.json \
+  --validation_file /Users/mengxiayu/Documents/Research/CaptionMining/QuestionGeneration/data/squad/squad_val.json \
   --context_column context \
   --question_column question \
-  --answer_column answer \
+  --answer_column answers \
+  --do_train \
   --do_eval \
   --per_device_train_batch_size 12 \
   --learning_rate 3e-5 \
   --num_train_epochs 2 \
   --max_seq_length 384 \
-  --doc_stride 128 \
-  --output_dir tmp/debug_seq2seq_squad/
+  --max_answer_length 64 \
+  --generation_max_length 64 \
+  --output_dir tmp/debug_seq2seq_squad \
+  --predict_with_generate \
+  --max_train_samples 200 \
+  --max_eval_samples 200 \

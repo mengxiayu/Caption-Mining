@@ -28,7 +28,7 @@ import datasets
 from datasets import load_dataset, load_metric
 
 import transformers
-from trainer_seq2seq_qa import QuestionAnsweringSeq2SeqTrainer
+from trainer_seq2seq_qg import QuestionAnsweringSeq2SeqTrainer
 from transformers import (
     AutoConfig,
     AutoModelForSeq2SeqLM,
@@ -221,6 +221,7 @@ class DataTrainingArguments:
         ):
             raise ValueError("Need either a dataset name or a training/validation file/test_file.")
         else:
+            
             if self.train_file is not None:
                 extension = self.train_file.split(".")[-1]
                 assert extension in ["csv", "json"], "`train_file` should be a csv or a json file."
@@ -304,14 +305,16 @@ def main():
     if data_args.train_file is not None:
         data_files["train"] = data_args.train_file
         extension = data_args.train_file.split(".")[-1]
-
     if data_args.validation_file is not None:
         data_files["validation"] = data_args.validation_file
         extension = data_args.validation_file.split(".")[-1]
     if data_args.test_file is not None:
         data_files["test"] = data_args.test_file
         extension = data_args.test_file.split(".")[-1]
-    raw_datasets = load_dataset(extension, data_files=data_files, field="data", cache_dir=model_args.cache_dir)
+    raw_datasets = {}
+    for split,df in data_files.items():
+        raw_datasets[split] = load_dataset(extension, data_files={split:df}, split=split)
+    # raw_datasets = load_dataset(extension, data_files=data_files, field="data", cache_dir=model_args.cache_dir)
     # See more about loading any type of standard or custom dataset (from files, python dict, pandas DataFrame, etc) at
     # https://huggingface.co/docs/datasets/loading_datasets.html.
 
@@ -414,16 +417,16 @@ def main():
             return f"answer: {answer} context: {context}"
         questions = examples[question_column]
         contexts = examples[context_column]
-        answers = examples[answer_column]  
+        answers = [a["text"][0] for a in examples[answer_column]]
         
         inputs = [append_answer(context, answer) for context, answer in zip(contexts, answers)]
-        targets = question
+        targets = questions
         return inputs, targets
 
 
 
     def preprocess_function(examples):
-        inputs, targets = preprocess_squad_batch(examples, question_column, context_column, answer_column)
+        inputs, targets = preprocess_cs241_batch(examples, question_column, context_column, answer_column)
 
         model_inputs = tokenizer(inputs, max_length=max_seq_length, padding=padding, truncation=True)
         # Setup the tokenizer for targets
@@ -442,14 +445,13 @@ def main():
 
     # Validation preprocessing
     def preprocess_validation_function(examples):
-        inputs, targets = preprocess_squad_batch(examples, question_column, context_column, answer_column)
+        inputs, targets = preprocess_cs241_batch(examples, question_column, context_column, answer_column)
 
         model_inputs = tokenizer(
             inputs,
             max_length=max_seq_length,
             padding=padding,
             truncation=True,
-            return_overflowing_tokens=True,
             return_offsets_mapping=True,
         )
         # Setup the tokenizer for targets
@@ -458,16 +460,12 @@ def main():
 
         # Since one example might give us several features if it has a long context, we need a map from a feature to
         # its corresponding example. This key gives us just that.
-        sample_mapping = model_inputs.pop("overflow_to_sample_mapping")
 
         # For evaluation, we will need to convert our predictions to substrings of the context, so we keep the
         # corresponding example_id and we will store the offset mappings.
         model_inputs["example_id"] = []
-
         for i in range(len(model_inputs["input_ids"])):
-            # One example can give several spans, this is the index of the example containing this span of text.
-            sample_index = sample_mapping[i]
-            model_inputs["example_id"].append(examples["id"][sample_index])
+            model_inputs["example_id"].append(examples["id"])
 
         # If we are padding here, replace all tokenizer.pad_token_id in the labels by -100 when we want to ignore
         # padding in the loss.
@@ -557,8 +555,7 @@ def main():
     def compute_metrics(p: EvalPrediction):
         predictions = [x["prediction_text"] for x in p.predictions]
         references = [x["question"] for x in p.label_ids]
-        for x in p:
-            predictions.append(x.)
+        # TODO test this
         return metric.compute(predictions=predictions, references=references)
 
     # Post-processing:
