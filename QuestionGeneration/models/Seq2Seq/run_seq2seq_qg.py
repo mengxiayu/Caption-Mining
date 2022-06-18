@@ -555,8 +555,14 @@ def main():
     def compute_metrics(p: EvalPrediction):
         predictions = [x["prediction_text"] for x in p.predictions]
         references = [x["question"] for x in p.label_ids]
-        # TODO test this
-        return metric.compute(predictions=predictions, references=references)
+        metrics = metric.compute(predictions=predictions, references=references) # return AggregateScore.
+        results = {}
+        results['rouge2'] = round(metrics['rouge2'].mid.recall * 100, 2)
+        results['rougeL'] = round(metrics['rougeL'].mid.fmeasure * 100, 3)
+        lengths = [x.count(' ') for x in predictions]
+        results['gen_len'] = sum(lengths)/len(lengths)
+        # We report R2 recall and RL f1. TODO figure out what are low, mid, and high in AggregateScore
+        return results
 
     # Post-processing:
     def post_processing_function(
@@ -569,14 +575,11 @@ def main():
         decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
 
         # Build a map example to its corresponding features.
-        example_id_to_index = {k: i for i, k in enumerate(examples["id"])}
-        feature_per_example = {example_id_to_index[feature["example_id"]]: i for i, feature in enumerate(features)}
         predictions = {}
         # Let's loop over all the examples!
         for example_index, example in enumerate(examples):
             # This is the index of the feature associated to the current example.
-            feature_index = feature_per_example[example_index]
-            predictions[example["id"]] = decoded_preds[feature_index]
+            predictions[example["id"]] = decoded_preds[example_index]
 
         # Format the result to the format the metric expects.
         if data_args.version_2_with_negative:
