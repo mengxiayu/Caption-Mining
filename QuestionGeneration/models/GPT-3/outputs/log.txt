@@ -298,3 +298,145 @@
 }
 2022-05-26 17:18:25,753 [run_qg] [INFO] Loading data...
 2022-05-26 17:18:25,763 [run_qg] [INFO] Querying model...
+2022-07-26 23:08:49,555 [run_qg] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 10,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:08:49,560 [run_qg] [INFO] Loading data...
+2022-07-26 23:08:49,573 [run_qg] [INFO] Querying model...
+2022-07-26 23:25:19,692 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 500,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:25:19,698 [run_qa] [INFO] Loading data...
+2022-07-26 23:25:51,212 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 500,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:25:51,217 [run_qa] [INFO] Loading data...
+2022-07-26 23:45:38,987 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 500,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:45:38,992 [run_qa] [INFO] Loading data...
+2022-07-26 23:45:39,024 [run_qa] [INFO] Querying model...
+2022-07-26 23:46:27,012 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 500,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:46:27,018 [run_qa] [INFO] Loading data...
+2022-07-26 23:46:27,035 [run_qa] [INFO] Querying model...
+2022-07-26 23:46:41,049 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 10,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:46:41,054 [run_qa] [INFO] Loading data...
+2022-07-26 23:46:41,063 [run_qa] [INFO] Querying model...
+2022-07-26 23:50:14,891 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 10,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:50:14,896 [run_qa] [INFO] Loading data...
+2022-07-26 23:50:14,911 [run_qa] [INFO] Querying model...
+2022-07-26 23:51:49,904 [run_qa] [INFO] {
+    "data_dir": "/Users/yirenliu/Programming/NSF_NETTL/Caption-Mining/QuestionGeneration/models/GPT-3/data/CS241",
+    "output_dir": "outputs",
+    "k": 1,
+    "seed": 1234,
+    "sep_tok": ".",
+    "nan_tok": "nan",
+    "model_name": "text-davinci-002",
+    "num_examples": 300,
+    "num_trials": 1,
+    "num_print": 10,
+    "add_task_instruction": false,
+    "dry_run": false,
+    "temperature": 0.5,
+    "max_tokens": 256
+}
+2022-07-26 23:51:49,909 [run_qa] [INFO] Loading data...
+2022-07-26 23:51:49,925 [run_qa] [INFO] Querying model...

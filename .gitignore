@@ -21,3 +21,4 @@ concept_graph_react/concept-graph/src/videos/*
 week01/corpus_corrected.txt
 week01/corpus_original.txt
 week01/nounchunks.txt
+.DS_Store

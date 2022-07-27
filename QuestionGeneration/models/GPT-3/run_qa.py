@@ -7,7 +7,7 @@ from pathlib import Path
 import numpy as np
 from tqdm.auto import tqdm
 
-from utils import setup_logger, read_data_infer_qg
+from utils import setup_logger, read_data_infer_qa
 from openai_client import Client
 
 
@@ -107,27 +107,27 @@ def main():
     logger.info("Loading data...")
 
     # Read datasets
-    contexts = read_data_infer_qg(
+    contexts, questions = read_data_infer_qa(
         data_dir=args.data_dir,
         sep_tok=args.sep_tok,
         nan_tok=args.nan_tok,
     )
     contexts = contexts[: args.num_examples]
+    questions = questions[: args.num_examples]
 
     # construct prompts
-    # Q + A
+    # Q -> A
     task_instruction = """
     I am a highly intelligent question 
-    generation bot. If you give a context text, 
-    I will generate several questions as if I were the teacher. 
-    I will ask questions along with potential answers. 
+    answer bot. If you give a question, 
+    I will generate a potential answer. 
     """
     inputs = []
-    for i, context in enumerate(contexts):
+    for i, question in enumerate(questions):
         # if args.add_task_instruction:
         input = "Task Instruction: " + task_instruction + "\n" +\
-        "Context: \n" + context + "\n" +\
-        "Generated Questions: \nQ: "
+        "Question: \n" + question + "\n" +\
+        "Answer: \n"
         inputs.append(input)
     # print(inputs[0], inputs[1])
 
@@ -160,12 +160,12 @@ def main():
     # print(results)
 
     # dump results to file
-    with open(args.output_dir + "/test_generations.txt", "w") as f:
+    with open(args.output_dir + "/generated_answers.txt", "w") as f:
         for result in results:
             f.write(result + "\n")
 
     # assert False, "Not implemented"
-    
+
 
 if __name__ == "__main__":
     main()

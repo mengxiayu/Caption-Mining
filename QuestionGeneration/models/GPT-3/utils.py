@@ -15,7 +15,7 @@ def setup_logger(log_dir: str):
         handlers=handlers,
     )
 
-def read_data_infer(
+def read_data_infer_qg(
     data_dir: str,
     sep_tok: str = ".",
     nan_tok: str = "nan",
@@ -26,3 +26,16 @@ def read_data_infer(
     data = pd.read_csv(data_path, sep='\t')
     
     return data['sentence'].values
+
+
+def read_data_infer_qa(
+    data_dir: str,
+    sep_tok: str = ".",
+    nan_tok: str = "nan",
+):
+    """Read data for inference."""
+    data_path = Path(data_dir)
+    data_path = data_path / "cs241tb_q.json"
+    data = pd.read_json(data_path, lines=True)
+
+    return data['context'].values, data['question'].values
