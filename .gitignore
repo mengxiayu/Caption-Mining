@@ -22,3 +22,4 @@ week01/corpus_corrected.txt
 week01/corpus_original.txt
 week01/nounchunks.txt
 .DS_Store
+literatureQG/papers/*
