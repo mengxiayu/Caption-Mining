@@ -9,7 +9,7 @@ def main():
             results.append(line.strip())
 
     dicts = []
-    with open("test_generations.jsonl", "w") as f1:
+    with open("generated_answers.jsonl", "w") as f1:
         with open("../data/CS241/cs241tb_q.json", "r") as f2:
             for idx, line in enumerate(f2):
                 data = json.loads(line)
