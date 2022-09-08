@@ -19,9 +19,9 @@ if [ -d "models" ]; then
 else
     MODELS_DIR=${MODELS_DIR:- default_models}
 fi
-MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+MODEL=${MODEL:- ${MODELS_DIR}/CS410}
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-DEFAULT_TRAIN=${DATA_DIR}/EN/DBLP.txt
+DEFAULT_TRAIN=${DATA_DIR}/EN/allcaptions_410-c5-textOnly.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 # When FIRST_RUN is set to 1, AutoPhrase will run all preprocessing. 
 # Otherwise, AutoPhrase directly starts from the current preprocessed data in the tmp/ folder.
