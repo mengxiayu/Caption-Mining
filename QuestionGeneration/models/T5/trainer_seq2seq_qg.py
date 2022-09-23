@@ -71,7 +71,7 @@ class QuestionAnsweringSeq2SeqTrainer(Seq2SeqTrainer):
         if self.post_process_function is not None and self.compute_metrics is not None:
             eval_preds = self.post_process_function(eval_examples, eval_dataset, output)
             metrics = self.compute_metrics(eval_preds)
-            epoch = f"{self.state.epoch:1f}" if self.state.epoch is not None else "final"
+            epoch = f"{self.state.epoch:.1f}" if self.state.epoch is not None else "final"
             with open(os.path.join(self.args.output_dir, f'eval_pred_epoch_{epoch}.json'), 'w') as f:
                 json.dump(eval_preds.predictions, f, indent=4)
             with open(os.path.join(self.args.output_dir, 'eval_references.json'), 'w') as f:
