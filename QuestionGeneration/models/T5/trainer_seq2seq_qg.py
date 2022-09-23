@@ -21,7 +21,8 @@ from torch.utils.data import Dataset
 
 from transformers import Seq2SeqTrainer, is_torch_tpu_available
 from transformers.trainer_utils import PredictionOutput
-
+import os
+import json
 
 if is_torch_tpu_available():
     import torch_xla.core.xla_model as xm
@@ -66,11 +67,15 @@ class QuestionAnsweringSeq2SeqTrainer(Seq2SeqTrainer):
             )
         finally:
             self.compute_metrics = compute_metrics
-
+        
         if self.post_process_function is not None and self.compute_metrics is not None:
             eval_preds = self.post_process_function(eval_examples, eval_dataset, output)
             metrics = self.compute_metrics(eval_preds)
-
+            epoch = f"{self.state.epoch:1f}" if self.state.epoch is not None else "final"
+            with open(os.path.join(self.args.output_dir, f'eval_pred_epoch_{epoch}.json'), 'w') as f:
+                json.dump(eval_preds.predictions, f, indent=4)
+            with open(os.path.join(self.args.output_dir, 'eval_references.json'), 'w') as f:
+                json.dump(eval_preds.label_ids, f, indent=4)
             # Prefix all keys with metric_key_prefix + '_'
             for key in list(metrics.keys()):
                 if not key.startswith(f"{metric_key_prefix}_"):

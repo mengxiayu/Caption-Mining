@@ -406,6 +406,8 @@ def main():
         )
     max_seq_length = min(data_args.max_seq_length, tokenizer.model_max_length)
 
+
+   
     def preprocess_cs241_batch(
         examples,
         question_column: str,
@@ -413,13 +415,11 @@ def main():
         answwer_column: str,
     ):
 
-        def append_answer(context, answer):
-            return f"answer: {answer} context: {context}"
         questions = examples[question_column]
         contexts = examples[context_column]
         answers = [a["text"][0] for a in examples[answer_column]]
         
-        inputs = [append_answer(context, answer) for context, answer in zip(contexts, answers)]
+        inputs = contexts # NOTE this is for answer unaware setting.
         targets = questions
         return inputs, targets
 
