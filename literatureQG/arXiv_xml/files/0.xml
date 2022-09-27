@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Environmental and Social Sustainability of Creative-Ai</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2022-09-26">26 Sep 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Genaichi -Generative</forename><surname>Ai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">KTH Royal Institute of Technology Stockholm</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chi -2022</forename><surname>André</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">KTH Royal Institute of Technology Stockholm</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Petra</forename><surname>Jääskeläinen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">KTH Royal Institute of Technology Stockholm</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Anna-Kaisa</forename><surname>Kaila</surname></persName>
+							<email>akkaila@kth.se</email>
+							<affiliation key="aff1">
+								<orgName type="institution">KTH Royal Institute of Technology Stockholm</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Environmental and Social Sustainability of Creative-Ai</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-09-26">26 Sep 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DECFA797AEEC63713CA5A3C08DA65E2F</idno>
+					<idno type="arXiv">arXiv:2209.12879v1[cs.HC]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2-SNAPSHOT" ident="GROBID" when="2022-09-27T05:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The recent developments of artificial intelligence increase its capability for a creation of arts in both largely autonomous and collaborative contexts. In both contexts, Ai aims to imitate, combine, and extend existing artistic styles, and can transform creative practices. In our ongoing research, we investigate such Creative-Ai from sustainability and ethical perspectives. The two main focus areas are understanding the environmental sustainability aspects (material, practices) in the context of artistic processes that involve Creative-Ai, and ethical issues related to who gets to be involved in the creation process (power, authorship, ownership). This paper provides an outline of our ongoing research in these two directions. We will present our interdisciplinary approach, which combines interviews, workshops, online ethnography, and energy measurements, to address our research questions: How is Creative-Ai currently used by artist communities, and which future applications do artists imagine? When Ai is applied to creating art, how might it impact the economy and environment? And, how can answers to these questions guide requirements for intellectual property regimes for Creative-Ai?</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INTRODUCTION</head><p>Recent development in artificial intelligence extends the possibilities for digital art industries beyond reproduction and distribution: Ai 1 facilitates the commodification of automated creation of arts that aims at imitating, combining, and extending existing artistic styles (Creative-Ai), with a potential to transform the creative practices. This has major implications for artistic practice and society in general. We focus on studying these implications through questions, such as: how is creative-Ai currently used by creative communities, and what can guide the ethical practices for the design and use Creative-Ai? We study these questions through mixed-methods research that combines ethnography, digital methods, sustainability assessment, and recent human-computer interaction approaches (such as design fiction, diary studies, RtD-approaches to develop design tool-kits and heuristics for value-sensitive design) with a critical method. These studies will, then, motivate new approaches for the development of alternative directions for environmentally sustainable Creative-Ai, in which our research outcomes are expected to form ethical guidelines, theoretical knowledge, and material prototypes. We see these research directions fitting with the discussions of this workshop, as our research directly contributes to the ethics and sustainability discussions within the Generative Ai research community.</p><p>In this workshop application, we outline our ongoing research in the context of our recently initiated project, and raise questions that we are currently exploring and would like to bring into the workshop discussions. The two main focus areas of our current works-in-progress are 1) environmental sustainability (material, practices) in the context of Ai arts and 2) ethical issues related to who is involved in the creation process (power, authorship, ownership). These two areas represent the core subjects of two individual PhD projects, respectively, and they are represented by the two PhD students co-authoring this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. ENVIRONMENTAL SUSTAINABILITY PERSPECTIVES ON CREATIVE-AI: MATERIAL, PRACTICES</head><p>Our main research directions related to environmental sustainability are to analyze the environmental impact of various Creative-Ai technologies and practices, and to use the outcome of the analysis to inform the design and use of Creative-Ai technologies. The environmental impact of Ai technologies without the contextualization of creative processes has been discussed by previous research <ref type="bibr" target="#b0">[1]</ref>- <ref type="bibr" target="#b5">[5]</ref>, with energy use and CO 2 emissions being analyzed by <ref type="bibr" target="#b2">[2]</ref>- <ref type="bibr" target="#b5">[5]</ref>. Strubell et al. <ref type="bibr" target="#b2">[2]</ref> have proposed energy and policy considerations for deep learning in general and Natural Language Processing (NLP) in particular. Others <ref type="bibr" target="#b3">[3]</ref>, <ref type="bibr" target="#b4">[4]</ref> have instead focused on the impact of Ai on carbon emissions, for instance by estimating the carbon impact of different Graphics Processing Units (GPUs) <ref type="bibr" target="#b3">[3]</ref>. However, none of the prior sustainability research specifically focuses on the use of Ai tools by the creative industries, nor on the context of art produced using Ai as a tool. Referring to the latter as Ai art, we have argued in a recently submitted paper that the environmental footprint of Ai art needs to be studied to understand the environmental impact of the related artistic practices. Creative work processes are likely to differ from other Ai application areas, and the context of use should be understood so that we can develop approaches for more sustainable and ethical design and use of these Creative-Ai technologies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Environmental impact of the current Creative-Ai practices</head><p>We conducted an online study aiming to understand how various creative practitioners use Creative-Ai in their practices. Our study revealed that some of the artists use massive datasets for training the Ai. For instance, <ref type="bibr" target="#b6">[6]</ref> was using 45 terabytes of data -587,763 image files, 1,880 video files, 1,483 metadata files, and 17,773 audio files equivalent of 40,000 hours of audio. Other artists collaborate with embodied Ai <ref type="bibr" target="#b7">[7]</ref> in creation of the artworks. Regarding such human-Ai interaction within the Ai artistic practice, we should keep in mind that Ai materials are not necessarily static materials. Therefore, we have to not only account for the practice and agency of the artist, but potentially have to consider the agency of the Ai technology. This emerging interaction between these two agents necessitates a sustainability assessment that takes into account both material and process. Our insights gained so far imply that Ai materials are often used in the ideation, actualization and display phases of a creative process, following the process model proposed by <ref type="bibr" target="#b8">[8]</ref>. In the ideation phase, several artists seem to use Ai generators for inspiration and for helping ideas to emerge. In later stages like actualization, Ai is used by many artists to create the artwork itself. The Ai technologies can also be entangled with the display of the artwork: some artists are generating interactive artworks in real-time together with the audience or environments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Understanding the environmental impact of Creative-Ai technologies</head><p>We have measured energy usage in different kinds of running environments for VQGAN+Clip <ref type="bibr" target="#b9">[9]</ref>, <ref type="bibr" target="#b10">[10]</ref>, as a popular generative art tool applied by many practitioners, and provided initial figures for these measurements in our paper that is currently under peer review. We are also currently expanding our mapping of the energy consumption on different kinds of devices and other algorithms/tools used by the creative communities (for example Google Magenta). These insights can help us to understand what ways of using the Creative-Ai technologies have high or low environmental impacts, and informs us how to design these technologies in the future. It will also inform the design of guidelines and toolkits for Creative-Ai practitioners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. Design implications on system architecture</head><p>One example of sustainability informed design is the design of latent spaces that serve the needs of the creative practitioners, but have minimal energy impact in terms of computation. We initiated a collaboration with another research group to explore the latent spaces of GAN algorithms for sound synthesis <ref type="bibr" target="#b11">[11]</ref>. We expect that the results of this study will help us not to only understand the energy consumption and environmental impact of the AI algorithm development process, but will also shed light on the fidelity and accuracy required from these technologies in artistic practices. To the best of our knowledge, there is no prior research that combines sustainability assessment with the development of Ai technology for artistic purposes, and that conducts this development in close interaction with artists. We hope to be able to arrive a better understanding of the needs and demands by artists by conducting the described project.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>D. Design implications on user interaction</head><p>We also plan to explore the design of various Creative-Ai systems from a UX perspective, aiming to understand what kind of information is represented in the user interface to the users, and what kinds of interactions take place between the user and the system. Potential directions for future explorations are how to facilitate more sustainable ways of working with Ai in creative communities. Our question in this context is if a system can guide the users in terms of energy consumption, provide information of the energy consumption of their creative process, and potentially influence the creative process to reduce energy consumption. In either case, these design studies need to be rooted in the needs of the creative practitioners and artists, which is why in the beginning phases of the research we focus particularly on understanding these current practices and engaging in collaboration and discussions with creative practitioners to develop understanding of their needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>E. Emerging Ai art ecosystem</head><p>Sustainability issues are also related to the commercialization of Ai art. These include, for example, the use of emerging technologies such as blockchain, cryptocurrencies, and Nonfungible tokens (NFTs). An increasing number of Ai artists are exploring innovative high-tech pathways for selling their artworks -which in their turn will have environmental impacts. New initiatives emerge such as a "fair trade" art certificate that is offered to artists who use NFT's and cryptocurrencies for their works. These certificates indicate that a work of art has been produced in a socially sustainable manner, but currently there are no environmental sustainability certificates for Ai art. These initiatives and technologies are constituent factors as Ai art markets emerge. Since the value of art is cocreated in society, the participating members determine what is considered valuable and appreciated, and in turn is in the focus of consumption. Ai art(s) shape new markets, which have the potential to introduce an additional environmental footprint through energy-heavy blockchain, cryptocurrencies, and NFT technologies. We have pointed this out in our latest study, and we intend to conduct further studies on environmental sustainability of Ai art markets based on such technologies. III. SOCIAL SUSTAINABILITY CONSIDERATIONS OF CREATIVE-AI: POWER, AUTHORSHIP, OWNERSHIP Issues of power, control and ownership are entangled with Creative-Ai in several ways. In the midst of increasingly large networks of actors involved in the process of designing, implementing, training and maintaining the systems, the entire concept of authorship is becoming rather a collective than individual phenomenon. As some Ai systems gradually become more independent, the distinction between human and non-human as a creative agent starts to blur, which makes the situation more complicated both legally and ethically.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Conjuction of law and ethics with creative Ai</head><p>Collective and fluid definitions of authorship are in stark contrast with the legal framework of exclusive intellectual property rights. The outputs of the Creative-Ai system may under most copyright regimes be protected if and only if the human fingerprint of individual human author(s) in the resulting work can be identified, and the threshold criteria of originality is satisfied <ref type="bibr" target="#b12">[12]</ref>. For many, if not the majority of Ai-created works, it is an open question whether such criteria of legal protection can be fulfilled <ref type="bibr" target="#b13">[13]</ref>.</p><p>Equally critical aspect is the data used as training material to shape an Ai model. Data mining legislation with regard to copyrighted works is relatively relaxed in the US, in certain Asian countries, and to a somewhat lesser extent in the EU. Yet, irrespective of the question whether or not the data used in the training was copyright-protected or in the public domain and therefore technically free for anyone to use, the data use itself can have serious neocolonialist implications for the creative communities that have contributed to this cultural corpus <ref type="bibr" target="#b14">[14]</ref>. Furthermore, such communities may be in more precarious positions than the system developers, with little or no voice to raise against unwarranted and potentially culturally insensitive uses of their works <ref type="bibr" target="#b15">[15]</ref>. This illustrates the need for a sincere conversation of ethical issues related to the use of data in Creative-Ai. For this end, we are currently preparing a series of interviews and interactive workshops with Nordic Ai artists, exploring their encounters with these complex issues and their visions of what forms the future of ethically sustainable creative Ai could take. These observations of artistic processes will also provide empirical ground to inform the shaping of ethical guidelines for the field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Shortcomings of current ethics guidelines for Ai</head><p>In the past decade, there has been a surge in the development of ethical frameworks that seek to identify central ethical themes relevant for general Ai use and development <ref type="bibr" target="#b16">[16]</ref>. As of the latest update in April 2020, AI Ethics Guidelines Global Inventory alone lists 173 guidelines or principles developed by various governmental entities, NGOs or private companies <ref type="bibr" target="#b17">[17]</ref>. One prominent example is the Guidelines for Trustworthy AI by European Commission's independent High-Level Expert Group on AI <ref type="bibr" target="#b18">[18]</ref>.</p><p>As noted by several authors ( <ref type="bibr" target="#b19">[19]</ref>, <ref type="bibr" target="#b20">[20]</ref>) and the AI HLEG themselves <ref type="bibr" target="#b21">[21]</ref>, the problem with these original frameworks was that they approach ethics from such a high conceptual level that they are unpractical for the creative professionals. As a solution to this problem, there is a growing need of applied ethics tools that would be more readily approachable in the development pipeline and more accessible for users with limited prior knowledge of ethics. There have been some attempts to address this need by translating the abstract ethics framework principles into a series of questions or discussion prompts. Some of the established approaches include the Open Data Institute's Data Ethics Canvas [22] and the Ethical Toolkit for Engineering/Design Practice <ref type="bibr" target="#b22">[23]</ref>, both of which take the approach of posing the development team an extended set of questions to elicit or expose issues of ethical relevance. More recent suggestions, such as the Data Ethics Decision Aid (DEDA) <ref type="bibr" target="#b23">[24]</ref>, the Ethical Matrix <ref type="bibr" target="#b24">[25]</ref> and the ECCOLA Ai ethics card game <ref type="bibr" target="#b25">[26]</ref> distance themselves from what could be criticised as check-box ethics and aim instead towards more interactive analysis processes that encourage dialogue among participants. This could take the form of an elaborate workshop of exploring the ethics themes relevant for the project at hand, possibly facilitated by the tool providers as a paid service.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. Prototypes for ethics-informed stakeholder analysis</head><p>To address these issues from a pragmatic perspective, we are currently developing applied approaches that aim to help designers and developers explore the ethical and societal implications of their work with the focus specifically on the people directly and indirectly impacted. This is in line with the patiency-led ethics approach <ref type="bibr" target="#b26">[27]</ref>. The focus of such work will be on tools or processes that are easily accessible both in terms of (free) platforms and structurally so that the team may also carry out the analysis without an external facilitator.</p><p>The first prototype of such an approach was tested at the International Society for Music Information Retrieval Conference in 2021. Our ethics-informed stakeholder analysis starts with a collective brainstorming of various stakeholders that could be relevant for the scenario at hand on the Mentimeter platform 2 . The participants then individually evaluate the identified stakeholders against one another on the axes of power and authorship, respectively. Combining these two planes of information, the stakeholders are mapped on a 2x2 matrix such that disparities of the power distribution between the stakeholder groups becomes more apparent. Finally, this matrix is used as a basis for discussing concrete action points that can be taken to alleviate the effects of power imbalances and make the design processes more diversely inclusive. This process will be further developed and tested in workshops planned for the early spring 2022. Some of the aspects under scrutiny include the axes of the analysis matrix and the question of how the specific ethics perspectives may be best integrated into the process. For example, the concept of 'authorship', which seemed to cause some confusion among the initial participants, could be replaced with the axis of 'interest', as used in the more traditional stakeholder analysis, which will change the nature of the task to a certain degree. Furthermore, in the next prototypes, the ethics perspectives will be more closely integrated into the analysis through the use of a limited number of focused question prompts that aim to widen the participants' brainstorming on who might be impacted by the development and use of creative Ai systems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. SUMMARY</head><p>Here, we have covered the directions of our on-going research within the domains of environmentally and socially sustainable Creative-Ai. For environmental sustainability these have included case studies on the process of Creative-Ai practices, quantifying the energy impact of the technologies used by creative practitioners, potential user-centered design implications for the system architecture and the user experience, and studies of the emerging Creative-Ai and Ai Arts ecosystems. For social sustainability, our research directions focus on the need to better understand the particularities of the artistic creation processes with Ai, as well as the practically motivated issue of stakeholder analysis. This way, we hope to close a gap between existing ethical frameworks and their actual implementation within creative communities and Creative-Ai developers.</p><p>These research directions are of immediate relevance in the context of generative Ai, and with this workshop application we wish to participate in discussions and knowledge-exchange with researchers who work with generative Ai in various application contexts. We believe, that our research can enrich the research community's discussions on ethics and sustainability, and that we can learn from the specific challenges that researchers and practitioners in Generative-Ai community are encountering.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Ai artwork of one of the artists we studied</figDesc><graphic coords="2,58.83,305.26,231.33,129.17" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1">The "i" is lowercase in Ai to emphasize the fact that the intelligence of current systems is quite different from human intelligence and has not yet reached a level of AGI (artificial general intelligence)</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2">https://www.mentimeter.com/</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Green AI</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Etzioni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications of the ACM</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="54" to="63" />
+			<date type="published" when="2020-11">Nov. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1145/3381831</idno>
+		<ptr target="https://doi.org/10.1145/3381831" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Energy and Policy Considerations for Deep Learning in NLP</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Strubell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ganesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mccallum</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1906.02243[cs</idno>
+		<idno>arXiv: 1906.02243</idno>
+		<ptr target="http://arxiv.org/abs/1906.02243" />
+		<imprint>
+			<date type="published" when="2019-06">Jun. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Quantifying the Carbon Emissions of Machine Learning</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lacoste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Luccioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dandres</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1910.09700[cs</idno>
+		<idno>arXiv: 1910.09700</idno>
+		<ptr target="http://arxiv.org/abs/1910.09700" />
+		<imprint>
+			<date type="published" when="2019-11">Nov. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The carbon impact of artificial intelligence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Machine Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="423" to="425" />
+			<date type="published" when="2020-08">Aug. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Unraveling the hidden environmental impacts of AI solutions for environment</title>
+		<author>
+			<persName><forename type="first">A.-L</forename><surname>Ligozat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lefèvre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bugeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Combaz</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2110.11822[cs</idno>
+		<idno>arXiv: 2110.11822</idno>
+		<imprint>
+			<date type="published" when="2021-10">Oct. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Refikanadol</surname></persName>
+		</author>
+		<ptr target="https://refikanadol.com/works/wdch-dreams/" />
+		<imprint>
+			<date type="published" when="2021-11-01">1 Nov. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Sougwen chung</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chung</surname></persName>
+		</author>
+		<ptr target="https://sougwen.com/project/exquisite-corpus" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">What are the stages of the creative process? what visual art students are saying</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Botella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zenasni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lubart</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2018.02266</idno>
+		<ptr target="https://www.frontiersin.org/article/10.3389/fpsyg.2018.02266" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">2266</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Taming transformers for highresolution image synthesis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Esser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rombach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ommer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</title>
+				<meeting>the IEEE/CVF Conference on Computer Vision and Pattern Recognition</meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Learning transferable visual models from natural language supervision</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hallacy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sastry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Askell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mishkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2103.00020</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ganspacesynth: A hybrid generative adversarial network architecture for organising the latent space using a dimensionality reduction for real-time audio synthesis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tahirȏglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kastemaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Koli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conference on AI Music Creativity</title>
+				<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Authors and Machines</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ginsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Budiardjo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Berkeley Technology Law Journal</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Copyright, compensation, and commons in the music AI industry</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Drott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Creative Industries Journal</title>
+		<imprint>
+			<date type="published" when="2020-10">Oct. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Where does the buck stop? Ethical and political issues with AI in music creation</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Morreale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the International Society for Music Information Retrieval</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">De-centering the West: East Asian philosophies and the ethics of applying artificial intelligence to music</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L T</forename><surname>Sturm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Holzapfel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 22nd International Society for Music Information Retrieval Conference</title>
+				<meeting>the 22nd International Society for Music Information Retrieval Conference</meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The global landscape of AI ethics guidelines</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ienca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vayena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Machine Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">AI Ethics Guidelines Global Inventory</title>
+		<ptr target="https://inventory.algorithmwatch.org/" />
+		<imprint/>
+	</monogr>
+	<note>Algorithm Watch</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<ptr target="https://digital-strategy.ec.europa.eu/en/node/1950/printable/pdf" />
+		<title level="m">High-Level Expert Group on Artificial Intelligence (AI HLEG)</title>
+				<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Ethics guidelines for trustworthy AI</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Putting AI ethics to work: are the tools fit for purpose?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ayling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chapman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AI and Ethics</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">From what to how: An initial review of publicly available AI ethics tools, methods and research to translate principles into practice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Morley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Floridi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kinsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elhalal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science and Engineering Ethics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m">High-Level Expert Group on Artificial Intelligence (AI HLEG)</title>
+				<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>Assessment list for Trustworthy AI (ALTAI)</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ethics in technology practice</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vallor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Raicu</surname></persName>
+		</author>
+		<ptr target="https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/" />
+	</analytic>
+	<monogr>
+		<title level="m">The Markkula Center for Applied Ethics</title>
+				<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>at Santa Clara University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Data Ethics Decision Aid (DEDA): a dialogical framework for ethical inquiry of AI and data projects in the Netherlands</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Franzke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Muis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schäfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics and Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Near-Term Artificial Intelligence and the Ethical Matrix</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>O'neil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ethics of Artificial Intelligence</title>
+				<editor>
+			<persName><forename type="first">S</forename><forename type="middle">M E</forename><surname>Liao</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">ECCOLA: a method for implementing ethically aligned AI systems</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vakkuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-K</forename><surname>Kemell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jantunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Halme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Abrahamsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Systems and Software</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Artificial intelligence, responsibility attribution, and a relational justification of explainability</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coeckelbergh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science and Engineering Ethics</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2020-08">Aug. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
