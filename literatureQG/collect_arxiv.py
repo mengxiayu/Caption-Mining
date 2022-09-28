@@ -1,11 +1,12 @@
 import urllib.request as libreq
 import feedparser
+import time
 
 import glob
 
 from tqdm import tqdm
 
-from doc2json.grobid2json.tei_to_json import convert_tei_xml_file_to_s2orc_json
+# from doc2json.grobid2json.tei_to_json import convert_tei_xml_file_to_s2orc_json
 
 from bs4 import BeautifulSoup
 
@@ -13,12 +14,13 @@ import scipdf
 
 import json
 
-MINIITER = 100
+MINITERS = 100
 
 def main():
     print("Collecting paper urls...")
     pdfLinks = []
-    for i in tqdm(range(6)):
+    idxs = []
+    for i in tqdm(range(4, 6)):
         query = f"https://export.arxiv.org/api/query?search_query=cat:cs.HC&start={i*2000}&max_results=2000&sortBy=lastUpdatedDate&sortOrder=descending"
         print("Querying: ", query)
         with libreq.urlopen(query) as url:
@@ -33,7 +35,7 @@ def main():
         print('Total results for this query: %s' % len(feed.entries))
 
 
-        for entry in feed.entries:
+        for ii, entry in enumerate(feed.entries):
             # get the links to the abs page and pdf for this e-print
             for link in entry.links:
                 if link.rel == 'alternate':
@@ -43,13 +45,20 @@ def main():
                 elif link.title == 'pdf':
                     # print('pdf link: %s' % link.href)
                     pdfLinks.append(link.href)
-        
+                    idxs.append(ii + i*2000)
+    
+    
 
     print("Parsing pdfs...")
     print("Total pdfs: ", len(pdfLinks))
+    # STARTFROM = 7604
+    # STARTFROM = 8803
+    STARTFROM = 8821
     dPapers = []
     indexFile = open('./arXiv_xml/index.txt', 'w', encoding='utf-8')
-    for idx, l in enumerate(tqdm(pdfLinks[:3], desc="Parsing pdfs", MINIITER=MINIITER)):
+    for i, l in enumerate(tqdm(pdfLinks, desc=f"Parsing pdfs", miniters=MINITERS)):
+        idx = idxs[i]
+        if idx < STARTFROM: continue
         try:
             xmlText = scipdf.parse_pdf(l + '.pdf', soup=False)
             # dump each xml file to disk
@@ -58,23 +67,24 @@ def main():
             # write the index file
             indexFile.write(f'{idx}\t{l}\n')
 
-            # convert xml to soup
-            try:
-                parsed_article = BeautifulSoup(xmlText, "lxml")
-                dPapers.append(
-                    scipdf.convert_article_soup_to_dict(parsed_article, as_list=False)
-                )
-            except:
-                dPapers.append("")
+            # # convert xml to soup
+            # try:
+            #     parsed_article = BeautifulSoup(xmlText, "lxml")
+            #     dPapers.append(
+            #         scipdf.convert_article_soup_to_dict(parsed_article, as_list=False)
+            #     )
+            # except:
+            #     dPapers.append("")
         except Exception as e:
             print(e)
             dPapers.append("")
+        time.sleep(5)
     indexFile.close()
 
-    # dump dPapers to jsonl
-    with open('arxiv_HCI_all.jsonl', 'w') as f:
-        for d in dPapers:
-            if d: f.write(json.dumps(d) + '\n')
+    # # dump dPapers to jsonl
+    # with open('arxiv_HCI_all.jsonl', 'w') as f:
+    #     for d in dPapers:
+    #         if d: f.write(json.dumps(d) + '\n')
 
 if __name__ == "__main__":
     main()
